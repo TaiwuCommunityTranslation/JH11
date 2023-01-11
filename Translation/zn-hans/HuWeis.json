@@ -1,0 +1,959 @@
+[
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_TaiShanPai_0000000001"
+    ],
+    "BattleName": [
+      "泰山护卫"
+    ],
+    "BattleMenPai": [
+      "泰山派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_CaoLang_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
+    ],
+    "BattleName": [
+      "金宗护卫"
+    ],
+    "BattleMenPai": [
+      "无门无派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_WuYanShu_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_QingWangSi_0000000001"
+    ],
+    "BattleName": [
+      "青王护卫"
+    ],
+    "BattleMenPai": [
+      "青王寺"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_HuaRuiFuRen_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_TianZunJiao_0000000001"
+    ],
+    "BattleName": [
+      "天尊护卫"
+    ],
+    "BattleMenPai": [
+      "天尊教"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_LiNianNu_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
+    ],
+    "BattleName": [
+      "银宗护卫"
+    ],
+    "BattleMenPai": [
+      "无门无派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_QinCao_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
+    ],
+    "BattleName": [
+      "银宗护卫"
+    ],
+    "BattleMenPai": [
+      "无门无派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_WangZhaoYun_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
+    ],
+    "BattleName": [
+      "金宗护卫"
+    ],
+    "BattleMenPai": [
+      "无门无派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_ZhaoXiangXiang_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
+    ],
+    "BattleName": [
+      "银宗护卫"
+    ],
+    "BattleMenPai": [
+      "无门无派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_XieYuYing_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
+    ],
+    "BattleName": [
+      "银宗护卫"
+    ],
+    "BattleMenPai": [
+      "无门无派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_YanRui_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
+    ],
+    "BattleName": [
+      "金宗护卫"
+    ],
+    "BattleMenPai": [
+      "无门无派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_LiShiShi_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_QuanZhenJiao_0000000001"
+    ],
+    "BattleName": [
+      "全真护卫"
+    ],
+    "BattleMenPai": [
+      "全真教"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_OuYangXiu_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
+    ],
+    "BattleName": [
+      "银宗护卫"
+    ],
+    "BattleMenPai": [
+      "无门无派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_SuShi_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
+    ],
+    "BattleName": [
+      "银宗护卫"
+    ],
+    "BattleMenPai": [
+      "无门无派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_FanZhongYan_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
+    ],
+    "BattleName": [
+      "金宗护卫"
+    ],
+    "BattleMenPai": [
+      "无门无派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_WangAnShi_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
+    ],
+    "BattleName": [
+      "银宗护卫"
+    ],
+    "BattleMenPai": [
+      "无门无派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_ZhangZeDuan_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
+    ],
+    "BattleName": [
+      "银宗护卫"
+    ],
+    "BattleMenPai": [
+      "无门无派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_SiMaGuang_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_NanYangQuanZhuang_0000000001"
+    ],
+    "BattleName": [
+      "南阳护卫"
+    ],
+    "BattleMenPai": [
+      "南阳拳庄"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_ZhuGeLi_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
+    ],
+    "BattleName": [
+      "银宗护卫"
+    ],
+    "BattleMenPai": [
+      "无门无派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_MiaoYiFang_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_0000000001"
+    ],
+    "BattleName": [
+      "铜宗护卫"
+    ],
+    "BattleMenPai": [
+      "无门无派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_LiuShan_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_TaiShanPai_0000000001"
+    ],
+    "BattleName": [
+      "泰山护卫"
+    ],
+    "BattleMenPai": [
+      "泰山派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_ZhangHou_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
+    ],
+    "BattleName": [
+      "银宗护卫"
+    ],
+    "BattleMenPai": [
+      "无门无派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_WangZong_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_GaiBang_0000000001"
+    ],
+    "BattleName": [
+      "丐帮护卫"
+    ],
+    "BattleMenPai": [
+      "丐帮"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_CaiChengAn_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
+    ],
+    "BattleName": [
+      "金宗护卫"
+    ],
+    "BattleMenPai": [
+      "无门无派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_TianLongYu_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      100.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
+    ],
+    "BattleName": [
+      "绝宗护卫"
+    ],
+    "BattleMenPai": [
+      "无门无派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_XiaHouFuJia_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
+    ],
+    "BattleName": [
+      "银宗护卫"
+    ],
+    "BattleMenPai": [
+      "无门无派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_MuNing_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
+    ],
+    "BattleName": [
+      "金宗护卫"
+    ],
+    "BattleMenPai": [
+      "无门无派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_HuangFeiBai_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
+    ],
+    "BattleName": [
+      "银宗护卫"
+    ],
+    "BattleMenPai": [
+      "无门无派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_XuYinYao_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
+    ],
+    "BattleName": [
+      "银宗护卫"
+    ],
+    "BattleMenPai": [
+      "无门无派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_BaoHongTu_000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      100.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_0000000001"
+    ],
+    "BattleName": [
+      "铜宗护卫"
+    ],
+    "BattleMenPai": [
+      "无门无派"
+    ],
+    "MemberCount": 1,
+    "ID": "HuWei_PuXiShangRen_000001",
+    "HashID": 0,
+    "Class": null
+  }
+]

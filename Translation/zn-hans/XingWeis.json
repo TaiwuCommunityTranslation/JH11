@@ -1,0 +1,1418 @@
+[
+  {
+    "Name": {
+      "ID": "XingWeiName_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": null,
+      "ValueInfo": "激骂"
+    },
+    "XingWeiType": {
+      "ID": "XingWeiType_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": 0,
+      "ValueInfo": null
+    },
+    "XingWeiIcon": {
+      "ID": "XingWeiIcon_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": "UI/HDXWIcon/JM001",
+      "ValueInfo": null
+    },
+    "XingWeiDes": {
+      "ID": "XingWeiDes_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": "自己心态值少量减少，对方心态值大量减少",
+      "ValueInfo": null
+    },
+    "LengQueHuiHe": {
+      "ID": "LengQueHuiHe_0000000002",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": 1,
+      "ValueInfo": null
+    },
+    "YouLieXianZhi": {
+      "ChuJing": {
+        "ID": "ChuJing_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 3,
+        "ValueInfo": null
+      },
+      "KeYongDengJi": {
+        "ID": "KeYongDengJi_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 0,
+        "ValueInfo": null
+      }
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {
+        "ID": "XinTaiYingXiangJiFang_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": -3,
+        "ValueInfo": null
+      },
+      "DuiFang": {
+        "ID": "XinTaiYingXiangDuiFang_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": -6,
+        "ValueInfo": null
+      }
+    },
+    "QiTaYingXiang": {
+      "ID": "QiTaYingXiang_0000000001",
+      "Values": [
+        {
+          "ID": "ShiQuLengJing_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 0,
+            "ValueInfo": "冷静失效"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "让对方的冷静行为失效",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "WuShiYiLi_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 1,
+            "ValueInfo": "无视义理"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "无视对方义理对自己造成的影响",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "WuShiJiMa_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 2,
+            "ValueInfo": "无视激骂"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "无视对方激骂对自己造成的影响",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "QuanXiang_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 3,
+            "ValueInfo": "劝对方投降"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "劝对方投降",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "TouXiang_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 4,
+            "ValueInfo": "向对方投降"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "向对方投降",
+            "ValueInfo": null
+          }
+        }
+      ]
+    },
+    "ID": "JiMaXingWei_000000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Name": {
+      "ID": "XingWeiName_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": null,
+      "ValueInfo": "示弱"
+    },
+    "XingWeiType": {
+      "ID": "XingWeiType_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": 1,
+      "ValueInfo": null
+    },
+    "XingWeiIcon": {
+      "ID": "XingWeiIcon_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": "UI/HDXWIcon/SR001",
+      "ValueInfo": null
+    },
+    "XingWeiDes": {
+      "ID": "XingWeiDes_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": "自己心态值少量增加 对方的心态值少量增加",
+      "ValueInfo": null
+    },
+    "LengQueHuiHe": {
+      "ID": "LengQueHuiHe_0000000002",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": 1,
+      "ValueInfo": null
+    },
+    "YouLieXianZhi": {
+      "ChuJing": {
+        "ID": "ChuJing_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 1,
+        "ValueInfo": null
+      },
+      "KeYongDengJi": {
+        "ID": "KeYongDengJi_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 1,
+        "ValueInfo": null
+      }
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {
+        "ID": "XinTaiYingXiangJiFang_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 2,
+        "ValueInfo": null
+      },
+      "DuiFang": {
+        "ID": "XinTaiYingXiangDuiFang_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 4,
+        "ValueInfo": null
+      }
+    },
+    "QiTaYingXiang": {
+      "ID": "QiTaYingXiang_0000000001",
+      "Values": [
+        {
+          "ID": "ShiQuLengJing_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 0,
+            "ValueInfo": "冷静失效"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "让对方的冷静行为失效",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "WuShiYiLi_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 1,
+            "ValueInfo": "无视义理"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "无视对方义理对自己造成的影响",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "WuShiJiMa_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 2,
+            "ValueInfo": "无视激骂"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "无视对方激骂对自己造成的影响",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "QuanXiang_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 3,
+            "ValueInfo": "劝对方投降"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "劝对方投降",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "TouXiang_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 4,
+            "ValueInfo": "向对方投降"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "向对方投降",
+            "ValueInfo": null
+          }
+        }
+      ]
+    },
+    "ID": "ShiRuoXingWei_000000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Name": {
+      "ID": "XingWeiName_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": null,
+      "ValueInfo": "挑衅"
+    },
+    "XingWeiType": {
+      "ID": "XingWeiType_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": 2,
+      "ValueInfo": null
+    },
+    "XingWeiIcon": {
+      "ID": "XingWeiIcon_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": "UI/HDXWIcon/TiaoXin001",
+      "ValueInfo": null
+    },
+    "XingWeiDes": {
+      "ID": "XingWeiDes_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": "让对方的冷静失效",
+      "ValueInfo": null
+    },
+    "LengQueHuiHe": {
+      "ID": "LengQueHuiHe_0000000002",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": 1,
+      "ValueInfo": null
+    },
+    "YouLieXianZhi": {
+      "ChuJing": {
+        "ID": "ChuJing_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 3,
+        "ValueInfo": null
+      },
+      "KeYongDengJi": {
+        "ID": "KeYongDengJi_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 0,
+        "ValueInfo": null
+      }
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {
+        "ID": "XinTaiYingXiangJiFang_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 0,
+        "ValueInfo": null
+      },
+      "DuiFang": {
+        "ID": "XinTaiYingXiangDuiFang_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 0,
+        "ValueInfo": null
+      }
+    },
+    "QiTaYingXiang": {
+      "ID": "QiTaYingXiang_0000000001",
+      "Values": [
+        {
+          "ID": "ShiQuLengJing_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 0,
+            "ValueInfo": "冷静失效"
+          },
+          "Enable": true,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "让对方的冷静行为失效",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "WuShiYiLi_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 1,
+            "ValueInfo": "无视义理"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "无视对方义理对自己造成的影响",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "WuShiJiMa_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 2,
+            "ValueInfo": "无视激骂"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "无视对方激骂对自己造成的影响",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "QuanXiang_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 3,
+            "ValueInfo": "劝对方投降"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "劝对方投降",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "TouXiang_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 4,
+            "ValueInfo": "向对方投降"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "向对方投降",
+            "ValueInfo": null
+          }
+        }
+      ]
+    },
+    "ID": "TiaoXinXingWei_000000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Name": {
+      "ID": "XingWeiName_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": null,
+      "ValueInfo": "冷静"
+    },
+    "XingWeiType": {
+      "ID": "XingWeiType_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": 3,
+      "ValueInfo": null
+    },
+    "XingWeiIcon": {
+      "ID": "XingWeiIcon_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": "UI/HDXWIcon/LJ001",
+      "ValueInfo": null
+    },
+    "XingWeiDes": {
+      "ID": "XingWeiDes_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": "大量增加自己的心态值",
+      "ValueInfo": null
+    },
+    "LengQueHuiHe": {
+      "ID": "LengQueHuiHe_0000000002",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": 2,
+      "ValueInfo": null
+    },
+    "YouLieXianZhi": {
+      "ChuJing": {
+        "ID": "ChuJing_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 3,
+        "ValueInfo": null
+      },
+      "KeYongDengJi": {
+        "ID": "KeYongDengJi_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 0,
+        "ValueInfo": null
+      }
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {
+        "ID": "XinTaiYingXiangJiFang_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 6,
+        "ValueInfo": null
+      },
+      "DuiFang": {
+        "ID": "XinTaiYingXiangDuiFang_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 0,
+        "ValueInfo": null
+      }
+    },
+    "QiTaYingXiang": {
+      "ID": "QiTaYingXiang_0000000001",
+      "Values": [
+        {
+          "ID": "ShiQuLengJing_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 0,
+            "ValueInfo": "冷静失效"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "让对方的冷静行为失效",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "WuShiYiLi_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 1,
+            "ValueInfo": "无视义理"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "无视对方义理对自己造成的影响",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "WuShiJiMa_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 2,
+            "ValueInfo": "无视激骂"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "无视对方激骂对自己造成的影响",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "QuanXiang_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 3,
+            "ValueInfo": "劝对方投降"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "劝对方投降",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "TouXiang_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 4,
+            "ValueInfo": "向对方投降"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "向对方投降",
+            "ValueInfo": null
+          }
+        }
+      ]
+    },
+    "ID": "LengJingXingWei_000000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Name": {
+      "ID": "XingWeiName_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": null,
+      "ValueInfo": "义理"
+    },
+    "XingWeiType": {
+      "ID": "XingWeiType_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": 4,
+      "ValueInfo": null
+    },
+    "XingWeiIcon": {
+      "ID": "XingWeiIcon_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": "UI/HDXWIcon/YL001",
+      "ValueInfo": null
+    },
+    "XingWeiDes": {
+      "ID": "XingWeiDes_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": "自己心态值增加，对方的心态减少",
+      "ValueInfo": null
+    },
+    "LengQueHuiHe": {
+      "ID": "LengQueHuiHe_0000000002",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": 2,
+      "ValueInfo": null
+    },
+    "YouLieXianZhi": {
+      "ChuJing": {
+        "ID": "ChuJing_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 0,
+        "ValueInfo": null
+      },
+      "KeYongDengJi": {
+        "ID": "KeYongDengJi_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 1,
+        "ValueInfo": null
+      }
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {
+        "ID": "XinTaiYingXiangJiFang_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 4,
+        "ValueInfo": null
+      },
+      "DuiFang": {
+        "ID": "XinTaiYingXiangDuiFang_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": -4,
+        "ValueInfo": null
+      }
+    },
+    "QiTaYingXiang": {
+      "ID": "QiTaYingXiang_0000000001",
+      "Values": [
+        {
+          "ID": "ShiQuLengJing_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 0,
+            "ValueInfo": "冷静失效"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "让对方的冷静行为失效",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "WuShiYiLi_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 1,
+            "ValueInfo": "无视义理"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "无视对方义理对自己造成的影响",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "WuShiJiMa_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 2,
+            "ValueInfo": "无视激骂"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "无视对方激骂对自己造成的影响",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "QuanXiang_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 3,
+            "ValueInfo": "劝对方投降"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "劝对方投降",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "TouXiang_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 4,
+            "ValueInfo": "向对方投降"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "向对方投降",
+            "ValueInfo": null
+          }
+        }
+      ]
+    },
+    "ID": "YiLiXingWei_000000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Name": {
+      "ID": "XingWeiName_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": null,
+      "ValueInfo": "无视"
+    },
+    "XingWeiType": {
+      "ID": "XingWeiType_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": 5,
+      "ValueInfo": null
+    },
+    "XingWeiIcon": {
+      "ID": "XingWeiIcon_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": "UI/HDXWIcon/WS001",
+      "ValueInfo": null
+    },
+    "XingWeiDes": {
+      "ID": "XingWeiDes_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": "无视对方的义理和激骂",
+      "ValueInfo": null
+    },
+    "LengQueHuiHe": {
+      "ID": "LengQueHuiHe_0000000002",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": 2,
+      "ValueInfo": null
+    },
+    "YouLieXianZhi": {
+      "ChuJing": {
+        "ID": "ChuJing_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 3,
+        "ValueInfo": null
+      },
+      "KeYongDengJi": {
+        "ID": "KeYongDengJi_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 0,
+        "ValueInfo": null
+      }
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {
+        "ID": "XinTaiYingXiangJiFang_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 0,
+        "ValueInfo": null
+      },
+      "DuiFang": {
+        "ID": "XinTaiYingXiangDuiFang_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 0,
+        "ValueInfo": null
+      }
+    },
+    "QiTaYingXiang": {
+      "ID": "QiTaYingXiang_0000000001",
+      "Values": [
+        {
+          "ID": "ShiQuLengJing_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 0,
+            "ValueInfo": "冷静失效"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "让对方的冷静行为失效",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "WuShiYiLi_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 1,
+            "ValueInfo": "无视义理"
+          },
+          "Enable": true,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "无视对方义理对自己造成的影响",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "WuShiJiMa_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 2,
+            "ValueInfo": "无视激骂"
+          },
+          "Enable": true,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "无视对方激骂对自己造成的影响",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "QuanXiang_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 3,
+            "ValueInfo": "劝对方投降"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "劝对方投降",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "TouXiang_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 4,
+            "ValueInfo": "向对方投降"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "向对方投降",
+            "ValueInfo": null
+          }
+        }
+      ]
+    },
+    "ID": "WuShiXingWei_000000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Name": {
+      "ID": "XingWeiName_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": null,
+      "ValueInfo": "劝降"
+    },
+    "XingWeiType": {
+      "ID": "XingWeiType_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": 6,
+      "ValueInfo": null
+    },
+    "XingWeiIcon": {
+      "ID": "XingWeiIcon_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": "UI/HDXWIcon/QX001",
+      "ValueInfo": null
+    },
+    "XingWeiDes": {
+      "ID": "XingWeiDes_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": "尝试说服对方主动投降",
+      "ValueInfo": null
+    },
+    "LengQueHuiHe": {
+      "ID": "LengQueHuiHe_0000000002",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": 2,
+      "ValueInfo": null
+    },
+    "YouLieXianZhi": {
+      "ChuJing": {
+        "ID": "ChuJing_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 0,
+        "ValueInfo": null
+      },
+      "KeYongDengJi": {
+        "ID": "KeYongDengJi_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 999999,
+        "ValueInfo": null
+      }
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {
+        "ID": "XinTaiYingXiangJiFang_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 0,
+        "ValueInfo": null
+      },
+      "DuiFang": {
+        "ID": "XinTaiYingXiangDuiFang_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 0,
+        "ValueInfo": null
+      }
+    },
+    "QiTaYingXiang": {
+      "ID": "QiTaYingXiang_0000000001",
+      "Values": [
+        {
+          "ID": "ShiQuLengJing_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 0,
+            "ValueInfo": "冷静失效"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "让对方的冷静行为失效",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "WuShiYiLi_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 1,
+            "ValueInfo": "无视义理"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "无视对方义理对自己造成的影响",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "WuShiJiMa_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 2,
+            "ValueInfo": "无视激骂"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "无视对方激骂对自己造成的影响",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "QuanXiang_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 3,
+            "ValueInfo": "劝对方投降"
+          },
+          "Enable": true,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "劝对方投降",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "TouXiang_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 4,
+            "ValueInfo": "向对方投降"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "向对方投降",
+            "ValueInfo": null
+          }
+        }
+      ]
+    },
+    "ID": "QuanXiangXingWei_000000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Name": {
+      "ID": "XingWeiName_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": null,
+      "ValueInfo": "投降"
+    },
+    "XingWeiType": {
+      "ID": "XingWeiType_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": 7,
+      "ValueInfo": null
+    },
+    "XingWeiIcon": {
+      "ID": "XingWeiIcon_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": "UI/HDXWIcon/TouXiang001",
+      "ValueInfo": null
+    },
+    "XingWeiDes": {
+      "ID": "XingWeiDes_0000000001",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": "尝试向对象投降",
+      "ValueInfo": null
+    },
+    "LengQueHuiHe": {
+      "ID": "LengQueHuiHe_0000000002",
+      "HashID": 0,
+      "RelatedID": null,
+      "Value": 2,
+      "ValueInfo": null
+    },
+    "YouLieXianZhi": {
+      "ChuJing": {
+        "ID": "ChuJing_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 1,
+        "ValueInfo": null
+      },
+      "KeYongDengJi": {
+        "ID": "KeYongDengJi_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 9999,
+        "ValueInfo": null
+      }
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {
+        "ID": "XinTaiYingXiangJiFang_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 0,
+        "ValueInfo": null
+      },
+      "DuiFang": {
+        "ID": "XinTaiYingXiangDuiFang_0000000001",
+        "HashID": 0,
+        "RelatedID": null,
+        "Value": 0,
+        "ValueInfo": null
+      }
+    },
+    "QiTaYingXiang": {
+      "ID": "QiTaYingXiang_0000000001",
+      "Values": [
+        {
+          "ID": "ShiQuLengJing_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 0,
+            "ValueInfo": "冷静失效"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "让对方的冷静行为失效",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "WuShiYiLi_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 1,
+            "ValueInfo": "无视义理"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "无视对方义理对自己造成的影响",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "WuShiJiMa_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 2,
+            "ValueInfo": "无视激骂"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "无视对方激骂对自己造成的影响",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "QuanXiang_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 3,
+            "ValueInfo": "劝对方投降"
+          },
+          "Enable": false,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "劝对方投降",
+            "ValueInfo": null
+          }
+        },
+        {
+          "ID": "TouXiang_0000000001",
+          "YingXiangLeiXing": {
+            "ID": "YingXiangLeiXing_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": 4,
+            "ValueInfo": "向对方投降"
+          },
+          "Enable": true,
+          "RelatedID": null,
+          "DuiXiang": 1,
+          "YingXiangDes": {
+            "ID": "YingXiangDes_0000000001",
+            "HashID": 0,
+            "RelatedID": null,
+            "Value": "向对方投降",
+            "ValueInfo": null
+          }
+        }
+      ]
+    },
+    "ID": "TouXiangXingWei_000000001",
+    "HashID": 0,
+    "Class": null
+  }
+]

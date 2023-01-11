@@ -1,0 +1,3584 @@
+[
+  {
+    "Init": [
+      [
+        "天书阁的堂主，测试中……"
+      ]
+    ],
+    "ID": "StoryData_Tester30_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力吉星，专收气运极佳之人。一次势力成员出来行走，无意间看到[CharacterName]数遇灾祸，却总能逢凶化吉，似是吉人天相，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_JiXing_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力奇真，专收天赋异禀之人。[CharacterName]因身怀奇筋异脉真气充盈，被势力看中收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_QiZhen_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力绝玄，专收根骨极佳之人。[CharacterName]因骨骼清奇是个万中无一的练武奇才，被势力看中收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_JueXuan_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力乐世，专收魅力涵养俱佳之人。[CharacterName]因德容兼备被势力看中收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_YueShi_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力养天馆，专收医术天赋极佳之人。一次势力成员出来行走，无意间看到[CharacterName]救死扶伤，具有成为医者的潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_YangTianGuan_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力黑仙洞，专收毒术天赋极佳之人。一次势力成员出来行走，无意间看到[CharacterName]制毒有方，具有成为毒师的潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_HeiXianDong_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力奇世家，专门收罗奇珍异宝。[CharacterName]因具有鉴定宝物优劣的本事，被势力看中收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_QiShiJia_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力茶世家，专收茶道天赋极佳之人。一次势力成员出来行走，无意间看到[CharacterName]点茶的技艺，发现潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_ChaShiJia_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力食世家，专收烹饪天赋极佳之人。一次势力成员出来行走，无意间尝到[CharacterName]所做菜肴美味可口，发现潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_ShiShiJiaFood_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力酒世家，专收饮酒天赋极佳之人。一次势力成员出来行走，无意间看到[CharacterName]饮而不醉的潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_JiuShiJia_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力音世家，专收乐器天赋极佳之人。一次势力成员出来行走，无意间听得[CharacterName]弹奏一曲宛转悠扬被深深吸引，发现潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_YinShiJia_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力诗世家，专收诗词天赋极佳之人。一次势力成员出来行走，无意间看到[CharacterName]做的诗飘逸潇洒，发现潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_ShiShiJiaPoem_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力画世家，专收书画天赋极佳之人。一次势力成员出来行走，无意间看到[CharacterName]画的画栩栩如生，发现潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_HuaShiJia_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力一灵堂，专收悟性极佳之人。[CharacterName]因自幼灵心慧性，被势力看中收为弟子，经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_YiLingTang_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力素光寺，专收福缘极佳之人。[CharacterName]少时迷路竟误入了素光寺，寺主觉得此乃天意，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_SuGuangSi_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力青竹塔，专收魅力极佳之人。[CharacterName]因天生丽质，被势力看中收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_QingZhuTa_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力四方庄，专收口才极佳之人。[CharacterName]因能说会道，被势力看中收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_SiFangZhuang_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力摘星崖，专收见识极佳之人。[CharacterName]因见多识广，被势力看中收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_ZhaiXingYa_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力无色坊，专收涵养极佳之人。[CharacterName]因知书达礼，被势力看中收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_WuSeFang_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力血冥，专门培植杀手。一次势力成员出来行走，无意间看到[CharacterName]杀伐果决，发现潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_XueMing_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力拂云，专收神来极佳之人。一次势力成员出来行走，无意间看到[CharacterName]进入天人合一的状态，发现潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_FuYun_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力定风，专收集中极佳之人。一次势力成员出来行走，无意间看到[CharacterName]不管环境如何嘈杂，依然心无旁骛地做事，发现潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_DingFeng_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力开弓，专收意志极佳之人。一次势力成员出来行走，无意间看到[CharacterName]不管面对多少诱惑，意志始终坚韧不拔，发现潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_KaiGong_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力千钧，专收决断极佳之人。一次势力成员出来行走，无意间看到[CharacterName]不管事情多少，总能当机立断，发现潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_QianJun_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力太始，专收体魄极佳之人。因[CharacterName]从小身强体健，被势力看中收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_TaiShi_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力封侯，专收指法天赋极佳之人。一次势力成员出来行走，无意间看到[CharacterName]有成为指法宗师的潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_FengHou_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力刀门，专收刀法天赋极佳之人。一次势力成员出来行走，无意间看到[CharacterName]有成为刀法宗师的潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_DaoMen_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力棍宗，专收棍法天赋极佳之人。一次势力成员出来行走，无意间看到[CharacterName]有成为棍法宗师的潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_GunZong_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力枪阁，专收枪法天赋极佳之人。一次势力成员出来行走，无意间看到[CharacterName]有成为枪法宗师的潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_QiangGe_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力斧寨，专收斧法天赋极佳之人。一次势力成员出来行走，无意间看到[CharacterName]有成为斧法宗师的潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_FuZhai_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力鞭楼，专收鞭法天赋极佳之人。一次势力成员出来行走，无意间看到[CharacterName]有成为鞭法宗师的潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_BianLou_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力钩角，专收钩法天赋极佳之人。一次势力成员出来行走，无意间看到[CharacterName]有成为钩法宗师的潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_GouJiao_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力隐秘，专收暗器天赋极佳之人。一次势力成员出来行走，无意间看到[CharacterName]有成为暗器宗师的潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_YinMi_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力笔祠，专收笔法天赋极佳之人。一次势力成员出来行走，无意间看到[CharacterName]有成为笔法宗师的潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_BiCi_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力剑邸，专收剑法天赋极佳之人。一次势力成员出来行走，无意间看到[CharacterName]有成为剑法宗师的潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_JianDi_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力拳府，专收拳掌天赋极佳之人。一次势力成员出来行走，无意间看到[CharacterName]有成为拳掌宗师的潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_QuanFu_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力玄世家，专收内功精神俱佳之人。一次势力成员出来行走，无意间看到[CharacterName]的潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_XuanShiJia_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力无奇，是资质平庸者的聚居地。一次势力成员出来行走，偶然间结识[CharacterName]并邀请加入了无奇。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_WuQi_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]生于颍昌府。相传古老的隐世势力武世家，专收武功与身体俱佳之人。一次势力成员出来行走，偶然间看到[CharacterName]的潜质，遂收为弟子。经过多年栽培，现奉命出世。"
+      ],
+      [
+        "因缘之下救治了深受重伤昏倒在柴阳居的秦莫生，而踏入江湖。"
+      ]
+    ],
+    "ID": "StoryData_WuShiJia_ZhuJueChuShen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "该角色的生平信息还在准备中......"
+      ]
+    ],
+    "ID": "StoryData_JBJS_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "全真教掌门，不但是一代指法宗师，掌剑亦是双绝。一派仙风道骨，颇受江湖中人敬重。"
+      ]
+    ],
+    "ID": "StoryData_WangChongYang_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "饕餮门掌门，厨艺精湛，若论烹饪之道，世间鲜有人能与之比肩，所做佳肴令天下好食者心向往之，数年来一心将《奇珍异味》中的珍馐一一重现。"
+      ]
+    ],
+    "ID": "StoryData_LongDuanTian_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "青城派掌门，为人严肃古板，对门下弟子比较严苛。于烹饪之道颇有造诣，物择山海味，每日自烹食。"
+      ]
+    ],
+    "ID": "StoryData_WenFengLin_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "嵩山派掌门，处事深谋远虑，滴水不漏，对名利极为看重。"
+      ]
+    ],
+    "ID": "StoryData_LengYangYue_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "少林寺住持，佛法高深，慈杯为怀，堪破世事。武学境界不凡，除了精通拳掌外剑法也颇有造诣，被江湖人士视为武林泰斗。"
+      ]
+    ],
+    "ID": "StoryData_YongMingDaShi_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "崆峒派掌门，一心苦修七绝拳，期望重震本门声威。"
+      ]
+    ],
+    "ID": "StoryData_LingTianZong_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "泰山派掌门，为人沉稳刚正不阿，一把天门重剑常伴身侧。爱打抱不平，锄强扶弱，深受武林同道敬佩。"
+      ]
+    ],
+    "ID": "StoryData_TianMenZheng_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "玄天阁阁主，喜看书籍，轻功卓绝，盗取世间诸物，轻而易举。"
+      ]
+    ],
+    "ID": "StoryData_XuanYiYang_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "华山派掌门，心思缜密，对万事皆有筹谋，常以笑面待人，书画双绝，江湖人称“笑面书生”。"
+      ]
+    ],
+    "ID": "StoryData_LinWenYue_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "武当派掌门，武学造诣已臻化境，被誉为“太极宗师”。所创太极拳与太极剑法威震武林，鲜有敌手。"
+      ]
+    ],
+    "ID": "StoryData_ZhangSanFeng_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "天尊教教主，武功盖世，两大绝学“天剑诀”与“吸魂大法”有慑人之威，令世人生畏，名震江湖。"
+      ]
+    ],
+    "ID": "StoryData_DiYangTian_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "天书阁阁主，高深莫测，通晓世间诸事。统管天书论剑、天书榜等一应事务，声名远扬，江湖中无人不知，无人不晓。"
+      ]
+    ],
+    "ID": "StoryData_ChiShuRen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "飞蝎坞掌门，生性凶残，为人阴狠毒辣。杀人如麻，常以“无常索命鞭”虐杀无辜，人人避之不及。"
+      ]
+    ],
+    "ID": "StoryData_ShangGuanZheng_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "白鹤谷掌门，痴迷武道，棍法精通，当世棍法大家，常以此为傲。"
+      ]
+    ],
+    "ID": "StoryData_XuShiQi_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "百丈山庄掌门，家资丰厚，一身轻功冠绝天下，为世人所仰慕。"
+      ]
+    ],
+    "ID": "StoryData_MengWanXian_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "峨嵋派掌门，剑法高超，嫉恶如仇，有西南第一剑客之美誉，安居西蜀与中原各派很少往来。"
+      ]
+    ],
+    "ID": "StoryData_JiaGuShiTai_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "丐帮帮主，为人豪爽，平日率众弟子行侠仗义。因前任帮主亡于五毒洞之手，苦练降龙神掌，誓要报仇雪恨，重振丐帮。"
+      ]
+    ],
+    "ID": "StoryData_DiBaiBo_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "恒山派掌门，五岳盟主。心系五岳，以抗辽为己任，对通辽势力深恶痛绝。自师妹玄贞师太被刘正风残害后，誓要为其报仇雪恨。"
+      ]
+    ],
+    "ID": "StoryData_XuanAnShiTai_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "衡山派掌门，为人潇洒，善交好友，在江湖之中人脉甚广。喜风雅好收藏，武功居五岳之末。"
+      ]
+    ],
+    "ID": "StoryData_LiuHuangAn_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "烈日教掌门，行事果敢洒脱，自父亲阎洪震死于林文岳剑下后，临危受命坐上掌门之位，率烈日教渐渐恢复元气。眼下羽翼渐丰，一心想向五岳报当年之仇。"
+      ]
+    ],
+    "ID": "StoryData_YanMuYi_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "南阳拳庄掌门，义薄云天，广收弟子，交友甚广，正邪两道皆有往来。"
+      ]
+    ],
+    "ID": "StoryData_LinBaiXiong_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "青王寺住持，淡薄名利，很少介入江湖纷争。"
+      ]
+    ],
+    "ID": "StoryData_QuYongDaShi_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "五毒洞掌门，行事恣意潇洒，深谙毒理之道。平日生活以享乐为主，自由自在。不被丐帮旧仇牵绊，调度弟子在各地行事。"
+      ]
+    ],
+    "ID": "StoryData_QiuXingQiu_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "铁掌门掌门，率一众弟子在河北东路收敛钱财，屯粮造械。相传此人已与梁山晁盖结盟，意欲揭竿起义，对抗朝廷。"
+      ]
+    ],
+    "ID": "StoryData_XueJian_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "血手门掌门，以鲜血练得一身邪功，人称“鲜红蟾蜍”。杀人无数，且手段极其狠辣，人皆闻风丧胆。"
+      ]
+    ],
+    "ID": "StoryData_LiuZhengFeng_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "炎凤堂掌门，性情孤傲，一手“凤凰刀法”威力惊人，在江湖颇有名气。"
+      ]
+    ],
+    "ID": "StoryData_FuHaoYan_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "幽明派掌门，以独创绝学“幽明形意拳”而闻名江湖。与海门帮交往甚密，相传海门帮平时种种恶行，皆是受其庇佑。"
+      ]
+    ],
+    "ID": "StoryData_WuYouZi_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "幽鸿宫掌门，眉目如画，性格果敢独立，常救助女子，有“幽鸿仙子”之美称。其独门绝技“鸿飞绝燕”冠绝江湖，令人闻之色变。"
+      ]
+    ],
+    "ID": "StoryData_HongXianLing_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "少林伙头僧，乐天知命，喜爱烹饪，平日负责寺内杂务。"
+      ]
+    ],
+    "ID": "StoryData_KuAn_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "昔日青王寺“白虎尊者”，曾以神功“白虎苍雷掌”叱咤江湖，而今归隐多年，无人知晓他的踪迹。"
+      ]
+    ],
+    "ID": "StoryData_MinCi_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "青王寺“青龙尊者”，昔日曾凭借“青龙神武剑”在天书论剑中夺魁。盛名之时归隐，无人知晓他的踪迹。"
+      ]
+    ],
+    "ID": "StoryData_MinHuai_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "深居在山中的隐世高人，一手“飞仙剑法”颇有剑仙之风骨，世间无双。"
+      ]
+    ],
+    "ID": "StoryData_JianWuXian_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "以枪法而闻名的江湖高手，人送绰号“西北枪王”。传闻其绝学神月天罡枪为西域部落神王所创，所向披靡，无人能挡。"
+      ]
+    ],
+    "ID": "StoryData_CangHongSheng_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "江湖少有人知的用棍高手，所用“行云棍法”以巧取胜，如行云流水一般，令人防不胜防。"
+      ]
+    ],
+    "ID": "StoryData_ZhangSunYuQuan_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "擅长鞭法的女侠，英姿飒爽，行事一贯雷厉风行，给人难以接近之感。"
+      ]
+    ],
+    "ID": "StoryData_QinJingJing_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "来自西蜀一带，为人活泼可爱，暗器功夫十分了得。虽师从鸿仙灵，但并未入门。平日常有些恶作剧，但因其外表娇俏，心性纯真，也常常被人包容。"
+      ]
+    ],
+    "ID": "StoryData_PeiYing_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "善良正直，见不得恃强凌弱之事。平日爱四处闲逛，与凌天宗是旧识。"
+      ]
+    ],
+    "ID": "StoryData_DiMeng_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "善良正直，见不得恃强凌弱之事。平日爱四处闲逛，与凌天宗是旧识。"
+      ]
+    ],
+    "ID": "StoryData_DiMeng_Normal_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "凌天逍遥阁掌门，极少在江湖中抛头露面的隐世高人。熟知许多已在武林失传的功法，据说只有有缘人才能向其求教。"
+      ]
+    ],
+    "ID": "StoryData_ChaLuo_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "武学天赋极高，却不喜欢练武，整日游山玩水，对诗词歌赋均有涉猎，潇洒自由。"
+      ]
+    ],
+    "ID": "StoryData_DiWenXuan_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "武当派得意门生，风雅俊秀，气度不凡。待人温和，常使人如沐春风，挚交好友遍布江湖各地。"
+      ]
+    ],
+    "ID": "StoryData_YeYingZhe_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "天尊教代教主，帝阳天养女。明眸皓齿，发白如雪。行事果决，教内诸事打理的井井有条。"
+      ]
+    ],
+    "ID": "StoryData_DiWuHan_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "少林寺神僧，住持永明大师的师兄，佛法高深，武学境界非凡，曾在天书论剑中夺魁，今已退隐江湖。"
+      ]
+    ],
+    "ID": "StoryData_YongYanDaShi_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "恒山派掌门玄安师太的妹妹，在恒山派德高望重，协助姐姐处理派务。"
+      ]
+    ],
+    "ID": "StoryData_XuanZhen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "烈日教左使，在教内颇有威望，前教主阎洪震殒命后，扶植阎穆一接管烈日教。"
+      ]
+    ],
+    "ID": "StoryData_HongZong_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "烈日教前掌门，武功高强，所创绝学“烈日狂刀决”独步天下。"
+      ]
+    ],
+    "ID": "StoryData_YanHongZhen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "峨嵋派大弟子，温婉恬淡，心怀慈悲，与世无争。略通医术，峨嵋上下对其无一不喜。"
+      ]
+    ],
+    "ID": "StoryData_QuanXinNuo_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "嵩山派大弟子，为人正直，潇洒不羁，在江湖上名声很高，有很多人认为他会是下一任嵩山派的掌门。"
+      ]
+    ],
+    "ID": "StoryData_QinMoSheng_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "天尊教降魔使，武功极高，盛气凌人，天尊教除教主外的第二强者。"
+      ]
+    ],
+    "ID": "StoryData_SiFang_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "天尊教持剑徒，沉默寡言，常年随侍在帝阳天身侧，保管帝阳天的神兵利剑。"
+      ]
+    ],
+    "ID": "StoryData_FeiYing_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "幽鸿宫青娥侍，负责照料鸿仙灵的起居。为人温柔沉稳，知书达理，无论何种境地之下，总能将一应事务打理得井井有条。"
+      ]
+    ],
+    "ID": "StoryData_NanGongNing_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "凌天逍遥阁哑徒，无人知晓其来历，多年来一直尽心看守着凌天逍遥阁，很少在江湖之中露面。"
+      ]
+    ],
+    "ID": "StoryData_WuMing_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "少林寺大弟子，秉性纯良，但心性修为不足，易嗔怒。醉心武学，在寺中有些许威望。"
+      ]
+    ],
+    "ID": "StoryData_DingJue_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "武当派大弟子，性格沉稳谦和，世事通明，平日负责协助张三丰，处理武当派门内事务，颇受同门敬重。"
+      ]
+    ],
+    "ID": "StoryData_XuChangYu_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "辽国勇士，辽国境内无人可敌，却被西北枪王苍宏胜一招击败。自此留在中原，到处拜师学艺。为人憨厚耿直，以强者为尊。"
+      ]
+    ],
+    "ID": "StoryData_YeLvGuoZong_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "辽国细作，徘徊在边境做生意，为辽国输送情报。耶律国宗来到中原后，兀颜术受辽国之命，四处走访寻找耶律国宗的踪迹。"
+      ]
+    ],
+    "ID": "StoryData_WuYanShu_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "轩辕弘之女，温柔善良，善解人意，自幼备受宠爱，是轩辕府的掌上明珠。"
+      ]
+    ],
+    "ID": "StoryData_XuanYuanLing_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "漳州客邸的老板娘，性格温柔，待人随和。对收藏和茶道有极高的造诣。"
+      ]
+    ],
+    "ID": "StoryData_HuaRuiFuRen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "杭州名妓，擅长歌舞，与汴梁李师师齐名，并称为“南念奴，北师师。”"
+      ]
+    ],
+    "ID": "StoryData_LiNianNu_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "将门之女，自幼习武，身手不凡。机缘之下拜西北枪王苍宏胜为师。"
+      ]
+    ],
+    "ID": "StoryData_LiangHongYu_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "官宦之女，13岁因被抄家沦为奴籍。因自小精通琴艺，更名“琴操”。"
+      ]
+    ],
+    "ID": "StoryData_QinCao_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "知书识礼，敏而好学。好烹食煮茶，精通医术，得苏轼赏识，引为知己。"
+      ]
+    ],
+    "ID": "StoryData_WangZhaoYun_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "东京汴梁名妓，因容貌娇媚，歌喉婉转，引得无数风流才子为之倾倒。"
+      ]
+    ],
+    "ID": "StoryData_ZhaoXiangXiang_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "杭州名妓，气质美如兰，才华馥比仙。喜柳永之词。"
+      ]
+    ],
+    "ID": "StoryData_XieYuYing_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "年少入宫学习绘画，因天资聪颖得官家赏识。"
+      ]
+    ],
+    "ID": "StoryData_WangXiMeng_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "定荣商户的大小姐，明艳动人，行事果决泼辣。"
+      ]
+    ],
+    "ID": "StoryData_MiaoYiFang_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "论剑的报名者。"
+      ]
+    ],
+    "ID": "StoryData_LunJianZhe_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "售卖自制饮品的女子。"
+      ]
+    ],
+    "ID": "StoryData_XiangYinZi_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "轩辕铸剑府府主，性格沉稳大气，在江湖中好友众多。听闻曾与天尊教多有往来。"
+      ]
+    ],
+    "ID": "StoryData_XuanYuanHong_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "轩辕府府主夫人，性格温柔，知书达理，博闻强识，亦精通铸剑之术。"
+      ]
+    ],
+    "ID": "StoryData_YiYouQing_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "少林寺弟子，多负责接引往来香客或武林同道。性子谦和有礼，是少林新一代弟子中的佼佼者。"
+      ]
+    ],
+    "ID": "StoryData_WuNian_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "峨眉派年轻女弟子，调皮捣蛋却颇受迦古师太宠爱。"
+      ]
+    ],
+    "ID": "StoryData_XiaoYaoLiuJiu_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "丐帮新生代弟子，因为酒量好而与狄百伯臭味相投。平素大大咧咧，关键时刻却心细如发，机巧敏锐，深受丐帮同一代弟子信赖。"
+      ]
+    ],
+    "ID": "StoryData_YinXiang_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "天尊教弟子，勇猛果敢，城府很深，在数次正邪大战中冲锋陷阵，深受帝阳天青睐。"
+      ]
+    ],
+    "ID": "StoryData_ShiZiQi_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "兰州本地人，为天书阁收集武林消息，平日里做公子哥打扮，经常饮酒作乐。"
+      ]
+    ],
+    "ID": "StoryData_QianYiQin_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "烈日教弟子，相貌英伟不凡玉树临风，颇受教中女弟子欢迎。好胜心很强，故而有些刻薄。"
+      ]
+    ],
+    "ID": "StoryData_ShangGuanDongMing_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "幽鸿宫年轻女弟子，性格古灵精怪，深受同门师姐爱戴，就连平素里冷冰冰的鸿仙灵也对她疼爱有加。为了锻炼她的能力，鸿仙灵让狐仙儿当做门派接引。"
+      ]
+    ],
+    "ID": "StoryData_HuErXian_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "原是宫中太监，因为得罪了贵人而深夜潜逃。凌天宗见他待人接物成熟稳重，便将他留在崆峒派。"
+      ]
+    ],
+    "ID": "StoryData_DaiShanRen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "武当派优秀弟子，行事作风稳重，待人接物滴水不漏。虽然年纪轻轻，已经被人认做武当派未来之星，前途无量。"
+      ]
+    ],
+    "ID": "StoryData_YangFuLing_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "潭州人士，为天书阁提供武林消息。平日里不苟言笑，但心地很好，经常救济落难百姓。"
+      ]
+    ],
+    "ID": "StoryData_QiaoQingYuan_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "江湖上臭名昭著的杀手，拿钱办事，从不留活口。只要给钱，他可以杀天下任何人。此人常年被武林正道通缉。"
+      ]
+    ],
+    "ID": "StoryData_FengLuoLin_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "商人，身上经常会出现一些稀奇古怪的玩意。有人说他来自武林世家，也有人说他富可敌国，至于他的真实来历，没有人知晓。"
+      ]
+    ],
+    "ID": "StoryData_BingGe_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "邕州大户人家，酷爱习武。但因为家庭原因无法参与武林之事，只好为天书阁收集新闻，性格豪放不拘小节，最讨厌婆婆妈妈的人。"
+      ]
+    ],
+    "ID": "StoryData_ZhaoDaChong_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "应天府跑堂小厮，赚钱养活自己。从小无父无母，自己被一老和尚从乱葬岗抱出来。成年后来应天府谋求生计，现在同时为天书阁提供小道消息赚取钱财。"
+      ]
+    ],
+    "ID": "StoryData_ShiGanDang_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "真名不详，只知此人武功很强，是武林中年一代翘楚。平素吊儿郎当，但大是大非之前极有主见，且非常有正义感，深得武林同道敬仰。"
+      ]
+    ],
+    "ID": "StoryData_CaoLvChong_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "全真教委派指引，性子争强好胜，偶尔会有恃强凌弱之嫌。王重阳对他很是看重，时不时会耳提面命，谆谆教诲。"
+      ]
+    ],
+    "ID": "StoryData_XuXian_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "有正经店铺的杂货商。"
+      ]
+    ],
+    "ID": "StoryData_XiPuDianJia_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "在客邸工作的杂役，售卖一些寻常的江湖补给。"
+      ]
+    ],
+    "ID": "StoryData_KeDiLaoBan_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "在饭店招呼客人的杂役。"
+      ]
+    ],
+    "ID": "StoryData_FanDianXiaoEr_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "打铁铺的伙计，售卖一些寻常武器。"
+      ]
+    ],
+    "ID": "StoryData_TieJiang_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "酒楼的掌柜，提供当地特色酒水。"
+      ]
+    ],
+    "ID": "StoryData_JiuLouLaoBanNiang_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "农户打扮，平日里走街串巷兜售药材，不善言辞但童叟无欺。"
+      ]
+    ],
+    "ID": "StoryData_MaiYaoRen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "平日里主要贩卖饮料，为人小气偶尔有以次充好的情况。"
+      ]
+    ],
+    "ID": "StoryData_YinLiaoDianRen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "消息灵通的曲艺人，知晓许多江湖八卦。"
+      ]
+    ],
+    "ID": "StoryData_ShuoShuRen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "多为穷困潦倒无家可归的可怜人，统一受到丐帮指挥节制。"
+      ]
+    ],
+    "ID": "StoryData_QiGai_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "关扑场的接待人员，待人接物恰到好处，对客人笑脸相迎，让人感到宾至如归。"
+      ]
+    ],
+    "ID": "StoryData_GuanPuHeGuan_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "茶坊的掌柜，提供点茶服务并售卖茶叶。"
+      ]
+    ],
+    "ID": "StoryData_HeChaRen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "售卖一些稀奇小玩意的商贩。"
+      ]
+    ],
+    "ID": "StoryData_XiaoShangFan_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "不常见的商人，无人得知他的来历，只知道经常会出售一些宝贝。"
+      ]
+    ],
+    "ID": "StoryData_YinCangShangRen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "朝廷重臣，为人刚正不阿，爱好收藏，与天书阁来往密切。"
+      ]
+    ],
+    "ID": "StoryData_OuYangXiu_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "大文豪，生性开朗，广交好友，词文名动天下。"
+      ]
+    ],
+    "ID": "StoryData_SuShi_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "进士出身，能文善政，深受百姓赞誉。"
+      ]
+    ],
+    "ID": "StoryData_FanZhongYan_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "朝廷重臣，自小聪明好学，过目不忘。文笔出众，受欧阳修赏识。同好收藏。"
+      ]
+    ],
+    "ID": "StoryData_WangAnShi_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "早年间一直在翰林图画院，专事绘画。辞去职务后，常在河南府画坊卖画为生。"
+      ]
+    ],
+    "ID": "StoryData_ZhangZeDuan_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "出身官宦世家，为人温良恭简，做事用功，刻苦勤奋，与持书人来往密切。"
+      ]
+    ],
+    "ID": "StoryData_SiMaGuang_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "性格散漫的官宦子弟。因流连青楼遭士大夫排挤，仕途不顺。但长相俊秀，又写得一手好词，颇受名妓追捧。"
+      ]
+    ],
+    "ID": "StoryData_LiuYong_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "因家境贫寒被卖入乐籍，自小习乐礼诗书，琴词书画样样精通。所写之词语意清新，常有人不远千里慕名相访。甚喜柳永之词，一见倾心于他。"
+      ]
+    ],
+    "ID": "StoryData_YanRui_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "东京汴梁名妓，才貌双全，许多官宦弟子不惜为其“豪掷千金”。"
+      ]
+    ],
+    "ID": "StoryData_LiShiShi_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "药王庄掌门，医术出神入化，在江湖中虽有“药王”之敬称，但不轻易施救于人。与夔州五毒洞齐名，有“北药回生，南毒鸩灭”之说。"
+      ]
+    ],
+    "ID": "StoryData_CaoLang_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "伏龙商户的大商家，因不讲人情，只认死理的性格，导致很多生意都不了了之。"
+      ]
+    ],
+    "ID": "StoryData_ZhuGeLi_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "性格及其强势，说一不二，对手下任免刚愎自用，引来许多不满。但眼光别具一格，利用地理优势握住了河北物流运输的咽喉，十分富有。"
+      ]
+    ],
+    "ID": "StoryData_WangDingYuan_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "泽江商户的大商家，讲究以和为贵，很少为利益计较，所以人缘不错。"
+      ]
+    ],
+    "ID": "StoryData_LiuShan_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "琅琊商户的大商家，为人忠厚，心慈人善，与各方交好。"
+      ]
+    ],
+    "ID": "StoryData_ZhangHou_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "龙安商户的大商家，身材魁梧，擅长刀法，传闻师从烈日教，为其办事。"
+      ]
+    ],
+    "ID": "StoryData_WangZong_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "普阳商户的大商家，沉默寡言，早年间曾是南阳拳庄一位拳师。"
+      ]
+    ],
+    "ID": "StoryData_CanChengAn_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "大雄帮魁首，盘踞在洪洲一带，奸淫掳掠无恶不作。百丈山庄和白鹤谷数次联手缉拿，都被他逃脱，此人工于心计，广布眼线，据说白鹤谷和百丈山庄内都有他的奸细。"
+      ]
+    ],
+    "ID": "StoryData_LiuZhengQing_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "梁山帮头目，行事乖张，是京河两路商户的噩梦。与铁掌门交好，据传在共谋大事。"
+      ]
+    ],
+    "ID": "StoryData_ChaoGai_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "海门帮帮主，水性极好，经常带着帮众埋伏在长江东海入口截获商船。与幽明派掌门吴幽子有所勾结。"
+      ]
+    ],
+    "ID": "StoryData_BaiDeHai_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "黑台帮头目，常年活跃于宋辽边境。阴狠歹毒，唯利是图，是玄安师太的眼中钉。"
+      ]
+    ],
+    "ID": "StoryData_QianYuanWu_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "大雄帮帮主，脾气暴躁，为人仗义，经常替帮众出头，与多家势力结仇，因此深受兄弟们的拥戴。"
+      ]
+    ],
+    "ID": "StoryData_LiWo_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "大江帮魁首，在长江一带专门打劫镖局与商户的水路生意，为人比较冷漠，从不打劫平民。号称劫富济贫，实则残忍暴虐，抢劫对象无一留下活口。"
+      ]
+    ],
+    "ID": "StoryData_WuZhen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "天龙商户的大商家，人脉颇广，八面玲珑。经营着京东西路的多家铺席，财力不可小觑。"
+      ]
+    ],
+    "ID": "StoryData_TianLongYu_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "东京商户的大商家，祖上三代从商，从小便展露出异于常人的经商天赋。成年后接管东京商户，将其发展成了全国最有权威的商户。"
+      ]
+    ],
+    "ID": "StoryData_XiaHouFuGu_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "米脂商铺大商家，经营关西市镇的铺席生意，是一位经验丰富的西北商人。"
+      ]
+    ],
+    "ID": "StoryData_MuNing_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "头发花白看似精力有限，但实则老奸巨猾，手眼通天。"
+      ]
+    ],
+    "ID": "StoryData_YaoYuanZhong_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "温州商户的大商家，家境殷实，做事讲究分寸和规矩。"
+      ]
+    ],
+    "ID": "StoryData_HuangFeiBai_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "齐天商户的大商家，原是一个无忧无虑的千金小姐，后因家道中落不得不接管家中大小事宜。好在颇有些经营之道，使得商户渐渐走上正轨。"
+      ]
+    ],
+    "ID": "StoryData_XuYinYao_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "兴元商户的大商家，为人随和，广结善缘。"
+      ]
+    ],
+    "ID": "StoryData_BaoHongTu_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "乡下农妇，自家种植水果后拿到城里来贩卖。"
+      ]
+    ],
+    "ID": "StoryData_ShuiGuoShangFan_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "乡下农夫，自家种植蔬菜后拿到城里贩卖。"
+      ]
+    ],
+    "ID": "StoryData_CaiNong_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "屠户，膀大腰圆，外貌凶狠，但待人平和，其实脾气很好。"
+      ]
+    ],
+    "ID": "StoryData_RouFan_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "出海打渔的捕捞人，天未亮便出海捕鱼，一早便来到集市贩卖鱼生。"
+      ]
+    ],
+    "ID": "StoryData_YuFanZi_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "曾经是读书人，未能及第后弃文从商，选择售卖书画为生。"
+      ]
+    ],
+    "ID": "StoryData_ShuHuaShang_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "在相国寺外售卖茶叶的商人，祖上颇为富庶，出售的茶叶也往往是上品，深得有钱人喜爱。"
+      ]
+    ],
+    "ID": "StoryData_ChaShang_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "在相国寺外卖酒的商人，外貌妩媚动人，谈吐不俗，有许多回头客。"
+      ]
+    ],
+    "ID": "StoryData_JiuSi_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "在相国寺外售卖杂货的商人，有不少新鲜玩意，比较受当地年轻人的欢迎。"
+      ]
+    ],
+    "ID": "StoryData_ZaHuoShang_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "叶斗峰里的隐士，与古老的势力四方庄似乎颇有渊源。"
+      ]
+    ],
+    "ID": "StoryData_HideShop_GongTaoXu_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "白帝山隐士，与古老的势力吉星似乎有所联系。"
+      ]
+    ],
+    "ID": "StoryData_HideShop_HeYu_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "定海客栈中的隐士，据传与古老的势力茶世家来往甚密。"
+      ]
+    ],
+    "ID": "StoryData_HideShop_WeiMo_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "象鼻山隐士，据传来自古老的势力青竹塔。"
+      ]
+    ],
+    "ID": "StoryData_HideShop_KanAnQing_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "少林寺四大罗汉徒之一。"
+      ]
+    ],
+    "ID": "StoryData_ShaoLin_4lh_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "逍遥派弟子，喜收藏书画，淡泊名利，兴趣高雅，极少显露武功。"
+      ]
+    ],
+    "ID": "StoryData_ZhanBo_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "泰山派接引弟子，嫉恶如仇，是一名恪守道义，尊师重道的人。"
+      ]
+    ],
+    "ID": "StoryData_YanYuan_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "徐州一带恶霸，欺行霸市无恶不作，与官府有交情，当地百姓敢怒不敢言。"
+      ]
+    ],
+    "ID": "StoryData_AnYuanJia_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "武林正道弃徒，奸淫掳掠烧杀抢劫无恶不作。因为有武功傍身，寻常人见到他只有死路一条，因为担心被正道围剿，只好躲藏在桂林一带。"
+      ]
+    ],
+    "ID": "StoryData_ZhongSunBai_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "五毒洞弟子，性子尖酸刻薄，非常喜欢讽刺别人，但他毒术高强，深受门中重用。"
+      ]
+    ],
+    "ID": "StoryData_KongSi_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "五毒洞低级弟子，一直被门中派去做杂役工作，平日里很少能够休息，精神状态很差。"
+      ]
+    ],
+    "ID": "StoryData_ShengYingHao_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "药王庄弟子，医术不俗。是除了曹朗外药王庄最受人信赖的弟子，性子悲天悯人，会对病人竭尽全力施救。"
+      ]
+    ],
+    "ID": "StoryData_QinfuAn_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "药王庄弟子，刚入门不久，被派遣负责收集必要物资和种植药草。性格有些大大咧咧，偶尔会犯迷糊。"
+      ]
+    ],
+    "ID": "StoryData_CaiJin_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "饕餮门弟子，厨艺精湛但有些毛毛躁躁，龙断天为磨炼他的性子，要求他做一些简单的粗活。"
+      ]
+    ],
+    "ID": "StoryData_ZhangQiang_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "广州人士，外表俊俏不凡，利用外貌欺骗当地女子，让她们为自己提供银钱花销，以愚弄女子为乐。"
+      ]
+    ],
+    "ID": "StoryData_LuHaoMiao_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "真定府人士，中年男子魅力不俗，出手阔绰非常吸引女性。但对女性只视为物品，玩弄过后就会抛弃。"
+      ]
+    ],
+    "ID": "StoryData_ShanXingXian_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "广州人士，家境殷实。与陆浩邈结实后受到花言巧语蛊惑，一直为陆浩邈提供银钱。"
+      ]
+    ],
+    "ID": "StoryData_ZhouYuYun_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "广州人士，是当地旺族次女，性格天真烂漫。被陆浩邈的外貌吸引，不停地为陆浩邈提供银钱。"
+      ]
+    ],
+    "ID": "StoryData_KongXiShang_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "年轻时貌美如花，求亲着络绎不绝，后嫁给单兴贤，年老朱黄后在家中失宠，丈夫很少在与她亲密，日日独守深闺，成天以泪洗面，后悔自己选择了单兴贤。"
+      ]
+    ],
+    "ID": "StoryData_MiFu_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "青楼女子，外貌娇美，声音甜软，是青楼的红人。结识单兴贤后被单兴贤包养，每日过着锦衣玉食的生活，与姬小文是姐妹关系。"
+      ]
+    ],
+    "ID": "StoryData_JiXiaoQin_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "青楼女子，外貌娇美，性格温婉可人，是青楼的红人。结识单兴贤后被单兴贤包养，每日过着锦衣玉食的生活，与姬小琴是姐妹关系。"
+      ]
+    ],
+    "ID": "StoryData_JiXiaoWen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "天尊教教主帝阳天之子，天资聪颖，有极高的武学天赋，被帝阳天寄予厚望。"
+      ]
+    ],
+    "ID": "StoryData_DiWenXuan_YouNian_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "身份不明的黑衣人，武功高深莫测。"
+      ]
+    ],
+    "ID": "StoryData_HeiYiRen_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "武当派得意门生，被黑衣人重伤，生死难测，命悬一线。"
+      ]
+    ],
+    "ID": "StoryData_YeYingZhe_ShouShang_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "武当派得意门生，因被冥慈重伤而双目失明，沉默寡言，很少再与他人交谈。"
+      ]
+    ],
+    "ID": "StoryData_YeYingZhe_HeiHua_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "灵公玉碧山庄的主人，相传有碧眸金猊相伴其佐，每有窥寻琉璃宫秘密之人皆会殒命于狮爪之下。"
+      ]
+    ],
+    "ID": "StoryData_LiuLiGongZhu_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "武当派弟子，自记事起一直在门派中生活。平日勤勉练功，以求得到同门的认可，但有些笨拙，功力始终难有突破。"
+      ]
+    ],
+    "ID": "StoryData_YeYingZhe_YouNian_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "年少便自立门户，开创了凌天逍遥阁。对武学的悟性极高，常常废寝忘食悉心钻研功法，攥写了不少遗世武学。"
+      ]
+    ],
+    "ID": "StoryData_ChaLuo_QingNian_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "轩辕府府主轩辕弘之女，自幼家中遭遇变故，轩辕府一案后，便不曾在江湖中露面。"
+      ]
+    ],
+    "ID": "StoryData_XuanYuanLing_Sad_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "武当派得意门生，被黑衣人重伤，在武当派闭门养伤，很少与旁人相见。"
+      ]
+    ],
+    "ID": "StoryData_YYZ_YangShang_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "性格活泼开朗，古灵精怪，喜欢恶作剧，凡事都能乐观相待。"
+      ]
+    ],
+    "ID": "StoryData_DiMeng_Girl_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "性格沉稳内向，一丝不苟，平日刻苦练功，很少与同龄孩童一起玩乐。"
+      ]
+    ],
+    "ID": "StoryData_LingTianZong_Boy_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]闯荡江湖的江湖人，未曾背靠门派，凭着自己的努力正在江湖上打出一片天地……",
+        "[CharacterName]江湖人士，身份来历无从考证，正凭借着自己的努力奋斗在江湖上占据一席之地……"
+      ],
+      [
+        "[CharacterName]闯荡江湖的江湖人，未曾背靠门派，凭着自己的努力正在江湖上打出一片天地……",
+        "[CharacterName]江湖人士，身份来历无从考证，正凭借着自己的努力奋斗在江湖上占据一席之地……"
+      ]
+    ],
+    "ID": "StoryData_Template_00000001",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，",
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，"
+      ],
+      [
+        "曾试图投靠[XinYiMenPai]，却因种种原因未能如愿。",
+        "自幼闯荡江湖，曾想要加入[XinYiMenPai]，却并未被接纳。",
+        "闯荡江湖多年，想要靠自己的实力打出一片天地。",
+        "闯荡江湖多年，各门各派皆无法入其眼，逐独自在江湖上闯荡。",
+        "因投靠各派未果，逐独自在江湖上闯荡。",
+        "因投靠各派未果，逐决定靠自己在江湖上闯出一番作为。",
+        "闯荡江湖多年，自认天命不凡，各门各派皆无法入其眼，逐独自在江湖上闯荡。",
+        "自幼闯荡江湖，曾追随过势力[CiKu_ChuShen]，后独自在江湖上闯荡，想要靠自己的实力打出一片天地。",
+        "闯荡江湖多年，曾想要加入势力[CiKu_ChuShen]，却未被接纳，逐独自在江湖上闯荡。",
+        "[CharacterName]江湖人士，身份来历无从考证，曾效力于势力[CiKu_ChuShen]，退出后独自在江湖上闯荡。"
+      ]
+    ],
+    "ID": "StoryData_Template_WuMenWuPai",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "因仰慕玄安师太抗辽之大义，遂加入恒山派。",
+        "得知玄安师太德高望重常年带领弟子抗击辽国，心生仰慕，遂加入恒山派。",
+        "曾被黑台帮掳去，蒙恒山弟子相救，心生感激，遂加入恒山派。",
+        "看破红尘，削发为尼，在恒山出家。",
+        "得知玄安师太名传天下是为五岳盟主，心生仰慕，遂加入恒山派。",
+        "因想习得玄安师太所创的剑法雁门玉龙谱，而加入恒山派。",
+        "自幼景仰恒山弟子的侠义之举，因而拜入恒山派门下。",
+        "因不堪贼寇侵扰而逃离故土，加入了恒山派。",
+        "自幼被玄安师太收留。",
+        "本是家境殷实，多番变故下削发为尼。",
+        "少时被人贩拐卖，幸得玄安师太搭救，由是感激，遂加入恒山派。",
+        "因想习得恒山悬空剑法，而拜玄安师太为师。",
+        "因双亲被血手门残害，逃难至恒山，后拜入恒山派门下。",
+        "被玄安师太看中，收为弟子。",
+        "幼时家中遭血手门侵袭，后被救回恒山派。"
+      ],
+      [
+        "平日会去太原府，真定府等地巡防辽国动向。",
+        "有时会受命奔赴前线抗敌。",
+        "平日会外出扫荡贼寇。",
+        "立志要帮玄安师太保家卫国。",
+        "立志要向掌门那样抗蛮夷除贼寇，从而名动江湖。",
+        "痴心练武期望有朝一日武功堪比掌门。",
+        "立志要惩奸除恶救困扶危。",
+        "有时会收容一些被贼寇欺压之人，带回恒山派救助。",
+        "常活跃在抗辽前线。",
+        "平日多在山上清修。",
+        "平日会与同门切磋，精进武艺。",
+        "平日会在房中观看经书。",
+        "立志习武成为一代宗师。",
+        "有时会救助一些被血手门迫害的人，带回恒山派。",
+        "平日在太原府一带观察血手门动向，替师门打探消息。"
+      ]
+    ],
+    "ID": "StoryData_Template_HengShanPaiF",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "因仰慕天门道长的品行，遂加入泰山派。",
+        "得知天门道长常年带领弟子除暴安良，心生仰慕，遂加入泰山派。",
+        "对泰山的五岳天尊剑法心生向往，故而加入泰山派。",
+        "遭铁掌门迫害，得知泰山派与其势不两立，遂加入泰山派。",
+        "自幼景仰泰山剑术，因而拜入泰山派门下。",
+        "因想习得精妙剑法二王剑，而拜入泰山门下。",
+        "自幼景仰泰山弟子的侠义之举，因而拜入泰山派门下。",
+        "因不堪梁山帮贼寇侵扰而逃离故土，加入了泰山派。",
+        "因想习得五岳天尊剑法，而拜入泰山门下。",
+        "受天门正赏识而加入泰山派。",
+        "被天门正看中而加入泰山派。",
+        "因受泰山派弟子举荐，而拜天门正为师。",
+        "幼时家中遭铁掌门侵袭，后被救回泰山派。",
+        "因双亲被铁掌门残害，逃难至泰山，被天门正收留。",
+        "曾被贼寇掳走，幸得天门正相救，由是感激故而加入泰山派。"
+      ],
+      [
+        "平日常外出行侠仗义。",
+        "时常外出巡查有无贼寇作乱。",
+        "平日多在山上勤修武功。",
+        "苦练武功，期望有一日能成为武学宗师。",
+        "立志要铲除铁掌门。",
+        "立志善用自己的所学行侠仗义。",
+        "立志要行侠仗义惩奸除恶。",
+        "常常在外锄强扶弱。",
+        "平日在大名府一带观察铁掌门动向，替师门打探消息。",
+        "多在山上苦修，有时会与同门切磋印证武学。",
+        "痴心练武期望有朝一日武功堪比掌门。",
+        "立志习武成为一代宗师。",
+        "平日会在房中静修。",
+        "常常在外除暴安良。",
+        "有时会救助一些被铁掌门迫害的人，带回泰山派。"
+      ]
+    ],
+    "ID": "StoryData_Template_TaiShanPai",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "因双亲故去家道中落，机缘之下来到嵩山附近被冷阳岳看中收为弟子。",
+        "自幼景仰冷阳岳，因而拜入嵩山派门下。",
+        "一心想习得连天重剑，因而拜入嵩山派门下。",
+        "从小就想加入五岳剑派，因家离中岳最近，故而加入嵩山派。",
+        "受冷阳岳恩惠，因而加入嵩山派。",
+        "自幼景仰嵩山剑术，因而拜入嵩山派门下。",
+        "因想习得嵩山剑法，而拜冷阳岳为师。",
+        "受冷阳岳赏识，因而加入嵩山派。",
+        "受嵩山派弟子举荐，而拜冷阳岳为师。",
+        "少时被父母送入嵩山派学艺。",
+        "双亲被贼寇迫害，逃难至嵩山，被冷阳岳收留。",
+        "少时家中遭飞蝎坞侵袭，后被救回嵩山派。",
+        "一次偶然被冷阳岳所救，由是感激遂加入嵩山派。",
+        "因觉得嵩山派能实现自己的抱负，故而加入。",
+        "因想习练武功，就近加入了嵩山派。"
+      ],
+      [
+        "立志铲除邪派。",
+        "时常受命前往其它四岳。",
+        "平日多在山上勤修武功。",
+        "对少林寺有成见，有时会与少林弟子起口舌之争。",
+        "非常重视嵩山派的利益，对敌对势力深恶痛绝。",
+        "立志要做些大事，名扬江湖。",
+        "常与同门切磋，精进武艺。",
+        "以入嵩山派为荣，见不得别人说掌门的不是。",
+        "立志要承继嵩山。",
+        "立志要覆灭邪派，还江湖一个安宁。",
+        "平日会辅助掌门处理事务。",
+        "对嵩山派的利益极为看重，绝不容人侵害。",
+        "立志在江湖中闯出一番事业。",
+        "立志成为一代宗师。",
+        "平日负责派内杂务。"
+      ]
+    ],
+    "ID": "StoryData_Template_SongShanPai",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "因双亲遭烈日教迫害，逃难至华山，后被林文岳收为弟子。",
+        "仰慕林文岳力压烈日教的威名，故而加入华山派。",
+        "因想习得精妙剑法南峰诀，而拜入华山门下。",
+        "在绝顶论剑期间结识华山弟子，受其举荐而加入华山派。",
+        "自幼听闻华山派行侠仗义是武林正道，因而拜林文岳为师。",
+        "机缘之下受林文岳赏识，而拜入华山门下。",
+        "因想习得华山剑法，而拜林文岳为师。",
+        "自幼景仰华山剑术，因而拜入华山派门下。",
+        "少时被林文岳看中收为弟子。",
+        "少时蒙难得林文岳相救，因而拜入华山派门下。",
+        "被贼寇迫害，逃难至华山，被林文岳收留。",
+        "久闻华山乃名门正派，心向往之，遂拜林文岳为师。",
+        "因想匡扶正道，而加入华山派。",
+        "觉得加入华山派能实现自己的抱负，因而拜林文岳为师。",
+        "因想习练武功，就近加入了华山派。"
+      ],
+      [
+        "时常受命去盯防烈日教动向。",
+        "常负责派内杂务。",
+        "平日多在门派苦修，偶尔会去嵩山，交流习剑心得。",
+        "平日多在门派勤练武功。",
+        "以入华山派为荣，见不得别人说掌门的不是。",
+        "有时会外出行侠仗义。",
+        "常与同门切磋，交流习武心得。",
+        "立志要覆灭烈日教。",
+        "有时会与衡山弟子起口舌之争。",
+        "平日会协助掌门处理事务。",
+        "对林文岳极为敬重，绝不容他人诋毁。",
+        "立志扬名江湖。",
+        "立志光大华山派。",
+        "有时会在房里观看书籍。",
+        "平日负责向师门传递信息。"
+      ]
+    ],
+    "ID": "StoryData_Template_HuaShanPai",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "机缘之下结识刘黄安，被其收入门下。",
+        "自幼景仰衡山剑术，因而拜入衡山派门下。",
+        "因受飞蝎坞迫害，逃难至潭州结识了衡山弟子，受其举荐而加入衡山派。",
+        "因想习得七十二峰剑，而加入衡山派。",
+        "因想习练武功，就近就加入了衡山派。",
+        "一次来衡山游玩，被刘黄安赏识，从而收入门下。",
+        "因想习得衡山落雁剑法，而拜刘黄安为师。",
+        "被刘黄安看中收为弟子。",
+        "一次蒙难被刘黄安所救，心生感激，遂加入衡山派。",
+        "父母被大雄帮贼寇杀害，逃难至衡山，被刘黄安收留。",
+        "因父母与刘黄安是故交，少时便拜入衡山派门下。",
+        "觉得加入衡山派能一展抱负，遂拜刘黄安为师。",
+        "久闻衡山乃名门正派，心向往之，遂拜刘黄安为师。",
+        "曾被贼寇掳走，幸得刘黄安相救，感激之下故而加入衡山派。",
+        "因想精进剑法，故而加入衡山派。"
+      ],
+      [
+        "时常受命前往百丈山庄与丐帮。",
+        "时常与同门切磋比试，以精进武功。",
+        "对天尊教，飞蝎坞这些邪派深恶痛绝。",
+        "平日多在山上苦修。",
+        "立志要扬名江湖。",
+        "不喜江湖纷争，只愿自己平平安安。",
+        "平日负责派内杂务。",
+        "平日看华山派弟子不顺眼。",
+        "立志光大衡山派。",
+        "平日会找同门切磋武功。",
+        "平日多在门派勤练武功。",
+        "立志习好武功，名动江湖。",
+        "立志要铲除邪派。",
+        "平日会协助掌门处理事务。",
+        "立志成为下一任衡山派掌门。"
+      ]
+    ],
+    "ID": "StoryData_Template_HengShanPaiZ",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "少时看破红尘，入少林为僧。",
+        "幼时遭父母遗弃，被永明大师收养拜入门下。",
+        "幼时便被少林高僧看中，带回了少林寺。",
+        "险被邪派中人杀害，幸得少林弟子路过相救，心怀感激从而加入少林寺。",
+        "在河南府乞讨时，被少林高僧发现其慧根，带回了少林寺。",
+        "因自幼景仰少林武学，因而出家入了少林寺。",
+        "逃难至少林寺，被永明大师收留。",
+        "因想修炼少林武功，而出家为僧。",
+        "一次来少林寺游玩，被永明大师看中，收为弟子。",
+        "幼时父母意外丧生，无依无靠，被永明大师收养带回寺中。",
+        "因贼寇迫害，逃难至河南府，结识少林寺弟子，受其举荐而拜入永明大师门下。",
+        "因永明大师救了自己的性命，由是感激，遂加入少林寺。",
+        "从小就对佛学感兴趣，听闻永明大师佛法高深，心生仰慕，遂加入少林寺。",
+        "因受父母托付，被永明大师收养。",
+        "因觉得可以在少林寺潜修佛法，故而拜入永明大师门下。"
+      ],
+      [
+        "一心参悟佛法，偶尔也会去其他寺庙听高僧讲经。",
+        "对少林寺的名声极为看重，绝不容别人诋毁。",
+        "平日四处游历，弘扬佛法。",
+        "平日常在中原一带惩恶扬善。",
+        "平日多在山上吃斋念佛，偶尔下山去化缘。",
+        "立志习武成为一代宗师。",
+        "立志承继永明大师的衣钵。",
+        "立志要成为一代高僧。",
+        "立志要在绝顶之争中，为少林寺再度夺魁。",
+        "闲暇时，会在房中打坐参禅。",
+        "平日会与同门切磋武艺。",
+        "多在寺内苦修，极少外出。",
+        "立志要游历天下弘扬佛法。",
+        "一心砖研佛法。",
+        "平日协助主持料理事务。"
+      ]
+    ],
+    "ID": "StoryData_Template_ShaoLinSi",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "对峨嵋剑法心向往之，故而拜入峨嵋派门下。",
+        "得知珈古师太有西蜀第一剑客的美誉，心生仰慕，因而加入峨嵋派。",
+        "被珈古师太看中收为弟子。",
+        "少时被双亲送去峨嵋派学艺。",
+        "机缘之下被珈古师太收为入室弟子。",
+        "险被大江帮贼寇欺辱，幸得峨嵋弟子路过相救，心怀感激从而加入峨嵋派。",
+        "因想精进自己的剑法，而加入峨嵋派。",
+        "因想和珈古师太一样成为女中豪杰，而加入峨嵋派。",
+        "因想习练武功，从而让自己有自保的能力，遂加入了峨嵋派。",
+        "偶然间结识泉心诺，受邀而加入峨嵋派。",
+        "受峨嵋派弟子举荐，而拜珈古师太为师。",
+        "不堪贼寇侵扰，逃难至峨嵋派附近，后拜珈古师太为师。",
+        "觉得跟泉心诺意气相投，而加入峨嵋派。",
+        "一次蒙难被珈古师太所救，由是感激遂加入峨嵋派。",
+        "久闻珈古师太的威名，一心想着加入峨嵋派，后得偿所愿。"
+      ],
+      [
+        "平日无事之时，便会勤练武功。",
+        "立志习好武功，名传天下。",
+        "平日多在山上苦练武功，偶尔外出欣赏西蜀风光。",
+        "常年受珈古师太熏陶，立志要铲除天尊教等邪派。",
+        "对青城派弟子颇有成见，常与青城弟子起口角。",
+        "立志要光大峨嵋。",
+        "对天尊教有成见。",
+        "对邪派深恶痛绝。",
+        "立志要在绝顶之争代表峨嵋派出战。",
+        "闲暇时，会在房中打坐。",
+        "平日会与同门切磋，以精进武艺。",
+        "无意江湖纷争，只愿自己平安喜乐。",
+        "立志要获得掌门的真传。",
+        "平日积极表现，期望能获得掌门的青睐。",
+        "平日负责派内杂务。"
+      ]
+    ],
+    "ID": "StoryData_Template_EMeiPai",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "自幼有鸿鸿之志，以入武当门下为人生目标，后得偿所愿。",
+        "被张真人云游之时所看中，收入武当门下。",
+        "敬仰张真人之品行，而加入武当派。",
+        "遭宝峰帮贼寇迫害，逃难至武当山，被张真人看中收为弟子。",
+        "因想习得武当绵掌，而拜入武当门下。",
+        "因想习练武当武学，而加入武当派。",
+        "因想修炼武当剑法，而加入武当派。",
+        "想加入名门正派，就近加入了武当派。",
+        "因想习武，就近加入了武当派。",
+        "偶然间结识徐长玉，受邀而加入武当派。",
+        "受武当派弟子举荐，而拜张三丰为师。",
+        "不堪贼寇侵扰，逃难至武当山附近，后拜三丰真人为师。",
+        "觉得跟徐长玉意气相投，而加入武当派。",
+        "一次蒙难被徐长玉所救，由是感激遂加入武当派。",
+        "久闻三丰真人的威名，一心想着加入武当派，后得偿所愿。"
+      ],
+      [
+        "常协助徐长玉料理武当事务。",
+        "平日多在山上习武修道。",
+        "立志学有所成后善济天下。",
+        "一心习武要将为祸乡里的贼寇铲除。",
+        "立志要像师父张真人那样名震江湖。",
+        "常下山救助被邪派迫害的人。",
+        "对天尊教有成见。",
+        "对邪派深恶痛绝。",
+        "立志要在绝顶之争代表武当派出战。",
+        "闲暇时，会在房中打坐。",
+        "平日会与同门切磋武艺。",
+        "无意江湖纷争，多在山上苦修。",
+        "立志要获得武当真传。",
+        "平日外出行侠仗义。",
+        "平日负责派内杂务。"
+      ]
+    ],
+    "ID": "StoryData_Template_WuDangPai",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "因看破世事繁华，入全真修道。",
+        "对道法颇有见地，因而被重阳真人收为弟子。",
+        "自幼父母双亡，在京兆府中行乞，被重阳真人看中收入门下。",
+        "因不堪烈日教侵扰而逃离故土，加入了全真教。",
+        "因想习得全真武学，而拜入重阳真人门下。",
+        "久慕全真威名，而加入全真教。",
+        "因想修炼全真剑法，而加入全真教。",
+        "想加入名门正派，就近加入了全真教。",
+        "因想修炼全真掌法，而加入全真教。",
+        "偶然间结识王重阳，受邀而加入全真教。",
+        "受全真教弟子举荐，而拜王重阳为师。",
+        "不堪贼寇侵扰，逃难至京兆府附近，后拜重阳真人为师。",
+        "敬佩重阳真人的德行，而加入全真教。",
+        "一次蒙难被王重阳所救，由是感激遂加入全真教。",
+        "久闻重阳真人的威名，一心想着加入全真教，后得偿所愿。"
+      ],
+      [
+        "平日多在山上苦修，偶尔下山游历。",
+        "常负责料理全真杂务。",
+        "一心苦修以报知遇之恩。",
+        "常与同门一起练功切磋。",
+        "立志要向掌教真人那般受世人景仰。",
+        "最见不得奸邪作祟。",
+        "对嵩山派有成见。",
+        "对邪派深恶痛绝。",
+        "希望铲除天下邪派，还江湖一个安宁。",
+        "闲暇时，会在房中观看道经。",
+        "平日会与同门切磋武艺。",
+        "无意江湖纷争，多在山上苦修。",
+        "立志要承继全真道统。",
+        "多在山上潜修，极少外出。",
+        "平日负责教内杂务。"
+      ]
+    ],
+    "ID": "StoryData_Template_QuanZhenJiao",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "幼时饱受欺凌，后机缘之下被帝阳天赏识收入天尊教。",
+        "信守以强者为尊的法则，认为入天尊教是自己的不二之选，后得偿所愿。",
+        "对教主帝阳天十分敬仰，因而加入天尊教。",
+        "自小就耳濡目染天尊教的威名，一直憧憬自己可以加入，后果然如愿。",
+        "因想习得天尊武学，而拜入帝阳天门下。",
+        "因想习得天剑诀，因而加入天尊教。",
+        "因想修炼降魔天尊掌，而加入天尊教。",
+        "因想习武就近加入了天尊教。",
+        "被司放看中，而加入天尊教。",
+        "受司放举荐，而加入天尊教。",
+        "觉得跟着帝阳天能实现抱负，而加入天尊教。",
+        "受司放所邀，而加入天尊教。",
+        "被正派围剿，逃难至天尊教附近，后被帝阳天收留。",
+        "一次遇险被司放所救，由是感激遂加入天尊教。",
+        "久闻天尊教的威名，一心想着加入，后得偿所愿。"
+      ],
+      [
+        "常常在外作恶。",
+        "对正道的做派很是鄙夷。",
+        "最容不得别人诋毁教主。",
+        "立志要让天尊教扫清正派一统江湖。",
+        "平日多在教内勤练武功。",
+        "多次憧憬自己未来名震武林的场景。",
+        "一心想覆灭正派。",
+        "常与正派弟子争斗。",
+        "立志要在绝顶之争中扬名。",
+        "闲暇时，会在房中砖研武学。",
+        "平日会与同门切磋武功。",
+        "多在教内苦修，极少外出。",
+        "立志要成为天下第一。",
+        "一心想获得教主的青睐。",
+        "平日协助代教主料理事务。"
+      ]
+    ],
+    "ID": "StoryData_Template_TianZunJiao",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "欣赏教主阎穆一的性情，故而加入烈日教。",
+        "曾受前教主阎洪震之恩，故而加入烈日教。",
+        "一次偶然被阎穆一所救，由是感激遂加入烈日教。",
+        "自幼就知晓烈日教的威名，一心想着拜入门下。",
+        "因想习得西域王霸刀法，而加入烈日教。",
+        "因想精进自己的刀法，而拜入烈日教门下。",
+        "因想习得火焰刀法，而加入烈日教。",
+        "因想习武就近加入了烈日教。",
+        "被阎穆一看中，而加入烈日教。",
+        "受人举荐，而加入烈日教。",
+        "觉得跟着阎穆一能实现抱负，而加入烈日教。",
+        "受阎穆一所邀，而加入烈日教。",
+        "被正派围剿，逃难至烈日教附近，后被阎穆一收留。",
+        "一次遇险被阎穆一所救，由是感激遂加入烈日教。",
+        "久闻烈日教的威名，一心想着加入，后得偿所愿。"
+      ],
+      [
+        "平日最看不惯华山派，认为他们都是一群伪君子。",
+        "立志要助教主阎穆一兴盛烈日教。",
+        "常常外出为非作歹。",
+        "对嵩山派很是鄙夷，若是遇见嵩山弟子总要争个高下。",
+        "一心想靠着自己的所学闯下赫赫威名。",
+        "平日多在教中苦修。",
+        "一心想覆灭华山派。",
+        "对嵩山派很有成见。",
+        "立志要在绝顶之争中扬名。",
+        "闲暇时，会在房中砖研武学。",
+        "平日会与同门比试武功。",
+        "多在教内苦修，极少外出。",
+        "立志要扬名天下。",
+        "一心想获得教主的青睐。",
+        "平日协助教主料理事务。"
+      ]
+    ],
+    "ID": "StoryData_Template_LieRiJiao",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "过够了被人欺辱的日子，毅然加入血手门。",
+        "因受刘正风赏识，而加入血手门。",
+        "觉得血手门嗜杀嗜血的行事非常适合自己，于是拜入刘正风门下。",
+        "非常欣赏刘正风的杀伐果决，因而加入血手门。",
+        "因想习得血手夺命掌，而拜入刘正风门下。",
+        "偶然之下拜入血手门。",
+        "因想修炼冥灵掌，而加入血手门。",
+        "被刘正风看中，而加入血手门。",
+        "觉得血手门的做派，很符合自己，于是拜入刘正风门下。",
+        "觉得跟着刘正风能实现抱负，而加入血手门。",
+        "因被正派围剿，走投无路加入了血手门。",
+        "本是黑台帮贼寇，觉得跟着刘正风更有前途，而转投血手门。",
+        "受刘正风所邀，而加入血手门。",
+        "因遭正派巡捕追击，想寻求庇护而投靠刘正风。",
+        "久闻刘正风的威名，一心想着加入血手门，后得偿所愿。"
+      ],
+      [
+        "决心练好武功，报复欺负过自己的人。",
+        "常受掌门之命，关注恒山派的动向。",
+        "一直想铲除恒山派。",
+        "立志要让所有人臣服于自己。",
+        "仗着自己的武功常外出作恶。",
+        "最大的心愿就是剿灭少林寺。",
+        "常常外出为非作歹。",
+        "常与正派弟子发生争斗。",
+        "平日会与同门切磋武艺。",
+        "平日积极表现，期望刘正风能对自己另眼相待。",
+        "立志要成为下一任门主。",
+        "立志要覆灭敌对势力。",
+        "一心跟着刘正风干一番大事。",
+        "立志要名震八方。",
+        "多在门派内苦修，极少外出。"
+      ]
+    ],
+    "ID": "StoryData_Template_XueShouMen",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "被江湖正派围剿，走投无路加入了飞蝎坞。",
+        "少时流落街头，十分落魄，后来投靠了飞蝎坞。",
+        "机缘之下受上官正赏识，而加入飞蝎坞。",
+        "久闻上官正的威名，一直想着加入飞蝎坞，后果真如愿。",
+        "因想精进自己的鞭法，而拜入上官正门下。",
+        "一心想学无常索命鞭，故而加入了飞蝎坞。",
+        "因想习武就近加入了飞蝎坞。",
+        "被上官正看中，而加入飞蝎坞。",
+        "觉得飞蝎坞的做派，很符合自己，于是拜入上官正门下。",
+        "觉得跟着上官正能实现抱负，而加入飞蝎坞。",
+        "因想习练飞蝎毒鞭，而加入飞蝎坞。",
+        "本是大雄帮贼寇，觉得跟着上官正更有前途，而转投飞蝎坞。",
+        "受上官正所邀，而加入飞蝎坞。",
+        "因遭正派巡捕追击，想寻求庇护而投靠上官正。",
+        "久闻上官正的威名，一心想着加入飞蝎坞，后得偿所愿。"
+      ],
+      [
+        "常常外出为祸乡里。",
+        "平日喜怒无常，做事不择手段。",
+        "行事不循常理，常暗算他人。",
+        "立志要帮掌门成就大事。",
+        "一心想着如何铲除正派。",
+        "平日多在门派内苦练武功。",
+        "常与正派弟子发生争斗。",
+        "平日会与同门切磋武艺。",
+        "平日积极表现，期望上官正能对自己另眼相待。",
+        "立志成为下一任掌门。",
+        "立志要覆灭敌对势力。",
+        "一心跟着上官正干一番大事。",
+        "立志要名震天下。",
+        "立志要成为天下第一。",
+        "多在门派内苦修，极少外出。"
+      ]
+    ],
+    "ID": "StoryData_Template_FeiXieWu",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "因双亲故去家道中落，沦为乞丐，后受狄百伯赏识，收入丐帮。",
+        "曾经是一名小乞丐，后来投靠了丐帮。",
+        "因受丐帮弟子举荐，而加入丐帮。",
+        "因不堪大雄帮侵扰而逃离故土，加入了丐帮。",
+        "希望能习得降龙神掌，因而加入丐帮。",
+        "得知丐帮人多势众广布天下，因而加入。",
+        "听闻丐帮广收门徒，便加入门下。",
+        "机缘之下被狄百伯看中，而加入丐帮。",
+        "受丐帮弟子举荐，而加入丐帮。",
+        "被狄百伯的为人吸引，因而加入丐帮。",
+        "本是一名小乞丐，受狄百伯赏识而加入丐帮。",
+        "觉得丐帮的生活很安逸，因而加入。",
+        "觉得跟狄百伯意气相投，而加入丐帮。",
+        "一次蒙难被狄百伯所救，由是感激遂加入丐帮。",
+        "因想修炼洪荒打狗棒，而加入丐帮。"
+      ],
+      [
+        "平日游历四方，足迹遍布各地。",
+        "对五毒洞之人恨之入骨，常想教训一下他们。",
+        "常随帮主狄百伯一起，接济穷困潦倒之人。",
+        "决心练好武功造福乡里。",
+        "平日在帮中勤练武功。",
+        "立志要在众多丐帮弟子之中脱颖而出，受到帮主赏识。",
+        "对五毒洞深恶痛绝。",
+        "有时会与五毒洞弟子发生争斗。",
+        "平日会去大城市行乞。",
+        "立志习好武功，从而名动江湖。",
+        "平日多在苦修，期望有朝一日能成为武学宗师。",
+        "一心想在丐帮干出一番大事。",
+        "平日会与其他帮众切磋武艺。",
+        "一心协助帮主光大丐帮。",
+        "胸无大志，只愿自己平安喜乐。"
+      ]
+    ],
+    "ID": "StoryData_Template_GaiBang",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "机缘之下结识青城弟子，受其举荐加入了青城派。",
+        "少时遇险幸得闻风林相救，感其大恩遂拜为师父。",
+        "遭大江帮贼寇迫害，逃难至青城附近，因受闻风林赏识而收为弟子。",
+        "自幼被双亲送入青城派学艺。",
+        "因想习得松风剑法而加入青城派。",
+        "阴差阳错之下拜了闻风林为师。",
+        "因想修炼白云飞泉步，便拜闻风林为师。",
+        "机缘之下被闻风林看中，而加入青城派。",
+        "受青城弟子举荐，而拜闻风林为师。",
+        "因父母与闻风林是故交，被收为弟子。",
+        "因想习练武功，就近加入了青城派。",
+        "被闻风林赏识，而加入青城派。",
+        "偶然间结识闻风林，受邀加入青城派。",
+        "一次蒙难被闻风林所救，由是感激，遂加入青城派。",
+        "流落街头被闻风林收留。"
+      ],
+      [
+        "有时会奉命外出采购食材。",
+        "不甘青城派日渐式微的现状，一心想重振青城威名。",
+        "平日多在山上潜修。",
+        "常与峨嵋派弟子起口舌之争。",
+        "每日在山上苦修，坚信自己日后能够名动江湖。",
+        "对飞蝎坞之人深恶痛绝，认为他们多行不义必有报应。",
+        "对峨嵋派有成见。",
+        "立志要光大青城派。",
+        "立志要在绝顶之争露露脸。",
+        "闲暇时，会在房中打坐。",
+        "平日会与同门切磋，以精进武艺。",
+        "无意江湖纷争，只愿自己平安喜乐。",
+        "立志要名动江湖。",
+        "一心想要让掌门另眼相待。",
+        "平日负责派内杂务。"
+      ]
+    ],
+    "ID": "StoryData_Template_QingChengPai",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "因想修习轻功，而加入百丈山庄。",
+        "受孟万贤赏识而加入百丈山庄。",
+        "听闻百丈山庄弟子待遇优厚，因而拜入孟万贤门下。",
+        "逃难至百丈山庄附近，被孟万贤看中收为弟子。",
+        "因想修习百丈登云步，而加入了百丈山庄。",
+        "因想修习百丈擒拿手，而加入了百丈山庄。",
+        "因想修练白云身法，而加入百丈山庄。",
+        "因遭飞蝎坞迫害，逃难至百丈山庄，被孟万贤收留。",
+        "受孟万贤所邀，而加入百丈山庄。",
+        "流落街头被百丈山庄弟子看中，带回门派。",
+        "一次遇险，幸得孟万贤路过相救，感激之下加入百丈山庄。",
+        "听闻孟万贤的威名，一心想加入百丈山庄，后得偿所愿。",
+        "因想习武，就近加入了百丈山庄。",
+        "因想精进自己的轻功，而加入了百丈山庄。",
+        "觉得加入百丈山庄能实现抱负，故而拜孟万贤为师。"
+      ],
+      [
+        "常与同门比试武功。",
+        "喜欢过闲云野鹤的生活，无事之时，不常外出。",
+        "常常协助孟万贤料理庄务。",
+        "时常外出注意飞蝎坞动向。",
+        "平日多在庄内苦练武功。",
+        "常受庄主之命去附近城镇采购物资。",
+        "对天尊教颇有成见。",
+        "有时会与幽明派弟子发生争斗。",
+        "平日负责庄内杂务。",
+        "立志习好武功，从而名动江湖。",
+        "平日多在苦修，期望有朝一日武功能超过庄主。",
+        "一心想在百丈山庄干出一番大事。",
+        "平日会与同门切磋武艺。",
+        "平日刻苦修炼，期望有朝一日能代表百丈山庄参加绝顶之争。",
+        "胸无大志，只愿自己平安喜乐。"
+      ]
+    ],
+    "ID": "StoryData_Template_BaiZhangShanZhuang",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "听闻青王寺曾是第一届绝顶论剑的魁首，因而拜入曲雍大师门下。",
+        "少时看破红尘，在青王寺出家。",
+        "幼时遭人贩拐卖，幸得曲雍大师相救，收为门下弟子。",
+        "机缘之下在青王寺佛前顿悟，看破世事繁华出家为僧。",
+        "因想习得青王掌法，而加入了青王寺。",
+        "因敬佩曲雍大师的德行，而加入了青王寺。",
+        "逃难至青王寺，被曲雍大师收留。",
+        "因想修炼云曦诀，而加入青王寺。",
+        "一次来青王寺游玩，被曲雍大师看中，收为弟子。",
+        "幼时父母意外丧生，无依无靠，被曲雍大师收养带回寺中。",
+        "因贼寇迫害，逃难至福州，结识青王寺弟子，受其举荐拜曲雍大师为师。",
+        "因曲雍大师救了自己的性命，由是感激，遂加入青王寺。",
+        "从小就对佛学感兴趣，听闻曲雍大师佛法高深，心生仰慕，遂加入青王寺。",
+        "因受父母托付，被曲雍大师收养。",
+        "因觉得可以在青王寺潜修佛法，故而拜入曲雍大师门下。"
+      ],
+      [
+        "立志要兴盛青王寺。",
+        "平日常在房中静坐参禅。",
+        "平日负责打理寺内杂务。",
+        "常常外出化缘。",
+        "平日多在寺中苦修。",
+        "立志成为一代高僧。",
+        "立志承继曲雍大师的衣钵。",
+        "立志要光大青王寺。",
+        "立志要在绝顶之争中，为青王寺再度夺魁。",
+        "闲暇时，会在房中砖研武学。",
+        "平日会与同门切磋武艺。",
+        "多在寺内苦修，极少外出。",
+        "立志要游历天下弘扬佛法。",
+        "一心砖研佛法。",
+        "平日协助主持料理事务。"
+      ]
+    ],
+    "ID": "StoryData_Template_QingWangSi",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]性情淡泊，与世无争。",
+        "[CharacterName]身世神秘，不知来自何方。",
+        "[CharacterName]少言寡语，很少开口说话。"
+      ],
+      [
+        "每日守在凌天逍遥阁内，鲜少与外界来往。",
+        "对凌天逍遥阁以外的事，似乎不感兴趣。",
+        "一心醉心于武学，对其他之事意兴寥寥。"
+      ],
+      [
+        "常独自练功，所练的是一些江湖中闻所未闻的功法。",
+        "平日无事之时，常会阅读一些古籍。",
+        "偶尔外出时，会有意隐匿自己的行迹。"
+      ]
+    ],
+    "ID": "StoryData_Template_XiaoYaoPai",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]性情果断，胸怀大志。",
+        "[CharacterName]生于兰州一带。",
+        "[CharacterName]处事谨慎，一丝不苟。"
+      ],
+      [
+        "是凌天宗少有的几个弟子之一，聪明好学，很有天赋。",
+        "平日勤勉练习七绝拳，一心想将此功法在江湖中发扬光大。",
+        "想在江湖中做出一番成就，并借此来壮大崆峒派之名。"
+      ],
+      [
+        "几乎不会外出，只在门派内闭门练功。",
+        "有一副侠义心肠，为同门所敬重。",
+        "平日练功精益求精，从不懈怠。"
+      ]
+    ],
+    "ID": "StoryData_Template_KongTongPai",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "得知符昊焱刀法精妙，想习得一招半式，故而加入了炎凤堂。",
+        "受符昊焱赏识，而加入炎凤堂。",
+        "受炎凤堂弟子举荐，而拜入符昊焱门下。",
+        "欣赏符昊焱的性情，而加入炎凤堂。",
+        "因想精进刀法，故而加入了炎凤堂。",
+        "对凤凰刀法仰慕已久，一心想加入炎凤堂，后终于得偿所愿。",
+        "因想习得霹雳刀法，而加入炎凤堂。",
+        "因想习武就近加入了炎凤堂。",
+        "被符昊焱看中，而加入炎凤堂。",
+        "受人举荐，而拜符昊焱为师。",
+        "觉得跟着符昊焱能实现抱负，而加入炎凤堂。",
+        "受符昊焱所邀，而加入炎凤堂。",
+        "被贼寇迫害，逃难至炎凤堂附近，后被符昊焱收留。",
+        "一次遇险被符昊焱所救，由是感激遂加入炎凤堂。",
+        "久闻符昊焱的威名，一心想着加入炎凤堂，后得偿所愿。"
+      ],
+      [
+        "立志成为刀法宗师。",
+        "常奉命外出采购物资。",
+        "平日对幽鸿宫弟子颇有微词。",
+        "立志在江湖中闯出一番事业。",
+        "平日对烈日教的弟子很是鄙夷。",
+        "无事之时，便会潜心修炼。",
+        "对烈日教颇有成见。",
+        "立志要光大炎凤堂。",
+        "立志要在绝顶之争中扬名。",
+        "闲暇时，会在房中砖研武学。",
+        "平日会与同门比试武功。",
+        "多在堂内苦修，极少外出。",
+        "立志要扬名天下。",
+        "一心想获得堂主青睐。",
+        "平日协助堂主料理事务。"
+      ]
+    ],
+    "ID": "StoryData_Template_YanFengTang",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]乐观豁达，心胸宽广。",
+        "[CharacterName]出身自杭州的大户人家。",
+        "[CharacterName]性格稳重，遇事冷静。"
+      ],
+      [
+        "因头脑聪慧而被持书人看中，成为天书阁弟子。",
+        "深受天书阁看重，常协助处理论剑事宜。",
+        "知道很多江湖中的消息，协助撰写天书榜。"
+      ],
+      [
+        "擅长交际，无论何种境况，都能与人聊得来。",
+        "常来往于各大市镇，与不同的人攀谈。",
+        "常流连于勾栏瓦舍之间，与说书人甚是相熟。"
+      ]
+    ],
+    "ID": "StoryData_Template_TianShuGe",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "遭恶霸欺凌，幸得鸿仙灵路过相救，感激之下加入幽鸿宫。",
+        "因家道中落，沦落风尘以卖唱为生，后得鸿仙灵解救加入幽鸿宫。",
+        "因得鸿仙灵救济，感恩之下加入幽鸿宫。",
+        "因仰慕鸿仙灵救助女子的情操，而加入幽鸿宫。",
+        "因想习得幽鸿宫绝技鸿飞绝燕，而拜入鸿仙灵门下。",
+        "因想精进自己的暗器造诣，而拜入鸿仙灵门下。",
+        "因想修习幽然金飞，而加入幽鸿宫。",
+        "因想和鸿仙灵一样救助女子，而加入幽鸿宫。",
+        "因想习练武功，从而让自己有自保的能力，遂加入了幽鸿宫。",
+        "偶然间结识鸿仙灵，受邀而加入幽鸿宫。",
+        "受幽鸿宫弟子举荐，而拜鸿仙灵为师。",
+        "不堪贼寇侵扰，逃难至幽鸿宫附近，后拜鸿仙灵为师。",
+        "觉得跟鸿仙灵意气相投，而加入幽鸿宫。",
+        "一次蒙难被鸿仙灵所救，由是感激遂加入幽鸿宫。",
+        "久闻鸿仙灵的威名，一心想着加入幽鸿宫，后果真如愿。"
+      ],
+      [
+        "平日协助宫主料理事务。",
+        "平日最恨欺凌女子之徒。",
+        "有时会外出散心，观赏风景。",
+        "时时以掌门为榜样，以救助女子为己任。",
+        "平日多在宫内苦修。",
+        "立志光大幽鸿宫。",
+        "对天尊教有成见。",
+        "对飞蝎坞深恶痛绝。",
+        "立志要在绝顶之争代表幽鸿宫出战。",
+        "闲暇时，会在房中打坐。",
+        "平日会与同门切磋，以精进武艺。",
+        "无意江湖纷争，只愿自己平安喜乐。",
+        "立志要获得宫主的真传。",
+        "一心想获得宫主青睐。",
+        "平日负责宫内杂务。"
+      ]
+    ],
+    "ID": "StoryData_Template_YouHongGong",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "认定跟着薛简能就实现自己的抱负，故而加入了铁掌门。",
+        "受到薛简赏识而加入了铁掌门。",
+        "受铁掌门弟子举荐，而拜入薛简门下。",
+        "因作恶被泰山派弟子追捕，逃到铁掌门附近，被薛简收留。",
+        "想要修习雄狮铁掌，因而加入了铁掌门。",
+        "一次遭难被薛简所救，由是感激遂加入铁掌门。",
+        "因想习武就近加入了铁掌门。",
+        "被薛简看中，而加入铁掌门。",
+        "受人举荐，而拜薛简为师。",
+        "觉得跟着薛简能实现抱负，而加入铁掌门。",
+        "因想习练武功，就近加入了铁掌门。",
+        "本是黑台帮贼寇，觉得跟着薛简更有前途，而转投铁掌门。",
+        "一次遇险被薛简所救，由是感激遂加入铁掌门。",
+        "本是梁山帮贼寇，受晁盖举荐，而加入铁掌门。",
+        "久闻薛简的威名，一心想着加入铁掌门，后得偿所愿。"
+      ],
+      [
+        "平日积极表现，期望掌门能对自己另眼相待。",
+        "立志要跟着掌门干一番大事。",
+        "平日多在门内潜修。",
+        "平日负责门内杂务。",
+        "常与同门切磋比试，以精进功力。",
+        "立志要铲除泰山派，让铁掌门名震江湖。",
+        "常与泰山派弟子发生争斗。",
+        "平日会与同门切磋武艺。",
+        "平日积极表现，期望薛简能对自己另眼相待。",
+        "立志成为下一任掌门。",
+        "对泰山派很有成见。",
+        "没什么大的志向，只想跟着薛简作威作福。",
+        "立志要名震天下。",
+        "立志要光大铁掌门。",
+        "平日协助掌门料理事务。"
+      ]
+    ],
+    "ID": "StoryData_Template_XiongShiTieZhangMen",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "听闻林白熊广纳弟子，便加入了南阳拳庄。",
+        "少时被父母送去南阳拳庄学艺。",
+        "被林白熊赏识收为弟子。",
+        "一次遇险，幸得林白熊路过相救，感激之下加入南阳拳庄。",
+        "因想习得南阳拳，而拜入林白熊门下。",
+        "听闻林白熊和黑白两道都有交情，想寻求庇护，故而加入南阳拳庄。",
+        "听闻南阳拳庄广收门徒，便拜林白熊为师。",
+        "机缘之下被林白熊看中，而加入南阳拳庄。",
+        "受南阳拳庄弟子举荐，而拜林白熊为师。",
+        "觉得跟着林白熊能实现抱负，而加入南阳拳庄。",
+        "因想习练武功，就近加入了南阳拳庄。",
+        "本是一名贼寇，觉得跟着林白熊更有前途，而转投南阳拳庄。",
+        "觉得跟林白熊意气相投，而加入南阳拳庄。",
+        "一次蒙难被林白熊所救，由是感激遂加入南阳拳庄。",
+        "久闻林白熊的威名，一心想着加入南阳拳庄，后果真如愿。"
+      ],
+      [
+        "常与同门切磋比试，以精进武功。",
+        "立志学好武功扬名天下。",
+        "平日负责招待来庄里歇脚的江湖人士。",
+        "一心协助庄主料理事务。",
+        "平日多在庄内勤练武功。",
+        "有时会奉命外出采购物资。",
+        "平日多在庄内修炼武功。",
+        "立志要光大南阳拳庄。",
+        "立志要在绝顶之争露露脸。",
+        "闲暇时，会在房中打坐。",
+        "平日会与同门切磋武艺。",
+        "无意江湖纷争，只愿自己平平安安。",
+        "立志要扬名江湖。",
+        "一心想获得庄主青睐。",
+        "平日负责庄内杂务。"
+      ]
+    ],
+    "ID": "StoryData_Template_NanYangQuanZhuang",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "得知玄天阁精通偷盗之术，心向往之，于是拜玄乙阳为师。",
+        "机缘之下拜得玄乙阳为师。",
+        "被玄乙阳看中收为弟子。",
+        "少时本是一名小窃贼，偶然间见识玄乙阳的本领，大为震惊，遂加入玄天阁。",
+        "因想学玄天剑法，而拜入玄乙阳门下。",
+        "幼时流落街头被玄乙阳收养。",
+        "因想精进自己的盗术，而加入玄天阁。",
+        "因想修习玄天步法，而拜玄乙阳为师。",
+        "偶然间结识玄乙阳，受其所邀而加入玄天阁。",
+        "因贼寇迫害，逃难至青州，结识玄天阁弟子，受其举荐拜玄乙阳为师。",
+        "受玄乙阳赏识，加入了玄天阁。",
+        "从小就对偷盗之术感兴趣，听闻玄乙阳乃此道高手，心向往之，遂加入玄天阁。",
+        "因父母与玄乙阳是故交，被其收入门下。",
+        "从小就喜欢偷窃，后因人引荐而加入玄天阁。",
+        "从小被双亲送入玄天阁学艺。"
+      ],
+      [
+        "立志要珍藏世间的奇珍异宝。",
+        "用自己所学盗术窃得不少珍品。",
+        "常常孝敬师父不少藏书。",
+        "一心苦修偷盗之术。",
+        "立志扬名江湖。",
+        "平日多在阁内苦练技艺。",
+        "平日多在阁内研习武艺。",
+        "立志要获得阁主的盗术真传。",
+        "立志要窃尽天下奇珍。",
+        "闲暇时，会在房中观看书籍。",
+        "平日会与同门切磋，精进武艺。",
+        "无意江湖纷争，只愿自己平安喜乐。",
+        "立志光大玄天阁。",
+        "立志游历天下盗尽奇珍异宝。",
+        "平日负责阁内杂务。"
+      ]
+    ],
+    "ID": "StoryData_Template_XuanTianGe",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "听闻龙断天的厨艺世间少有人能与之比肩，心生仰慕，故而加入饕餮门。",
+        "听说龙断天有一本春秋时期流传下来的食谱，一心想看一看，遂加入饕餮门。",
+        "本是一名食客，偶然间尝了龙断天做的菜肴，心中再无其它，遂拜龙掌门为师。",
+        "少时被双亲送去饕餮门学艺。",
+        "被龙断天看中收为弟子。",
+        "被铁掌门迫害逃难至饕餮门附近，后被龙断天收留。",
+        "被龙断天赏识收为弟子。",
+        "因想精进自己的厨艺，而加入饕餮门。",
+        "受父母之命而加入饕餮门。",
+        "偶然间结识龙断天，受其所邀而加入饕餮门。",
+        "因贼寇迫害，逃难至青州，结识饕餮门弟子，受其举荐拜龙断天为师。",
+        "一次遇险被龙断天所救，由是感激，遂加入饕餮门。",
+        "从小就对烹饪感兴趣，听闻龙断天是当世大厨，心生仰慕，遂加入饕餮门。",
+        "为了自己厨艺有所突破，而拜龙断天为师。",
+        "因觉得可以在饕餮门实现理想，故而拜龙断天为师。"
+      ],
+      [
+        "常外出采购食材。",
+        "平日多在门内钻研厨艺。",
+        "立志吃遍世间美味。",
+        "立志要成为和掌门一样的大厨。",
+        "胸无大志，只愿自己平平安安。",
+        "常与同门较艺。",
+        "平日多在门内研习菜谱。",
+        "立志要获得掌门的厨艺真传。",
+        "立志要名传天下。",
+        "闲暇时，会在房中研究菜谱。",
+        "对铁掌门有成见。",
+        "无意江湖纷争，只愿自己平安喜乐。",
+        "立志光大饕餮门。",
+        "立志游历天下尝遍世间美味。",
+        "平日负责门内杂务。"
+      ]
+    ],
+    "ID": "StoryData_Template_TaoTieMen",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "认为跟着吴幽子能享受荣华富贵，便加入了幽明派。",
+        "自小就知晓幽明派的威名，一心想着拜吴幽子为师，后果真如愿。",
+        "受吴幽子赏识而加入幽明派。",
+        "毛遂自荐投靠了吴幽子。",
+        "本是海门帮贼寇，受帮主白德海举荐，而加入幽明派。",
+        "因想习得幽明形意拳，而拜吴幽子为师。",
+        "因想习得幽柔功，而加入幽明派。",
+        "机缘之下被吴幽子看中，而加入幽明派。",
+        "受幽明派弟子举荐，而拜吴幽子为师。",
+        "觉得跟着吴幽子能实现抱负，而加入幽明派。",
+        "因想习练武功，就近加入了幽明派。",
+        "本是大雄帮贼寇，觉得跟着吴幽子更有前途，而转投幽明派。",
+        "一次遇险被吴幽子所救，由是感激遂加入幽明派。",
+        "一次蒙难被吴幽子所救，感激之下遂加入幽明派。",
+        "久闻吴幽子的威名，一心想着加入幽明派，后得偿所愿。"
+      ],
+      [
+        "立志要帮掌门成就一番大业。",
+        "立志习好武功，名动江湖。",
+        "平日协助掌门料理事务。",
+        "一心想在幽明派干出一番大事。",
+        "常在杭州一带与百丈山庄弟子起冲突。",
+        "一心练武，立志名动江湖。",
+        "平日会与同门切磋武艺。",
+        "平日积极表现，期望吴幽子能对自己另眼相待。",
+        "立志成为下一任掌门。",
+        "对百丈山庄很有成见。",
+        "没什么大的志向，只想跟着吴幽子作威作福。",
+        "立志要名动天下。",
+        "立志要光大幽明派。",
+        "多在派内苦修，极少外出。",
+        "平日负责派内杂务。"
+      ]
+    ],
+    "ID": "StoryData_Template_YouMingPai",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "久闻许十七是当世的棍法大家，心生仰慕，故而加入白鹤谷。",
+        "偶然结识白鹤谷弟子，受其举荐拜许十七为师。",
+        "少时受许十七看中，而加入白鹤谷。",
+        "自小被父母送去白鹤谷学艺。",
+        "因想修习白鹤棍法，而拜许十七为师。",
+        "因想精进棍法，而加入白鹤谷。",
+        "因想修练八仙棍法，而加入白鹤谷。",
+        "因遭飞蝎坞迫害，逃难至白鹤谷，受许十七赏识而拜入门下。",
+        "幼时父母意外丧生，被许十七收留。",
+        "幼年流落街头被白鹤谷弟子看中，带回门派。",
+        "一次遇险，幸得许十七路过相救，感激之下加入白鹤谷。",
+        "少时便听闻许十七的威名，一心想加入白鹤谷，后得偿所愿。",
+        "因想习武，就近加入了白鹤谷。",
+        "幼时遭人贩拐卖，幸得许十七相救，由是感激遂加入白鹤谷。",
+        "觉得加入白鹤谷能实现抱负，故而拜许十七为师。"
+      ],
+      [
+        "立志要超越师父成为棍法宗师。",
+        "有时会受命前往百丈山庄送信。",
+        "常在杭州与飞蝎坞弟子起冲突。",
+        "立志成为棍法宗师。",
+        "平日多在谷中潜修，期望有朝一日能扬名江湖。",
+        "一直期望自己能扬名江湖。",
+        "对飞蝎坞深恶痛绝。",
+        "平日负责谷内杂务。",
+        "有时会协助许十七处理谷内事务。",
+        "立志习好武功，从而名动江湖。",
+        "平日多在苦修，期望有朝一日武功能堪比谷主。",
+        "一心想在白鹤谷干出一番大事。",
+        "平日会与同门切磋武艺。",
+        "平日刻苦修炼，期望有朝一日能代表白鹤谷参加绝顶之争。",
+        "胸无大志，只愿自己平安喜乐。"
+      ]
+    ],
+    "ID": "StoryData_Template_BaiHeGu",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "听闻五毒洞掌门仇星裘毒术无双，心生仰慕，遂加入五毒洞。",
+        "因身中剧毒，幸得仇星裘相救，由是感激故而加入五毒洞。",
+        "受仇星裘赏识，而拜入五毒洞门下。",
+        "因被丐帮弟子教训怀恨在心，遂加入与丐帮有仇的五毒洞。",
+        "因想精进自己的毒术造诣，而加入五毒洞。",
+        "因想修习七色五毒掌，而拜仇星裘为师。",
+        "因想修练五毒钩法，而加入五毒洞。",
+        "因受仇星裘所邀，而加入五毒洞。",
+        "觉得加入五毒洞能实现自己的抱负，因而拜仇星裘为师。",
+        "因仇星裘祛除双亲的中的剧毒，由是感激，遂加入五毒洞。",
+        "偶然间结识五毒洞弟子，受其举荐拜仇星裘为师。",
+        "因被仇星裘看中，而加入五毒洞。",
+        "毛遂自荐投靠了仇星裘。",
+        "因想博览毒经，故而加入五毒洞。",
+        "一次蒙难被仇星裘所救，感激之下加入了五毒洞。"
+      ],
+      [
+        "立志要帮掌门扫清阻碍。",
+        "若无他事，便会独自闭门炼毒。",
+        "常受命在西蜀一带放毒。",
+        "一心研毒炼毒。",
+        "决心跟着仇星裘干一番大事。",
+        "常与丐帮弟子起纷争。",
+        "平日多在房中观看毒经。",
+        "平日研究毒方制作毒药。",
+        "平日负责洞内杂务。",
+        "立志要名震八方。",
+        "平日会与同门斗毒，以精进毒术造诣。",
+        "决心跟着洞主研习毒术。",
+        "时常听从仇星裘的吩咐前往江南一带行事。",
+        "闲暇之时，便会独自闭门观看毒经。",
+        "有时会协助洞主处理事务。"
+      ]
+    ],
+    "ID": "StoryData_Template_WuDuDong",
+    "HashID": 0,
+    "Class": null
+  },
+  {
+    "Init": [
+      [
+        "[CharacterName]是一个[XingQing]的人，",
+        "[CharacterName]是一个[GeJu]的人，",
+        "[CharacterName][GeJu]，",
+        "[CharacterName][XingQing]，"
+      ],
+      [
+        "听闻曹朗医术举世无双，心生仰慕，故而加入药王庄。",
+        "儿时曾遭重疾所扰，被药王庄弟子医治，因感念恩情，加入了药王庄。",
+        "自幼学医偶然间见识曹朗的医术，心生仰慕，遂加入药王庄。",
+        "自小被家人送去药王庄学艺。",
+        "逃难至药王庄附近，后被曹朗收留。",
+        "被曹朗看中收为弟子。",
+        "机缘之下受曹朗赏识，而加入药王庄。",
+        "因想精进自己的医术造诣，而加入药王庄。",
+        "因曹朗救治双亲性命，感激之下而加入药王庄。",
+        "偶然间结识曹朗，受其所邀而加入药王庄。",
+        "因贼寇迫害，逃难至青州，结识药王庄弟子，受其举荐拜曹朗为师。",
+        "因曹朗治好自己的顽疾，由是感激，遂加入药王庄。",
+        "从小就对医术感兴趣，听闻曹朗有药王之名，心生仰慕，遂加入药王庄。",
+        "因父母与曹朗是故交，被其收入门下。",
+        "因觉得可以在药王庄博览医书，故而拜曹朗为师。"
+      ],
+      [
+        "常常外出行医治病。",
+        "平日多在庄内研习医术。",
+        "立志悬壶济世。",
+        "立志要获得曹朗真传。",
+        "常常帮师父制药。",
+        "平日多在房中观看医书。",
+        "平日研究药方制作丹药。",
+        "平日负责庄内杂务。",
+        "有时会外出采买药材。",
+        "立志要名传天下。",
+        "立志要游走四方，行医济世。",
+        "平日会与同门辩证医理。",
+        "决心跟着庄主研习医术。",
+        "无意江湖纷争，只愿自己平安喜乐。",
+        "若无他事，便会独自闭门观看医书。"
+      ]
+    ],
+    "ID": "StoryData_Template_YaoWangZhuang",
+    "HashID": 0,
+    "Class": null
+  }
+]
