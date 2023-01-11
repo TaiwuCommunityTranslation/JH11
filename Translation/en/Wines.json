@@ -1,0 +1,7551 @@
+[
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Mengquan Wine </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF> Wolves, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The wine made from the Mon spring water at the foot of Huagai Mountain has a mellow and sweet taste and a long aftertaste."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"Mindset\" +25"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ZhenDing_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "DaoDe_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +25"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-80"
+        },
+        {
+          "Description": "\"Decision\" -30"
+        },
+        {
+          "Description": "\"Calm\" -30"
+        },
+        {
+          "Description": "\"Ethics\" - 80"
+        },
+        {
+          "Description": "\"Cultured\" - 80"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/MengQuanJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Curtain Spring Wine </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF> Wolves, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The sake is made from a waterfall spring in Hanju and has a sweet, refreshing taste."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"Mindset\" +25"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ZhenDing_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "DaoDe_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +25"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-80"
+        },
+        {
+          "Description": "\"Decision\" -30"
+        },
+        {
+          "Description": "\"Calm\" -30"
+        },
+        {
+          "Description": "\"Ethics\" - 80"
+        },
+        {
+          "Description": "\"Cultured\" - 80"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/LianQuanJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Picking rice wine </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF> Wolves, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "A kind of wine brewed with glutinous rice, which is common in Qingzhou and Ruzhou, has a sweet taste, but unfortunately, it is not easy to preserve and precipitation will occur over time."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShaYi_0000000001"
+          ],
+          "Name": {
+            "Value": "\"Killing Intent\" +5"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ZhenDing_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "DaoDe_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Killing Intent\" +5"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-80"
+        },
+        {
+          "Description": "\"Decision\" -30"
+        },
+        {
+          "Description": "\"Calm\" -30"
+        },
+        {
+          "Description": "\"Ethics\" - 80"
+        },
+        {
+          "Description": "\"Cultured\" - 80"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/LianMiJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Ponglai Wine </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF> Wolves, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The rice wine is soft and richly flavored with layers of glutinous rice, making you feel like you are in the fairyland of Penglai with just one sip."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"Mindset\" +25"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ZhenDing_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "DaoDe_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +25"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-80"
+        },
+        {
+          "Description": "\"Decision\" -30"
+        },
+        {
+          "Description": "\"Calm\" -30"
+        },
+        {
+          "Description": "\"Ethics\" - 80"
+        },
+        {
+          "Description": "\"Cultured\" - 80"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/PengLaiJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Fine Wave Wine </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The wine is made from a small stream in Puzhou with clear and fresh water, and it is named \"Hosho Wine\" because of the fine waves on the surface of the water when it is taken."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+30 for \"Mindfulness\" and +10 for \"Restfulness"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "TiaoXi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShaYi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +30"
+        },
+        {
+          "Description": "+10 to \"Resting\""
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-60"
+        },
+        {
+          "Description": "\"Killing Intent\" +30"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        },
+        {
+          "Description": "\"Connotation\"-50"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/XiBoJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> White Sheep Wine </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The wine can only be made in the winter months, with castrated ram meat mixed with fermented glutinous rice steamed, cooled and then moved into the wine quill, sealed in the altar. The white sheep wine has a unique mellow feeling in the mouth, which must be due to the sheep fat."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "+30 to \"Mindfulness\" and +10 to \"Qi\"."
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "QiFa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +30"
+        },
+        {
+          "Description": "\"Qi Method\" +10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-60"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        },
+        {
+          "Description": "\"Connotation\"-50"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/BaiYangJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Hundred Peach Wine </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The peach from Qingzhou is used as the raw material to make the fruity, sweet and fragrant Hundred Peach Wine."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+30 to \"Mindset\" and +10 to \"Charisma"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "MeiLi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +30"
+        },
+        {
+          "Description": "\"Charisma\" +10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-60"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        },
+        {
+          "Description": "\"Connotation\"-50"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/BaiTaoJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Bihang Wine </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The white wine made from green plums is called Bixiang. Because plum blossoms have always represented noble temperament, they were loved by dignitaries and noblemen, and green plums are a rare species of plum blossoms. This wine is refreshing in the mouth and has a faint fragrance of plum blossoms on the nose."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+30 to \"Mindset\" and +10 to \"Musical Instrument"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "YueQi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +30"
+        },
+        {
+          "Description": "\"Musical Instrument\" +10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-60"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        },
+        {
+          "Description": "\"Connotation\"-50"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/BiXiangJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Morning Glory Wine </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "A fruit wine brewed from pomegranates is called Chaohya wine because of its orange and red color, brilliant like a sunset. This wine is sweet and sour and is very suitable for summer drinking."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+30 for \"Mindfulness\" and +10 for \"Poetry"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShiCi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +30"
+        },
+        {
+          "Description": "\"Poetry\" +10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-60"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        },
+        {
+          "Description": "\"Connotation\"-50"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/ZhaoXiaJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Near Spring Wine </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "There are 72 large and small springs in Qi Zhou. Near Spring Wine is made from one of these springs."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+30 to \"Mindfulness\" +5 to \"Fist and Palm"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "QuanZhang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +30"
+        },
+        {
+          "Description": "\"Fist and Palm\" +5"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-60"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        },
+        {
+          "Description": "\"Connotation\"-50"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/JinQuanJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Linguine </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "Lin fat itself means jade liquid and jelly, so it is clear that this wine is of high quality and worth a try."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+30 to \"Mindfulness\" and +10 to \"Calmness"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ZhenDing_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +30"
+        },
+        {
+          "Description": "\"Calm\" +10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-60"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        },
+        {
+          "Description": "\"Connotation\"-50"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/LinYuJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Bai Yuquan </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The sake is made from the spring water from the White Jade Spring on the North Road of Jinghu. Spicy and sweet, it is a must try for those who like strong liquor."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+40 to \"Mindfulness\" and +20 to \"Contentment"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +40"
+        },
+        {
+          "Description": "\"Connotation\" +20"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\" -50"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        },
+        {
+          "Description": "\"Cultured\" -30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/BaiYuQuan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Bi Lan Tang </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "Bilantang is a private courtyard in Huzhou, where a kind of homemade wine is made, which is not well known, but later became famous due to a poem by calligrapher Chen Yaozuo."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+40 to \"Mindfulness\" and +10 to \"Finger Power"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ZhiLi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +40"
+        },
+        {
+          "Description": "\"Finger Power\" +10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\" -50"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        },
+        {
+          "Description": "\"Cultured\" -30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/BiLanTang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Chipset Hall </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "A kind of official wine, famous for Lu You's poem."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+40 to \"Mindset\" and +10 to \"Gun Use"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "YongQiang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +40"
+        },
+        {
+          "Description": "\"Gun\" +10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\" -50"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        },
+        {
+          "Description": "\"Cultured\" -30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/ChouSiTang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Fenghechun </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "A wine that you will often see on Liangzhe Road and is loved by the general public. This wine is not high in degree and has a refreshing taste."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"Mindset\" +40 \"Cooking\" +20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "PengRen_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +40"
+        },
+        {
+          "Description": "\"Cooking\" +20"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\" -50"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        },
+        {
+          "Description": "\"Cultured\" -30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/FengHeChun"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Valley Stream Spring </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "Brewed from grain produced in Lanxi, the sake is sold every spring and has a strong aroma of sorghum."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"Mindset\" +40 \"Collection\" +20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShouCang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +40"
+        },
+        {
+          "Description": "\"Collection\" +20"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\" -50"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        },
+        {
+          "Description": "\"Cultured\" -30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/GuXiChun"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Jianghan Hall </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The local wine of Gyeongju is clear and transparent, elegant and delicate, soft in the mouth, refreshing and sweet, and a wine not to be missed."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+40 to \"Mindset\" and +10 to \"Axe of Fortune"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ChuiFu_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +40"
+        },
+        {
+          "Description": "\"Luck Axe\" +10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\" -50"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        },
+        {
+          "Description": "\"Cultured\" -30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/JiangHanTang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Bamboo Leaf Clear </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The wine is made from aged Fen wine, and refined with precious herbs such as light bamboo leaves, Chen Pi, sandalwood, and grit. It is golden in color, mellow in aroma, soft and refreshing in taste."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+40 to \"Mindfulness\" +10 to \"Use of Sword"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JianFa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +40"
+        },
+        {
+          "Description": "\"Sword\" +10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\" -50"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        },
+        {
+          "Description": "\"Cultured\" -30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/ZhuYeQing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Zijinquan </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The wine made from the Zijin Spring in Zhenjiang has a sweet taste and fragrant aroma."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+40 to \"Mind\" and +10 to \"Concealed Weapon"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "CunJin_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShaYi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +40"
+        },
+        {
+          "Description": "\"Concealed Weapon\" +10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\" -50"
+        },
+        {
+          "Description": "\"Killing Intent\" +30"
+        },
+        {
+          "Description": "\"Decision\" -10"
+        },
+        {
+          "Description": "\"Cultured\" -30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/ZiJinQuan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Everything is Spring </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "Heavenly Book Pavilion storyteller homemade wine, fragrant for miles, the secret recipe no one knows. There is no sale on the market, you can only go to the Heavenly Book Pavilion to try your luck."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "CharacterWuXing_0000000001"
+          ],
+          "Name": {
+            "Value": "\"Perception\" +30 \"Gods\" +30"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShenLai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Intoxication status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShiCi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Intoxication status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Perception\" +30"
+        },
+        {
+          "Description": "\"God Comes\" +30"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-40"
+        },
+        {
+          "Description": "\"Poetry\" +20"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/WanXiangJieChun"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Heavy Mee to Pleasant Springs </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "A famous Shaanxi wine. It is made from high quality red sorghum, drawn from the sweet and clean Gaoxia spring water, fermented in a mud cellar, and slowly distilled, making it rich and harmonious, full and mellow."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+50 for \"Mindfulness\" and +20 for \"Doujinshi"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "DuMai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Intoxication status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +50"
+        },
+        {
+          "Description": "\"+20 to the \"Governor's Vein"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-40"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/ChongMiZhiXiQuan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Hsuan Chi Bihang </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragons, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The wine came from the Excitement Depot and was exclusively for the border guards to drink, but later became famous because it was loved by Lu You."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "RenMai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"Ren Chakra\" +20 \"Qi Method\" +20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "QiFa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Intoxication status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "CharacterFuYuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Intoxication status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Ren Chakra\" +20"
+        },
+        {
+          "Description": "\"Qi Method\" +20"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-40"
+        },
+        {
+          "Description": "\"Fortunate Fate\" +20"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/YiCiBiXiang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Qi Yun Qing Dew </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragons, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The wine was inadvertently tasted by Lu You when he was on his way to Suzhou, and later he wrote a poem to make it famous. This wine is fresh and elegant, and has the same atmosphere as Suzhou."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+50 to \"Mindfulness\", +30 to \"Poetry\", +30 to \"Painting and Calligraphy"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShiCi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HuiHua_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Intoxication status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +50"
+        },
+        {
+          "Description": "\"Poetry\" +30"
+        },
+        {
+          "Description": "\"Painting and Calligraphy\" +30"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-40"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/QiYunQingLu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Blue Bridge Wind and Moon </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "It is said to be made by the Wu family of Empress Wu of King Gao. The wine has a bright amber color, deep red with a slight orange tinge, and a faint floral aroma on the nose. The taste is warm and mellow, sweet and sour, with a long and refreshing aftertaste."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "JiZhong_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+30 to \"Concentration\", +30 to \"Composure\", +30 to \"Determination"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ZhenDing_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Intoxication status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Concentration\" +30"
+        },
+        {
+          "Description": "\"Calm\" +30"
+        },
+        {
+          "Description": "\"Decisive\" +30"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-40"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/LanQiaoFengYue"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> North House Soldier Chef </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "During the Eastern Jin Dynasty, Zhenjiang, which was located in a key area of the Yangtze River, became a major military town, and the army formed was called the \"Northern Government Army\". This wine was used as a reward for the army at that time, and the recipe has been used to this day."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+50 to \"Mindset\" and +20 to \"Waist Horse"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "YaoMa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Intoxication status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShaYi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Intoxication status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +50"
+        },
+        {
+          "Description": "\"Waist Horse\" +20"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-40"
+        },
+        {
+          "Description": "\"Killing Intent\" +30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/BeiFuBingChu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Jingji Hall </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "This is a fruit wine made from pomegranates, and is called \"Chao Ha\" because of its orange and red color, which looks like a sunset. This wine is sweet and sour and is very suitable for summer drinking."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"Mindfulness\" +30 \"Tea Ceremony\" +10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ChaDao_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +30"
+        },
+        {
+          "Description": "\"Tea Ceremony\" +10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-60"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        },
+        {
+          "Description": "\"Connotation\"-50"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/JingZhiTang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Lingxi Wine </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "A fruit wine brewed from pomegranates is called Chaohya wine because of its orange and red color, brilliant like a sunset. This wine is sweet and sour and is very suitable for summer drinking."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+30 to \"Mindfulness\" and +10 to \"Enlightenment"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "CharacterWuXing_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +30"
+        },
+        {
+          "Description": "\"Perception\" +10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-60"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        },
+        {
+          "Description": "\"Connotation\"-50"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/LingXiJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Sixth Guest Hall </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "A fruit wine brewed from pomegranates is called Chaohya wine because of its orange and red color, brilliant like a sunset. This wine is sweet and sour and is very suitable for summer drinking."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+30 for \"Mindfulness\" and +10 for \"Bargaining"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "CharacterJiaoShe_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +30"
+        },
+        {
+          "Description": "\"Bargaining\" +10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-60"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        },
+        {
+          "Description": "\"Connotation\"-50"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/LiuKeTang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Jiannan Yakuchun </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The wine is made from aged Fen wine, and refined with precious herbs such as light bamboo leaves, Chen Pi, sandalwood, and grit. It is golden in color, mellow in aroma, soft and refreshing in taste."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+40 to \"Mindfulness\" and +10 to \"Swordplay"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "DaoFa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +40"
+        },
+        {
+          "Description": "\"+10 for \"Knife Making"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\" -50"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        },
+        {
+          "Description": "\"Cultured\" -30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/JianNanShaoChun"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Golden Spring </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The wine is made from aged Fen wine, and refined with precious herbs such as light bamboo leaves, Chen Pi, sandalwood, and grit. It is golden in color, mellow in aroma, soft and refreshing in taste."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+40 to \"Mindfulness\" and +10 to \"Hooking"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "GouFa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +40 "
+        },
+        {
+          "Description": "\"Hooking method\" +10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\" -50"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        },
+        {
+          "Description": "\"Cultured\" -30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/JinQuan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> South Central Brewing </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The wine is made from aged Fen wine, and refined with precious herbs such as light bamboo leaves, Chen Pi, sandalwood, and grit. It is golden in color, mellow in aroma, soft and refreshing in taste."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+40 to \"Mindfulness\" and +10 to \"Whipmanship"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShiBian_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +40"
+        },
+        {
+          "Description": "\"Whip Art\" +10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\" -50"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        },
+        {
+          "Description": "\"Cultured\" -30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/NanZhongYun"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Sandstrains Golden Wave </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "During the Eastern Jin Dynasty, Zhenjiang, which was located on the Yangtze River, became a major military town, and the army formed was called the \"Northern Government Army\". This wine was used as a reward for the army at that time, and the recipe has been used to this day."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+50 to \"Mind\", +30 to \"Kill intent\", +30 to \"Concentration"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShaYi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JiZhong_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Intoxication status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "TiaoXi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Intoxication status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +50"
+        },
+        {
+          "Description": "\"Killing Intent\" +30"
+        },
+        {
+          "Description": "\"Concentration\" +30"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-40"
+        },
+        {
+          "Description": "\"Resting\" -20"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/ShaBeiJinBo"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Eighteen Immortals </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "During the Eastern Jin Dynasty, Zhenjiang, which was located in a key area of the Yangtze River, became a major military town, and the army formed was called the \"Northern Government Army\". This wine was used as a reward for the army at that time, and the recipe has been used to this day."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShenLai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+30 for \"Gods Come\" and +20 for \"Stick Play"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShuaGun_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Intoxication status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HuiHua_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Intoxication status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"God Comes\" +30"
+        },
+        {
+          "Description": "\"Baton Juggling\" +20"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-40"
+        },
+        {
+          "Description": "\"Painting and Calligraphy\" +20"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/ShiBaXian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Supreme Father Ice Hall </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "During the Eastern Jin Dynasty, Zhenjiang, which was located in a key area of the Yangtze River, became a major military town, and the army formed was called the \"Northern Government Army\". This wine was used as a reward for the army at that time, and the recipe has been used to this day."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShiCi_0000000001"
+          ],
+          "Name": {
+            "Value": "\"Poetry\" +30 \"Brushwork\" +20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "BiFa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Intoxication status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Intoxication status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Poetry\" +30"
+        },
+        {
+          "Description": "\"Strokes\" +20"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-40"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/BingTangShangZun"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Jinling Spring </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "During the Eastern Jin Dynasty, Zhenjiang, which was located in a key area of the Yangtze River, became a major military town, and the army formed was called the \"Northern Government Army\". This wine was used as a reward for the army at that time, and the recipe has been used to this day."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShenLai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+15 to \"Gods Come\", +15 to \"Use Sword\", +30 to \"Concentration"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JianFa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JiZhong_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Intoxication status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShenLai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Intoxication status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Gods Come\" +15"
+        },
+        {
+          "Description": "\"Sword\" +15"
+        },
+        {
+          "Description": "\"Concentration\" +30"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-40"
+        },
+        {
+          "Description": "\"God Comes\" -20"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/JinLingChun"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Chixiao Wine </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+30 for \"Mindfulness\" and +10 for \"Concentration"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JiZhong_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JiZhong_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +30"
+        },
+        {
+          "Description": "\"Concentration\" +10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\" -50"
+        },
+        {
+          "Description": "\"Concentration\" -20"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/Jiu/ChiXiaoJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Throwing Spirit Wine </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShenLai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+10 for \"Gods Come\" and +30 for \"Off Punch"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "GuanPu_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Intoxication status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "CharacterFuYuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Intoxication status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"God Comes\" +10"
+        },
+        {
+          "Description": "+30 to \"Kwanzaa\""
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\"-40"
+        },
+        {
+          "Description": "\"Fortunate Fate\"-20"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/Jiu/ZhiLingJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Green Flame Secret Wine </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "During the Eastern Jin Dynasty, Zhenjiang, which was located in a key area of the Yangtze River, became a major military town, and the army formed was called the \"Northern Government Army\". This wine was used as a reward for the army at that time, and the recipe has been used to this day."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "QuanZhang_0000000001"
+          ],
+          "Name": {
+            "Value": "\"Fist and Palm +15, Determination +15, Concentration -15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JiZhong_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Intoxication status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Intoxication status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Fist and Palm\" +15"
+        },
+        {
+          "Description": "\"Decisions\" +15"
+        },
+        {
+          "Description": "\"Concentration\"-15"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\" -30"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/Jiu/QingYanMiJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Koushodo </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "DaoFa_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+5 to \"Knife\" and +5 to \"Concentration"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JiZhong_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JiZhong_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"+5 for \"Knife Making"
+        },
+        {
+          "Description": "\"Concentration\" +5"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\" -50"
+        },
+        {
+          "Description": "\"Concentration\" -20"
+        },
+        {
+          "Description": "\"Cultured\" -30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1215 ADD/Jiu/GuangXiangTang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Broken Jade Hall </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GouFa_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+5 for \"Hooking\" and +5 for \"Concentration"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "DaoFa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JiZhong_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Hooking Method\" +5"
+        },
+        {
+          "Description": "\"Concentration\" +5"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\" -50"
+        },
+        {
+          "Description": "\"Concentration\" -20"
+        },
+        {
+          "Description": "\"Cultured\" -30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1215 ADD/Jiu/SuiYuTang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Yu Xuqing </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShiBian_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+5 to \"Whip Art\" +5 to \"Will"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "YiZhi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "YiZhi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Whip Art\" +5"
+        },
+        {
+          "Description": "\"Will\" +5"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\" -50"
+        },
+        {
+          "Description": "\"Will\"-20"
+        },
+        {
+          "Description": "\"Cultured\" -30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1215 ADD/Jiu/YuXuQing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Dingfeng Hall </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YongQiang_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+5 to \"Use Gun\" +5 to \"Determination"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Gun\" +5"
+        },
+        {
+          "Description": "\"Decisions\" +5"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\" -50"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        },
+        {
+          "Description": "\"Cultured\" -30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1215 ADD/Jiu/DingFengTang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Zhen Yue Wine </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ChuiFu_0000000001"
+          ],
+          "Name": {
+            "Value": "\"Luck Axe\" +5 \"Waist Horse\" +5"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "YaoMa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "YaoMa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Luck Axe\" +5"
+        },
+        {
+          "Description": "\"Waist Horse\" +5"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\" -50"
+        },
+        {
+          "Description": "\"Waist Horse\" -20"
+        },
+        {
+          "Description": "\"Cultured\" -30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1215 ADD/Jiu/ZhenYueJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Bigelow </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ZhiLi_0000000001"
+          ],
+          "Name": {
+            "Value": "\"Finger Power\" +5 \"Breath Regulation\" +5"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "TiaoXi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "TiaoXi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Finger Power\" +5"
+        },
+        {
+          "Description": "\"+5 for \"Breath Adjustment"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\" -50"
+        },
+        {
+          "Description": "\"Resting\" -20"
+        },
+        {
+          "Description": "\"Cultured\" -30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1215 ADD/Jiu/BiGuLu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> One Breath Spirit Wine </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShuaGun_0000000001"
+          ],
+          "Name": {
+            "Value": "+5 to \"Baton Juggling\" +5 to \"Decisive\""
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Wine Status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Baton Juggling\" +5"
+        },
+        {
+          "Description": "\"Decisions\" +5"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "\"Mindset\" -50"
+        },
+        {
+          "Description": "\"Decision\" -20"
+        },
+        {
+          "Description": "\"Cultured\" -30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1215 ADD/Jiu/YiQiLingJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Gourd vase </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF> Wolves, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The bottle is popular because of its resemblance to a gourd and its resonance to the sound \"Fu Lu\"."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "No carry effect"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/HuLuPing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Jade pot spring vase </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF> Wolves, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "Inspired by the evolution of the water purification bottle in the monastery, it is an unusual vessel for serving wine."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "No carry effect"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/YuHuChunPing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Plum Vase </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF> Wolves, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "It is also known as the \"warp vase\". It is popular because of its beautiful shape."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "No carry effect"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/MeiPing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Red Gourd Vase </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The body is covered with red glaze, the glaze is moist and thick, and the foot is large, with a wide circle of exposed tire reed, on which a fine swirling pattern is revealed."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "+1 for \"Drinking\""
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/HongYouHuLuPing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Celadon gallows vase </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The neck is thin, the abdomen is shaped like a dangling gall, and the footrim is slightly flared. The whole is covered with a warm, jade-like azure glaze and covered with uniform openings."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "+1 for \"Drinking\""
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/QingCiDanPing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> White glazed melon rib vase </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The abdomen is concave on all sides and is melon-ribbed. The footrim is flared. The whole body is covered with white glaze, and the glaze is lustrous."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "+1 for \"Drinking\""
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/BaiYouGuaLingPing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Partridge-glazed plum vase </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The shape of the vessel is beautiful, the glaze is mottled like partridge hair color, the flow is exquisite, and it is wonderfully interesting."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "+1 for \"Drinking\""
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/ZheGuYouMeiPing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> White Glazed Jade Table Calendars </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "This is a table marble for presenting wine. Pure white glaze, although extremely simple, but the mapping of the eerie extremely plain light."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "+1 for \"Drinking\""
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/BaiYouYuTaiZhan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Qing Hua Calendars </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The tire color is white and the texture is delicate. The base glaze has a shadow green, and the jade is engraved with a peony decoration, which is a relatively rare wine vessel."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+1 to \"Drinking\" +1 to \"Charisma"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "MeiLi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/QingHuaZhan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Wind and Thunder Cup </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "It is said that the person who developed this cup was inspired by the ancient zither song \"Wind and Thunder\". The cup is light and thin like the wind, and its shape is angular and resembles thunder, making it a distinctive and eye-catching wine cup."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "\"Drinking\" +1 \"Bargaining\" +1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "CharacterJiaoShe_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/FengLeiBei"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Peacock Cup </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The blue-green color produced by high-temperature obsidian resembles the feathers of a peacock. Because the color of obsidian is not controllable, each peacock cup is unique."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "MeiLi_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+2 to \"Charisma"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/KongQueBei"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Fairy Flower Cup </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "A wine cup made in the shape of a longevity flower, also known as a fairy flower cup. The color is clear and the green glaze is mostly used. The cups were popular among the dignitaries because they meant longevity and immortality, so they were expensive."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "MeiLi_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+1 to \"Charisma\" +1 to \"Contentment"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/XianHuaBei"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Ming Yu Xianjian </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "Made of translucent white jade, the cups were produced in small quantities and were loved by the literati because of their elegant and icy shape."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+2 to \"Drinking\" +1 to \"Charisma"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "MeiLi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/MingYuXianZhan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Jade Lucite Cup </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "It is said to have been inspired by the poet Wang Han's poem \"Lyrics from Liangzhou\", in which he wrote \"Grapes and Wine in the Night\". The wine mentioned in the poem is called Yulu wine, and the glass gives off a dazzling light under the moonlight."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "JiZhong_0000000001"
+          ],
+          "Name": {
+            "Value": "\"Concentration\" +3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/YuLuLiuLiBei"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Luminous Jade Marigold </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "A valuable drinking vessel made of green jade. When the wine is placed in the cup and placed under the moonlight, the cup will shine."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+1 \"Drinking\" and +2 \"Coming of God"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShenLai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/YeGuangYuZhan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Silver Light Shadow Leaf Marigold </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The wine marquee is glazed in black, with a hollowed-out leaf made of pure silver embedded in the bottom of the marquee. When the wine is poured, the silver leaf reflects the silver light, forming a sharp contrast with the black body."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+2 for \"Drinking\" and +1 for \"Using a sword"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JianFa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/YinGuangYingYeZhan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Double bow marquee </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The body is covered with red glaze, the glaze is moist and thick, and the foot is large, with a wide circle of exposed tire reed, on which a fine swirling pattern is revealed."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "+1 for \"Drinking\""
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/ShuangGongZhan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Double Deer Cup </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The body is covered with red glaze, the glaze is moist and thick, and the foot is large, with a wide circle of exposed tire reed, on which a fine swirling pattern is revealed."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "CharacterFuYuan_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+1 for \"Fortunate Fate"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/ShuangLuBei"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Lord Axe </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "The body is covered with red glaze, the glaze is moist and thick, and the foot is large, with a wide circle of exposed tire reed, on which a fine swirling pattern is revealed."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ChuiFu_0000000001"
+          ],
+          "Name": {
+            "Value": "\"Luck Axe\" +1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/FuJue"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> White Jade Marigold </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "It is said that the person who developed this cup was inspired by the ancient zither song \"Wind and Thunder\". The cup is light and thin like the wind, and its shape is angular and resembles thunder, making it a distinctive and eye-catching wine cup."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "\"Drinking\" +1 \"Bargaining\" +1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "CharacterJiaoShe_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/BaiYuZhan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Îþi cup </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "It is said that the person who developed this cup was inspired by the ancient zither song \"Wind and Thunder\". The cup is light and thin like the wind, and its shape is angular and resembles thunder, making it a distinctive and eye-catching wine cup."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "\"Drinking\" +2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/XiShouBei"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Cloud Thunder Goblet </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "It is said that the person who developed this cup was inspired by the ancient zither song \"Wind and Thunder\". The cup is light and thin like the wind, and its shape is angular and resembles thunder, making it a distinctive and eye-catching wine cup."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShaYi_0000000001"
+          ],
+          "Name": {
+            "Value": "\"Killing Intent\" +2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/YunLeiE"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Wind pattern cup </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "It is said that the person who developed this cup was inspired by the ancient zither song \"Wind and Thunder\". The cup is light and thin like the wind, and its shape is angular and resembles thunder, making it a distinctive and eye-catching wine cup."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+1 to \"Drink\" +1 to \"Decide"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/FengWenBei"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Gold Kui Long Goblet </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "A valuable drinking vessel made of green jade. When the wine is placed in the cup and placed under the moonlight, the cup will shine."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+1 to \"Drinking\" +2 to \"Fortunes"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "CharacterFuYuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/JinKuiLongGu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Antique Jade Lingxiao Cup </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "A valuable drinking vessel made of green jade. When the wine is placed in the cup and placed under the moonlight, the cup will shine."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShouCang_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+1 to \"Collection\" +2 to \"Enlightenment"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "CharacterWuXing_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/GuYuLingXiaoBei"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Linglong Cup </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "MeiLi_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+2 to \"Charisma"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/JiuQi/LingLongBei"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Shen Bao Goblet </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "CharacterFuYuan_0000000001"
+          ],
+          "Name": {
+            "Value": "\"Fortunate Fate\" +2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/JiuQi/ShenBaoZhi"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Kurenai jan </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "CharacterJianShi_0000000001"
+          ],
+          "Name": {
+            "Value": "\"Knowledge\" +2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/JiuQi/KuRongZhan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Spiritual Gohan </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "CharacterWuXing_0000000001"
+          ],
+          "Name": {
+            "Value": "\"Perception\" +2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/JiuQi/LingWuZhan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Tai Qing Antique Jade Cup </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShenLai_0000000001"
+          ],
+          "Name": {
+            "Value": "+2 to \"Shinra\" +1 to \"Strokes\""
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "BiFa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/JiuQi/TaiQingGuYuBei"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Samadhi Ghost Marigold </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GouFa_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+2 to \"Hook Technique\" and +1 to \"Poison Technique"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "DuShu_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/JiuQi/SanWeiGuiZhan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Meteorite jade antique vase </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "RenMai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+1 to \"Ren Chakra\" and +2 to \"Concentration"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JiZhong_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/JiuQi/YunYuGuPing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Jinxia Guiyuanjian </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "DuMai_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+1 to \"Vigilance\" +2 to \"Will"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "YiZhi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/JiuQi/JinXiaGuiYuanZhan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Wine ware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Yilingjian </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YiZhi_0000000001"
+          ],
+          "Name": {
+            "Value": "\"+1 to \"Will\" and +1 to \"Morality"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "DaoDe_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/JiuQi/YiLingZhan"
+    ]
+  }
+]
