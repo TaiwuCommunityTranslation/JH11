@@ -3,6 +3,6 @@ git:
   - filter_type: dir
     file_format: KEYVALUEJSON
     source_file_extension: json
-    source_language: zh-CN
-    source_file_dir: Translation/zh-CN
+    source_language: zh_CN
+    source_file_dir: Translation/zh_CN
     translation_files_expression: 'Translation/<lang>/'
