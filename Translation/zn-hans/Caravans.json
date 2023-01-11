@@ -7,72 +7,111 @@
       "峨眉派弟子"
     ],
     "TransportFrequency": [
+      50,
       100
     ],
     "BattleCharacterTemplates": [
+      "TongYong_SXTemp_QuanZhenJiao_0000000001",
       "TongYong_SXTemp_EMeiPai_0000000001"
     ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "SheXiang_XiangYao_Caravan_01_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "SheXiang_XiangYao_Caravan_01_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "SheXiang_XiangYao_Caravan_01_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "SheXiang_XiangYao_Caravan_01_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "SheXiang_XiangYao_Caravan_01_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          3,
           15
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
       0.0,
       0.0,
+      0.0,
+      0.0,
       1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000005"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000009"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000018"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000005"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000009"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000018"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -81,16 +120,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000048"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000048"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
@@ -109,60 +154,93 @@
       "江湖人士"
     ],
     "TransportFrequency": [
+      60,
       120
     ],
     "BattleCharacterTemplates": [
+      "TongYong_SXTemp_YouHongGong_0000000001",
       "TongYong_SXTemp_WuMenPai_0000000001"
     ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "ChenXiang_XiangYao_Caravan_02_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "ChenXiang_XiangYao_Caravan_02_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "ChenXiang_XiangYao_Caravan_02_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "ChenXiang_XiangYao_Caravan_02_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "ChenXiang_XiangYao_Caravan_02_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          5,
           25
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
+      0.0,
+      0.0,
       0.0,
       1.0,
       1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000006"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000028"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000006"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000028"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -171,16 +249,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000046"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000046"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
@@ -198,58 +282,92 @@
       "泰山派弟子"
     ],
     "TransportFrequency": [
+      50,
       100
     ],
-    "BattleCharacterTemplates": [],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_TaiShanPai_0000000001"
+    ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "RuXiang_XiangYao_Caravan_03_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "RuXiang_XiangYao_Caravan_03_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "RuXiang_XiangYao_Caravan_03_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "RuXiang_XiangYao_Caravan_03_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "RuXiang_XiangYao_Caravan_03_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          2,
           13
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
       0.0,
       0.0,
+      0.0,
+      0.0,
+      0.0,
       1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "BiaoJu000000001"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000001"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "BiaoJu000000001"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000001"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -258,16 +376,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000052"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000052"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
@@ -285,60 +409,93 @@
       "江湖人士"
     ],
     "TransportFrequency": [
+      50,
       100
     ],
     "BattleCharacterTemplates": [
+      "TongYong_SXTemp_QingWangSi_0000000001",
       "TongYong_SXTemp_WuMenPai_0000000001"
     ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "LongNaoXiang_XiangYao_Caravan_04_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "LongNaoXiang_XiangYao_Caravan_04_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "LongNaoXiang_XiangYao_Caravan_04_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "LongNaoXiang_XiangYao_Caravan_04_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "LongNaoXiang_XiangYao_Caravan_04_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          2,
           10
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
       0.0,
+      0.0,
+      0.0,
       1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000006"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000027"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000006"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000027"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -347,16 +504,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000046"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000046"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
@@ -375,60 +538,93 @@
       "江湖人士"
     ],
     "TransportFrequency": [
+      30,
       60
     ],
     "BattleCharacterTemplates": [
+      "TongYong_SXTemp_TaiShanPai_0000000001",
       "TongYong_SXTemp_WuMenPai_0000000001"
     ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "TieKuang_ZiYuan_Caravan_01_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "TieKuang_ZiYuan_Caravan_01_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "TieKuang_ZiYuan_Caravan_01_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "TieKuang_ZiYuan_Caravan_01_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "TieKuang_ZiYuan_Caravan_01_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          2,
           8
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
       0.0,
       0.0,
+      0.0,
+      0.0,
+      0.0,
       1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000001"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000001"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000001"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000001"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -437,16 +633,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000042"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000042"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
@@ -465,60 +667,93 @@
       "江湖人士"
     ],
     "TransportFrequency": [
+      30,
       60
     ],
     "BattleCharacterTemplates": [
+      "TongYong_SXTemp_TianZunJiao_0000000001",
       "TongYong_SXTemp_WuMenPai_0000000001"
     ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "TongKuang_ZiYuan_Caravan_02_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "TongKuang_ZiYuan_Caravan_02_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "TongKuang_ZiYuan_Caravan_02_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "TongKuang_ZiYuan_Caravan_02_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "TongKuang_ZiYuan_Caravan_02_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          2,
           8
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
       0.0,
       0.0,
+      0.0,
+      0.0,
       1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000002"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000023"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000002"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000023"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -527,16 +762,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000043"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000043"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
@@ -554,58 +795,92 @@
       "嵩山派弟子"
     ],
     "TransportFrequency": [
+      30,
       60
     ],
-    "BattleCharacterTemplates": [],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_SongShanPai_0000000001"
+    ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "ShiTan_ZiYuan_Caravan_03_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "ShiTan_ZiYuan_Caravan_03_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "ShiTan_ZiYuan_Caravan_03_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "ShiTan_ZiYuan_Caravan_03_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "ShiTan_ZiYuan_Caravan_03_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          2,
           10
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
       0.0,
       0.0,
+      0.0,
+      0.0,
       1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000001"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000015"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000001"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000015"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -614,16 +889,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000042"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000042"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
@@ -640,58 +921,92 @@
       "武当派弟子"
     ],
     "TransportFrequency": [
+      30,
       60
     ],
-    "BattleCharacterTemplates": [],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuDangPai_0000000001"
+    ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "YingMu_ZiYuan_Caravan_04_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "YingMu_ZiYuan_Caravan_04_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "YingMu_ZiYuan_Caravan_04_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "YingMu_ZiYuan_Caravan_04_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "YingMu_ZiYuan_Caravan_04_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          3,
           13
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
       0.0,
+      0.0,
+      0.0,
       1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "BiaoJu000000004"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000016"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "BiaoJu000000004"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000016"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -700,16 +1015,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000049"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000049"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
@@ -727,72 +1048,111 @@
       "衡山派弟子"
     ],
     "TransportFrequency": [
+      30,
       60
     ],
     "BattleCharacterTemplates": [
+      "TongYong_SXTemp_GaiBang_0000000001",
       "TongYong_SXTemp_HengShanPaiNan_0000000001"
     ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "CaiMu_ZiYuan_Caravan_05_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "CaiMu_ZiYuan_Caravan_05_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "CaiMu_ZiYuan_Caravan_05_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "CaiMu_ZiYuan_Caravan_05_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "CaiMu_ZiYuan_Caravan_05_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          3,
           15
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
       0.0,
       0.0,
+      0.0,
+      0.0,
+      0.0,
       1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000007"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000026"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000025"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000007"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000026"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000025"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -801,16 +1161,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000047"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000047"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
@@ -828,58 +1194,92 @@
       "武当派弟子"
     ],
     "TransportFrequency": [
+      50,
       100
     ],
-    "BattleCharacterTemplates": [],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuDangPai_0000000001"
+    ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "ZheTang_WuZi_Caravan_01_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "ZheTang_WuZi_Caravan_01_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "ZheTang_WuZi_Caravan_01_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "ZheTang_WuZi_Caravan_01_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "ZheTang_WuZi_Caravan_01_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          40,
           200
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
       0.0,
       0.0,
+      0.0,
+      0.0,
       1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000002"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000016"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000002"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000016"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -888,16 +1288,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000043"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000043"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
@@ -914,58 +1320,92 @@
       "幽明派弟子"
     ],
     "TransportFrequency": [
+      50,
       100
     ],
-    "BattleCharacterTemplates": [],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_YouMingPai_0000000001"
+    ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "ShiYan_WuZi_Caravan_02_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "ShiYan_WuZi_Caravan_02_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "ShiYan_WuZi_Caravan_02_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "ShiYan_WuZi_Caravan_02_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "ShiYan_WuZi_Caravan_02_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          20,
           70
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
       0.0,
       0.0,
+      0.0,
+      0.0,
       1.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000002"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000012"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000002"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000012"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -974,16 +1414,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000043"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000043"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
@@ -1000,58 +1446,92 @@
       "天尊教弟子"
     ],
     "TransportFrequency": [
+      50,
       100
     ],
-    "BattleCharacterTemplates": [],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_TianZunJiao_0000000001"
+    ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "ZhiMaYou_WuZi_Caravan_03_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "ZhiMaYou_WuZi_Caravan_03_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "ZhiMaYou_WuZi_Caravan_03_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "ZhiMaYou_WuZi_Caravan_03_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "ZhiMaYou_WuZi_Caravan_03_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          30,
           120
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
+      0.0,
+      0.0,
       0.0,
       1.0,
       1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000007"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000023"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000007"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000023"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -1060,16 +1540,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000047"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000047"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
@@ -1086,58 +1572,92 @@
       "飞蝎坞弟子"
     ],
     "TransportFrequency": [
+      50,
       100
     ],
-    "BattleCharacterTemplates": [],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_FeiXieWu_0000000001"
+    ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "CaiZiYou_WuZi_Caravan_04_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "CaiZiYou_WuZi_Caravan_04_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "CaiZiYou_WuZi_Caravan_04_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "CaiZiYou_WuZi_Caravan_04_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "CaiZiYou_WuZi_Caravan_04_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          30,
           120
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
       0.0,
       0.0,
+      0.0,
+      0.0,
       1.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000002"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000013"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000002"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000013"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -1146,16 +1666,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000043"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000043"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
@@ -1172,58 +1698,92 @@
       "青王寺弟子"
     ],
     "TransportFrequency": [
+      60,
       120
     ],
-    "BattleCharacterTemplates": [],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_QingWangSi_0000000001"
+    ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "CanSi_FangZhi_Caravan_01_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "CanSi_FangZhi_Caravan_01_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "CanSi_FangZhi_Caravan_01_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "CanSi_FangZhi_Caravan_01_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "CanSi_FangZhi_Caravan_01_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          5,
           20
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
       0.0,
+      0.0,
+      0.0,
       1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000006"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000027"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000006"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000027"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -1232,16 +1792,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000046"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000046"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
@@ -1258,58 +1824,92 @@
       "少林寺弟子"
     ],
     "TransportFrequency": [
+      30,
       60
     ],
-    "BattleCharacterTemplates": [],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_ShaoLinSi_0000000001"
+    ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "QiuPi_FangZhi_Caravan_02_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "QiuPi_FangZhi_Caravan_02_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "QiuPi_FangZhi_Caravan_02_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "QiuPi_FangZhi_Caravan_02_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "QiuPi_FangZhi_Caravan_02_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          5,
           15
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
       0.0,
+      0.0,
+      0.0,
       1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000002"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000014"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000002"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000014"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -1318,16 +1918,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000043"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000043"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
@@ -1344,58 +1950,92 @@
       "铁掌门弟子"
     ],
     "TransportFrequency": [
+      60,
       120
     ],
-    "BattleCharacterTemplates": [],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_XiongShiTieZhangMen_0000000001"
+    ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "MuMian_FangZhi_Caravan_03_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "MuMian_FangZhi_Caravan_03_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "MuMian_FangZhi_Caravan_03_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "MuMian_FangZhi_Caravan_03_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "MuMian_FangZhi_Caravan_03_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          10,
           30
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
       0.0,
       0.0,
+      0.0,
+      0.0,
+      0.0,
       1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "BiaoJu000000002"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000004"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "BiaoJu000000002"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000004"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -1404,16 +2044,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000010029"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000010029"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
@@ -1430,58 +2076,92 @@
       "烈日教弟子"
     ],
     "TransportFrequency": [
+      30,
       60
     ],
-    "BattleCharacterTemplates": [],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_LieRiJiao_0000000001"
+    ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "ZhuMa_FangZhi_Caravan_04_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "ZhuMa_FangZhi_Caravan_04_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "ZhuMa_FangZhi_Caravan_04_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "ZhuMa_FangZhi_Caravan_04_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "ZhuMa_FangZhi_Caravan_04_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          10,
           40
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
       0.0,
       0.0,
+      0.0,
+      0.0,
       1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000004"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000010"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000004"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000010"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -1490,16 +2170,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000044"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000044"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
@@ -1516,58 +2202,92 @@
       "炎凤堂弟子"
     ],
     "TransportFrequency": [
+      80,
       160
     ],
-    "BattleCharacterTemplates": [],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_YanFengTang_0000000001"
+    ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "XiNiuJiao_SheChiPin_Caravan_01_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "XiNiuJiao_SheChiPin_Caravan_01_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "XiNiuJiao_SheChiPin_Caravan_01_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "XiNiuJiao_SheChiPin_Caravan_01_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "XiNiuJiao_SheChiPin_Caravan_01_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          1,
           5
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
       0.0,
       0.0,
+      0.0,
+      0.0,
       1.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "BiaoJu000000006"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000029"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "BiaoJu000000006"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000029"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -1576,16 +2296,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000054"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000054"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
@@ -1602,58 +2328,92 @@
       "全真教弟子"
     ],
     "TransportFrequency": [
+      80,
       160
     ],
-    "BattleCharacterTemplates": [],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_QuanZhenJiao_0000000001"
+    ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "XiangYa_SheChiPin_Caravan_02_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "XiangYa_SheChiPin_Caravan_02_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "XiangYa_SheChiPin_Caravan_02_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "XiangYa_SheChiPin_Caravan_02_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "XiangYa_SheChiPin_Caravan_02_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          1,
           5
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
+      0.0,
+      0.0,
       0.0,
       1.0,
       1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000005"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000009"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000005"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000009"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -1662,16 +2422,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000048"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000048"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
@@ -1688,58 +2454,92 @@
       "华山派弟子"
     ],
     "TransportFrequency": [
+      60,
       120
     ],
-    "BattleCharacterTemplates": [],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_HuaShanPai_0000000001"
+    ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "HuJiao_SheChiPin_Caravan_03_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "HuJiao_SheChiPin_Caravan_03_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "HuJiao_SheChiPin_Caravan_03_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "HuJiao_SheChiPin_Caravan_03_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "HuJiao_SheChiPin_Caravan_03_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          1,
           6
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
       0.0,
       0.0,
+      0.0,
+      0.0,
       1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "BiaoJu000000003"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000008"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "BiaoJu000000003"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000008"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -1748,16 +2548,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000053"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000053"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
@@ -1774,58 +2580,92 @@
       "恒山派弟子"
     ],
     "TransportFrequency": [
+      60,
       120
     ],
-    "BattleCharacterTemplates": [],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_HengShanPaiNv_0000000001"
+    ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "LuoXiQiQi_GongYiPin_Caravan_01_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "LuoXiQiQi_GongYiPin_Caravan_01_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "LuoXiQiQi_GongYiPin_Caravan_01_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "LuoXiQiQi_GongYiPin_Caravan_01_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "LuoXiQiQi_GongYiPin_Caravan_01_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          2,
           12
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
       0.0,
       0.0,
+      0.0,
+      0.0,
       1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000004"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000006"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000004"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000006"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -1834,16 +2674,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000044"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000044"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
@@ -1861,60 +2707,93 @@
       "江湖人士"
     ],
     "TransportFrequency": [
+      60,
       120
     ],
     "BattleCharacterTemplates": [
+      "TongYong_SXTemp_EMeiPai_0000000001",
       "TongYong_SXTemp_WuMenPai_0000000001"
     ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "ShuXiu_GongYiPin_Caravan_02_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "ShuXiu_GongYiPin_Caravan_02_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "ShuXiu_GongYiPin_Caravan_02_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "ShuXiu_GongYiPin_Caravan_02_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "ShuXiu_GongYiPin_Caravan_02_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          1,
           8
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
       0.0,
       0.0,
+      0.0,
+      0.0,
       1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000002"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000018"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000002"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000018"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -1923,16 +2802,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000043"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000043"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
@@ -1952,84 +2837,130 @@
       "幽鸿宫弟子"
     ],
     "TransportFrequency": [
+      60,
       120
     ],
     "BattleCharacterTemplates": [
-      "TongYong_SXTemp_ShaoLinSi_0000000001"
+      "TongYong_SXTemp_SongShanPai_0000000001",
+      "TongYong_SXTemp_ShaoLinSi_0000000001",
+      "TongYong_SXTemp_YouHongGong_0000000001"
     ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "BianXiu_GongYiPin_Caravan_03_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "BianXiu_GongYiPin_Caravan_03_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "BianXiu_GongYiPin_Caravan_03_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "BianXiu_GongYiPin_Caravan_03_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "BianXiu_GongYiPin_Caravan_03_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          1,
           6
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
+      0.0,
+      0.0,
       0.0,
       1.0,
       1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000002"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000015"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000014"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000028"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "ShangHu000000002"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000015"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000014"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000028"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -2038,16 +2969,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000043"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000043"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
@@ -2067,60 +3004,93 @@
       "江湖人士"
     ],
     "TransportFrequency": [
+      50,
       100
     ],
     "BattleCharacterTemplates": [
+      "TongYong_SXTemp_BaiZhangShanZhuang_0000000001",
       "TongYong_SXTemp_WuMenPai_0000000001"
     ],
     "Dialog": {
-      "QiangJie": [],
-      "Talk": [],
-      "QiangJieEndSuccess": [],
-      "QiangJieEndFailed": [],
-      "ShangDuiXinXi": []
+      "QiangJie": [
+        "YuHuaShi_GongYiPin_Caravan_04_Player_QiangJie_Dialog"
+      ],
+      "Talk": [
+        "YuHuaShi_GongYiPin_Caravan_04_Player_QiangJie_Talk_Dialog"
+      ],
+      "QiangJieEndSuccess": [
+        "YuHuaShi_GongYiPin_Caravan_04_Player_QiangJie_QiangJieEndSuccess_Dialog"
+      ],
+      "QiangJieEndFailed": [
+        "YuHuaShi_GongYiPin_Caravan_04_Player_QiangJie_QiangJieEndFailed_Dialog"
+      ],
+      "ShangDuiXinXi": [
+        "YuHuaShi_GongYiPin_Caravan_04_Player_QiangJie_ShangDuiXinXi_Dialog"
+      ]
     },
     "QiangJieReward": [
       {
         "Range": [
+          2,
           12
         ]
       }
     ],
-    "DropBag": [],
+    "DropBag": [
+      "Bag_EA_KeDiJieDai_D"
+    ],
     "DangWei": [
       0.0,
       0.0,
+      0.0,
+      0.0,
+      0.0,
       1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0
     ],
-    "Prefab": "Avatar/Caravan/NPC Caravan 01",
     "PlaceRelationChange": {
       "QiangJieSuccess": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "BiaoJu000000005"
+          ],
           "RelationValueChange": [
+            -150.0,
             -150.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000022"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "BiaoJu000000005"
+          ],
           "RelationValueChange": [
+            -60.0,
             -60.0
           ]
         },
         {
-          "PlaceIds": [],
+          "PlaceIds": [
+            "MenPai000000022"
+          ],
           "RelationValueChange": [
+            -20.0,
             -20.0
           ]
         }
@@ -2129,16 +3099,22 @@
     "CharacterRelationChange": {
       "QiangJieSuccess": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000051"
+          ],
           "RelationValueChange": [
+            -120.0,
             -120.0
           ]
         }
       ],
       "QiangJieFailed": [
         {
-          "CharacterIDs": [],
+          "CharacterIDs": [
+            "RenWu_0000000051"
+          ],
           "RelationValueChange": [
+            -50.0,
             -50.0
           ]
         }

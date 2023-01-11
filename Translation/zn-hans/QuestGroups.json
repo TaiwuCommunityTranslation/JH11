@@ -1784,7 +1784,6 @@
         "Content": "来到勾栏瓦舍时，听到说书人正在绘声绘色地讲着「青龙尊者」和「白虎尊者」的往事。「叶英喆」向他询问「华山派」弟子行踪，得知他们曾在江陵府外的村镇出现过。",
         "Target": "目标：<color=#FFA41BFF>前往江陵府外的村镇\n（村镇位于江陵府附近，两侧各有一湾小湖）</color>",
         "MuDiDiValues": {
-          "DDIcon": "UI/SX Textures/Quest/POI",
           "DDText": "199,206"
         }
       },
@@ -2113,7 +2112,6 @@
         ],
         "Message": "收到了来自「秦莫生」的信函……",
         "MuDiDiValues": {
-          "DDIcon": "UI/SX Textures/Quest/POI",
           "DDText": "189,137"
         }
       },
@@ -2824,7 +2822,6 @@
         "Content": "你在「天尊教」见到了同样受邀前来的「叶英喆」与「秦莫生」。「帝武寒」告诉你们，「鸿仙灵」在青王寺外的山林找到了新的线索，邀你们一同前去查看。",
         "Target": "目标：<color=#FFA41BFF>前往「青王寺」外的山林一探究竟</color>",
         "MuDiDiValues": {
-          "DDIcon": "UI/SX Textures/Quest/POI",
           "DDText": "97,325"
         }
       },
@@ -2840,7 +2837,6 @@
         "Content": "来到山林后，你们听村民说近来山林之中夜晚有鬼火，无人敢靠近。「帝武寒」告诉你们，五剑之一「净镜剑」剑身如一面铜镜，每到夜晚便能反射出月光，与村民所说有几分相似。你们决定等到晚上，前去查探一番。",
         "Target": "目标：<color=#FFA41BFF>等到夜晚到山林中一探究竟</color>",
         "MuDiDiValues": {
-          "DDIcon": "UI/SX Textures/Quest/POI",
           "DDText": "97,325"
         }
       },
@@ -2868,7 +2864,6 @@
         "Content": "<color=#DDBE84FF><b><size=23>「明月鉴镜」</size></b></color>\n「秦莫生」告诉你，近来「青王寺」外的山林有些异象，怀疑与五剑有关，邀你一同前去查看。",
         "Target": "目标：<color=#FFA41BFF>前往「青王寺」山林一探究竟\n（山林位于青王寺的南方，入口处有一颗较矮的粉红色灌木。）</color>",
         "MuDiDiValues": {
-          "DDIcon": "UI/SX Textures/Quest/POI",
           "DDText": "97,325"
         }
       },
@@ -3471,7 +3466,6 @@
         "Content": "来到「天尊教」，你见到「叶英喆」与「秦莫生」也在此处。「帝武寒」告诉你们，「天尊教」寻遍了各个寺庙，但仍没有找到五剑的线索。交谈间，「帝武寒」想起洞庭湖一带有一座荒废的寺庙，邀你们一同前去查看。",
         "Target": "目标：<color=#FFA41BFF>前往洞庭湖一带的云梦寺一探究竟</color>",
         "MuDiDiValues": {
-          "DDIcon": "UI/SX Textures/Quest/POI",
           "DDText": "176,261"
         }
       },
@@ -3565,7 +3559,6 @@
         "Content": "「温州商户」大商家「黄飞白」告诉你，当年自己是代人出资，并不知晓华林寺修整了何处。被问及此事背后之人时，「黄飞白」有些犹疑。此时有伙计来报说商队在洪州野外被劫，「黄飞白」请你相助，并以事成之后将告知你更多信息作为交换。",
         "Target": "目标：<color=#FFA41BFF>前往洪州野外</color>",
         "MuDiDiValues": {
-          "DDIcon": "UI/SX Textures/Quest/POI",
           "DDText": "75,218"
         }
       },
@@ -4805,7 +4798,6 @@
         "Content": "<color=#DDBE84FF><b><size=23>「故事 · 天涯落枫 · 正篇贰 · 走火入魔」</size></b></color>\n\n你与「狄梦」在「红枫寨」各处搜寻到了一些相关线索，知晓了「红枫寨」西北处还有一片山林。",
         "Target": "目标：<color=#FFA41BFF>前往「红枫寨」西北处的山林\n（山林位于「红枫寨」的西北方向，与枫叶林接壤，入口处有一株较矮的绿树）</color>",
         "MuDiDiValues": {
-          "DDIcon": "UI/SX Textures/Quest/POI",
           "DDText": "323,320"
         }
       },
@@ -9754,7 +9746,6 @@
         "Content": "收到酒后，「铁掌门」弟子告知「彭彪」近日行径异常，常常往附近的村镇跑。",
         "Target": "目标：<color=#FFA41BFF>前往附近的村镇一探究竟\n（村镇位于「铁掌门」的西北方向）</color>",
         "MuDiDiValues": {
-          "DDIcon": "UI/SX Textures/Quest/POI",
           "DDText": "73,-97"
         }
       },
@@ -9820,7 +9811,6 @@
         "Content": "收到酒后，「铁掌门」弟子告知「彭彪」近日行径异常，常常往附近的村镇跑。",
         "Target": "目标：<color=#FFA41BFF>前往附近的村镇一探究竟\n（村镇位于「铁掌门」的西北方向）</color>",
         "MuDiDiValues": {
-          "DDIcon": "UI/SX Textures/Quest/POI",
           "DDText": "73,-97"
         }
       },
@@ -9871,7 +9861,6 @@
         "Content": "道不同不相为谋，你认为立场乃交友之根本。「梁红玉」听完你的话当即决定离开，回去村镇探查情况。",
         "Target": "目标：<color=#FFA41BFF>返回村镇一探究竟\n（村镇位于「铁掌门」的西北方向）</color>",
         "MuDiDiValues": {
-          "DDIcon": "UI/SX Textures/Quest/POI",
           "DDText": "73,-97"
         }
       },
@@ -9921,7 +9910,6 @@
         "Content": "你认为立场不能作为衡量人的唯一标准。「梁红玉」冷静之后，决定返回村镇探查情况。",
         "Target": "目标：<color=#FFA41BFF>返回「铁掌门」附近村镇一探究竟\n（村镇位于「铁掌门」的西北方向）</color>",
         "MuDiDiValues": {
-          "DDIcon": "UI/SX Textures/Quest/POI",
           "DDText": "73,-97"
         }
       },
@@ -9982,7 +9970,6 @@
         "Content": "你认为立场不可作为评判一个人好坏的唯一标准。二人的气氛缓和了一些，「梁红玉」决定先回村镇探查情况。",
         "Target": "目标：<color=#FFA41BFF>返回村镇一探究竟\n（村镇位于「铁掌门」的西北方向）</color>",
         "MuDiDiValues": {
-          "DDIcon": "UI/SX Textures/Quest/POI",
           "DDText": "73,-97"
         }
       },
@@ -10032,7 +10019,6 @@
         "Content": "道不同不相为谋，你认为立场乃交友之根本。听完你的话，「梁红玉」决定返回村镇探查情况。",
         "Target": "目标：<color=#FFA41BFF>返回「铁掌门」附近村镇一探究竟\n（村镇位于「铁掌门」的西北方向）</color>",
         "MuDiDiValues": {
-          "DDIcon": "UI/SX Textures/Quest/POI",
           "DDText": "73,-97"
         }
       },
@@ -10849,7 +10835,6 @@
         "Content": "「阎穆一」清醒了一些，意识到自己应振作起来，不能再这样颓废下去。「阎穆一」回忆起与父亲的过往，结合先前「林文岳」所提及的黄河，推测「烈日狂刀诀」在一处黄河洞中，并邀你一同前去寻找。",
         "Target": "目标：<color=#FFA41BFF>前往黄河洞</color>",
         "MuDiDiValues": {
-          "DDIcon": "UI/SX Textures/Quest/POI",
           "DDText": "230,39"
         }
       },
@@ -10865,7 +10850,6 @@
         "Content": "<color=#DDBE84FF><b><size=23>「故事 · 烈日狂刀 · 正篇伍 · 峰回路转」</size></b></color>\n\n你们在洞中找到了一个匣子，与此同时，「洪忠」也因担心「阎穆一」而赶来。你们发现匣子紧锁，需阳脉充盈，才能用内力将盒子打开",
         "Target": "目标：<color=#FFA41BFF>提升「督脉」后再次与「阎穆一」交谈\n（可通过「吃东西」、「豪饮」、「演奏」等行为，享受特定的「美食佳肴」、「酒」、「乐谱音律」带来的增益效果，进行提升）</color>",
         "MuDiDiValues": {
-          "DDIcon": "UI/SX Textures/Quest/POI",
           "DDText": "230,39"
         }
       },
@@ -10881,7 +10865,6 @@
         "Content": "你打开了匣子，里面有一封「林文岳」留下的信，称「阎穆一」若独自前往苍龙岭，便可知晓「烈日狂刀诀」的下落。「洪忠」提议让「阎穆一」佯装独自前去，自己率人暗中接应。商议好计策后，「阎穆一」决定前往苍龙岭。",
         "Target": "目标：<color=#FFA41BFF>前往苍龙岭</color>",
         "MuDiDiValues": {
-          "DDIcon": "UI/SX Textures/Quest/POI",
           "DDText": "290,82"
         }
       },
@@ -12058,7 +12041,6 @@
         "Content": "「林白熊」从「苗仪芳」处得知，观星者后来去了江陵一带，决定前往公安渡口附近的山洞查找。",
         "Target": "目标：<color=#FFA41BFF>前往公安渡口一带的山洞</color>",
         "MuDiDiValues": {
-          "DDIcon": "UI/SX Textures/Quest/POI",
           "DDText": "224,233"
         }
       },
@@ -12760,7 +12742,6 @@
           "RenWu_XueMao_XiaoXue"
         ],
         "MuDiDiValues": {
-          "DDIcon": "UI/SX Textures/Quest/POI",
           "DDText": "-123，-25"
         }
       },
@@ -12782,7 +12763,6 @@
           "RenWu_XueMao_XiaoXue"
         ],
         "MuDiDiValues": {
-          "DDIcon": "UI/SX Textures/Quest/POI",
           "DDText": "-123，-25"
         },
         "ShowChests": [
@@ -12977,7 +12957,6 @@
         "Content": "「小雪」得到菜肴后大快朵颐，并向你诉说了一些心事。吃完饭后，「小雪」告知你第二份秘宝就在恭州附近的山林，约你在该处相见。",
         "Target": "目标：<color=#FFA41BFF>前往恭州附近的山林</color>",
         "MuDiDiValues": {
-          "DDIcon": "UI/SX Textures/Quest/POI",
           "DDText": "346，209"
         }
       },
@@ -12999,7 +12978,6 @@
           "RenWu_XueMao_XiaoXue"
         ],
         "MuDiDiValues": {
-          "DDIcon": "UI/SX Textures/Quest/POI",
           "DDText": "346，209"
         },
         "ShowChests": [
@@ -13576,7 +13554,6 @@
         "Content": "<color=#DDBE84FF><b><size=23>「过往之忆」</size></b></color>\n\n「帝武寒」似乎有些事情，邀你前往东京汴梁附近的树林。",
         "Target": "目标：<color=#FFA41BFF>前往东京汴梁附近的树林寻找「帝武寒」</color>",
         "MuDiDiValues": {
-          "DDIcon": "UI/SX Textures/Quest/POI",
           "DDText": "155,68"
         }
       },
@@ -13691,7 +13668,6 @@
           "SSText": "藏武书院"
         },
         "LeiTaiRewardValues": {
-          "LTUnlock": "T1 Sign",
           "DSText": "1点"
         }
       },
@@ -13779,7 +13755,6 @@
         ],
         "Content": "「藏武官」告知你新的挑战已开启，并让你前往「南阳拳庄」、「青城派」进行挑战。",
         "LeiTaiRewardValues": {
-          "LTUnlock": "T2 Sign",
           "DSText": "1点"
         },
         "LeiTaiInfoValues": [
@@ -13807,7 +13782,6 @@
           "SSText": "藏武书院"
         },
         "LeiTaiRewardValues": {
-          "LTUnlock": "T2 Sign",
           "DSText": "1点"
         }
       },
@@ -13904,7 +13878,6 @@
         ],
         "Content": "「藏武官」告知你新的挑战已开启，并让你前往「崆峒派」、「烈日教」、「红枫寨」进行挑战。",
         "LeiTaiRewardValues": {
-          "LTUnlock": "T3 Sign",
           "DSText": "1点"
         },
         "LeiTaiInfoValues": [
@@ -13935,7 +13908,6 @@
           "SSText": "藏武书院"
         },
         "LeiTaiRewardValues": {
-          "LTUnlock": "T3 Sign",
           "DSText": "1点"
         }
       },
@@ -14032,7 +14004,6 @@
         ],
         "Content": "「天书铸剑师」告知你新的挑战已开启，并让你前往「炎凤堂」、「血手门」进行挑战。",
         "LeiTaiRewardValues": {
-          "LTUnlock": "T4 Sign",
           "DSText": "1点"
         },
         "LeiTaiInfoValues": [
@@ -14060,7 +14031,6 @@
           "SSText": "藏武书院"
         },
         "LeiTaiRewardValues": {
-          "LTUnlock": "T4 Sign",
           "DSText": "1点"
         }
       },
@@ -14125,7 +14095,6 @@
         ],
         "Content": "「藏武官」告知你新的挑战已开启，并让你前往「峨嵋派」、「幽鸿宫」进行挑战。",
         "LeiTaiRewardValues": {
-          "LTUnlock": "T5 Sign",
           "DSText": "2点"
         },
         "LeiTaiInfoValues": [
@@ -14153,7 +14122,6 @@
           "SSText": "藏武书院"
         },
         "LeiTaiRewardValues": {
-          "LTUnlock": "T5 Sign",
           "DSText": "2点"
         }
       },
@@ -17422,7 +17390,6 @@
         ],
         "MPTZMuBiaoValues": {
           "TanFang": {
-            "DDIcon": "UI/SX Textures/Quest/POI",
             "DDText": "望洋洞",
             "Text": "探访1次「河北东路」兴趣地「望洋洞」"
           }
@@ -17449,7 +17416,6 @@
         ],
         "MPTZMuBiaoValues": {
           "TanFang": {
-            "DDIcon": "UI/SX Textures/Quest/POI",
             "DDText": "海边小屋",
             "Text": "探访1次「京东东路」兴趣地「海边小屋」"
           }
@@ -17476,7 +17442,6 @@
         ],
         "MPTZMuBiaoValues": {
           "TanFang": {
-            "DDIcon": "UI/SX Textures/Quest/POI",
             "DDText": "象鼻山",
             "Text": "探访1次「广南西路」兴趣地「象鼻山」"
           }

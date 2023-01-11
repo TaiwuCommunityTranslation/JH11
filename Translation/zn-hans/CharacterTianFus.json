@@ -6,8 +6,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "PengRen_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「烹饪」+8"
   },
   {
@@ -17,8 +21,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "ShiCi_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「诗词」+8"
   },
   {
@@ -28,8 +36,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "ChaDao_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「茶道」+8"
   },
   {
@@ -39,8 +51,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "HuiHua_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「书画」+8"
   },
   {
@@ -50,8 +66,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "YueQi_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「乐器」+8"
   },
   {
@@ -61,8 +81,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "YinJiu_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「饮酒」+8"
   },
   {
@@ -72,8 +96,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "ShouCang_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「收藏」+8"
   },
   {
@@ -84,9 +112,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "PengRen_0000000001",
       "ShiCi_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「烹饪」+5「诗词」+5"
@@ -99,9 +129,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "PengRen_0000000001",
       "ChaDao_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「烹饪」+5「茶道」+5"
@@ -114,9 +146,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "PengRen_0000000001",
       "HuiHua_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「烹饪」+5「书画」+5"
@@ -129,9 +163,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "PengRen_0000000001",
       "YueQi_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「烹饪」+5「乐器」+5"
@@ -144,9 +180,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "PengRen_0000000001",
       "YinJiu_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「烹饪」+5「饮酒」+5"
@@ -159,9 +197,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "PengRen_0000000001",
       "ShouCang_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「烹饪」+5「收藏」+5"
@@ -174,9 +214,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "ShiCi_0000000001",
       "ChaDao_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「诗词」+5「茶道」+5"
@@ -189,9 +231,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "ShiCi_0000000001",
       "HuiHua_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「诗词」+5「书画」+5"
@@ -204,9 +248,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "ShiCi_0000000001",
       "YueQi_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「诗词」+5「乐器」+5"
@@ -219,9 +265,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "ShiCi_0000000001",
       "YinJiu_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「诗词」+5「饮酒」+5"
@@ -234,9 +282,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "ShiCi_0000000001",
       "ShouCang_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「诗词」+5「收藏」+5"
@@ -249,9 +299,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "ChaDao_0000000001",
       "HuiHua_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「茶道」+5「书画」+5"
@@ -264,9 +316,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "ChaDao_0000000001",
       "YueQi_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「茶道」+5「乐器」+5"
@@ -279,9 +333,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "ChaDao_0000000001",
       "YinJiu_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「茶道」+5「饮酒」+5"
@@ -294,9 +350,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "ChaDao_0000000001",
       "ShouCang_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「茶道」+5「收藏」+5"
@@ -309,9 +367,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "HuiHua_0000000001",
       "YueQi_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「书画」+5「乐器」+5"
@@ -324,9 +384,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "HuiHua_0000000001",
       "YinJiu_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「书画」+5「饮酒」+5"
@@ -339,9 +401,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "HuiHua_0000000001",
       "ShouCang_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「书画」+5「收藏」+5"
@@ -354,9 +418,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "YueQi_0000000001",
       "YinJiu_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「乐器」+5「饮酒」+5"
@@ -369,9 +435,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "YueQi_0000000001",
       "ShouCang_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「乐器」+5「收藏」+5"
@@ -384,9 +452,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "YinJiu_0000000001",
       "ShouCang_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「饮酒」+5「收藏」+5"
@@ -398,8 +468,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "YiShu_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「医术」+8"
   },
   {
@@ -409,8 +483,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "DuShu_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「毒术」+8"
   },
   {
@@ -421,9 +499,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "YiShu_0000000001",
       "DuShu_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「医术」+5「毒术」+5"
@@ -435,7 +515,9 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "BuffTypes": [],
+    "BuffTypes": [
+      2
+    ],
     "Description": "「美食状态」持续时间翻倍"
   },
   {
@@ -445,7 +527,9 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "BuffTypes": [],
+    "BuffTypes": [
+      0
+    ],
     "Description": "「美酒状态」持续时间翻倍"
   },
   {
@@ -455,7 +539,9 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "BuffTypes": [],
+    "BuffTypes": [
+      1
+    ],
     "Description": "「饮茶状态」持续时间翻倍"
   },
   {
@@ -465,7 +551,9 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "BuffTypes": [],
+    "BuffTypes": [
+      5
+    ],
     "Description": "「余音缭绕状态」持续时间翻倍"
   },
   {
@@ -475,7 +563,9 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "BuffTypes": [],
+    "BuffTypes": [
+      16
+    ],
     "Description": "「阅读状态」持续时间翻倍"
   },
   {
@@ -485,8 +575,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "ShenLai_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「神来」+8"
   },
   {
@@ -496,8 +590,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "JiZhong_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「集中」+8"
   },
   {
@@ -507,8 +605,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "YiZhi_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「意志」+8"
   },
   {
@@ -518,8 +620,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "JueDuan_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「决断」+8"
   },
   {
@@ -529,8 +635,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "TiPo_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「体魄」+8"
   },
   {
@@ -540,8 +650,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "JianFa_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「用剑」+8"
   },
   {
@@ -551,8 +665,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "DaoFa_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「使刀」+8"
   },
   {
@@ -562,8 +680,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "QuanZhang_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「拳掌」+8"
   },
   {
@@ -573,8 +695,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "ZhiLi_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「指力」+8"
   },
   {
@@ -584,8 +710,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "YongQiang_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「用枪」+8"
   },
   {
@@ -595,8 +725,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "ShuaGun_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「耍棍」+8"
   },
   {
@@ -606,8 +740,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "ChuiFu_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「运斧」+8"
   },
   {
@@ -617,8 +755,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "ShiBian_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「鞭术」+8"
   },
   {
@@ -628,8 +770,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "GouFa_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「钩法」+8"
   },
   {
@@ -639,8 +785,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "CunJin_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「暗器」+8"
   },
   {
@@ -650,8 +800,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "BiFa_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「笔法」+8"
   },
   {
@@ -662,9 +816,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "QuanZhang_0000000001",
       "ZhiLi_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「拳掌」+5「指力」+5"
@@ -677,12 +833,22 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "JianFa_0000000001",
       "DaoFa_0000000001",
+      "YongQiang_0000000001",
       "ShuaGun_0000000001",
+      "ChuiFu_0000000001",
       "ShiBian_0000000001",
-      "CunJin_0000000001"
+      "GouFa_0000000001",
+      "CunJin_0000000001",
+      "BiFa_0000000001"
     ],
     "Values": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
       3.0,
       3.0,
       3.0,
@@ -698,9 +864,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "DuMai_0000000001",
       "RenMai_0000000001"
     ],
     "Values": [
+      4.0,
       -4.0
     ],
     "Description": "「督脉」+4「任脉」-4"
@@ -713,9 +881,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "RenMai_0000000001",
       "DuMai_0000000001"
     ],
     "Values": [
+      4.0,
       -4.0
     ],
     "Description": "「任脉」+4「督脉」-4"
@@ -727,8 +897,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "CharacterWuXing_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「悟性」+8"
   },
   {
@@ -738,8 +912,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "CharacterFuYuan_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「福缘」+8"
   },
   {
@@ -749,8 +927,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "MeiLi_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「魅力」+8"
   },
   {
@@ -760,8 +942,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "CharacterJiaoShe_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「交涉」+8"
   },
   {
@@ -771,8 +957,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "CharacterJianShi_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「见识」+8"
   },
   {
@@ -782,8 +972,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "HanYang_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「涵养」+8"
   },
   {
@@ -793,8 +987,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "ShaYi_0000000001"
+    ],
+    "Values": [
+      15.0
+    ],
     "Description": "「杀意」+15"
   },
   {

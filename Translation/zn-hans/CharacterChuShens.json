@@ -17,78 +17,115 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "JianFa_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "DaoFa_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "QuanZhang_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ZhiLi_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "YongQiang_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ShuaGun_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ChuiFu_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ShiBian_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "GouFa_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "CunJin_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "BiFa_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": []
+        "RelatedID": [
+          "KaiJuanYouYi_TianFu_Hu_024"
+        ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "JiRenTianXiang_TianFu_Long_004"
+        ]
       }
     ]
   },
@@ -110,78 +147,115 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "JianFa_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "DaoFa_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "QuanZhang_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ZhiLi_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "YongQiang_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ShuaGun_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ChuiFu_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ShiBian_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "GouFa_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "CunJin_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "BiFa_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": []
+        "RelatedID": [
+          "QiJingYiMai_TianFu_Long_010"
+        ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "ZhenQiChongYing_TianFu_Long_013"
+        ]
       }
     ]
   },
@@ -203,78 +277,115 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "JianFa_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "DaoFa_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "QuanZhang_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ZhiLi_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "YongQiang_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ShuaGun_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ChuiFu_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ShiBian_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "GouFa_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "CunJin_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "BiFa_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": []
+        "RelatedID": [
+          "GuGeQingQi_TianFu_Long_012"
+        ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "LianWuQiCai_TianFu_Long_009"
+        ]
       }
     ]
   },
@@ -296,24 +407,34 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "MeiLi_0000000001"
+        ],
         "Value": [
+          10.0,
           10.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "HanYang_0000000001"
+        ],
         "Value": [
+          10.0,
           10.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": []
+        "RelatedID": [
+          "LeTianXiRen_TianFu_Feng_015"
+        ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "RuMuChunFeng_TianFu_Feng_016"
+        ]
       }
     ]
   },
@@ -323,7 +444,9 @@
     "Description2": "自宅仓库追加「医书」<color=#23FF00FF>《旅舍备要方》</color>",
     "CangKu": {
       "WeaponEntitys": [],
-      "Items": []
+      "Items": [
+        "LvSheBeiYaoFang_book00001"
+      ]
     },
     "ShuXing1": "医术",
     "ShuXing2": "天赋",
@@ -335,21 +458,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "YiShu_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "YiShu_0000000001"
+        ],
         "Value": [
+          70.0,
           100.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "YiZhe_TianFu_Long_001"
+        ]
       }
     ]
   },
@@ -359,7 +490,9 @@
     "Description2": "自宅仓库追加「毒经」<color=#FF00B6FF>《牵机秋石谱》</color>",
     "CangKu": {
       "WeaponEntitys": [],
-      "Items": []
+      "Items": [
+        "QianJiQiuShiPu_EA_DuJing_Feng_001"
+      ]
     },
     "ShuXing1": "毒术",
     "ShuXing2": "天赋",
@@ -371,21 +504,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "DuShu_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "DuShu_0000000001"
+        ],
         "Value": [
+          70.0,
           100.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "DuShi_TianFu_Long_002"
+        ]
       }
     ]
   },
@@ -407,27 +548,38 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ShouCang_0000000001"
+        ],
         "Value": [
+          10.0,
           10.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "CharacterWuXing_0000000001"
+        ],
         "Value": [
+          10.0,
           10.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ShouCang_0000000001"
+        ],
         "Value": [
+          75.0,
           999.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "QiZhenYiBao_TianFu_Hu_027"
+        ]
       }
     ]
   },
@@ -438,6 +590,12 @@
     "CangKu": {
       "WeaponEntitys": [],
       "Items": [
+        "LianBanChaWan_TeaCup00008",
+        "SongZhenCha_Tea00002",
+        "SongZhenCha_Tea00002",
+        "SongZhenCha_Tea00002",
+        "SongZhenCha_Tea00002",
+        "SongZhenCha_Tea00002",
         "SongZhenCha_Tea00002",
         "SongZhenCha_Tea00002",
         "SongZhenCha_Tea00002",
@@ -455,21 +613,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ChaDao_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ChaDao_0000000001"
+        ],
         "Value": [
+          75.0,
           999.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "DianChaGaoShou_TianFu_Hu_010"
+        ]
       }
     ]
   },
@@ -482,19 +648,39 @@
       "Items": [
         "ZhuRou_ShiCai00001",
         "ZhuRou_ShiCai00001",
+        "ZhuRou_ShiCai00001",
+        "ZhuRou_ShiCai00001",
+        "ZhuRou_ShiCai00001",
+        "YangRou_ShiCai00002",
+        "YangRou_ShiCai00002",
         "YangRou_ShiCai00002",
         "YangRou_ShiCai00002",
         "YangRou_ShiCai00002",
         "NiuRou_ShiCai00003",
         "NiuRou_ShiCai00003",
+        "NiuRou_ShiCai00003",
+        "NiuRou_ShiCai00003",
+        "NiuRou_ShiCai00003",
         "LiYu_ShiCai00023",
         "LiYu_ShiCai00023",
         "LiYu_ShiCai00023",
+        "LiYu_ShiCai00023",
+        "LiYu_ShiCai00023",
         "MianFen_ShiCai00070",
         "MianFen_ShiCai00070",
         "MianFen_ShiCai00070",
         "MianFen_ShiCai00070",
         "MianFen_ShiCai00070",
+        "MianFen_ShiCai00070",
+        "MianFen_ShiCai00070",
+        "MianFen_ShiCai00070",
+        "MianFen_ShiCai00070",
+        "MianFen_ShiCai00070",
+        "DaMi_ShiCai00071",
+        "DaMi_ShiCai00071",
+        "DaMi_ShiCai00071",
+        "DaMi_ShiCai00071",
+        "DaMi_ShiCai00071",
         "DaMi_ShiCai00071",
         "DaMi_ShiCai00071",
         "DaMi_ShiCai00071",
@@ -512,21 +698,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "PengRen_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "PengRen_0000000001"
+        ],
         "Value": [
+          75.0,
           999.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "PaoFengPengLong_TianFu_Hu_009"
+        ]
       }
     ]
   },
@@ -537,6 +731,12 @@
     "CangKu": {
       "WeaponEntitys": [],
       "Items": [
+        "QingCiDanPing_WineCup00005",
+        "LianQuanJiu_Wine00002",
+        "LianQuanJiu_Wine00002",
+        "LianQuanJiu_Wine00002",
+        "LianQuanJiu_Wine00002",
+        "LianQuanJiu_Wine00002",
         "LianQuanJiu_Wine00002",
         "LianQuanJiu_Wine00002",
         "LianQuanJiu_Wine00002",
@@ -554,21 +754,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "YinJiu_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "YinJiu_0000000001"
+        ],
         "Value": [
+          75.0,
           999.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "WuDouXianSheng_TianFu_Hu_013"
+        ]
       }
     ]
   },
@@ -579,7 +787,9 @@
     "CangKu": {
       "WeaponEntitys": [],
       "Items": [
-        "BaiXueCao_Music00001"
+        "MingQuan_MusicInstrument00005",
+        "BaiXueCao_Music00001",
+        "QueChaoCao_Music00004"
       ]
     },
     "ShuXing1": "乐器",
@@ -592,21 +802,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "YueQi_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "YueQi_0000000001"
+        ],
         "Value": [
+          75.0,
           999.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "PinZhuTanSi_TianFu_Hu_012"
+        ]
       }
     ]
   },
@@ -617,6 +835,7 @@
     "CangKu": {
       "WeaponEntitys": [],
       "Items": [
+        "LunYu_Reading00004",
         "ShiJing_Reading00006"
       ]
     },
@@ -630,21 +849,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ShiCi_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ShiCi_0000000001"
+        ],
         "Value": [
+          75.0,
           999.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "MiaoBiShengHua_TianFu_Hu_008"
+        ]
       }
     ]
   },
@@ -655,7 +882,9 @@
     "CangKu": {
       "WeaponEntitys": [],
       "Items": [
+        "ZhuZongBi_Antique_Bi_00001",
         "BaiMaZhi_Antique_Zhi_00001",
+        "YouYanMo_Antique_Mo_00001",
         "CuanKongYan_Antique_Yan_00001"
       ]
     },
@@ -669,21 +898,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "HuiHua_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "HuiHua_0000000001"
+        ],
         "Value": [
+          75.0,
           999.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "HuiHaoLuoZhi_TianFu_Hu_011"
+        ]
       }
     ]
   },
@@ -705,21 +942,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "CharacterWuXing_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "CharacterWuXing_0000000001"
+        ],
         "Value": [
+          55.0,
           100.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "LingXinHuiXiang_TianFu_Long_003"
+        ]
       }
     ]
   },
@@ -741,21 +986,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "CharacterFuYuan_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "CharacterFuYuan_0000000001"
+        ],
         "Value": [
+          55.0,
           100.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "JiRenTianXiang_TianFu_Long_004"
+        ]
       }
     ]
   },
@@ -777,21 +1030,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "MeiLi_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "MeiLi_0000000001"
+        ],
         "Value": [
+          65.0,
           100.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "TianShengLiZhi_TianFu_Long_005"
+        ]
       }
     ]
   },
@@ -813,21 +1074,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "CharacterJiaoShe_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "CharacterJiaoShe_0000000001"
+        ],
         "Value": [
+          55.0,
           100.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "NengShuoHuiDao_TianFu_Long_006"
+        ]
       }
     ]
   },
@@ -849,21 +1118,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "CharacterJianShi_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "CharacterJianShi_0000000001"
+        ],
         "Value": [
+          55.0,
           100.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "JianDuoShiGuang_TianFu_Long_007"
+        ]
       }
     ]
   },
@@ -885,21 +1162,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "HanYang_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "HanYang_0000000001"
+        ],
         "Value": [
+          65.0,
           100.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "ZhiShuDaLi_TianFu_Long_008"
+        ]
       }
     ]
   },
@@ -921,21 +1206,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ShaYi_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ShaYi_0000000001"
+        ],
         "Value": [
+          70.0,
           100.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "ShaQiTengTeng_TianFu_Feng_012"
+        ]
       }
     ]
   },
@@ -957,21 +1250,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ShenLai_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ShenLai_0000000001"
+        ],
         "Value": [
+          60.0,
           100.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "TianRenHeYi_TianFu_Hu_014"
+        ]
       }
     ]
   },
@@ -993,21 +1294,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "JiZhong_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "JiZhong_0000000001"
+        ],
         "Value": [
+          60.0,
           100.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "XinWuPangWu_TianFu_Hu_015"
+        ]
       }
     ]
   },
@@ -1029,21 +1338,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "YiZhi_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "YiZhi_0000000001"
+        ],
         "Value": [
+          60.0,
           100.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "JianRenBuBa_TianFu_Hu_016"
+        ]
       }
     ]
   },
@@ -1065,21 +1382,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "JueDuan_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "JueDuan_0000000001"
+        ],
         "Value": [
+          60.0,
           100.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "DangJiLiDuan_TianFu_Hu_017"
+        ]
       }
     ]
   },
@@ -1101,27 +1426,38 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "TiPo_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       },
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "YaoMa_0000000001"
+        ],
         "Value": [
+          8.0,
           8.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "TiPo_0000000001"
+        ],
         "Value": [
+          60.0,
           100.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "ShenQiangTiJian_TianFu_Hu_018"
+        ]
       }
     ]
   },
@@ -1131,7 +1467,9 @@
     "Description2": "自宅仓库追加「内功秘籍」<color=#23FF00FF>墨阳气法</color>",
     "CangKu": {
       "WeaponEntitys": [],
-      "Items": []
+      "Items": [
+        "NeiGong0000001006"
+      ]
     },
     "ShuXing1": "指力",
     "ShuXing2": "天赋",
@@ -1143,21 +1481,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ZhiLi_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ZhiLi_0000000001"
+        ],
         "Value": [
+          55.0,
           999.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "ZhiLiDaRen_TianFu_Feng_004"
+        ]
       }
     ]
   },
@@ -1166,8 +1512,12 @@
     "Description1": "「使刀」+15",
     "Description2": "自宅仓库追加「内功秘籍」<color=#23FF00FF>点苍心法</color>「兵器」<color=#23FF00FF>戒刀</color>",
     "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
+      "WeaponEntitys": [
+        "JieDao_Hu_Dao_Template_004"
+      ],
+      "Items": [
+        "NeiGong0000001004"
+      ]
     },
     "ShuXing1": "使刀",
     "ShuXing2": "天赋",
@@ -1179,21 +1529,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "DaoFa_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "DaoFa_0000000001"
+        ],
         "Value": [
+          55.0,
           999.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "ShiDaoHaoShou_TianFu_Feng_002"
+        ]
       }
     ]
   },
@@ -1202,8 +1560,12 @@
     "Description1": "「耍棍」+15",
     "Description2": "自宅仓库追加「内功秘籍」<color=#23FF00FF>青狄内功</color>「兵器」<color=#23FF00FF>铜棍</color>",
     "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
+      "WeaponEntitys": [
+        "TongGun_Hu_Gun_Template_003"
+      ],
+      "Items": [
+        "NeiGong0000001007"
+      ]
     },
     "ShuXing1": "耍棍",
     "ShuXing2": "天赋",
@@ -1215,21 +1577,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ShuaGun_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ShuaGun_0000000001"
+        ],
         "Value": [
+          55.0,
           999.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "ShuaGunHaoShou_TianFu_Feng_006"
+        ]
       }
     ]
   },
@@ -1238,8 +1608,12 @@
     "Description1": "「用枪」+15",
     "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>昆吾枪法</color>「兵器」<color=#23FF00FF>素木枪</color>",
     "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
+      "WeaponEntitys": [
+        "SuMuQiang_Hu_Qiang_Template_003"
+      ],
+      "Items": [
+        "QiangFaWuGong000000008"
+      ]
     },
     "ShuXing1": "用枪",
     "ShuXing2": "天赋",
@@ -1251,21 +1625,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "YongQiang_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "YongQiang_0000000001"
+        ],
         "Value": [
+          55.0,
           999.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "YongQiangHaoShou_TianFu_Feng_005"
+        ]
       }
     ]
   },
@@ -1274,8 +1656,12 @@
     "Description1": "「运斧」+15",
     "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>将军斧法</color>「兵器」<color=#23FF00FF>板斧</color>",
     "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
+      "WeaponEntitys": [
+        "BanFu_Hu_Fu_Template_002"
+      ],
+      "Items": [
+        "FuFaWuGong000000007"
+      ]
     },
     "ShuXing1": "运斧",
     "ShuXing2": "天赋",
@@ -1287,21 +1673,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ChuiFu_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ChuiFu_0000000001"
+        ],
         "Value": [
+          55.0,
           999.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "YunFuDaRen_TianFu_Feng_007"
+        ]
       }
     ]
   },
@@ -1310,8 +1704,12 @@
     "Description1": "「鞭术」+15",
     "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>扫霞鞭法</color>「兵器」<color=#23FF00FF>柳皇鞭</color>",
     "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
+      "WeaponEntitys": [
+        "LiuHuangBian_Hu_Bian_Template_003"
+      ],
+      "Items": [
+        "BianFaWuGong000000009"
+      ]
     },
     "ShuXing1": "鞭术",
     "ShuXing2": "天赋",
@@ -1323,21 +1721,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ShiBian_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "ShiBian_0000000001"
+        ],
         "Value": [
+          55.0,
           999.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "BianShuHaoShou_TianFu_Feng_008"
+        ]
       }
     ]
   },
@@ -1346,8 +1752,12 @@
     "Description1": "「钩法」+15",
     "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>小紫云钩诀</color>「兵器」<color=#23FF00FF>铁钩</color>",
     "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
+      "WeaponEntitys": [
+        "TieGou_Hu_Gou_Template_001"
+      ],
+      "Items": [
+        "GouFaWuGong000000006"
+      ]
     },
     "ShuXing1": "钩法",
     "ShuXing2": "天赋",
@@ -1359,21 +1769,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "GouFa_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "GouFa_0000000001"
+        ],
         "Value": [
+          55.0,
           999.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "GouFaDaRen_TianFu_Feng_009"
+        ]
       }
     ]
   },
@@ -1382,8 +1800,12 @@
     "Description1": "「暗器」+15",
     "Description2": "自宅仓库追加「内功秘籍」<color=#23FF00FF>残魂气法</color>「兵器」<color=#23FF00FF>银镖</color>",
     "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
+      "WeaponEntitys": [
+        "YinBiao_Hu_AnQi_Template_004"
+      ],
+      "Items": [
+        "NeiGong0000001012"
+      ]
     },
     "ShuXing1": "暗器",
     "ShuXing2": "天赋",
@@ -1395,21 +1817,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "CunJin_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "CunJin_0000000001"
+        ],
         "Value": [
+          55.0,
           999.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "ShanYongAnQi_TianFu_Feng_010"
+        ]
       }
     ]
   },
@@ -1418,8 +1848,12 @@
     "Description1": "「笔法」+15",
     "Description2": "自宅仓库追加「内功秘籍」<color=#23FF00FF>金字心经</color>「兵器」<color=#23FF00FF>银钩笔</color>",
     "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
+      "WeaponEntitys": [
+        "YinGouBi_Hu_Bi_Template_001"
+      ],
+      "Items": [
+        "NeiGong0000001008"
+      ]
     },
     "ShuXing1": "笔法",
     "ShuXing2": "天赋",
@@ -1431,21 +1865,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "BiFa_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "BiFa_0000000001"
+        ],
         "Value": [
+          55.0,
           999.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "BiFaDaRen_TianFu_Feng_011"
+        ]
       }
     ]
   },
@@ -1455,7 +1897,9 @@
     "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>两仪剑法</color>",
     "CangKu": {
       "WeaponEntitys": [],
-      "Items": []
+      "Items": [
+        "JianFaWuGong000000001"
+      ]
     },
     "ShuXing1": "用剑",
     "ShuXing2": "天赋",
@@ -1467,21 +1911,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "JianFa_0000000001"
+        ],
         "Value": [
+          10.0,
           10.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "JianFa_0000000001"
+        ],
         "Value": [
+          60.0,
           100.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "YongJianHaoShou_TianFu_Feng_001"
+        ]
       }
     ]
   },
@@ -1491,7 +1943,9 @@
     "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>乾天掌</color>",
     "CangKu": {
       "WeaponEntitys": [],
-      "Items": []
+      "Items": [
+        "QuanZhangWuGong000000009"
+      ]
     },
     "ShuXing1": "拳掌",
     "ShuXing2": "天赋",
@@ -1503,21 +1957,29 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "QuanZhang_0000000001"
+        ],
         "Value": [
+          10.0,
           10.0
         ]
       }
     ],
     "Conditions": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "QuanZhang_0000000001"
+        ],
         "Value": [
+          60.0,
           100.0
         ]
       },
       {
-        "RelatedID": []
+        "RelatedID": [
+          "QuanZhangHaoShou_TianFu_Feng_003"
+        ]
       }
     ]
   },
@@ -1528,6 +1990,12 @@
     "CangKu": {
       "WeaponEntitys": [],
       "Items": [
+        "QingGong000000027",
+        "PXJinChuangYao00001",
+        "PXJinChuangYao00001",
+        "PXJinChuangYao00001",
+        "PXJinChuangYao00001",
+        "PXJinChuangYao00001",
         "PXJinChuangYao00001",
         "PXJinChuangYao00001",
         "PXJinChuangYao00001",
@@ -1547,11 +2015,13 @@
     "Conditions": [
       {
         "Value": [
+          40.0,
           999.0
         ]
       },
       {
         "Value": [
+          40.0,
           100.0
         ]
       }
@@ -1564,6 +2034,12 @@
     "CangKu": {
       "WeaponEntitys": [],
       "Items": [
+        "NeiGong000000003",
+        "ZhiYuanNeiDan00001",
+        "ZhiYuanNeiDan00001",
+        "ZhiYuanNeiDan00001",
+        "ZhiYuanNeiDan00001",
+        "ZhiYuanNeiDan00001",
         "ZhiYuanNeiDan00001",
         "ZhiYuanNeiDan00001",
         "ZhiYuanNeiDan00001",
@@ -1583,11 +2059,13 @@
     "Conditions": [
       {
         "Value": [
+          40.0,
           999.0
         ]
       },
       {
         "Value": [
+          40.0,
           999.0
         ]
       }
@@ -1611,8 +2089,11 @@
     ],
     "CharacterPropsUpgrades": [
       {
-        "RelatedID": [],
+        "RelatedID": [
+          "CharacterFuYuan_0000000001"
+        ],
         "Value": [
+          15.0,
           15.0
         ]
       }
@@ -1620,6 +2101,7 @@
     "Conditions": [
       {
         "Value": [
+          20.0,
           999.0
         ]
       }

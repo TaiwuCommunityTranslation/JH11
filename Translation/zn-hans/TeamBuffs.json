@@ -6,8 +6,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "ZhiLi_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「指力」+8，「点穴」几率增加10%"
   },
   {
@@ -17,9 +21,13 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "Values": [],
+    "Values": [
+      0.1
+    ],
     "Description": "「指力」+8，「点穴」几率增加10%",
-    "ZhanDouJiShuTypes": []
+    "ZhanDouJiShuTypes": [
+      2
+    ]
   },
   {
     "Name": {
@@ -28,8 +36,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "PengRen_0000000001"
+    ],
+    "Values": [
+      15.0
+    ],
     "Description": "「烹饪」+15"
   },
   {
@@ -39,8 +51,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "PengRen_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
     "Description": "「烹饪」+5"
   },
   {
@@ -50,8 +66,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "MingSheng_0000000001"
+    ],
+    "Values": [
+      15.0
+    ],
     "Description": "「名气」+15"
   },
   {
@@ -71,12 +91,19 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "WuGongType": [
+      1,
       2,
+      3,
       4,
+      5,
       6,
+      7,
       8,
+      9,
       10,
+      11,
       12,
+      13,
       14
     ],
     "Description": "「武功」修炼速度提高50%"
@@ -88,8 +115,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "YiZhi_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「意志」+8"
   },
   {
@@ -109,9 +140,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "JiZhong_0000000001",
       "ShenLai_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「集中」+5「神来」+5"
@@ -124,9 +157,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "QuanZhang_0000000001",
       "JianFa_0000000001"
     ],
     "Values": [
+      6.0,
       6.0
     ],
     "Description": "「拳掌」+6「用剑」+6"
@@ -147,8 +182,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "DaoDe_0000000001"
+    ],
+    "Values": [
+      -20.0
+    ],
     "Description": "「道德」-20，「击杀」几率提高"
   },
   {
@@ -158,9 +197,13 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "Values": [],
+    "Values": [
+      0.18
+    ],
     "Description": "「道德」-20，「击杀」几率提高",
-    "ZhanDouJiShuTypes": []
+    "ZhanDouJiShuTypes": [
+      4
+    ]
   },
   {
     "Name": {
@@ -169,8 +212,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "ShenLai_0000000001"
+    ],
+    "Values": [
+      10.0
+    ],
     "Description": "「神来」+10"
   },
   {
@@ -181,9 +228,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "HanYang_0000000001",
       "CharacterJianShi_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「涵养」+5「见识」+5"
@@ -196,10 +245,14 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
-      "JueDuan_0000000001"
+      "JiZhong_0000000001",
+      "JueDuan_0000000001",
+      "YiZhi_0000000001"
     ],
     "Values": [
-      8.0
+      8.0,
+      8.0,
+      -10.0
     ],
     "Description": "「集中」+8「决断」+8「意志」-10"
   },
@@ -211,9 +264,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "YinJiu_0000000001",
       "HanYang_0000000001"
     ],
     "Values": [
+      15.0,
       -10.0
     ],
     "Description": "「饮酒」+15「涵养」-10"
@@ -226,9 +281,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "YiZhi_0000000001",
       "CharacterFuYuan_0000000001"
     ],
     "Values": [
+      8.0,
       8.0
     ],
     "Description": "「意志」+8「福缘」+8"
@@ -241,9 +298,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "ShouCang_0000000001",
       "CharacterJiaoShe_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「收藏」+5「交涉」+5"
@@ -255,9 +314,13 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "Values": [],
+    "Values": [
+      0.15
+    ],
     "Description": "「击破」几率提高",
-    "ZhanDouJiShuTypes": []
+    "ZhanDouJiShuTypes": [
+      1
+    ]
   },
   {
     "Name": {
@@ -267,9 +330,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "MeiLi_0000000001",
       "CharacterJiaoShe_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「魅力」+5「交涉」+5"
@@ -299,8 +364,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "ShaYi_0000000001"
+    ],
+    "Values": [
+      30.0
+    ],
     "Description": "「杀意」+30，作恶被「巡铺」发现追击的概率增加"
   },
   {
@@ -319,8 +388,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "DaoFa_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「使刀」+8"
   },
   {
@@ -331,9 +404,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "CharacterJianShi_0000000001",
       "ShaYi_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「见识」+5「杀意」+5"
@@ -345,9 +420,13 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "Values": [],
+    "Values": [
+      0.15
+    ],
     "Description": "「击伤」几率提高，「淬毒」几率提高",
-    "ZhanDouJiShuTypes": []
+    "ZhanDouJiShuTypes": [
+      7
+    ]
   },
   {
     "Name": {
@@ -356,9 +435,13 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "Values": [],
+    "Values": [
+      0.12
+    ],
     "Description": "「击伤」几率提高，「淬毒」几率提高",
-    "ZhanDouJiShuTypes": []
+    "ZhanDouJiShuTypes": [
+      3
+    ]
   },
   {
     "Name": {
@@ -385,8 +468,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "JueDuan_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
     "Description": "「决断」+5，「对招落败」几率降低"
   },
   {
@@ -396,9 +483,13 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "Values": [],
+    "Values": [
+      -0.1
+    ],
     "Description": "「决断」+5，「对招落败」几率降低",
-    "ZhanDouJiShuTypes": []
+    "ZhanDouJiShuTypes": [
+      6
+    ]
   },
   {
     "Name": {
@@ -408,9 +499,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "DaoFa_0000000001",
       "ShaYi_0000000001"
     ],
     "Values": [
+      5.0,
       10.0
     ],
     "Description": "「使刀」+5，「杀意」+10"
@@ -432,9 +525,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "QuanZhang_0000000001",
       "MingSheng_0000000001"
     ],
     "Values": [
+      5.0,
       10.0
     ],
     "Description": "「拳掌」+5「名气」+10"
@@ -446,8 +541,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "JianFa_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
     "Description": "「用剑」+5「击伤」几率提高"
   },
   {
@@ -457,9 +556,13 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "Values": [],
+    "Values": [
+      0.1
+    ],
     "Description": "「用剑」+5「击伤」几率提高",
-    "ZhanDouJiShuTypes": []
+    "ZhanDouJiShuTypes": [
+      7
+    ]
   },
   {
     "Name": {
@@ -469,9 +572,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "JiZhong_0000000001",
       "ZhenDing_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「集中」+5「镇定」+5"
@@ -484,9 +589,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "XiaPan_0000000001",
       "ShenXing_0000000001"
     ],
     "Values": [
+      8.0,
       8.0
     ],
     "Description": "「下盘」+8「身形」+8"
@@ -499,9 +606,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "YiZhi_0000000001",
       "ShenLai_0000000001"
     ],
     "Values": [
+      15.0,
       -10.0
     ],
     "Description": "「意志」+15「神来」-10"
@@ -513,8 +622,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "QuanZhang_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「拳掌」+8"
   },
   {
@@ -524,8 +637,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "QuanZhang_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
     "Description": "「拳掌」+5，「美食状态」持续时间翻倍"
   },
   {
@@ -535,7 +652,9 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "BuffTypes": [],
+    "BuffTypes": [
+      2
+    ],
     "Description": "「拳掌」+5，「美食状态」持续时间翻倍"
   },
   {
@@ -545,8 +664,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "JianFa_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
     "Description": "「用剑」+5，「冥想状态」持续时间翻倍"
   },
   {
@@ -556,7 +679,9 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "BuffTypes": [],
+    "BuffTypes": [
+      18
+    ],
     "Description": "「用剑」+5，「冥想状态」持续时间翻倍"
   },
   {
@@ -566,8 +691,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "YongQiang_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
     "Description": "「用枪」+5，「美酒状态」持续时间翻倍"
   },
   {
@@ -577,7 +706,9 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "BuffTypes": [],
+    "BuffTypes": [
+      0
+    ],
     "Description": "「用枪」+5，「美酒状态」持续时间翻倍"
   },
   {
@@ -588,9 +719,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "ShuaGun_0000000001",
       "ShenLai_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「耍棍」+5「神来」+5"
@@ -603,9 +736,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "ShiBian_0000000001",
       "JinGu_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「鞭术」+5「筋骨」+5"
@@ -618,9 +753,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "CunJin_0000000001",
       "CharacterJiaoShe_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「暗器」+5「交涉」+5"
@@ -633,9 +770,11 @@
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
     "RelatedID": [
+      "JianFa_0000000001",
       "CharacterWuXing_0000000001"
     ],
     "Values": [
+      5.0,
       5.0
     ],
     "Description": "「用剑」+5「悟性」+5"
@@ -647,8 +786,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "ShouCang_0000000001"
+    ],
+    "Values": [
+      15.0
+    ],
     "Description": "「收藏」+15"
   },
   {
@@ -658,7 +801,9 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "BuffTypes": [],
+    "BuffTypes": [
+      16
+    ],
     "Description": "「阅读状态」持续时间翻倍"
   },
   {
@@ -668,8 +813,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "YongQiang_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
     "Description": "「用枪」+5"
   },
   {
@@ -679,8 +828,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "YueQi_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
     "Description": "「乐器」+5，「余音缭绕状态」持续时间翻倍"
   },
   {
@@ -690,7 +843,9 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "BuffTypes": [],
+    "BuffTypes": [
+      5
+    ],
     "Description": "「乐器」+5，「余音缭绕状态」持续时间翻倍"
   },
   {
@@ -700,8 +855,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "YiShu_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「医术」+8"
   },
   {
@@ -711,8 +870,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "PengRen_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「烹饪」+8"
   },
   {
@@ -722,8 +885,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "HuiHua_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「书画」+8"
   },
   {
@@ -733,8 +900,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "ShiCi_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「诗词」+8"
   },
   {
@@ -744,8 +915,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "CharacterWuXing_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「悟性」+8"
   },
   {
@@ -755,8 +930,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "MeiLi_0000000001"
+    ],
+    "Values": [
+      8.0
+    ],
     "Description": "「魅力」+8，相识过程中会给人留下良好的第一印象"
   },
   {
@@ -775,8 +954,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "CharacterJiaoShe_0000000001"
+    ],
+    "Values": [
+      10.0
+    ],
     "Description": "「交涉」+10"
   },
   {
@@ -786,8 +969,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "MeiLi_0000000001"
+    ],
+    "Values": [
+      10.0
+    ],
     "Description": "「魅力」+10"
   },
   {
@@ -797,8 +984,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "MingSheng_0000000001"
+    ],
+    "Values": [
+      30.0
+    ],
     "Description": "「名气」+30"
   },
   {
@@ -808,8 +999,12 @@
     "Quality": {
       "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
     },
-    "RelatedID": [],
-    "Values": [],
+    "RelatedID": [
+      "CharacterFuYuan_0000000001"
+    ],
+    "Values": [
+      10.0
+    ],
     "Description": "「福缘」+10"
   },
   {
@@ -819,9 +1014,13 @@
     "Quality": {
       "ValueInfo": "<color=#FF9A00FF>龙</color>"
     },
-    "Values": [],
+    "Values": [
+      0.1
+    ],
     "Description": "以及制胜对方",
-    "ZhanDouJiShuTypes": []
+    "ZhanDouJiShuTypes": [
+      0
+    ]
   },
   {
     "Name": {
@@ -830,9 +1029,13 @@
     "Quality": {
       "ValueInfo": "<color=#FF9A00FF>龙</color>"
     },
-    "Values": [],
+    "Values": [
+      0.1
+    ],
     "Description": "击破对方",
-    "ZhanDouJiShuTypes": []
+    "ZhanDouJiShuTypes": [
+      1
+    ]
   },
   {
     "Name": {
@@ -841,9 +1044,13 @@
     "Quality": {
       "ValueInfo": "<color=#FF9A00FF>龙</color>"
     },
-    "Values": [],
+    "Values": [
+      0.1
+    ],
     "Description": "点穴对方",
-    "ZhanDouJiShuTypes": []
+    "ZhanDouJiShuTypes": [
+      2
+    ]
   },
   {
     "Name": {
@@ -852,9 +1059,13 @@
     "Quality": {
       "ValueInfo": "<color=#FF9A00FF>龙</color>"
     },
-    "Values": [],
+    "Values": [
+      0.1
+    ],
     "Description": "淬毒对方",
-    "ZhanDouJiShuTypes": []
+    "ZhanDouJiShuTypes": [
+      3
+    ]
   },
   {
     "Name": {
@@ -863,21 +1074,10 @@
     "Quality": {
       "ValueInfo": "<color=#FF9A00FF>龙</color>"
     },
-    "Values": [],
-    "Description": "击杀对方",
-    "ZhanDouJiShuTypes": []
-  },
-  {
-    "Name": {
-      "ValueInfo": "<color=#FF9A00FF>「神来」</color>"
-    },
-    "Quality": {
-      "ValueInfo": "<color=#FF9A00FF>龙</color>"
-    },
     "Values": [
-      1.0
+      0.1
     ],
-    "Description": "神来",
+    "Description": "击杀对方",
     "ZhanDouJiShuTypes": [
       4
     ]
@@ -889,9 +1089,30 @@
     "Quality": {
       "ValueInfo": "<color=#FF9A00FF>龙</color>"
     },
-    "Values": [],
+    "Values": [
+      0.1,
+      1.0
+    ],
+    "Description": "神来",
+    "ZhanDouJiShuTypes": [
+      5,
+      4
+    ]
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>「神来」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙</color>"
+    },
+    "Values": [
+      -0.1
+    ],
     "Description": "被一击制胜基数降低10%",
-    "ZhanDouJiShuTypes": []
+    "ZhanDouJiShuTypes": [
+      6
+    ]
   },
   {
     "Name": {
@@ -901,12 +1122,19 @@
       "ValueInfo": "<color=#FF9A00FF>龙</color>"
     },
     "WuGongType": [
+      1,
       2,
+      3,
       4,
+      5,
       6,
+      7,
       8,
+      9,
       10,
+      11,
       12,
+      13,
       14
     ],
     "Description": "「武功」修炼速度提高50%"
@@ -918,8 +1146,12 @@
     "Quality": {
       "ValueInfo": "<color=#FF9A00FF>龙</color>"
     },
-    "Values": [],
+    "Values": [
+      0.1
+    ],
     "Description": "击伤提高10%",
-    "ZhanDouJiShuTypes": []
+    "ZhanDouJiShuTypes": [
+      7
+    ]
   }
 ]
