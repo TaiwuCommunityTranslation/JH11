@@ -1,0 +1,7108 @@
+[
+  {
+    "Name": "泰山派",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "北",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "嵩山派",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "北",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "嵩山门徒"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "嵩山门徒"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "嵩山门徒"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "嵩山门徒"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "华山派",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "北",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "华山弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "华山弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "华山弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "华山弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "恒山派",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "北",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "恒山弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "恒山弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "恒山弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "恒山弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [
+          "WuXingHuiTianCao_Entity_0001"
+        ],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [
+          "WuXingHuiTianCao_Entity_0001"
+        ],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [
+          "WuXingHuiTianCao_Entity_0001"
+        ],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [
+          "WuXingHuiTianCao_Entity_0001"
+        ],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [
+          "QiZhuanHeiYuGao_Entity_0001"
+        ],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [
+          "QiZhuanHeiYuGao_Entity_0001"
+        ],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [
+          "QiZhuanHeiYuGao_Entity_0001"
+        ],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [
+          "QiZhuanHeiYuGao_Entity_0001"
+        ],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "少林寺",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "北",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [
+          5.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "少林弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [
+          100.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "少林弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [
+          "RenWu_0000000017"
+        ],
+        "BattleName": [
+          "少林弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [
+          "RenWu_0000000501"
+        ],
+        "BattleName": [
+          "少林弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "全真教",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "北",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "全真弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "全真弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "全真弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          1.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "全真弟子"
+        ],
+        "DangWei": [
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "烈日教",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "北",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [
+          1.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "烈日刀客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [
+          100.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "烈日刀客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "烈日刀客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "烈日刀客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "血手门",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "北",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "血手弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "血手弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "血手弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "血手弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "崆峒派",
+    "Characters": [],
+    "Section": "北",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [
+          "RenWu_0000010019"
+        ],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [
+          "RenWu_0000010019"
+        ],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [
+          "RenWu_0000010019"
+        ],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "铁掌门",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "北",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "铁掌弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "铁掌弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "铁掌弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "铁掌弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "玄天阁",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "北",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "玄天弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "玄天弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "玄天弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "玄天弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "饕餮门",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "北",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [
+          "XieFenSiZiTou_Food_Entity_0016"
+        ],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [
+          "XieFenSiZiTou_Food_Entity_0016"
+        ],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [
+          "XieFenSiZiTou_Food_Entity_0016"
+        ],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [
+          "XieFenSiZiTou_Food_Entity_0016"
+        ],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [
+          "KongMingCai_Food_Entity_0024"
+        ],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [
+          "KongMingCai_Food_Entity_0024"
+        ],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [
+          "KongMingCai_Food_Entity_0024"
+        ],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [
+          "KongMingCai_Food_Entity_0024"
+        ],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [
+          "MiShaoRouZhi_Food_Entity_0059"
+        ],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [
+          "MiShaoRouZhi_Food_Entity_0059"
+        ],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [
+          "MiShaoRouZhi_Food_Entity_0059"
+        ],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [
+          "MiShaoRouZhi_Food_Entity_0059"
+        ],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [
+          "YeWeiYaPanTuHu_Food_Entity_0058"
+        ],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "衡山派",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "南",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "衡山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "衡山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "衡山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "衡山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "峨嵋派",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "南",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [
+          "RenWu_0000010010"
+        ],
+        "BattleName": [
+          "峨嵋弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [
+          "RenWu_0000010010"
+        ],
+        "BattleName": [
+          "峨嵋弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [
+          "RenWu_0000010010"
+        ],
+        "BattleName": [
+          "峨嵋弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "峨嵋弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "武当派",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "南",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "武当弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "武当弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "武当弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "武当弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "天尊教",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "南",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "天尊弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "天尊弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [
+          5.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [
+          "RenWu_0000010014"
+        ],
+        "BattleName": [
+          "天尊弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [
+          "RenWu_0000010014"
+        ],
+        "BattleName": [
+          "天尊弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "飞蝎坞",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "南",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "飞蝎弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "飞蝎弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "飞蝎弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "飞蝎弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "丐帮",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "南",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "丐帮弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "丐帮弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "丐帮弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "丐帮弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "青城派",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "南",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "青城弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "青城弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "青城弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "青城弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [
+          "YeErBa_Food_Entity_0028"
+        ],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [
+          "YeErBa_Food_Entity_0028"
+        ],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [
+          "YeErBa_Food_Entity_0028"
+        ],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [
+          "YeErBa_Food_Entity_0028"
+        ],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [
+          "JiuZhengJi_Food_Entity_0057"
+        ],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [
+          "JiuZhengJi_Food_Entity_0057"
+        ],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [
+          "JiuZhengJi_Food_Entity_0057"
+        ],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [
+          "JiuZhengJi_Food_Entity_0057"
+        ],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [
+          "JiuZhengJi_Food_Entity_0057"
+        ],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "炎凤堂",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "南",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "幽鸿宫",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "南",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "幽鸿弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "幽鸿弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [
+          "RenWu_0000000509"
+        ],
+        "BattleName": [
+          "幽鸿弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "幽鸿弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "南阳拳庄",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "南",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "南阳弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "南阳弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "南阳弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "南阳弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [
+          "ZhenYuanDan_EA_BY_Feng_Entity_0001"
+        ],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [
+          "ZhenYuanDan_EA_BY_Feng_Entity_0001"
+        ],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [
+          "ZhenYuanDan_EA_BY_Feng_Entity_0001"
+        ],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [
+          "ZhenYuanDan_EA_BY_Feng_Entity_0001"
+        ],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [
+          "NanDouChiGao_EA_SY_Feng_Entity_0001"
+        ],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [
+          "NanDouChiGao_EA_SY_Feng_Entity_0001"
+        ],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [
+          "NanDouChiGao_EA_SY_Feng_Entity_0001"
+        ],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [
+          "NanDouChiGao_EA_SY_Feng_Entity_0001"
+        ],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [
+          "ZhiYuanNeiDan_Entity_0001"
+        ],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [
+          "ZhiYuanNeiDan_Entity_0001"
+        ],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [
+          "ZhiYuanNeiDan_Entity_0001"
+        ],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [
+          "ZhiYuanNeiDan_Entity_0001"
+        ],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [
+          "BaiCaoDuanXuGao_Entity_0001"
+        ],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "幽明派",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "南",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "幽明弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "幽明弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "幽明弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "幽明弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "白鹤谷",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "南",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "白鹤棍师"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "白鹤棍师"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "白鹤棍师"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "白鹤棍师"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "天隆商铺",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "北",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "嵩山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "嵩山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "嵩山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "嵩山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "东京商户",
+    "Characters": [],
+    "Section": "北",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "东京武人"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "东京武人"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "东京大师"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "东京大师"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "米脂商铺",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "北",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "烈日刀客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "烈日刀客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "烈日刀客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "烈日刀客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "定荣商户",
+    "Characters": [],
+    "Section": "北",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [
+          "JiangHuoTongMaiJiu_Entity_0001"
+        ],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [
+          "JiangHuoTongMaiJiu_Entity_0001"
+        ],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [
+          "JiangHuoTongMaiJiu_Entity_0001"
+        ],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [
+          "JiangHuoTongMaiJiu_Entity_0001"
+        ],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [
+          "JuYangBaoDan_EA_SY_Long_Entity_0001"
+        ],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [
+          "JuYangBaoDan_EA_SY_Long_Entity_0001"
+        ],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [
+          "JuYangBaoDan_EA_SY_Long_Entity_0001"
+        ],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [
+          "JuYangBaoDan_EA_SY_Long_Entity_0001"
+        ],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "琅琊商户",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "北",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "琅琊高手"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [
+          "ZiSuGao_Food_Entity_0103"
+        ],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [
+          "ZiSuGao_Food_Entity_0103"
+        ],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [
+          "ZiSuGao_Food_Entity_0103"
+        ],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [
+          "ZiSuGao_Food_Entity_0103"
+        ],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "龙安商户",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "北",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "华山弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "华山弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "华山弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "华山弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [
+          "JiangHanTang_Wine_Entity_0017"
+        ],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [
+          "JiangHanTang_Wine_Entity_0017"
+        ],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [
+          "JiangHanTang_Wine_Entity_0017"
+        ],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [
+          "JiangHanTang_Wine_Entity_0017"
+        ],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "梁山帮",
+    "Characters": [],
+    "Section": "北",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "铁掌弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "铁掌弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "铁掌弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "铁掌弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "黑台帮",
+    "Characters": [],
+    "Section": "北",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "温州商户",
+    "Characters": [],
+    "Section": "南",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [
+          "RenWu_0000000032"
+        ],
+        "BattleName": [
+          "两浙高手"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [
+          "RenWu_0000000032"
+        ],
+        "BattleName": [
+          "两浙高手"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "两浙高手"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "两浙高手"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "齐天商户",
+    "Characters": [],
+    "MenPaiNPCs": [
+      "MenPai000000025"
+    ],
+    "Section": "南",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "衡山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "衡山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "天尊弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "齐天大师"
+        ],
+        "DangWei": [
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "兴元商户",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "南",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "全真弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "全真弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "全真弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "全真弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "伏龙商户",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "南",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "武当弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "武当弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "武当弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "武当弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "泽江商户",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "南",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "百丈弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "百丈弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "百丈弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "百丈弟子"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "普阳商户",
+    "Characters": [],
+    "MenPaiNPCs": [],
+    "Section": "南",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "炎凤刀客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "炎凤刀客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "炎凤刀客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "炎凤刀客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "大雄帮",
+    "Characters": [],
+    "Section": "南",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  },
+  {
+    "Name": "海门帮",
+    "Characters": [],
+    "Section": "南",
+    "Tryouts": [
+      {
+        "AddYearRange": [
+          0
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          3
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          4
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      },
+      {
+        "AddYearRange": [
+          5
+        ],
+        "Weight": [
+          10.0
+        ],
+        "BattleCharacterTemplates": [],
+        "BattleCharacters": [],
+        "BattleName": [
+          "泰山剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": []
+      }
+    ],
+    "TryoutsHis": [],
+    "Reward": [
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          0
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          2
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [
+          "LuoYangXinFa_Entity_0001"
+        ],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [
+          "LuoYangXinFa_Entity_0001"
+        ],
+        "AddYearRange": [
+          4
+        ]
+      },
+      {
+        "EntityIDs": [],
+        "AddYearRange": [
+          5
+        ]
+      }
+    ],
+    "Dialog": {}
+  }
+]

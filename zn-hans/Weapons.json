@@ -1,0 +1,6163 @@
+[
+  {
+    "ItemType": {
+      "ValueInfo": "重剑"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/XuanTieZhongJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>玄铁重剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "闻名于世的玄铁重剑。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "防招式威力增加65%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/TH_Sword_XuanTieZhongJian00"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "重剑"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/TaiShiWuFengJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>太室无锋剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "嵩山派打造的无锋重剑。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "防招式威力增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/TaiShiWuFengJian05"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/TieChangJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>铁长剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "江湖常见的七尺铁剑。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“神来一击”的几率减少5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/Sword_TieChangJian02"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/SuiYuJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>碎玉剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "绝情碎玉之剑。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“部位击伤”的几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/Sword_SuiYuJian04"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/ShuNvJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>淑女剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "淑女之剑。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "攻招式威力增加6%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“神来一击”的几率增加3.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/Sword_ShuNvJian03"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "刀"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/TuLongDao"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>屠龙刀</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "一把屠龙宝刀。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "攻招式威力增加60%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“神来一击”的几率增加4.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Dao/Sword_TuLongDao01"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/XuanYuanJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>轩辕古剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "上古神器轩辕剑。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "攻招式威力增加35%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "防招式威力增加35%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/XYJ"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/JunZiJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>君子剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "一把和淑女剑搭配的君子剑。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "防招式威力增加13%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/JZJ"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/JueMingFeiYu"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>飞羽剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "绝命之飞羽剑。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“部位击伤”的几率增加8%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/JMFY"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "重剑"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/ShiDanTieJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>是胆重剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "生铁铸成的双手重剑。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "防招式威力增加30%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "攻招式威力降低15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减成"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/SDTJ"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/XuanTianJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>玄天剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "玄天阁弟子所用宝剑。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "攻招式威力增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "防招式威力增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/XTJ"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/ChengYingJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>承影剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "一把锋利的承影剑。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“神来一击”的几率增加2.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/CYJ"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "重剑"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/KaiShanZhongJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>开山重剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "开山破势般的重剑。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "防招式威力增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/KSZJ"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "重剑"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/DuanHunZhongJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>断魂重剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "断魂夺命的无情巨剑。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "防招式威力增加60%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“神来一击”的几率减少15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/DHZJ"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/CuiYuZiMuJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>翠玉母剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "翠玉子母剑之母剑。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "攻招式威力增加75%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/ZMJ"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/LongLinBaoJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>龙鳞剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "一把龙鳞之剑。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“神来一击”的几率增加3%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/LLBJ"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/BiHaiShanHuJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>珊瑚剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "形似珊瑚的宝剑。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“部位击伤”的几率增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/BHSH"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "重剑"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/BiHaiShanHuJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>天门重剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "泰山派的镇派之宝，由黑油铁铸成的重剑。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "防招式威力增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/TainMenZhongJian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/ChiHeJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>赤鹤剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "红颜世家传家宝剑，无人不知，无数武林高手败于此剑，江湖之内无不宾服。名声之大，引起江湖纷争，红颜一家惨遭灭门。现传于红颜千鹤，但剑从未出鞘于他手。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "攻招式威力增加35%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "防招式威力增加35%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“神来一击”的几率增加4.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/ChiHeJian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "刀"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/BaiQuanDao"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>白泉刀</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "一把寻常的铁长刀。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“神来一击”的几率减少2%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Dao/BQD"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "刀"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/TangLangCaoMangDao"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>螳螂草莽刀</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "螳螂草莽之刀。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“部位击伤”的几率增加8%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Dao/TLZD"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "刀"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/GuHunLiuYeDao"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>柳叶刀</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "江湖侠客常用的一把好刀。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "攻招式威力增加28%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Dao/LYTD"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "刀"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/HouTingDao"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>亭侯刀</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "一把上好的亭侯铁刀。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "防招式威力增加30%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Dao/HTD"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "刀"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/PoTianDao"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>破天刀</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "一把破天刀。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“神来一击”的几率增加3.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Dao/PoTianDao"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "刀"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/FengHuangDao"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>凤凰刀</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "宝刀凤凰。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "攻招式威力增加45%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Dao/FengHuangDao"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "枪"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/TieChangQiang"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>铁长枪</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "普通的一把长枪。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“神来一击”的几率减少2%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Qiang/TCQ"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "枪"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/BaiLongQiang"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>白龙枪</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "一把银色的白龙长枪。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "攻招式威力增加25%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Qiang/BLQ"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "枪"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/BaoYuLiLHuaQiang"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>梨花枪</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "北方著名的长枪。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "攻招式威力增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“部位击伤”的几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Qiang/BYLHQ"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "枪"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/LieYangChangQiang"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>烈阳长枪</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "一把戳破天际的好枪。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "攻招式威力增加75%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Qiang/LRCA"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "枪"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/XiFengQiang"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>袭风枪</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "一把迅捷无比的长枪。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“神来一击”的几率增加3.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Qiang/XFQ"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "棍"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/QiMeiChangGun"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>齐眉长棍</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "普通的木质长棍。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“神来一击”的几率减少2%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Gun/QMG"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "棍"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/LongPanGun"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>龙蟠棍</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "一根龙蟠奇棍。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“神来一击”的几率增加4.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Gun/LPG"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "棍"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/BaGuaChangGun"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>八卦长棍</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "奇门八卦之棍。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“神来一击”的几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Gun/SM_Wep_BoStaff_01"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "棍"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/QiMenLiuXingGun"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>打狗棍</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "丐帮镇帮之物。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“神来一击”的几率增加5%；招式威力增加18%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "攻招式威力增加18%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "防招式威力增加18%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Gun/QMLXG"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "鞭"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/ShuiMoRuanBian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>水磨软鞭</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "普通的皮质长鞭。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“部位击伤”的几率增加8%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Bian/SMRB"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "鞭"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/QingJiaBian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>秦家鞭</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "一根独特的长鞭。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“部位击伤”的几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "攻招式威力增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "防招式威力增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Bian/QingJiaBian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "鞭"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/LiuHuangBian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>柳皇鞭</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "相传为审犯人的鞭子。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "攻招式威力增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Bian/LiuHuangBian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "鞭"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/ChanSiChangBian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>缠丝长鞭</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "一根缠丝长鞭。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“神来一击”的几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Bian/ChanSiChangBian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "暗器"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/SuiYuJinZhen"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>碎玉金针</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "碎玉金针，好暗器。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "攻招式威力增加30%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/AnQi/SYJZUI"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "暗器"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/YuFengZhen"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>玉蜂针</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "江湖中的上等暗器。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "攻招式威力增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“部位击伤”的几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/AnQi/YuFengZhen"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "暗器"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/ZiYunDing"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>紫云钉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "紫云之钉。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“部位击伤”的几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“神来一击”的几率增加2.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/AnQi/ZiYunDing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "暗器"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/ShiFangTieDing"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>十方碎铁</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "绝妙的杀人密器。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“神来一击”的几率增加3.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“部位击伤”的几率增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/AnQi/ShiFangTieDing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "暗器"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/BaiGuFeiShi"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>白骨飞石</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "飞石见白骨。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "攻招式威力增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“部位击伤”的几率增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/AnQi/BaiGuFeiShi"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "暗器"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/JinYingBiao"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>金银镖</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "金银镖是江湖常见的暗器。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“部位击伤”的几率增加12.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/AnQi/JinYingBiao"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "笔"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "旧武器"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "武器特色11111111111"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Old/CeShiBi"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>测试笔</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "测试用的3DUI会报错的笔。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "“部位击伤”的几率增加12.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/AnQi/JinYingBiao"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "单手剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "剑"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「攻招式威力」增加5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/QiChiJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>三尺剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Jian/QiChiJian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "单手剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "剑"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「攻招式威力」增加10%，「神来一击」几率减少2.5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/TieJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>铁剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「神来一击」几率减少2.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Jian/TieJian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "单手剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "木剑"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「攻防招式威力」减少15%，「神来一击」几率增加6.5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/MuJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>木剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」减少15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「防招式威力」减少15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「神来一击」几率增加6.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Jian/MuJian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "单手剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "刃"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「攻招式威力」增加10%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/MinJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>旻剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Jian/MinJian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "单手剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "剑"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「防招式威力」增加10%，出现「破绽」几率减少5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/ChuJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>楚剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「防招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "出现「破绽」几率减少5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Jian/ChuJian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "单手剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "银剑"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「攻防招式威力」增加10%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/YinJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>银剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「防招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Jian/YinJian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "单手剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "刺"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「击伤」对方几率增加12%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/XieJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>邪剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击伤」对方几率增加12%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Jian/XieJian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "双手重剑"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "重剑"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「防招式威力」增加10%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/ZhongJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>重剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「防招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Jian/ZhongJian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "双手重剑"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "重剑"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「攻招式威力」减少5%，「防招式威力」增加15%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/WuJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>乌剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」减少5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「防招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Jian/WuJian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "双手重剑"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "重剑"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "出现「破绽」几率减少12%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/HeiTieJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>黑铁剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "出现「破绽」几率减少12%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Jian/HeiTieJian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "双手重剑"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "重刃"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "出现「破绽」几率减少8%，被「击伤」几率减少8%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/XuanTieJian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>玄铁剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "出现「破绽」几率减少8%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "被「击伤」几率减少8%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Jian/XuanTieJian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "刀"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "刀"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「击破」几率增加5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/BaiQuanDao"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>白泉刀</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击破」几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Dao/BaiQuanDao"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "刀"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "刀"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「攻招式威力」增加15%，「神来一击」几率减少3.5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/CaoMangDao"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>草莽刀</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「神来一击」几率减少3.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Dao/CaoMangDao"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "刀"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "刀"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「攻招式威力」增加10%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/LiuYeDao"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>柳叶刀</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Dao/LiuYeDao"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "刀"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "戒刀"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「攻招式威力」增加5%，「击破」几率增加5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/JieDao"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>戒刀</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击破」几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Dao/JieDao"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "刀"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "重刀"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「击破」几率增加10%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/ZhanMaDao"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>斩马刀</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击破」几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Dao/ZhanMaDao"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "刀"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "苗刀"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「攻招式威力」增加15%，「击破」几率增加5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/MiaoDao"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>苗刀</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击破」几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Dao/MiaoDao"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "刀"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "唐刀"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「攻防招式威力」增加5%，「击破」几率增加5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/TangDao"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>唐刀</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「防招式威力」增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击破」几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Dao/TangDao"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "枪"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "枪"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「攻招式威力」增加20%，「神来一击」几率减少5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/TieChangQiang"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>铁长枪</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「神来一击」几率减少5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Qiang/TieChangQiang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "枪"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "枪"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「攻招式威力」增加25%，出现「破绽」几率增加15%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/DaQiang"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>大枪</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加25%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "出现「破绽」几率增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Qiang/DaQiang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "枪"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "枪"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「攻招式威力」增加20%，「防招式威力」减少10%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/SuMuQiang"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>素木枪</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「防招式威力」减少10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Qiang/SuMuQiang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "枪"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "长枪"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「攻招式威力」增加15%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/LiHuaQiang"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>梨花枪</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Qiang/LiHuaQiang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "枪"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "重枪"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「攻招式威力」增加20%，「神来一击」几率减少7.5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/HuTouQiang"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>虎头枪</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「神来一击」几率减少7.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Qiang/HuTouQiang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "枪"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "长缨"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「攻防招式威力」增加15%，出现「破绽」几率增加10%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/BaiLongQiang"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>白龙枪</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「防招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "出现「破绽」几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Qiang/BaiLongQiang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "棍"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "棍"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「神来一击」几率增加2.5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/QiMeiGun"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>齐眉棍</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「神来一击」几率增加2.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Gun/QiMeiGun"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "棍"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "棍"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「神来一击」几率增加5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/WuMuGun"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>乌木棍</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「神来一击」几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Gun/WuMuGun"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "棍"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "长棍"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「击破」几率增加5%，「神来一击」几率增加2.5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/TongGun"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>铜棍</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击破」几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「神来一击」几率增加2.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Gun/TongGun"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "棍"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "重棍"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「攻防招式威力」增加20%，被「击伤」几率增加15%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/TieGun"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>铁棍</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「防招式威力」增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "被「击伤」几率增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Gun/TieGun"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "棍"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "棍"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「神来一击」几率增加3.5%，被「击伤」几率减少10%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/GenGun"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>根棍</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「神来一击」几率增加3.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "被「击伤」几率减少10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Gun/GenGun"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "棍"
+    },
+    "HandType": {
+      "ValueInfo": "双手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "棍"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「神来一击」几率增加7%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/XuanMuGun"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>玄木棍</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「神来一击」几率增加7%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Gun/XuanMuGun"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "鞭子"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "鞭"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「击破」几率增加5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/ShuiMoRuanBian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>水磨软鞭</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击破」几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Bian/ShuiMoRuanBian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "鞭子"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "鞭"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「击破」几率增加5%，「击伤」对方几率增加5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/QingJiaBian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>秦家鞭</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击破」几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击伤」对方几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Bian/QinJiaBian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "鞭子"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "鞭"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「击破」几率增加15%，「防招式威力」减少15%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/LiuHuangBian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>柳皇鞭</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击破」几率增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「防招式威力」减少15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Bian/LiuHuangBian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "鞭子"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "鞭"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「攻防招式威力」增加10%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/CanSiBian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>缠丝鞭</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「防招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Bian/ChanSiBian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "鞭子"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "鞭"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「攻招式威力」增加10%，「击破」几率增加5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/RuanLinBian"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>软灵鞭</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击破」几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Bian/RuanLingBian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "暗器"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "石"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「击伤」对方几率增加5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>飞石</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击伤」对方几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/AnQi/FeiShi"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "暗器"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "箭"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「击破」几率增加5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>掷箭</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击破」几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/AnQi/ZhiJian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "暗器"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "钉"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「淬毒」几率增加5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>铁钉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「淬毒」几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/AnQi/TieDing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "暗器"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "镖"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「攻招式威力」增加10%，「淬毒」几率增加3.5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>银镖</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「淬毒」几率增加3.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/AnQi/YinBiao"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "暗器"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "飞刀"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「攻招式威力」增加10%，「击破」几率增加3.5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>飞刀</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击破」几率增加3.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/AnQi/FeiDao"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "暗器"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "银针"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「击伤」几率增加13%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>银针</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击伤」几率增加13%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/AnQi/YinZhen"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "暗器"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "金针"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「淬毒」几率增加13%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>金针</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「淬毒」几率增加13%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/AnQi/JinZhen"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "暗器"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "珠"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「击伤」几率增加6%，「淬毒」几率增加6%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>如意珠</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击伤」几率增加6%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「淬毒」几率增加6%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/AnQi/RuYiZhu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "笔"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {},
+    "WuQiTeSe": {
+      "ValueInfo": "「攻防招式威力」增加5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/YingGouBi"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>银钩笔</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「防招式威力」增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Bi/YinGouBi"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "笔"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {},
+    "WuQiTeSe": {
+      "ValueInfo": "「神来一击」几率增加5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/MoShengBi"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>默笙笔</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「神来一击」几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Bi/MoShengBi"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "笔"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {},
+    "WuQiTeSe": {
+      "ValueInfo": "「攻防招式威力」增加5%，「神来一击」几率增加4%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/YuJianBi"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>玉坚笔</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「防招式威力」增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「神来一击」几率增加4%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Bi/YuJianBi"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "笔"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {},
+    "WuQiTeSe": {
+      "ValueInfo": "「攻防招式威力」增加10%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/BaiLangHao"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>白狼毫</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「防招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Bi/BaiLangHao"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "斧"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "斧"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「击落」几率增加8%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/TieDuanFu"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>铁短斧</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击落」对方兵器几率增加8%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/0608 ADD/BingQi0608/Fu/TieDuanFu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "斧"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "斧"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「防招式威力」增加10%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/BanFu"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>板斧</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「防招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/0608 ADD/BingQi0608/Fu/BanFu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "斧"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "斧"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "出现[破绽]几率减少10%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/QingGangFu"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>青钢斧</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "出现「破绽」几率减少10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/0608 ADD/BingQi0608/Fu/QingGangFu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "斧"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "重斧"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「防招式威力」增加15%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/XuanHuaFu"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>宣花斧</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「防招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/0608 ADD/BingQi0608/Fu/XuanHuaFu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "斧"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "斧"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「击落」几率增加16%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/WuTieFu"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>乌铁斧</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击落」对方兵器几率增加16%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/0608 ADD/BingQi0608/Fu/WuTieFu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "钩"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "单钩"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「击伤」对方几率增加10%；「神来一击」几率减少10%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/TieGou"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>铁钩</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击伤」对方几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「神来一击」几率减少10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/0608 ADD/BingQi0608/Gou/TieGou"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "钩"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "单钩"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「击伤」对方几率增加5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/YinGou"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>银钩</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击伤」对方几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/0608 ADD/BingQi0608/Gou/YinGou"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "钩"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "钩"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「攻招式威力」增加10%，「击伤」对方几率增加5%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/LuJiaoGou"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>鹿角钩</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击伤」对方几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/0608 ADD/BingQi0608/Gou/LuJiaoGou"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "钩"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "钩"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "「击伤」对方几率增加15%"
+    },
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/HuTouGou"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>虎头钩</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击伤」对方几率增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/0608 ADD/BingQi0608/Gou/HuTouGou"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "重剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "后缀"
+    },
+    "WuQiTeSe": {},
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>玄铁重剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「攻招式威力」增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「防招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「神来一击」几率减少3.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "出现「破绽」几率减少5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击破」几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击伤」对方几率增加12%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "被「击伤」几率增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「淬毒」几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "「击杀」对方几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [],
+          "Name": {
+            "Value": "被「击杀」几率降低20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "RelatedID": [
+            "GongZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「阳」「攻招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              1
+            ]
+          }
+        },
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "「阴阳」「防招式威力」增加80%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Jian/QiChiJian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "重剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "后缀"
+    },
+    "WuQiTeSe": {},
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>玄铁重剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "防招式威力增加65%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Jian/QiChiJian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "重剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "后缀"
+    },
+    "WuQiTeSe": {},
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>玄铁重剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "防招式威力增加65%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Jian/QiChiJian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "重剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "后缀"
+    },
+    "WuQiTeSe": {},
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>玄铁重剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "防招式威力增加65%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Jian/QiChiJian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "重剑"
+    },
+    "HandType": {
+      "ValueInfo": "单手"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "后缀"
+    },
+    "WuQiTeSe": {},
+    "EquipmentPrefab": [
+      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>玄铁重剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShouZhaoShiTaoLuQiangDu_0000000001"
+          ],
+          "Name": {
+            "Value": "防招式威力增加65%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          },
+          "Value": {},
+          "YinYangLeiXing": {
+            "Value": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/BingQi/Jian/QiChiJian"
+    ]
+  }
+]

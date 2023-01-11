@@ -1,0 +1,7894 @@
+[
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "铁掌杀手"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      80000
+    ],
+    "Pool": [
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "泰山派弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [
+      "FenZhengTemp_WuMenWuPai_0000000001"
+    ],
+    "BattleName": [
+      "通辽叛贼",
+      "通缉犯"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      2.0,
+      2.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      100000
+    ],
+    "Pool": [
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "泰山巡铺",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "嵩山叛徒"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      100000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "泰山巡铺",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "梁山悍匪"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      100000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "受伤泰山弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "铁掌逃犯"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      180000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "泰山受伤弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "江湖踢馆侠客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      28
+    ],
+    "Money": [
+      60000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "泰山内勤弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "五毒使"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      120000
+    ],
+    "Pool": [
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "嵩山中毒弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "玄天小偷"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      120000
+    ],
+    "Pool": [
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "嵩山巡铺",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [
+      "FenZhengTemp_WuMenWuPai_0000000001"
+    ],
+    "BattleName": [
+      "飞蝎杀手",
+      "上官正秘使"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      120000
+    ],
+    "Pool": [
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "嵩山派弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -8
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "铁掌狂徒"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      115000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "被伏嵩山弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "天尊教弟子"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      28
+    ],
+    "Money": [
+      50000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "嵩山落败弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "烈日狂徒"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      120000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "华山受伤弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          8
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -8
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "飞贼"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      100000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "华山派弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          30.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_LieRiJiao_0000000001"
+    ],
+    "BattleName": [
+      "烈日狂徒",
+      "烈日狂徒"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      150000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "华山派弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          8
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -8
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "全真挑衅弟子"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      28
+    ],
+    "Money": [
+      50000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "华山受伤弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "血手凶犯"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      50000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "恒山受伤弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          8
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -8
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "黑台绑匪"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      320000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "被绑女尼",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          8
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -8
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_XueShouMen_0000000001"
+    ],
+    "BattleName": [
+      "黑台悍匪",
+      "血手杀手"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      150000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "米脂商队护卫",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          8
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -8
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -8
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "在逃凶犯"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      80000
+    ],
+    "Pool": [
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "恒山巡铺",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "铁掌卖国贼"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      85000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "受伤恒山剑客",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "血手细作"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      28
+    ],
+    "Money": [
+      55000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "恒山中毒剑客",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "出千浪人"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      130000
+    ],
+    "Pool": [
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "衡山弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "嵩山狂傲剑客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      180000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "衡山落败弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "丐帮疯贼"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      30000
+    ],
+    "Pool": [
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "衡山受伤弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuDuDong_0000000001"
+    ],
+    "BattleName": [
+      "丐帮叛徒",
+      "五毒杀手"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      300000
+    ],
+    "Pool": [
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "商队护卫",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          25
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "全真通辽叛徒"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      200000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "少林受伤弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "京羊凶贼"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      230000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "商队护卫",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_TianZunJiao_0000000001"
+    ],
+    "BattleName": [
+      "天尊杀手",
+      "司放眼线"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      100000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "少林寺弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "在逃凶犯"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      60000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "少林巡铺",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "怪矛邪"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      30000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "商队落难护卫",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "铁掌卖国贼"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      95000
+    ],
+    "Pool": [
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "受伤少林弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "少林得意弟子"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      28
+    ],
+    "Money": [
+      55000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "少林落败弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "五毒使"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      30000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "峨嵋中毒弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "通缉犯"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      50000
+    ],
+    "Pool": [
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "峨嵋巡铺",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "峨嵋叛徒"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      50000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "峨嵋受伤弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "丐帮淫徒"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      30000
+    ],
+    "Pool": [
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "峨眉落难弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "峨嵋得意弟子"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      28
+    ],
+    "Money": [
+      55000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "峨嵋落败弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "血手门杀手"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      230000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "武当落难弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          8
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -8
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "五毒使"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      100000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "武当中毒弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "盗书犯"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      100000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "武当巡铺",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "宝峰莽寇"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      390000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "商队护卫",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          8
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          25
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -25
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "凶案逃犯"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      90000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "武当巡铺",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "武当得意弟子"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      28
+    ],
+    "Money": [
+      55000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "武当落败弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_XiongShiTieZhangMen_0000000001"
+    ],
+    "BattleName": [
+      "全真叛徒",
+      "雄狮秘党"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      110000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "全真教弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "宝峰贼寇"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      270000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "商队护卫",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          8
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          25
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -25
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "烈日狂徒"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      90000
+    ],
+    "Pool": [
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "全真教受伤弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "血手庖人"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      40000
+    ],
+    "Pool": [
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "昏迷弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -25.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -8
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "烈日狂傲弟子"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      28
+    ],
+    "Money": [
+      55000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "全真弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_ShaoLinSi_0000000001"
+    ],
+    "BattleName": [
+      "武当巡铺",
+      "少林巡铺"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      120000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "天尊恶徒",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -50.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          8
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -15
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "五毒使"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      80000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "天尊教弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "荆北侠客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      80000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "天尊教弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "樊京护卫"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      80000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "天尊受伤劫匪",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          50.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -50.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          8
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_EMeiPai_0000000001"
+    ],
+    "BattleName": [
+      "北岳剑尼",
+      "落难道姑"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      1200000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "天尊受伤劫匪",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -50.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -50.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          8
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -15
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -20
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "上官正门徒"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      90000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "天尊受伤弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -15
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_ShaoLinSi_0000000001"
+    ],
+    "BattleName": [
+      "岱岳剑豪",
+      "少林隐僧"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      580000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "天尊秘使",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          50.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -50.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "天尊得意弟子"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      28
+    ],
+    "Money": [
+      55000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "天尊落败弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "华山剑客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      180000
+    ],
+    "Pool": [
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "烈日狂徒",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          35.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -25.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "见义侠客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      180000
+    ],
+    "Pool": [
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "赖账刀客",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          35.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -50.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -50.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "全真教弟子"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      180000
+    ],
+    "Pool": [
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "烈日凶手",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          35.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -25.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "炎凤堂挑衅刀客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      28
+    ],
+    "Money": [
+      55000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "烈日弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_HengShanPaiNv_0000000001"
+    ],
+    "BattleName": [
+      "烈日叛徒",
+      "恒山弃徒"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      180000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "受伤杀手",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "江湖侠客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      100000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "血手门弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -35.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "恒山剑客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      100000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "血手杀手",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -50.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -15
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "华山剑客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      28
+    ],
+    "Money": [
+      55000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "血手弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "嵩山巡铺"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      80000
+    ],
+    "Pool": [
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "飞蝎凶犯",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          50.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -30.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -15
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "五毒使"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      80000
+    ],
+    "Pool": [
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "飞蝎中毒弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          50.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [
+      "FenZhengTemp_HaiMenBangZeiKou_0000000001"
+    ],
+    "BattleName": [
+      "幽明派弟子",
+      "海门帮贼寇"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      80000
+    ],
+    "Pool": [
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "飞蝎凶犯",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          35.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "丐帮弟子"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      28
+    ],
+    "Money": [
+      55000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "飞蝎受伤弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "江湖侠客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      3000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "赖账乞丐",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -30.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "五毒使"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      1500
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "中毒乞丐",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_FeiXieWu_0000000001"
+    ],
+    "BattleName": [
+      "飞蝎魔徒",
+      "失心鞭客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      1500
+    ],
+    "Pool": [
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "昏迷乞丐",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -35.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "泰山护卫"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      1500000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "乞丐窃贼",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -25.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -15
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "百丈叛徒"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      3500
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "受伤乞丐",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "江湖浪人"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      3500
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "受伤乞丐",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "铁掌细作"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      3500
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "丐帮义士",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          35.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "炎凤奸细"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      3500
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "落难乞丐",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "丐帮逆徒"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      135000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "受伤丐帮弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "丐帮亡命徒"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      115000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "受伤丐帮弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "上门挑衅侠客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      28
+    ],
+    "Money": [
+      55000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "丐帮留守乞丐",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "五毒使"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      110000
+    ],
+    "Pool": [
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "青城中毒弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "乌仙客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      800000
+    ],
+    "Pool": [
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "青城落难弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "玄天小偷"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      110000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "青城弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          20
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "上门挑衅侠客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      28
+    ],
+    "Money": [
+      55000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "青城弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "丐盗"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      310000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "百丈山弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "天尊教弟子"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      610000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "百丈山弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          25
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "百丈得意弟子"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      28
+    ],
+    "Money": [
+      55000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "百丈落败弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "六虚贼"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      1900000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "西畔护卫",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          25
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "五毒洞弟子"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      90000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "炎凤巡铺",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "岭南恶棍"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      350000
+    ],
+    "Pool": [
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "灵犀商队护卫",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "烈日刀客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      100000
+    ],
+    "Pool": [
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "炎凤堂弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "飞蝎淫徒"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      390000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "落难白木护卫",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          35.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          25
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "嵩山淫徒"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      390000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "受伤京羊护卫",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          25
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "丐帮弟子"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      90000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "幽鸿宫弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "偷衣怪盗"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      60000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "幽鸿宫弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "寻仇侠客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      90000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "幽鸿宫弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "丐帮淫贼"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      125000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "迷晕幽鸿弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "五毒弟子"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      28
+    ],
+    "Money": [
+      55000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "幽鸿宫受伤弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "铁掌叛徒"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      90000
+    ],
+    "Pool": [
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "吉贝护卫",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "泰山巡铺"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      70000
+    ],
+    "Pool": [
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "铁掌凶犯",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -50.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "恒山派弟子"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      70000
+    ],
+    "Pool": [
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "通辽密使",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -100.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -25
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "铁掌叛徒"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      125000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "受伤铁掌弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "上门挑衅侠客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      28
+    ],
+    "Money": [
+      50000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "铁掌门弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "南阳叛徒"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      80000
+    ],
+    "Pool": [
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "南阳受伤弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "天尊狂徒"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      85000
+    ],
+    "Pool": [
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "南阳受伤弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          25
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "南阳叛徒"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      100000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "南阳受伤弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "玄天小偷"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      120000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "南阳被盗弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "南阳得意弟子"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      28
+    ],
+    "Money": [
+      55000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "南阳落败弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "被偷侠客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      90000
+    ],
+    "Pool": [
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "玄天阁弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -30.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "被偷侠客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      90000
+    ],
+    "Pool": [
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "玄天阁弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "被偷侠客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      90000
+    ],
+    "Pool": [
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "玄天阁弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "被偷侠客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      160000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "玄天弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "被盗侠客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      120000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "玄天弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "被盗厨师"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      110000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "玄天弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -15
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "被盗饕餮名厨"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      120000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "玄天弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          15
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "被盗侠客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      125000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "玄天弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "玄天阁小偷"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      60000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "被偷饕餮厨师",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "赖账铁掌弟子"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      60000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "饕餮厨子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          25
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "百丈拳师"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      90000
+    ],
+    "Pool": [
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "受伤幽明弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          20
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "飞蝎杀手"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      90000
+    ],
+    "Pool": [
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "受困幽明弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          50.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          20
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "百丈拳师"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      110000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "落败白鹤弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          35.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "衡山醉汉"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      110000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "受伤白鹤弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          35.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "炎凤刀客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      110000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "受伤白鹤弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          35.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          25.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          20
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "飞蝎坞弟子"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      28
+    ],
+    "Money": [
+      55000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "白鹤受伤弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "峨嵋巡铺"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      510000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "五毒毒贩",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          50.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          35.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          50.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -35.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          30
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -10
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "炎凤巡铺"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      510000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "五毒毒贩",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          50.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          35.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          50.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -35.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          30
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "天尊巡铺"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      510000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "五毒毒贩",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          50.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          35.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          50.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -35.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          30
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_ShaoLinSi_0000000001"
+    ],
+    "BattleName": [
+      "泰山巡铺",
+      "少林巡铺"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      510000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "五毒毒贩",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          100.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          35.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          50.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          -50.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          30
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      },
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          -5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "五毒叛徒"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      28
+    ],
+    "Money": [
+      55000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "五毒受伤弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "医闹侠客"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      60000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "受伤药王弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          100.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "铁掌狂徒"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      360
+    ],
+    "Money": [
+      60000
+    ],
+    "Pool": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "受伤药王弟子",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          100.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "BattleCharacterTemplates": [],
+    "BattleName": [
+      "偷药人"
+    ],
+    "DangWei": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DropBag": [],
+    "CoolDown": [
+      28
+    ],
+    "Money": [
+      55000
+    ],
+    "Pool": [
+      {}
+    ],
+    "Dialog": {},
+    "DialogCharacterName": "药王医者",
+    "UpGrade": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "PlaceRelationChange": [
+      {
+        "PlaceIds": [],
+        "RelationValueChange": [
+          5
+        ]
+      }
+    ]
+  }
+]

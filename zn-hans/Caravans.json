@@ -1,0 +1,2152 @@
+[
+  {
+    "Name": "兴蜀商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "全真教弟子",
+      "峨眉派弟子"
+    ],
+    "TransportFrequency": [
+      100
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_EMeiPai_0000000001"
+    ],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          15
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "全真教",
+      "峨眉派"
+    ]
+  },
+  {
+    "Name": "白木商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "幽鸿宫弟子",
+      "江湖人士"
+    ],
+    "TransportFrequency": [
+      120
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_0000000001"
+    ],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          25
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "幽鸿宫",
+      "无门无派"
+    ]
+  },
+  {
+    "Name": "神泉商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "泰山派弟子"
+    ],
+    "TransportFrequency": [
+      100
+    ],
+    "BattleCharacterTemplates": [],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          13
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "泰山派"
+    ]
+  },
+  {
+    "Name": "西畔商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "青王寺弟子",
+      "江湖人士"
+    ],
+    "TransportFrequency": [
+      100
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_0000000001"
+    ],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          10
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "青王寺",
+      "无门无派"
+    ]
+  },
+  {
+    "Name": "观泰商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "泰山派弟子",
+      "江湖人士"
+    ],
+    "TransportFrequency": [
+      60
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_0000000001"
+    ],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          8
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "泰山派",
+      "无门无派"
+    ]
+  },
+  {
+    "Name": "渡彭商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "天尊教弟子",
+      "江湖人士"
+    ],
+    "TransportFrequency": [
+      60
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_0000000001"
+    ],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          8
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "天尊教",
+      "无门无派"
+    ]
+  },
+  {
+    "Name": "乌金商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "嵩山派弟子"
+    ],
+    "TransportFrequency": [
+      60
+    ],
+    "BattleCharacterTemplates": [],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          10
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "嵩山派"
+    ]
+  },
+  {
+    "Name": "樊京商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "武当派弟子"
+    ],
+    "TransportFrequency": [
+      60
+    ],
+    "BattleCharacterTemplates": [],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          13
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "武当派"
+    ]
+  },
+  {
+    "Name": "越漓商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "丐帮弟子",
+      "衡山派弟子"
+    ],
+    "TransportFrequency": [
+      60
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_HengShanPaiNan_0000000001"
+    ],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          15
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "丐帮",
+      "衡山派"
+    ]
+  },
+  {
+    "Name": "鱼复商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "武当派弟子"
+    ],
+    "TransportFrequency": [
+      100
+    ],
+    "BattleCharacterTemplates": [],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          200
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "武当派"
+    ]
+  },
+  {
+    "Name": "淮都商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "幽明派弟子"
+    ],
+    "TransportFrequency": [
+      100
+    ],
+    "BattleCharacterTemplates": [],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          70
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "幽明派"
+    ]
+  },
+  {
+    "Name": "陵杭商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "天尊教弟子"
+    ],
+    "TransportFrequency": [
+      100
+    ],
+    "BattleCharacterTemplates": [],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          120
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "天尊教"
+    ]
+  },
+  {
+    "Name": "寿春商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "飞蝎坞弟子"
+    ],
+    "TransportFrequency": [
+      100
+    ],
+    "BattleCharacterTemplates": [],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          120
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "飞蝎坞"
+    ]
+  },
+  {
+    "Name": "瓯京商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "青王寺弟子"
+    ],
+    "TransportFrequency": [
+      120
+    ],
+    "BattleCharacterTemplates": [],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          20
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "青王寺"
+    ]
+  },
+  {
+    "Name": "京豫商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "少林寺弟子"
+    ],
+    "TransportFrequency": [
+      60
+    ],
+    "BattleCharacterTemplates": [],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          15
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "少林寺"
+    ]
+  },
+  {
+    "Name": "吉贝商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "铁掌门弟子"
+    ],
+    "TransportFrequency": [
+      120
+    ],
+    "BattleCharacterTemplates": [],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          30
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "铁掌门"
+    ]
+  },
+  {
+    "Name": "两崇商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "烈日教弟子"
+    ],
+    "TransportFrequency": [
+      60
+    ],
+    "BattleCharacterTemplates": [],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          40
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "烈日教"
+    ]
+  },
+  {
+    "Name": "灵犀商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "炎凤堂弟子"
+    ],
+    "TransportFrequency": [
+      160
+    ],
+    "BattleCharacterTemplates": [],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          5
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "炎凤堂"
+    ]
+  },
+  {
+    "Name": "梓京商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "全真教弟子"
+    ],
+    "TransportFrequency": [
+      160
+    ],
+    "BattleCharacterTemplates": [],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          5
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "全真教"
+    ]
+  },
+  {
+    "Name": "凤安商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "华山派弟子"
+    ],
+    "TransportFrequency": [
+      120
+    ],
+    "BattleCharacterTemplates": [],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          6
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "华山派"
+    ]
+  },
+  {
+    "Name": "金蜃商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "恒山派弟子"
+    ],
+    "TransportFrequency": [
+      120
+    ],
+    "BattleCharacterTemplates": [],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          12
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "恒山派"
+    ]
+  },
+  {
+    "Name": "晓星商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "峨眉派弟子",
+      "江湖人士"
+    ],
+    "TransportFrequency": [
+      120
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_0000000001"
+    ],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          8
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "峨眉派",
+      "无门无派"
+    ]
+  },
+  {
+    "Name": "京羊商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "嵩山派弟子",
+      "少林寺弟子",
+      "幽鸿宫弟子"
+    ],
+    "TransportFrequency": [
+      120
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_ShaoLinSi_0000000001"
+    ],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          6
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "嵩山派",
+      "少林寺",
+      "幽鸿宫"
+    ]
+  },
+  {
+    "Name": "文石商队",
+    "DialogCharacterName": "商队护卫",
+    "BattleName": [
+      "百丈山庄弟子",
+      "江湖人士"
+    ],
+    "TransportFrequency": [
+      100
+    ],
+    "BattleCharacterTemplates": [
+      "TongYong_SXTemp_WuMenPai_0000000001"
+    ],
+    "Dialog": {
+      "QiangJie": [],
+      "Talk": [],
+      "QiangJieEndSuccess": [],
+      "QiangJieEndFailed": [],
+      "ShangDuiXinXi": []
+    },
+    "QiangJieReward": [
+      {
+        "Range": [
+          12
+        ]
+      }
+    ],
+    "DropBag": [],
+    "DangWei": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Prefab": "Avatar/Caravan/NPC Caravan 01",
+    "PlaceRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -150.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -60.0
+          ]
+        },
+        {
+          "PlaceIds": [],
+          "RelationValueChange": [
+            -20.0
+          ]
+        }
+      ]
+    },
+    "CharacterRelationChange": {
+      "QiangJieSuccess": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -120.0
+          ]
+        }
+      ],
+      "QiangJieFailed": [
+        {
+          "CharacterIDs": [],
+          "RelationValueChange": [
+            -50.0
+          ]
+        }
+      ]
+    },
+    "BattleMenPai": [
+      "百丈山庄",
+      "无门无派"
+    ]
+  }
+]

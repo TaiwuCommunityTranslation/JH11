@@ -1,0 +1,818 @@
+[
+  {
+    "Name": {
+      "ValueInfo": "麝香"
+    },
+    "BuyPlace": {
+      "ValueInfo": "成都"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "利州路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "兴元商户"
+    },
+    "Type": {
+      "ValueInfo": "香药"
+    },
+    "ChuFaPlace": {
+      "Value": "兴元商户"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "成都"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            30000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "沉香"
+    },
+    "BuyPlace": {
+      "ValueInfo": "广州"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "广南东路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "温州商户"
+    },
+    "Type": {
+      "ValueInfo": "香药"
+    },
+    "ChuFaPlace": {
+      "Value": "广州"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "温州商户"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            20000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "乳香"
+    },
+    "BuyPlace": {
+      "ValueInfo": "汴梁"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "京东东路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "琅琊商家"
+    },
+    "Type": {
+      "ValueInfo": "香药"
+    },
+    "ChuFaPlace": {
+      "Value": "琅琊商家"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "汴梁"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            40000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "龙脑香"
+    },
+    "BuyPlace": {
+      "ValueInfo": "杭州"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "福建路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "温州商户"
+    },
+    "Type": {
+      "ValueInfo": "香药"
+    },
+    "ChuFaPlace": {
+      "Value": "杭州"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "福州"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            50000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "铁矿"
+    },
+    "BuyPlace": {
+      "ValueInfo": "汴梁"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "河北东路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "天隆商铺"
+    },
+    "Type": {
+      "ValueInfo": "资源"
+    },
+    "ChuFaPlace": {
+      "Value": "大名府"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "天隆商户"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            120000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "铜矿"
+    },
+    "BuyPlace": {
+      "ValueInfo": "杭州"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "江南西路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "东京商户"
+    },
+    "Type": {
+      "ValueInfo": "资源"
+    },
+    "ChuFaPlace": {
+      "Value": "洪州"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "东京商户"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            150000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "石炭"
+    },
+    "BuyPlace": {
+      "ValueInfo": "汴梁"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "京东西路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "天隆商铺"
+    },
+    "Type": {
+      "ValueInfo": "资源"
+    },
+    "ChuFaPlace": {
+      "Value": "天隆商铺"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "杭州"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            120000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "硬木"
+    },
+    "BuyPlace": {
+      "ValueInfo": "汴梁"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "京西南路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "伏龙商户"
+    },
+    "Type": {
+      "ValueInfo": "资源"
+    },
+    "ChuFaPlace": {
+      "Value": "伏龙商户"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "汴梁"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            100000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "柴木"
+    },
+    "BuyPlace": {
+      "ValueInfo": "广州"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "荆湖南路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "齐天商户"
+    },
+    "Type": {
+      "ValueInfo": "资源"
+    },
+    "ChuFaPlace": {
+      "Value": "齐天商户"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "广州"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            600000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "蔗糖"
+    },
+    "BuyPlace": {
+      "ValueInfo": "成都"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "夔州路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "东京商户"
+    },
+    "Type": {
+      "ValueInfo": "物资"
+    },
+    "ChuFaPlace": {
+      "Value": "夔州"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "成都"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            5000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "食盐"
+    },
+    "BuyPlace": {
+      "ValueInfo": "杭州"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "淮南东路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "东京商户"
+    },
+    "Type": {
+      "ValueInfo": "物资"
+    },
+    "ChuFaPlace": {
+      "Value": "扬州"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "东京商户"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            15000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "芝麻油"
+    },
+    "BuyPlace": {
+      "ValueInfo": "杭州"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "荆湖北路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "齐天商户"
+    },
+    "Type": {
+      "ValueInfo": "物资"
+    },
+    "ChuFaPlace": {
+      "Value": "江陵府"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "杭州"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            10000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "菜籽油"
+    },
+    "BuyPlace": {
+      "ValueInfo": "杭州"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "淮南西路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "东京商户"
+    },
+    "Type": {
+      "ValueInfo": "物资"
+    },
+    "ChuFaPlace": {
+      "Value": "寿州"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "杭州"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            10000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "蚕丝"
+    },
+    "BuyPlace": {
+      "ValueInfo": "杭州"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "两浙路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "温州商户"
+    },
+    "Type": {
+      "ValueInfo": "纺织"
+    },
+    "ChuFaPlace": {
+      "Value": "温州商户"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "汴梁"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            60000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "裘皮"
+    },
+    "BuyPlace": {
+      "ValueInfo": "汴梁"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "京西北路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "东京商户"
+    },
+    "Type": {
+      "ValueInfo": "纺织"
+    },
+    "ChuFaPlace": {
+      "Value": "汴梁"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "河南府"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            80000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "木棉"
+    },
+    "BuyPlace": {
+      "ValueInfo": "汴梁"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "河北西路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "定荣商户"
+    },
+    "Type": {
+      "ValueInfo": "纺织"
+    },
+    "ChuFaPlace": {
+      "Value": "定荣商户"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "汴梁"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            35000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "苎麻"
+    },
+    "BuyPlace": {
+      "ValueInfo": "汴梁"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "永兴军路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "米脂商铺"
+    },
+    "Type": {
+      "ValueInfo": "纺织"
+    },
+    "ChuFaPlace": {
+      "Value": "米脂商铺"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "真定府"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            29000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "犀牛角"
+    },
+    "BuyPlace": {
+      "ValueInfo": "广州"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "广南西路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "普阳商铺"
+    },
+    "Type": {
+      "ValueInfo": "奢侈品"
+    },
+    "ChuFaPlace": {
+      "Value": "邕州"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "广州"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            280000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "象牙"
+    },
+    "BuyPlace": {
+      "ValueInfo": "成都"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "梓州路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "兴元商户"
+    },
+    "Type": {
+      "ValueInfo": "奢侈品"
+    },
+    "ChuFaPlace": {
+      "Value": "梓州"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "汴梁"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            260000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "胡椒"
+    },
+    "BuyPlace": {
+      "ValueInfo": "成都"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "秦凤路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "龙安商户"
+    },
+    "Type": {
+      "ValueInfo": "奢侈品"
+    },
+    "ChuFaPlace": {
+      "Value": "凤翔府"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "龙安商户"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            150000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "螺钿漆器"
+    },
+    "BuyPlace": {
+      "ValueInfo": "汴梁"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "河东路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "米脂商铺"
+    },
+    "Type": {
+      "ValueInfo": "工艺品"
+    },
+    "ChuFaPlace": {
+      "Value": "太原府"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "汴梁"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            80000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "蜀绣"
+    },
+    "BuyPlace": {
+      "ValueInfo": "成都"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "成都府路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "东京商户"
+    },
+    "Type": {
+      "ValueInfo": "工艺品"
+    },
+    "ChuFaPlace": {
+      "Value": "成都"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "汴梁"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            120000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "汴绣"
+    },
+    "BuyPlace": {
+      "ValueInfo": "汴梁"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "京畿路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "东京商户"
+    },
+    "Type": {
+      "ValueInfo": "工艺品"
+    },
+    "ChuFaPlace": {
+      "Value": "汴梁"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "广州"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            150000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "雨花石"
+    },
+    "BuyPlace": {
+      "ValueInfo": "杭州"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "江南东路"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "泽江商户"
+    },
+    "Type": {
+      "ValueInfo": "工艺品"
+    },
+    "ChuFaPlace": {
+      "Value": "泽江商户"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "杭州"
+      ]
+    },
+    "PriceData": {
+      "Init": [
+        {
+          "PastPrices": [
+            80000
+          ]
+        }
+      ]
+    }
+  }
+]

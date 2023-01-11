@@ -1,0 +1,4257 @@
+[
+  {
+    "ButtonText": "打探行踪",
+    "ButtonText_Team": "打探行踪",
+    "Branch": [
+      "交纳打探金",
+      "暂时离开"
+    ],
+    "AskDialog": {}
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "DuoZiYangRou_Food00002",
+        "ZhiMaJiaoShaoBing_Food00004",
+        "RouHuoShao_Food00006",
+        "LvRouHuoShao_Food00008",
+        "DaoXiaoMian_Food00010",
+        "MenMian_Food00012",
+        "RouWanHuLaTang_Food00014",
+        "XieFenSiZiTou_Food00016",
+        "ShiSeXianChi_Food00018",
+        "HongGao_Food00020",
+        "TangCuLiuYu_Food00022",
+        "KongMingCai_Food00024",
+        "JiangShuiMian_Food00026",
+        "YeErBa_Food00028",
+        "YanShuiYa_Food00030",
+        "JingZhouYuGao_Food00032",
+        "MiDouFu_Food00034",
+        "ShaoRouZong_Food00036",
+        "YuWan_Food00038",
+        "MaTiGao_Food00040",
+        "HuoKaoYaoZi_Food00042"
+      ],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "ZhuZhiCi_Poem00001",
+      "XiaShanTu_Art00001"
+    ]
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "ShaoYiZi_Food00055",
+        "ShanJiaSanCui_Food00077"
+      ],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "ShaoYiZi_Food00055",
+      "ShanJiaSanCui_Food00077"
+    ]
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "SaTang_Food00003"
+      ],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "SaTang_Food00003"
+    ]
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "ZhiMaJiaoShaoBing_Food00004"
+      ],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "ZhiMaJiaoShaoBing_Food00004"
+    ]
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "TaiShouGeng_Food00069"
+      ],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "TaiShouGeng_Food00069"
+    ]
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "TaiShouGeng_Food00069"
+      ],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "TaiShouGeng_Food00069"
+    ]
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": []
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "MenMian_Food00012"
+      ],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "MenMian_Food00012"
+    ]
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "GuiHuaLiaoZao_Food00015"
+      ],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "GuiHuaLiaoZao_Food00015"
+    ]
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": []
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": []
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "BaGongShanDouFu_Food00019"
+      ],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "BaGongShanDouFu_Food00019"
+    ]
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "RouWanHuLaTang_Food00014"
+      ],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "RouWanHuLaTang_Food00014"
+    ]
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": []
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": []
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": []
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "FengTangGao_Food00097"
+      ],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "FengTangGao_Food00097"
+    ]
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "HuoKaoYaoZi_Food00042"
+      ],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "HuoKaoYaoZi_Food00042"
+    ]
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "ZhenJunZou_Food00049"
+      ],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "ZhenJunZou_Food00049"
+    ]
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": []
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "XiangGuCaiXin_Food00079"
+      ],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "XiangGuCaiXin_Food00079"
+    ]
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": []
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "TongShenBing_Food00045"
+      ],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "TongShenBing_Food00045"
+    ]
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "JinYuGeng_Food00072"
+      ],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "JinYuGeng_Food00072"
+    ]
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "YuWan_Food00038"
+      ],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "YuWan_Food00038"
+    ]
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "BingXueLengYuanZi_Food00099"
+      ],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "BingXueLengYuanZi_Food00099"
+    ]
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "ShengZhaFen_Food00041"
+      ],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "ShengZhaFen_Food00041"
+    ]
+  },
+  {
+    "ButtonText": "饭店服务",
+    "ButtonText_Team": "饭店服务",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "LingGanPool": []
+  },
+  {
+    "ButtonText": "饕餮厨房",
+    "ButtonText_Team": "饕餮厨房",
+    "Branch": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "用餐吃饭",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "DuoZiYangRou_Food00002",
+        "ZhiMaJiaoShaoBing_Food00004",
+        "RouHuoShao_Food00006",
+        "LvRouHuoShao_Food00008",
+        "DaoXiaoMian_Food00010",
+        "MenMian_Food00012",
+        "RouWanHuLaTang_Food00014",
+        "XieFenSiZiTou_Food00016",
+        "ShiSeXianChi_Food00018",
+        "HongGao_Food00020",
+        "TangCuLiuYu_Food00022",
+        "KongMingCai_Food00024",
+        "JiangShuiMian_Food00026",
+        "YeErBa_Food00028",
+        "YanShuiYa_Food00030",
+        "JingZhouYuGao_Food00032",
+        "MiDouFu_Food00034",
+        "ShaoRouZong_Food00036",
+        "YuWan_Food00038",
+        "MaTiGao_Food00040",
+        "HuoKaoYaoZi_Food00042"
+      ],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "酒楼服务",
+    "ButtonText_Team": "酒楼服务",
+    "Branch": [
+      "喝酒休息",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "喝酒休息",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [
+        "LianQuanJiu_Wine00002",
+        "PengLaiJiu_Wine00004",
+        "BaiYangJiu_Wine00006",
+        "BiXiangJiu_Wine00008",
+        "JinQuanJiu_Wine00010",
+        "BaiYuQuan_Wine00012",
+        "ChouSiTang_Wine00014",
+        "GuXiChun_Wine00016",
+        "ZhuYeQing_Wine00018",
+        "WanXiangJieChun_Wine00020",
+        "XuanCiBiXiang_Wine00022",
+        "LanQiaoFengYue_Wine00024"
+      ],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "酒楼服务",
+    "ButtonText_Team": "酒楼服务",
+    "Branch": [
+      "喝酒休息",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "喝酒休息",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [
+        "LinYuJiu_Wine00011",
+        "BiLanTang_Wine00013"
+      ],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      }
+    ],
+    "LingGanPool": []
+  },
+  {
+    "ButtonText": "酒楼服务",
+    "ButtonText_Team": "酒楼服务",
+    "Branch": [
+      "喝酒休息",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "喝酒休息",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [
+        "ZhaoXiaJiu_Wine00009",
+        "JinQuan_EA_Feng_Wine_002",
+        "ZhuYeQing_Wine00018",
+        "QiYunQingLu_Wine00023"
+      ],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      }
+    ],
+    "LingGanPool": []
+  },
+  {
+    "ButtonText": "酒楼服务",
+    "ButtonText_Team": "酒楼服务",
+    "Branch": [
+      "喝酒休息",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "喝酒休息",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [
+        "JinQuanJiu_Wine00010",
+        "ChouSiTang_Wine00014"
+      ],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      }
+    ],
+    "LingGanPool": []
+  },
+  {
+    "ButtonText": "酒楼服务",
+    "ButtonText_Team": "酒楼服务",
+    "Branch": [
+      "喝酒休息",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "喝酒休息",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [
+        "JiangHanTang_Wine00017"
+      ],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      }
+    ],
+    "LingGanPool": []
+  },
+  {
+    "ButtonText": "酒楼服务",
+    "ButtonText_Team": "酒楼服务",
+    "Branch": [
+      "喝酒休息",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "喝酒休息",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [
+        "PengLaiJiu_Wine00004",
+        "LinYuJiu_Wine00011"
+      ],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "JiangChengZi_Poem00025"
+    ]
+  },
+  {
+    "ButtonText": "酒楼服务",
+    "ButtonText_Team": "酒楼服务",
+    "Branch": [
+      "喝酒休息",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "喝酒休息",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [
+        "JianMiJiu_Wine00003",
+        "ZiJinQuan_Wine00019"
+      ],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      }
+    ],
+    "LingGanPool": []
+  },
+  {
+    "ButtonText": "酒楼服务",
+    "ButtonText_Team": "酒楼服务",
+    "Branch": [
+      "喝酒休息",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "喝酒休息",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [
+        "BaiTaoJiu_Wine00007",
+        "ZiJinQuan_Wine00019"
+      ],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      }
+    ],
+    "LingGanPool": []
+  },
+  {
+    "ButtonText": "酒楼服务",
+    "ButtonText_Team": "酒楼服务",
+    "Branch": [
+      "喝酒休息",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "喝酒休息",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [
+        "BaiTaoJiu_Wine00007",
+        "JinQuan_EA_Feng_Wine_002"
+      ],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      }
+    ],
+    "LingGanPool": []
+  },
+  {
+    "ButtonText": "酒楼服务",
+    "ButtonText_Team": "酒楼服务",
+    "Branch": [
+      "喝酒休息",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "喝酒休息",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [
+        "BaiYangJiu_Wine00006",
+        "ZhaoXiaJiu_Wine00009",
+        "GuXiChun_Wine00016"
+      ],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      }
+    ],
+    "LingGanPool": []
+  },
+  {
+    "ButtonText": "酒楼服务",
+    "ButtonText_Team": "酒楼服务",
+    "Branch": [
+      "喝酒休息",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "喝酒休息",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [
+        "LianQuanJiu_Wine00002",
+        "XiBoJiu_Wine00005",
+        "QiYunQingLu_Wine00023"
+      ],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "XiShanQiuJiTu_Art00042"
+    ]
+  },
+  {
+    "ButtonText": "茶坊服务",
+    "ButtonText_Team": "茶坊服务",
+    "Branch": [
+      "点一盏茶",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "点一盏茶",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": [
+        "SongZhenCha_Tea00002",
+        "ZhiZiCha_Tea00004",
+        "MeiHuaCha_Tea00006",
+        "PuErShuCha_Tea00008",
+        "DaYeQing_Tea00010",
+        "ZiYangCha_Tea00012",
+        "LongJingCha_Tea00014",
+        "JinJunMei_Tea00016",
+        "JunShanYinZhen_Tea00018",
+        "JinSiHuangJuCha_Tea00020",
+        "YuanZhouJinPian_Tea00022",
+        "FangShanLuYa_Tea00024",
+        "TianZunYanYeCha_Tea00026",
+        "TieLuoHanCha_Tea00028"
+      ]
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "茶坊服务",
+    "ButtonText_Team": "茶坊服务",
+    "Branch": [
+      "点一盏茶",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "点一盏茶",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": [
+        "ShanQingCha_Tea00009",
+        "WoLongShanCha_EA_Tea_Feng_003"
+      ]
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "LingGanPool": []
+  },
+  {
+    "ButtonText": "茶坊服务",
+    "ButtonText_Team": "茶坊服务",
+    "Branch": [
+      "点一盏茶",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "点一盏茶",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": [
+        "MeiHuaCha_Tea00006",
+        "JinSiHuangJuCha_Tea00020"
+      ]
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "LingGanPool": []
+  },
+  {
+    "ButtonText": "茶坊服务",
+    "ButtonText_Team": "茶坊服务",
+    "Branch": [
+      "点一盏茶",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "点一盏茶",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": [
+        "HuQiuCha_Tea00011",
+        "FangShanLuYa_Tea00024"
+      ]
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "LingGanPool": []
+  },
+  {
+    "ButtonText": "茶坊服务",
+    "ButtonText_Team": "茶坊服务",
+    "Branch": [
+      "点一盏茶",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "点一盏茶",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": [
+        "ZiYangCha_Tea00012"
+      ]
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "LiuYeJiu_Food00082"
+    ]
+  },
+  {
+    "ButtonText": "茶坊服务",
+    "ButtonText_Team": "茶坊服务",
+    "Branch": [
+      "点一盏茶",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "点一盏茶",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": [
+        "PuErShuCha_Tea00008"
+      ]
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      }
+    ],
+    "LingGanPool": []
+  },
+  {
+    "ButtonText": "甘泉香饮子",
+    "ButtonText_Team": "甘泉香饮子",
+    "Branch": [
+      "喝饮料",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "喝饮料",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "ShiGaoEr_Food00101"
+      ],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          220.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "ShiGaoEr_Food00101"
+    ]
+  },
+  {
+    "ButtonText": "广州糖水铺",
+    "ButtonText_Team": "广州糖水铺",
+    "Branch": [
+      "喝饮料",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "喝饮料",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "BingXueLengYuanZi_Food00099"
+      ],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          220.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "BingXueLengYuanZi_Food00099"
+    ]
+  },
+  {
+    "ButtonText": "邕州冷饮",
+    "ButtonText_Team": "邕州冷饮",
+    "Branch": [
+      "喝饮料",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "喝饮料",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "YingTaoJian_Food00102"
+      ],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          5.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          220.0
+        ]
+      }
+    ],
+    "LingGanPool": [
+      "YingTaoJian_Food00102"
+    ]
+  },
+  {
+    "ButtonText": "施舍",
+    "ButtonText_Team": "施舍",
+    "Branch": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "施舍",
+    "ButtonText_Team": "施舍",
+    "Branch": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "施舍",
+    "ButtonText_Team": "施舍",
+    "Branch": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "施舍",
+    "ButtonText_Team": "施舍",
+    "Branch": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "施舍",
+    "ButtonText_Team": "施舍",
+    "Branch": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "施舍",
+    "ButtonText_Team": "施舍",
+    "Branch": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "施舍",
+    "ButtonText_Team": "施舍",
+    "Branch": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "施舍",
+    "ButtonText_Team": "施舍",
+    "Branch": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "施舍",
+    "ButtonText_Team": "施舍",
+    "Branch": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "施舍",
+    "ButtonText_Team": "施舍",
+    "Branch": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "施舍",
+    "ButtonText_Team": "施舍",
+    "Branch": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "施舍",
+    "ButtonText_Team": "施舍",
+    "Branch": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "施舍",
+    "ButtonText_Team": "施舍",
+    "Branch": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "施舍",
+    "ButtonText_Team": "施舍",
+    "Branch": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "施舍",
+    "ButtonText_Team": "施舍",
+    "Branch": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "施舍",
+    "ButtonText_Team": "施舍",
+    "Branch": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "施舍",
+    "ButtonText_Team": "施舍",
+    "Branch": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "施舍",
+    "ButtonText_Team": "施舍",
+    "Branch": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "赠送银两",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "青楼歌姬",
+    "ButtonText_Team": "青楼歌姬",
+    "Branch": [
+      "艳歌妙舞",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "香囊暗解",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [
+        "QianJinQing_EA_Music_Hu_001",
+        "XiaoXiangShuiYun_Music00022"
+      ],
+      "Wine": [],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "青楼歌姬",
+    "ButtonText_Team": "青楼歌姬",
+    "Branch": [
+      "迢迢良夜",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "迢迢良夜",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [
+        "BianHeQiYu_EA_Music_Feng_001",
+        "ShenHuangCao_Music00009"
+      ],
+      "Wine": [],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "青楼歌姬",
+    "ButtonText_Team": "青楼歌姬",
+    "Branch": [
+      "迢迢良夜",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "迢迢良夜",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [
+        "XianDaoCao_EA_Music_Hu_002"
+      ],
+      "Wine": [],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "青楼歌姬",
+    "ButtonText_Team": "青楼歌姬",
+    "Branch": [
+      "迢迢良夜",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "迢迢良夜",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [
+        "ZouYuCao_Music00003",
+        "BoJiYin_Music00005",
+        "FengQiuHuang_Music00011"
+      ],
+      "Wine": [],
+      "Food": [],
+      "Tea": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "福州关扑",
+    "ButtonText_Team": "福州关扑",
+    "Branch": [
+      "下注赌物",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "兑换",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {},
+    "GuanPu": {
+      "Entitys": [
+        "ZhongYong_Reading_Entity_0003",
+        "MeiBanChaWan_TeaCup_Entity_0009",
+        "LiuYeDao_Hu_Dao_FeiYu_Template_003",
+        "NanDouChiGao_EA_SY_Feng_Entity_0001",
+        "HuTouGou_Feng_Gou_WuQing_Template_004",
+        "WuXingZhi_Reading_Entity_0020",
+        "WoYangJinBi_Antique_EA_Entity_Bi_002",
+        "ZongJingLu_Reading_Entity_0071",
+        "MinJian_Hu_Jian_YuChang_Template_004"
+      ],
+      "Pool": [
+        {
+          "Weights": [
+            250.0,
+            250.0,
+            180.0,
+            50.0,
+            10.0,
+            15.0,
+            10.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "Weights": [
+            250.0,
+            250.0,
+            250.0,
+            60.0,
+            20.0,
+            25.0,
+            20.0,
+            11.0,
+            5.0
+          ]
+        },
+        {
+          "Weights": [
+            125.0,
+            125.0,
+            125.0,
+            60.0,
+            20.0,
+            25.0,
+            20.0,
+            11.0,
+            5.0
+          ]
+        }
+      ],
+      "PoolBranchText": "押注<color=#00FFDDFF>「[Money]」</color>",
+      "TouZiGuiZe": {
+        "Big": [
+          17
+        ]
+      }
+    }
+  },
+  {
+    "ButtonText": "三山关扑",
+    "ButtonText_Team": "三山关扑",
+    "Branch": [
+      "下注赌物",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "兑换",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "GuanPu": {
+      "Entitys": [
+        "ZhongYong_Reading_Entity_0003",
+        "MeiBanChaWan_TeaCup_Entity_0009",
+        "LiuYeDao_Hu_Dao_FeiYu_Template_003",
+        "NanDouChiGao_EA_SY_Feng_Entity_0001",
+        "HuTouGou_Feng_Gou_WuQing_Template_004",
+        "WuXingZhi_Reading_Entity_0020",
+        "TianQingYouPan_Entity_CangPin26",
+        "LuoHanQiYao_EA_SY_Long_Entity_0001",
+        "RuYiBei_TeaCup_Entity_0018"
+      ],
+      "Pool": [
+        {
+          "Weights": [
+            250.0,
+            250.0,
+            18.0,
+            50.0,
+            10.0,
+            15.0,
+            30.0,
+            3.0,
+            2.0
+          ]
+        },
+        {
+          "Weights": [
+            250.0,
+            36.0,
+            36.0,
+            60.0,
+            20.0,
+            25.0,
+            50.0,
+            13.0,
+            21.0
+          ]
+        },
+        {
+          "Weights": [
+            125.0,
+            125.0,
+            36.0,
+            60.0,
+            20.0,
+            25.0,
+            50.0,
+            13.0,
+            21.0
+          ]
+        }
+      ],
+      "PoolBranchText": "押注<color=#00FFDDFF>「[Money]」</color>",
+      "TouZiGuiZe": {
+        "Big": [
+          17
+        ]
+      }
+    }
+  },
+  {
+    "ButtonText": "梓州关扑",
+    "ButtonText_Team": "梓州关扑",
+    "Branch": [
+      "下注赌物",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "兑换",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "GuanPu": {
+      "Entitys": [
+        "BaiYouGuaLengPing_WineCup_Entity_0006",
+        "ChanWen_EA_YueQi_Entity_Hu_002",
+        "ZhiYuanNeiDan_Entity_0001",
+        "JianNanShaoChun_EA_Feng_Wine_Entity_001",
+        "NanZhongYun_EA_Feng_Wine_Entity_003",
+        "FengWenBei_EA_Feng_WineCup_Entity_004",
+        "ZhenJiuJiaYiJing_EA_YiShu_Feng_Entity_003",
+        "YuDing_Entity_WeiJianDing_CangPin1",
+        "RuanLingBian_Feng_Bian_LuoCha_Template_005"
+      ],
+      "Pool": [
+        {
+          "Weights": [
+            250.0,
+            250.0,
+            250.0,
+            250.0,
+            250.0,
+            30.0,
+            10.0,
+            3.0,
+            1.0
+          ]
+        },
+        {
+          "Weights": [
+            250.0,
+            250.0,
+            200.0,
+            200.0,
+            200.0,
+            40.0,
+            20.0,
+            13.0,
+            5.0
+          ]
+        },
+        {
+          "Weights": [
+            125.0,
+            125.0,
+            60.0,
+            60.0,
+            60.0,
+            50.0,
+            20.0,
+            13.0,
+            5.0
+          ]
+        }
+      ],
+      "PoolBranchText": "押注<color=#00FFDDFF>「[Money]」</color>",
+      "TouZiGuiZe": {
+        "Big": [
+          17
+        ]
+      }
+    }
+  },
+  {
+    "ButtonText": "潭州关扑",
+    "ButtonText_Team": "潭州关扑",
+    "Branch": [
+      "下注赌物",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "兑换",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "GuanPu": {
+      "Entitys": [
+        "JiangHuoTongMaiJiu_Entity_0001",
+        "YuHengHuanGuYao_Entity_0001",
+        "JiangHanTang_Wine_Entity_0017",
+        "JieDao_Hu_Dao_XuanSe_Template_004",
+        "XianHuaBei_WineCup_Entity_0012",
+        "XiaoTangJiGuLu_Reading_Entity_0058",
+        "XingXiangXuanShaChaZhan_TeaCup_Entity_0024",
+        "HongFanZhengJian_Reading_Entity_0072",
+        "XingLuoShiRi_Book_Entity_0012"
+      ],
+      "Pool": [
+        {
+          "Weights": [
+            250.0,
+            250.0,
+            250.0,
+            10.0,
+            30.0,
+            30.0,
+            2.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "Weights": [
+            200.0,
+            200.0,
+            200.0,
+            10.0,
+            40.0,
+            40.0,
+            12.0,
+            5.0,
+            2.0
+          ]
+        },
+        {
+          "Weights": [
+            100.0,
+            100.0,
+            100.0,
+            10.0,
+            40.0,
+            40.0,
+            15.0,
+            5.0,
+            5.0
+          ]
+        }
+      ],
+      "PoolBranchText": "押注<color=#00FFDDFF>「[Money]」</color>",
+      "TouZiGuiZe": {
+        "Small": [
+          10
+        ]
+      }
+    }
+  },
+  {
+    "ButtonText": "碧海赌库",
+    "ButtonText_Team": "碧海赌库",
+    "Branch": [
+      "下注赌物",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "兑换",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "GuanPu": {
+      "Entitys": [
+        "QingYouZhanTuo_Entity_WeiJianDing_CangPin14",
+        "QingYouZhaDouHuaPen_Entity_WeiJianDing_CangPin54",
+        "TongYangDeng_Entity_WeiJianDing_CangPin43",
+        "YuXingHu_Entity_WeiJianDing_CangPin41",
+        "ZhuKeDou_Entity_WeiJianDing_CangPin12",
+        "GuYuHuDieJue_Entity_WeiJianDing_CangPin37",
+        "TaoTieWenZhanGu_Entity_WeiJianDing_CangPin28",
+        "WuJinTongYouGuan_Entity_WeiJianDing_CangPin21",
+        "YuZuDing_Entity_WeiJianDing_CangPin17"
+      ],
+      "Pool": [
+        {
+          "Weights": [
+            200.0,
+            200.0,
+            200.0,
+            200.0,
+            200.0,
+            100.0,
+            100.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "Weights": [
+            150.0,
+            150.0,
+            150.0,
+            150.0,
+            150.0,
+            100.0,
+            100.0,
+            5.0,
+            5.0
+          ]
+        },
+        {
+          "Weights": [
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            10.0,
+            10.0
+          ]
+        }
+      ],
+      "PoolBranchText": "押注<color=#00FFDDFF>「[Money]」</color>",
+      "TouZiGuiZe": {
+        "Small": [
+          10
+        ]
+      }
+    }
+  },
+  {
+    "ButtonText": "珍藏博栈",
+    "ButtonText_Team": "珍藏博栈",
+    "Branch": [
+      "下注赌物",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "兑换",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "GuanPu": {
+      "Entitys": [
+        "QingTongMa_Entity_WeiJianDing_CangPin44",
+        "YuWoQuan_Entity_WeiJianDing_CangPin40",
+        "HuiZiHuaPen_Entity_WeiJianDing_CangPin24",
+        "HuShiRenYou_Entity_WeiJianDing_CangPin5",
+        "TongLongWenBu_Entity_WeiJianDing_CangPin7",
+        "HuWeiDaiGou_Entity_WeiJianDing_CangPin4",
+        "GuYuBiChuang_Entity_WeiJianDing_CangPin69",
+        "QiHouBoZhong_Entity_WeiJianDing_CangPin73",
+        "GuYuDiaoWenDaZhang_Entity_WeiJianDing_CangPin76",
+        "YuDing_Entity_WeiJianDing_CangPin1",
+        "HongYuFuRongGuan_Entity_WeiJianDing_CangPin18"
+      ],
+      "Pool": [
+        {
+          "Weights": [
+            200.0,
+            200.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "Weights": [
+            150.0,
+            150.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            5.0,
+            5.0
+          ]
+        },
+        {
+          "Weights": [
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            10.0,
+            10.0
+          ]
+        }
+      ],
+      "PoolBranchText": "押注<color=#00FFDDFF>「[Money]」</color>",
+      "TouZiGuiZe": {
+        "Big": [
+          17
+        ]
+      }
+    }
+  },
+  {
+    "ButtonText": "乐藏博",
+    "ButtonText_Team": "乐藏博",
+    "Branch": [
+      "下注赌物",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "兑换",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "GuanPu": {
+      "Entitys": [
+        "QueChaoCao_Music_Entity_0004",
+        "QingLaiQin_EA_YueQi_Entity_Hu_001",
+        "FuFangYou_Entity_CangPin32",
+        "GuYuYanYueGuan_Entity_CangPin71",
+        "GuYuGuiYan_Entity_CangPin65",
+        "ShouShouBianQing_Entity_CangPin30",
+        "YuXiaoDi_EA_YueQi_Feng_Entity_003",
+        "SaoChenCao_EA_Music_Feng_Entity_003",
+        "DiaoZhongHuaHong_EA_Music_Feng_Entity_003",
+        "YueFengMo_EA_Music_Feng_Entity_003",
+        "LiPingKongHouYin_EA_Music_Long_Entity_001",
+        "ZhiZhaoFei_Music_Entity_0020",
+        "GuYuTianJiYuanHuang_Entity_CangPin63"
+      ],
+      "Pool": [
+        {
+          "Weights": [
+            1000.0,
+            1000.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "Weights": [
+            150.0,
+            150.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            5.0,
+            5.0,
+            5.0
+          ]
+        },
+        {
+          "Weights": [
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            10.0,
+            10.0,
+            10.0
+          ]
+        }
+      ],
+      "PoolBranchText": "押注<color=#00FFDDFF>「[Money]」</color>",
+      "TouZiGuiZe": {
+        "Small": [
+          10
+        ]
+      }
+    }
+  },
+  {
+    "ButtonText": "兵器名号",
+    "Branch": [
+      "打造名号",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "打造名号",
+      "再考虑下"
+    ],
+    "AskDialog": {}
+  },
+  {
+    "ButtonText": "兵器名号",
+    "Branch": [
+      "打造名号",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "打造名号",
+      "再考虑下"
+    ],
+    "AskDialog": {}
+  },
+  {
+    "ButtonText": "兵器名号",
+    "Branch": [
+      "打造名号",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "打造名号",
+      "再考虑下"
+    ],
+    "AskDialog": {}
+  },
+  {
+    "ButtonText": "兵器名号",
+    "Branch": [
+      "打造名号",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "打造名号",
+      "再考虑下"
+    ],
+    "AskDialog": {}
+  },
+  {
+    "ButtonText": "兵器名号",
+    "Branch": [
+      "打造名号",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "打造名号",
+      "再考虑下"
+    ],
+    "AskDialog": {}
+  },
+  {
+    "ButtonText": "兵器名号",
+    "Branch": [
+      "打造名号",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "打造名号",
+      "再考虑下"
+    ],
+    "AskDialog": {}
+  },
+  {
+    "ButtonText": "兵器名号",
+    "Branch": [
+      "打造名号",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "打造名号",
+      "再考虑下"
+    ],
+    "AskDialog": {}
+  },
+  {
+    "ButtonText": "兵器名号",
+    "Branch": [
+      "打造名号",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "打造名号",
+      "再考虑下"
+    ],
+    "AskDialog": {}
+  },
+  {
+    "ButtonText": "兵器名号",
+    "Branch": [
+      "打造名号",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "打造名号",
+      "再考虑下"
+    ],
+    "AskDialog": {}
+  },
+  {
+    "ButtonText": "算命",
+    "ButtonText_Team": "算命",
+    "Branch": [
+      "算上一卦",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "算命",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {},
+    "SuanMing": {
+      "Pool": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  {
+    "ButtonText": "算命",
+    "ButtonText_Team": "算命",
+    "Branch": [
+      "算上一卦",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "算命",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {},
+    "SuanMing": {
+      "Pool": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  {
+    "ButtonText": "鉴定藏品",
+    "Branch": [
+      "立即鉴定",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "鉴定",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "JianDingRange": [
+      [
+        100
+      ]
+    ]
+  },
+  {
+    "ButtonText": "鉴定藏品",
+    "Branch": [
+      "立即鉴定",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "鉴定",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "JianDingRange": [
+      [
+        75
+      ]
+    ]
+  },
+  {
+    "ButtonText": "鉴定藏品",
+    "Branch": [
+      "立即鉴定",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "鉴定",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "JianDingRange": [
+      [
+        90
+      ]
+    ]
+  },
+  {
+    "ButtonText": "鉴定藏品",
+    "Branch": [
+      "立即鉴定",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "鉴定",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "JianDingRange": [
+      [
+        65
+      ]
+    ]
+  },
+  {
+    "ButtonText": "鉴定藏品",
+    "Branch": [
+      "立即鉴定",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "鉴定",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "JianDingRange": [
+      [
+        75
+      ]
+    ]
+  },
+  {
+    "ButtonText": "鉴定藏品",
+    "Branch": [
+      "立即鉴定",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "鉴定",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "JianDingRange": [
+      [
+        50
+      ]
+    ]
+  },
+  {
+    "ButtonText": "鉴定藏品",
+    "Branch": [
+      "立即鉴定",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "鉴定",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "JianDingRange": [
+      [
+        75
+      ]
+    ]
+  },
+  {
+    "ButtonText": "鉴定藏品",
+    "Branch": [
+      "立即鉴定",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "鉴定",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "JianDingRange": [
+      [
+        50
+      ]
+    ]
+  },
+  {
+    "ButtonText": "洗浴",
+    "ButtonText_Team": "洗浴",
+    "Branch": [
+      "立即泡澡",
+      "先不泡澡"
+    ],
+    "AskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "PaoZao": {
+      "Teses": [
+        {
+          "RelatedIds": []
+        },
+        {
+          "RelatedIds": []
+        },
+        {
+          "RelatedIds": []
+        }
+      ]
+    }
+  },
+  {
+    "ButtonText": "住店服务",
+    "ButtonText_Team": "住店服务",
+    "Branch": [
+      "静养休息",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "静养休息",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          20.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          3983.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "游戏教学",
+    "ButtonText_Team": "游戏教学",
+    "Branch": [
+      "教学咨询",
+      "没事了"
+    ],
+    "AskDialog": {},
+    "LingGanPool": [
+      "ZhuZhiCi_Poem00001",
+      "XiaShanTu_Art00001"
+    ]
+  },
+  {
+    "Branch": [
+      "买东西",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "买东西",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {}
+  },
+  {
+    "ButtonText": "出售物品",
+    "ButtonText_Team": "出售物品",
+    "Branch": [
+      "卖东西",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "卖东西",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {}
+  },
+  {
+    "Branch": [
+      "吃饭（2时段）",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "吃饭（2时段）",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        10.0
+      ],
+      "Music": [],
+      "Wine": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "Branch": [
+      "吃饭（2时段）",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "吃饭（2时段）",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        10.0
+      ],
+      "Music": [],
+      "Wine": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "Branch": [
+      "吃饭（2时段）",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "吃饭（2时段）",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        10.0
+      ],
+      "Music": [],
+      "Wine": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "Branch": [
+      "吃饭（2时段）",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "吃饭（2时段）",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        10.0
+      ],
+      "Music": [],
+      "Wine": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "Branch": [
+      "吃饭（2时段）",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "吃饭（2时段）",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {},
+    "BuffPool": {
+      "Weight": [
+        10.0
+      ],
+      "Music": [],
+      "Wine": []
+    },
+    "Upgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "ButtonText": "自宅购买",
+    "Branch": [
+      "确认付款",
+      "暂不购买"
+    ],
+    "AskDialog": {}
+  },
+  {
+    "ButtonText": "自宅介绍",
+    "AskDialog": {}
+  },
+  {
+    "ButtonText": "买入钞引",
+    "Branch": [
+      "买钞引",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "买钞引",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {}
+  },
+  {
+    "ButtonText": "卖出钞引",
+    "Branch": [
+      "出售钞引",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "出售钞引",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {}
+  },
+  {
+    "ButtonText": "买入钞引",
+    "Branch": [
+      "买钞引",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "买钞引",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {}
+  },
+  {
+    "ButtonText": "买入钞引",
+    "Branch": [
+      "买钞引",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "买钞引",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {}
+  },
+  {
+    "ButtonText": "买入钞引",
+    "Branch": [
+      "买钞引",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "买钞引",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {}
+  },
+  {
+    "ButtonText": "买入钞引",
+    "Branch": [
+      "买钞引",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "买钞引",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {}
+  },
+  {
+    "ButtonText": "卖出钞引",
+    "Branch": [
+      "卖出钞引",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "卖出钞引",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {}
+  },
+  {
+    "ButtonText": "功法回收",
+    "AskDialog": {}
+  },
+  {
+    "ButtonText": "兑换势力票",
+    "ButtonText_Team": "兑换势力票",
+    "Branch": [
+      "兑换",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "兑换",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {}
+  },
+  {
+    "ButtonText": "势力票商店",
+    "ButtonText_Team": "势力票商店",
+    "Branch": [
+      "兑换",
+      "再考虑下"
+    ],
+    "Branch_Team": [
+      "兑换",
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "TeamAskDialog": {}
+  },
+  {
+    "ButtonText": "购买服装",
+    "ButtonText_Team": "购买服装",
+    "Branch": [
+      "开始选购",
+      "暂不购买"
+    ],
+    "AskDialog": {}
+  },
+  {
+    "ButtonText": "购买服装",
+    "ButtonText_Team": "购买服装",
+    "Branch": [
+      "开始选购",
+      "暂不购买"
+    ],
+    "AskDialog": {}
+  },
+  {
+    "ButtonText": "抄撰功法",
+    "AskDialog": {},
+    "ChaoZuanGongFaPrice": {}
+  },
+  {
+    "ButtonText": "功法取回",
+    "AskDialog": {},
+    "ChaoZuanGongFaPrice": {}
+  },
+  {
+    "ButtonText": "内幕交易",
+    "ButtonText_Team": "钞引内幕交易",
+    "Branch": [
+      "内幕消息",
+      "暂时离开"
+    ],
+    "Branch_Team": [
+      "打探内幕",
+      "暂时离开"
+    ],
+    "AskDialog": {},
+    "PaperMoneyInsider": {
+      "ChangePool": [
+        {
+          "Result": [
+            1
+          ]
+        },
+        {
+          "Result": [
+            0
+          ]
+        },
+        {
+          "Result": [
+            0
+          ]
+        },
+        {
+          "Result": [
+            1
+          ]
+        }
+      ],
+      "RisePool": [
+        "PaperMoneyResult_Sample_Zhang2"
+      ],
+      "DecreasesPool": [
+        "PaperMoneyResult_Sample_Die2"
+      ]
+    }
+  },
+  {
+    "ButtonText": "外出寻宝",
+    "Branch": [
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "WaiChuPool": [
+      {
+        "Text": "寻找药物",
+        "WaitJieDuan": [
+          56
+        ],
+        "Pool": [
+          "JianZuGao_Entity_0001",
+          "SanQiDieDaLu_Entity_0001",
+          "JieGuCaoYaoGao_Entity_0001",
+          "XiangYaoXiaoYuanEr_Entity_0001",
+          "YangJingWan_Entity_0001",
+          "BuZhongYiQiWan_Entity_0001",
+          "HuiChunTangYao_Entity_0001"
+        ],
+        "FeiShuLing": {
+          "DialogID": []
+        }
+      }
+    ]
+  },
+  {
+    "ButtonText": "外出寻宝",
+    "Branch": [
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "WaiChuPool": [
+      {
+        "Text": "寻找书法和茶酒",
+        "WaitJieDuan": [
+          56
+        ],
+        "Pool": [
+          "XiangTaiHouWanCi_Writing_Entity_0002",
+          "HanGuangTie_Writing_Entity_0004",
+          "ShenXianQiJuFa_Writing_Entity_0006",
+          "CaoShuWanShan_Writing_Entity_0008",
+          "ShiLiuRiTie_Writing_Entity_0010",
+          "MuDanShiTie_Writing_Entity_0012",
+          "BuXuCi_Writing_Entity_0014",
+          "BaiJiuTie_Writing_Entity_0016",
+          "TaiZiSheRenTie_Writing_Entity_0018",
+          "XinYueTie_Writing_Entity_0020",
+          "ZiJinYanTie_Writing_Entity_0022",
+          "LeYiLun_Writing_Entity_0024",
+          "DiZhuMing_Writing_Entity_0026",
+          "YanShanMingTie_Writing_Entity_0028",
+          "DongWuTie_Writing_Entity_0030",
+          "LuHongCaoTangShiZhiTuBa_Writing_Entity_0032",
+          "HuangFuDanBei_Writing_Entity_0034",
+          "HuangDiYinFuJing_Writing_Entity_0036",
+          "YanQinLiBei_Writing_Entity_0038",
+          "MengHuiTie_Writing_Entity_0040",
+          "YuanDaoBei_Writing_Entity_0042",
+          "GuiZhongQiuYueShiTie_Writing_Entity_0044",
+          "JiaoFanTie_Writing_Entity_0046",
+          "ZouJinTangJi_Writing_Entity_0048",
+          "SongLiTie_Writing_Entity_0050",
+          "ChongMiZhiXiQuan_Wine_Entity_0021",
+          "QiYunQingLu_Wine_Entity_0023",
+          "BeiFuBingChu_Wine_Entity_0025",
+          "ShiBaXian_EA_Long_Wine_Entity_002",
+          "JinLingChun_EA_Long_Wine_Entity_004",
+          "QingYanMiJiu_EA_Long_Wine_Entity_004",
+          "YuanZhouJinPian_Tea_Entity_0022",
+          "FangShanLuYa_Tea_Entity_0024",
+          "TianZunYanYeCha_Tea_Entity_0026",
+          "TieLuoHanCha_Tea_Entity_0028",
+          "SuGuangXuanCha_Tea_Entity_Long_003",
+          "QingWeiYinPian_Tea_Entity_Long_005"
+        ],
+        "FeiShuLing": {
+          "DialogID": []
+        }
+      }
+    ]
+  },
+  {
+    "ButtonText": "外出寻宝",
+    "Branch": [
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "WaiChuPool": [
+      {
+        "Text": "寻找菜肴",
+        "WaitJieDuan": [
+          56
+        ],
+        "Pool": [
+          "DuoZiYangRou_Food_Entity_0002",
+          "ZhiMaJiaoShaoBing_Food_Entity_0004",
+          "RouHuoShao_Food_Entity_0006",
+          "LvRouHuoShao_Food_Entity_0008",
+          "DaoXiaoMian_Food_Entity_0010",
+          "MenMian_Food_Entity_0012",
+          "RouWanHuLaTang_Food_Entity_0014",
+          "XieFenSiZiTou_Food_Entity_0016",
+          "ShiSeXianChi_Food_Entity_0018",
+          "HongGao_Food_Entity_0020",
+          "TangCuLiuYu_Food_Entity_0022",
+          "KongMingCai_Food_Entity_0024",
+          "JiangShuiMian_Food_Entity_0026",
+          "YeErBa_Food_Entity_0028",
+          "YanShuiYa_Food_Entity_0030",
+          "JingZhouYuGao_Food_Entity_0032",
+          "MiDouFu_Food_Entity_0034",
+          "ShaoRouZong_Food_Entity_0036",
+          "YuWan_Food_Entity_0038",
+          "MaTiGao_Food_Entity_0040",
+          "HuoKaoYaoZi_Food_Entity_0042",
+          "PanTaoFan_Food_Entity_0044",
+          "XieHuangManTou_Food_Entity_0046",
+          "TangRouManTou_Food_Entity_0048",
+          "DouZou_Food_Entity_0050",
+          "ShanZhuYang_Food_Entity_0052",
+          "LianHuaYaQian_Food_Entity_0054",
+          "SunJiE_Food_Entity_0056",
+          "YeWeiYaPanTuHu_Food_Entity_0058",
+          "ZiSuYu_Food_Entity_0060",
+          "ChaoGeLi_Food_Entity_0062",
+          "ChaoShan_Food_Entity_0064",
+          "JiuNiangYu_Food_Entity_0066",
+          "BiJianGeng_Food_Entity_0068",
+          "ShanHaiGeng_Food_Entity_0070",
+          "DouFuGeng_Food_Entity_0073",
+          "XueXiaGeng_Food_Entity_0075",
+          "ShanJiaSanCui_Food_Entity_0077",
+          "XiangGuCaiXin_Food_Entity_0079",
+          "GuChaoSunSi_Food_Entity_0081",
+          "QingGongYeWei_Food_Entity_0083",
+          "XieNiangCheng_Food_Entity_0085",
+          "JiYuHui_Food_Entity_0087",
+          "LuYuHui_Food_Entity_0089",
+          "NiangYaoZi_Food_Entity_0091",
+          "XiaoZhenGao_Food_Entity_0093",
+          "DouGaoKe_Food_Entity_0095",
+          "FengTangGao_Food_Entity_0097",
+          "BingXueLengYuanZi_Food_Entity_0099",
+          "ShiGaoEr_Food_Entity_0101",
+          "ZiSuGao_Food_Entity_0103",
+          "TaiBaiYa_Food_Entity_0105",
+          "FoTiaoQiang_Food_Entity_0107"
+        ],
+        "FeiShuLing": {
+          "DialogID": []
+        }
+      }
+    ]
+  },
+  {
+    "ButtonText": "外出寻宝",
+    "Branch": [
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "WaiChuPool": [
+      {
+        "Text": "寻找绘画",
+        "WaitJieDuan": [
+          56
+        ],
+        "Pool": [
+          "XiHuTu_Art_Entity_0002",
+          "SiJingShanShuiTu_Qiu_Art_Entity_0007",
+          "XueJingHanLinTu_Art_Entity_0010",
+          "ZaJiXiHaiTu_Art_Entity_0013",
+          "XueJiangGuiNaoTu_Art_Entity_0015",
+          "YiYunXianXingTu_Art_Entity_0018",
+          "ChunYuFuShiTu_Art_Entity_0020",
+          "HuShanChunXiaoTu_Art_Entity_0023",
+          "LongSuJiaoMinTu_Art_Entity_0027",
+          "XiShanXingLvTu_Art_Entity_0029",
+          "ChangXiaJiangShiTu_Art_Entity_0032",
+          "QiuLinFangDuTu_Art_Entity_0036",
+          "XiShanQiuSeTu_Art_Entity_0038",
+          "HaoLiangQiuShuiTu_Art_Entity_0040",
+          "XiShanQiuJiTu_Art_Entity_0042",
+          "YuanTu_Art_Entity_0044",
+          "YunShanXueZhanTu_Art_Entity_0046",
+          "XiShanXueYiTu_Art_Entity_0048"
+        ],
+        "FeiShuLing": {
+          "DialogID": []
+        }
+      }
+    ]
+  },
+  {
+    "ButtonText": "外出寻宝",
+    "Branch": [
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "WaiChuPool": [
+      {
+        "Text": "寻找诗词和茶叶",
+        "WaitJieDuan": [
+          56
+        ],
+        "Pool": [
+          "QiMenHongCha_Tea_Entity_0015",
+          "TaiPingHouKui_Tea_Entity_0017",
+          "FengHuangShuiXian_Tea_Entity_0019",
+          "NaXiMeiLing_Tea_Entity_0021",
+          "YaShanCha_Tea_Entity_0023",
+          "RiZhuCha_Tea_Entity_0025",
+          "EMeiBaiYaCha_Tea_Entity_0027",
+          "BaiHaoYinZhen_Tea_Entity_0029",
+          "GuZhuZiSun_EA_Tea_Entity_Feng_002",
+          "ChengNanXiCha_EA_Tea_Entity_Feng_004",
+          "ShouShenBaoCha_EA_Tea_Entity_Feng_001",
+          "SuGuangXuanCha_Tea_Entity_Long_003",
+          "QingWeiYinPian_Tea_Entity_Long_005",
+          "JingYeSi_Poem_Entity_0002",
+          "ChunXiao_Poem_Entity_0004",
+          "BuSuanZi_YongMei_Poem_Entity_0006",
+          "RuMengLing_Poem_Entity_0008",
+          "HuanXiSha_Poem_Entity_0010",
+          "TiPoShanShiHouChanYuan_Poem_Entity_0012",
+          "ChunYeXiYu_Poem_Entity_0014",
+          "WenLiuShiJiu_Poem_Entity_0016",
+          "YinJiu_QiWu_Poem_Entity_0018",
+          "JiangXue_Poem_Entity_0020",
+          "SongYuanErShiAnXi_Poem_Entity_0022",
+          "ChunJiangHuaYeYue_Poem_Entity_0024",
+          "QingPingLe_ChunGuiHeChu_Poem_Entity_0026",
+          "QingMing_Poem_Entity_0028",
+          "ChuChunHanZhongYangZhou_Poem_Entity_0030",
+          "HuanXiSha_YouJiShuiQingQuanShi_Poem_Entity_0032",
+          "BaiLianJing_Poem_Entity_0035",
+          "ShanTingXiaRi_Poem_Entity_0037",
+          "XiaRiTianYuanZaXing_Poem_Entity_0039",
+          "JiangChengZi_MoYunTuoYuGuoXiLou_Poem_Entity_0041",
+          "QingPingLe_CunJu_Poem_Entity_0043",
+          "YeYuJiBei_Poem_Entity_0045",
+          "TengWangGeXu_Poem_Entity_0048",
+          "QiuSi_Poem_Entity_0050",
+          "YuJiaAo_SaiXiaQiu_Poem_Entity_0052",
+          "YuanRi_Poem_Entity_0054",
+          "QingPingLe_ShenDongHanYue_Poem_Entity_0056",
+          "NanXiangZi_Poem_Entity_0058",
+          "DongRiLinKunMingChi_Poem_Entity_0060",
+          "ZaoDong_Poem_Entity_0063"
+        ],
+        "FeiShuLing": {
+          "DialogID": []
+        }
+      }
+    ]
+  },
+  {
+    "ButtonText": "外出寻宝",
+    "Branch": [
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "WaiChuPool": [
+      {
+        "Text": "寻找文房四宝和药物",
+        "WaitJieDuan": [
+          56
+        ],
+        "Pool": [
+          "JiMaoBi_Antique_Bi_Entity_0002",
+          "FeiBaiZhuBi_Antique_Bi_Entity_0004",
+          "BanZhuGuanYuSunBi_Antique_Bi_Entity_0006",
+          "BeiLangHaoBi_Antique_Bi_Entity_0008",
+          "XiangSiShuPiBi_Antique_Bi_Entity_0010",
+          "MaoBianZhi_Antique_Zhi_Entity_0002",
+          "ZuoBoZhi_Antique_Zhi_Entity_0004",
+          "CanJianZhi_Antique_Zhi_Entity_0006",
+          "SaJinZhi_Antique_Zhi_Entity_0008",
+          "SongYanMo_Antique_Mo_Entity_0002",
+          "HuiMo_Antique_Mo_Entity_0004",
+          "XuanXiang_Antique_Mo_Entity_0006",
+          "CuanKongYan_Antique_Yan_Entity_0001",
+          "TaoYan_Antique_Yan_Entity_0003",
+          "JiuLongYunCongYan_Antique_Yan_Entity_0005",
+          "DuanShiChaoShouiYan_Antique_Yan_Entity_0007",
+          "GuYuChenHao_Antique_EA_Entity_Bi_001",
+          "KeSiZhi_Antique_EA_Entity_Zhi_001",
+          "RuYiWuMo_Antique_EA_Entity_Mo_002",
+          "ZiHuoBaoWan_Entity_0001",
+          "BiYingGao_Entity_0001",
+          "QiMingDuEWan_Entity_0001",
+          "QingLingMiYao_Entity_0001",
+          "WuXingHuiTianCao_Entity_0001",
+          "BaiCaoDuanXuGao_Entity_0001",
+          "YuHengHuanGuYao_Entity_0001",
+          "XingYueLu_EA_SY_Feng_Entity_0001",
+          "QiMingBaoDan_EA_SY_Feng_Entity_0001",
+          "TianXinJinWan_EA_SY_Long_Entity_0001",
+          "LuoHanQiYao_EA_SY_Long_Entity_0001",
+          "JuYangBaoDan_EA_SY_Long_Entity_0001",
+          "XueNingCaoYao_EA_SY_Long_Entity_0001",
+          "JiangHuoTongMaiJiu_Entity_0001",
+          "ZhenYuanDan_EA_BY_Feng_Entity_0001",
+          "QianZhuanBuLingDan_EA_BY_Long_Entity_0001"
+        ],
+        "FeiShuLing": {
+          "DialogID": []
+        }
+      }
+    ]
+  },
+  {
+    "ButtonText": "外出寻宝",
+    "Branch": [
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "WaiChuPool": [
+      {
+        "Text": "寻找书法绘画",
+        "WaitJieDuan": [
+          56
+        ],
+        "Pool": [
+          "XiangTaiHouWanCi_Writing_Entity_0002",
+          "HanGuangTie_Writing_Entity_0004",
+          "ShenXianQiJuFa_Writing_Entity_0006",
+          "CaoShuWanShan_Writing_Entity_0008",
+          "ShiLiuRiTie_Writing_Entity_0010",
+          "MuDanShiTie_Writing_Entity_0012",
+          "ZiJinYanTie_Writing_Entity_0022",
+          "LeYiLun_Writing_Entity_0024",
+          "DiZhuMing_Writing_Entity_0026",
+          "YanShanMingTie_Writing_Entity_0028",
+          "DongWuTie_Writing_Entity_0030",
+          "LuHongCaoTangShiZhiTuBa_Writing_Entity_0032",
+          "HuaDuShiTaMing_Writing_Entity_0035",
+          "MengZhaoTie_Writing_Entity_0039",
+          "JinCiMing_Writing_Entity_0041",
+          "ZiShuGaoShenTie_Writing_Entity_0043",
+          "JiaoFanTie_Writing_Entity_0046",
+          "ZouJinTangJi_Writing_Entity_0048",
+          "SongLiTie_Writing_Entity_0050",
+          "XiHuTu_Art_Entity_0002",
+          "TingQinTu_Art_Entity_0004",
+          "SiJingShanShuiTu_Xia_Art_Entity_0006",
+          "LiuYaTu_Art_Entity_0008",
+          "XueJingHanLinTu_Art_Entity_0010",
+          "XueJiangGuiNaoTu_Art_Entity_0015",
+          "ShanJingChunXingTu_Art_Entity_0017",
+          "QingLvShanShuiChangJuan_Art_Entity_0021",
+          "HuShanChunXiaoTu_Art_Entity_0023",
+          "XiaJingShanKouDaiDuTu_Art_Entity_0025",
+          "LongSuJiaoMinTu_Art_Entity_0027",
+          "QingXiYuYinTu_Art_Entity_0031",
+          "JuLvTu_Art_Entity_0033",
+          "JiangShanQiuSeTu_Art_Entity_0035",
+          "XiShanQiuSeTu_Art_Entity_0038",
+          "XiShanQiuJiTu_Art_Entity_0042",
+          "YuanTu_Art_Entity_0044",
+          "GuanShanJiXueTu_Art_Entity_0047"
+        ],
+        "FeiShuLing": {
+          "DialogID": []
+        }
+      }
+    ]
+  },
+  {
+    "ButtonText": "外出寻宝",
+    "Branch": [
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "WaiChuPool": [
+      {
+        "Text": "寻找未鉴定藏品",
+        "WaitJieDuan": [
+          56
+        ],
+        "Pool": [
+          "HuShiRenYou_Entity_WeiJianDing_CangPin5",
+          "TongLongWenBu_Entity_WeiJianDing_CangPin7",
+          "BaiYouXiaoHu_Entity_WeiJianDing_CangPin9",
+          "FenQingYouPing_Entity_WeiJianDing_CangPin11",
+          "ZheZhiZhong_Entity_WeiJianDing_CangPin13",
+          "MeiGuiZiYouPen_Entity_WeiJianDing_CangPin15",
+          "LiuFangHuaPen_Entity_WeiJianDing_CangPin23",
+          "QingLouXi_Entity_WeiJianDing_CangPin25",
+          "HeiYouYouPan_Entity_WeiJianDing_CangPin27",
+          "ShouMianWenYan_Entity_WeiJianDing_CangPin29",
+          "ShouMianWenDaYue_Entity_WeiJianDing_CangPin31",
+          "TianQiYunWenTongFangHu_Entity_WeiJianDing_CangPin33",
+          "YuGuWenBi_Entity_WeiJianDing_CangPin35",
+          "GuYuHuDieJue_Entity_WeiJianDing_CangPin37",
+          "YuWoYang_Entity_WeiJianDing_CangPin39",
+          "YuXingHu_Entity_WeiJianDing_CangPin41",
+          "TongYangDeng_Entity_WeiJianDing_CangPin43",
+          "MeiHuaWenWan_Entity_WeiJianDing_CangPin45",
+          "BaiYouGaiWan_Entity_WeiJianDing_CangPin47",
+          "TongPan_Entity_WeiJianDing_CangPin49",
+          "YuShuangYuPei_Entity_WeiJianDing_CangPin51",
+          "QingYouFangHuaPen_Entity_WeiJianDing_CangPin53",
+          "QianWenXiaoHu_Entity_WeiJianDing_CangPin55",
+          "TaiShiWangGui_Entity_WeiJianDing_CangPin66",
+          "JiJiYi_Entity_WeiJianDing_CangPin68",
+          "GuYuHeYePeiHeng_Entity_WeiJianDing_CangPin70",
+          "GuYuFengTouChai_Entity_WeiJianDing_CangPin72",
+          "OuXinQian_Entity_WeiJianDing_CangPin74",
+          "GuYuDiaoWenDaZhang_Entity_WeiJianDing_CangPin76"
+        ],
+        "FeiShuLing": {
+          "DialogID": []
+        }
+      }
+    ]
+  },
+  {
+    "ButtonText": "外出寻宝",
+    "Branch": [
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "WaiChuPool": [
+      {
+        "Text": "寻找药材毒物",
+        "WaitJieDuan": [
+          56
+        ],
+        "Pool": [
+          "GuoLeiYaoCai_Entity_0001",
+          "ChongLeiYaoCai_Entity_0001",
+          "JingMuLeiDuWu_Entity_0001",
+          "YeLeiDuWu_Entity_0001",
+          "GuoLeiDuWu_Entity_0001",
+          "ChongLeiDuWu_Entity_0001"
+        ],
+        "FeiShuLing": {
+          "DialogID": []
+        }
+      }
+    ]
+  },
+  {
+    "ButtonText": "外出寻宝",
+    "Branch": [
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "WaiChuPool": [
+      {
+        "Text": "寻找毒药",
+        "WaitJieDuan": [
+          56
+        ],
+        "Pool": [
+          "BeiSuQingFeng_Entity_0001",
+          "JinNiuQi_Entity_0001",
+          "XueZhuHaiTang_Entity_0001",
+          "QianJiYuWan_Entity_0001",
+          "NianHuaXiao_Entity_0001",
+          "JinXianShe_Entity_0001",
+          "ChiXieFen_Entity_0001",
+          "KuMuTang_Entity_0001",
+          "JinCanGu_Entity_0001",
+          "ZuiXianLing_Entity_0001",
+          "JinWuDuDan_Entity_0001",
+          "NingHunGu_Entity_0001",
+          "XueShangYiZhiHao_Entity_0001",
+          "TaoHuaLu_EA_DY_Hu_Entity_0001",
+          "LingJiaoQiSi_EA_DY_Hu_Entity_0001",
+          "ShiXinSan_EA_DY_Feng_Entity_0001",
+          "HuangLongDuDan_EA_DY_Feng_Entity_0001",
+          "LanHouDuoXinCao_EA_DY_Long_Entity_0001",
+          "JinYanXiang_EA_DY_Long_Entity_0001",
+          "QiHuangShiLei_EA_DY_Long_Entity_0001"
+        ],
+        "FeiShuLing": {
+          "DialogID": []
+        }
+      }
+    ]
+  },
+  {
+    "ButtonText": "外出寻宝",
+    "Branch": [
+      "再考虑下"
+    ],
+    "AskDialog": {},
+    "WaiChuPool": [
+      {
+        "Text": "寻找酒",
+        "WaitJieDuan": [
+          56
+        ],
+        "Pool": [
+          "BaiYangJiu_Wine_Entity_0006",
+          "BiXiangJiu_Wine_Entity_0008",
+          "JinQuanJiu_Wine_Entity_0010",
+          "BaiYuQuan_Wine_Entity_0012",
+          "ChouSiTang_Wine_Entity_0014",
+          "GuXiChun_Wine_Entity_0016",
+          "ZhuYeQing_Wine_Entity_0018",
+          "WanXiangJieChun_Wine_Entity_0020",
+          "XuanCiBiXiang_Wine_Entity_0022",
+          "LanQiaoFengYue_Wine_Entity_0024",
+          "JingYiTang_EA_Hu_Wine_Entity_001",
+          "LiuKeTang_EA_Hu_Wine_Entity_003",
+          "JinQuan_EA_Feng_Wine_Entity_002",
+          "ShaPeiJinBo_EA_Long_Wine_Entity_001",
+          "BingTangShangZun_EA_Long_Wine_Entity_003",
+          "ChiXiaoJiu_EA_Feng_Wine_Entity_003",
+          "QingYanMiJiu_EA_Long_Wine_Entity_004",
+          "SuiYuTang_EA_Feng_Wine_Entity_002",
+          "DingFengTang_EA_Feng_Wine_Entity_004",
+          "BiGuLu_EA_Feng_Wine_Entity_006"
+        ],
+        "FeiShuLing": {
+          "DialogID": []
+        }
+      }
+    ]
+  }
+]

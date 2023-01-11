@@ -1,0 +1,216 @@
+[
+  {
+    "ShuXingInfoList": {
+      "Values": [
+        {
+          "InfoName": {
+            "RelatedID": [
+              "YiZhiInfoName_0000000001"
+            ],
+            "ValueInfo": "战斗劣势时的招式强度影响"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "JiZhongInfoName_0000000001"
+            ],
+            "ValueInfo": "战斗优势时的招式强度影响"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "ZhenDingInfoName_0000000001"
+            ],
+            "ValueInfo": "战斗互动行为对心态的影响"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "JueDuanInfoName_0000000001"
+            ],
+            "ValueInfo": "影响一击致胜的几率"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "ShenLaiInfoName_0000000001"
+            ],
+            "ValueInfo": "影响“神来之招”的几率"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "JianFaInfoName_0000000001"
+            ],
+            "ValueInfo": "影响剑法武功的招式强度"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "DaoFaInfoName_0000000001"
+            ],
+            "ValueInfo": "影响刀法武功的招式强度"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "QuanZhangInfoName_0000000001"
+            ],
+            "ValueInfo": "影响拳掌武功的招式强度"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "ZhiLiInfoName_0000000001"
+            ],
+            "ValueInfo": "影响指力武功的招式强度"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "YongQiangInfoName_0000000001"
+            ],
+            "ValueInfo": "影响枪法武功的招式强度"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "ShuaGunInfoName_0000000001"
+            ],
+            "ValueInfo": "影响棍法武功的招式强度"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "ChuiFuInfoName_0000000001"
+            ],
+            "ValueInfo": "影响锤斧武功的招式强度"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "ShiBianInfoName_0000000001"
+            ],
+            "ValueInfo": "影响鞭法武功的招式强度"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "GouBiInfoName_0000000001"
+            ],
+            "ValueInfo": "影响钩法笔法武功的招式强度"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "CunJinInfoName_0000000001"
+            ],
+            "ValueInfo": "影响暗器武功的招式强度"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "TeShuInfoName_0000000001"
+            ],
+            "ValueInfo": "影响特殊武功的招式强度"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "YaoMaInfoName_0000000001"
+            ],
+            "ValueInfo": "影响所有武功的招式强度"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "XiaPanInfoName_0000000001"
+            ],
+            "ValueInfo": "影响轻功的强度"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "TiPoInfoName_0000000001"
+            ],
+            "ValueInfo": "降低受伤几率"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "JinGuInfoName_0000000001"
+            ],
+            "ValueInfo": "降低被杀几率"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "QiLiangInfoName_0000000001"
+            ],
+            "ValueInfo": "影响角色的战斗内力总量"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "TiaoXiInfoName_0000000001"
+            ],
+            "ValueInfo": "影响武功招式所需的内力消耗"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "QiFaInfoName_0000000001"
+            ],
+            "ValueInfo": "影响内功招式所需的内力消耗"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "ShenXingInfoName_0000000001"
+            ],
+            "ValueInfo": "影响轻功招式所需的内力消耗"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "DuMaiInfoName_0000000001"
+            ],
+            "ValueInfo": "影响阳属性武功契合影响以及角色战斗内力强度"
+          }
+        },
+        {
+          "InfoName": {
+            "RelatedID": [
+              "RenMaiInfoName_0000000001"
+            ],
+            "ValueInfo": "影响阴属性武功契合影响以及角色战斗内力强度"
+          }
+        }
+      ]
+    }
+  }
+]

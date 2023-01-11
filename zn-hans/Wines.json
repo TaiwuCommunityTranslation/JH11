@@ -1,0 +1,7551 @@
+[
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>蒙泉酒</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "取华盖山脚下的蒙泉水酿成的酒，味醇甘甜，回味悠长。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+25"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ZhenDing_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "DaoDe_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+25"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-80"
+        },
+        {
+          "Description": "「决断」-30"
+        },
+        {
+          "Description": "「镇定」-30"
+        },
+        {
+          "Description": "「道德」-80"
+        },
+        {
+          "Description": "「涵养」-80"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/MengQuanJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>帘泉酒</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "采用汉州的一处瀑布泉水所酿成的酒，味道甘甜，清冽爽口。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+25"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ZhenDing_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "DaoDe_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+25"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-80"
+        },
+        {
+          "Description": "「决断」-30"
+        },
+        {
+          "Description": "「镇定」-30"
+        },
+        {
+          "Description": "「道德」-80"
+        },
+        {
+          "Description": "「涵养」-80"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/LianQuanJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>拣米酒</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "青州、汝州等地常见的一种用糯米酿造的酒，口感甘美，可惜不易保存，时间长了就会产生沉淀。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShaYi_0000000001"
+          ],
+          "Name": {
+            "Value": "「杀意」+5"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ZhenDing_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "DaoDe_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「杀意」+5"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-80"
+        },
+        {
+          "Description": "「决断」-30"
+        },
+        {
+          "Description": "「镇定」-30"
+        },
+        {
+          "Description": "「道德」-80"
+        },
+        {
+          "Description": "「涵养」-80"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/LianMiJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>蓬莱酒</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "柔和中带有层次丰富糯米香味的米酒，只喝一口便有置身蓬莱仙境之感。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+25"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ZhenDing_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "DaoDe_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+25"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-80"
+        },
+        {
+          "Description": "「决断」-30"
+        },
+        {
+          "Description": "「镇定」-30"
+        },
+        {
+          "Description": "「道德」-80"
+        },
+        {
+          "Description": "「涵养」-80"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/PengLaiJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>细波酒</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "取濮州的一处水质清冽的小溪所制的酒，因取水时水面有阵阵细波，便取名为：细波酒。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+30 「调息」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "TiaoXi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShaYi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「调息」+10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-60"
+        },
+        {
+          "Description": "「杀意」+30"
+        },
+        {
+          "Description": "「决断」-20"
+        },
+        {
+          "Description": "「涵养」-50"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/XiBoJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>白羊酒</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "造此酒，只能选在寒冬腊月，用阉割过的公羊肉掺上发酵好的糯米蒸煮，晾凉后搬入酒曲，密封在坛子里。白羊酒有入口有一种独特的醇厚感，想必是羊脂的缘故。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+30 「气法」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "QiFa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「气法」+10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-60"
+        },
+        {
+          "Description": "「决断」-20"
+        },
+        {
+          "Description": "「涵养」-50"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/BaiYangJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>百桃酒</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "采用了青州的蜜桃作为原材料，酿成果味浓郁，甘香的百桃酒。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+30 「魅力」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "MeiLi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「魅力」+10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-60"
+        },
+        {
+          "Description": "「决断」-20"
+        },
+        {
+          "Description": "「涵养」-50"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/BaiTaoJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>碧香酒</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "用绿梅酿成的白酒，称为碧香。因梅花向来代表清高的气节，所以深受达官贵人的喜爱，绿梅更是梅花中的珍稀品种。此酒入口清冽，细闻有股淡淡的梅花香。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+30 「乐器」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "YueQi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「乐器」+10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-60"
+        },
+        {
+          "Description": "「决断」-20"
+        },
+        {
+          "Description": "「涵养」-50"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/BiXiangJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>朝霞酒</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "一种用石榴酿造的果酒，因颜色橙红相映，灿若朝霞，所以叫朝霞酒。此酒酸甜爽口，很适合夏天饮用。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+30 「诗词」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShiCi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「诗词」+10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-60"
+        },
+        {
+          "Description": "「决断」-20"
+        },
+        {
+          "Description": "「涵养」-50"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/ZhaoXiaJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>近泉酒</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "齐州境内大大小小的泉水共有七十二个。近泉酒便是采用其中一种泉水所制。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+30 「拳掌」+5"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "QuanZhang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「拳掌」+5"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-60"
+        },
+        {
+          "Description": "「决断」-20"
+        },
+        {
+          "Description": "「涵养」-50"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/JinQuanJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>琳腴酒</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "琳腴本身意为玉液琼浆，可见此酒质量上乘，值得一试。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+30 「镇定」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ZhenDing_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「镇定」+10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-60"
+        },
+        {
+          "Description": "「决断」-20"
+        },
+        {
+          "Description": "「涵养」-50"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/LinYuJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>白玉泉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "取自荆湖北路白玉泉的泉水所酿成的酒。辛辣甘甜，喜欢烈酒的人务必要试一试。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+40 「涵养」+20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+40"
+        },
+        {
+          "Description": "「涵养」+20"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-50"
+        },
+        {
+          "Description": "「决断」-20"
+        },
+        {
+          "Description": "「涵养」-30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/BaiYuQuan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>碧澜堂</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "碧澜堂是湖州的一处私家庭院，此处自制了一种酒，原并无什么人知晓，后因书法家陈尧佐的一首诗而小有名气。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+40 「指力」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ZhiLi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+40"
+        },
+        {
+          "Description": "「指力」+10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-50"
+        },
+        {
+          "Description": "「决断」-20"
+        },
+        {
+          "Description": "「涵养」-30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/BiLanTang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>筹思堂</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "官衙酒的一种，因陆游的诗而闻名。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+40 「用枪」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "YongQiang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+40"
+        },
+        {
+          "Description": "「用枪」+10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-50"
+        },
+        {
+          "Description": "「决断」-20"
+        },
+        {
+          "Description": "「涵养」-30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/ChouSiTang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>丰和春</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "在两浙路经常会看到的酒，深受广大群众的喜爱。此酒度数不高，味道清爽。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+40 「烹饪」+20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "PengRen_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+40"
+        },
+        {
+          "Description": "「烹饪」+20"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-50"
+        },
+        {
+          "Description": "「决断」-20"
+        },
+        {
+          "Description": "「涵养」-30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/FengHeChun"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>谷溪春</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "用产自兰溪的谷物酿造出来的酒，每年春天上市售卖，有一股浓浓的高粱香气。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+40 「收藏」+20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShouCang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+40"
+        },
+        {
+          "Description": "「收藏」+20"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-50"
+        },
+        {
+          "Description": "「决断」-20"
+        },
+        {
+          "Description": "「涵养」-30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/GuXiChun"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>江汉堂</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "庆州本地的酒，色清透明，幽雅细腻，入口柔绵，清冽甘爽，是不可错过的美酒。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+40 「运斧」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ChuiFu_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+40"
+        },
+        {
+          "Description": "「运斧」+10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-50"
+        },
+        {
+          "Description": "「决断」-20"
+        },
+        {
+          "Description": "「涵养」-30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/JiangHanTang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>竹叶清</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "以陈年优质的汾酒为基酒，加以淡竹叶、陈皮、檀香、砂仁等名贵药材精制而成。颜色金黄碧翠、芳香醇厚、柔和爽口。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+40 「用剑」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JianFa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+40"
+        },
+        {
+          "Description": "「用剑」+10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-50"
+        },
+        {
+          "Description": "「决断」-20"
+        },
+        {
+          "Description": "「涵养」-30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/ZhuYeQing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>紫金泉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "用镇江境内的紫金泉所制的酒，味道甘甜，香气馥郁。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+40 「暗器」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "CunJin_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShaYi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+40"
+        },
+        {
+          "Description": "「暗器」+10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-50"
+        },
+        {
+          "Description": "「杀意」+30"
+        },
+        {
+          "Description": "「决断」-10"
+        },
+        {
+          "Description": "「涵养」-30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/ZiJinQuan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>万象皆春</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "天书阁说书人自制的酒，飘香万里，秘方无人知晓。市面上也没有售卖，只能去天书阁碰碰运气了。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "CharacterWuXing_0000000001"
+          ],
+          "Name": {
+            "Value": "「悟性」+30 「神来」+30"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShenLai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "醉酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShiCi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "醉酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「悟性」+30"
+        },
+        {
+          "Description": "「神来」+30"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-40"
+        },
+        {
+          "Description": "「诗词」+20"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/WanXiangJieChun"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>重糜至喜泉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "陕州名酒。选用优质的红高粱为原料，汲引甘洁的高峡泉水为酿造用水，再经泥窖发酵、缓慢蒸馏而成，浓郁协调，丰满醇厚。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+50 「督脉」+20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "DuMai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "醉酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+50"
+        },
+        {
+          "Description": "「督脉」+20"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-40"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/ChongMiZhiXiQuan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>宣赐碧香</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "出自激赏库的酒，专供边防将士饮用，后因收到陆游的喜爱从而名声大震。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "RenMai_0000000001"
+          ],
+          "Name": {
+            "Value": "「任脉」+20 「气法」+20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "QiFa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "醉酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "CharacterFuYuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "醉酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「任脉」+20"
+        },
+        {
+          "Description": "「气法」+20"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-40"
+        },
+        {
+          "Description": "「福缘」+20"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/YiCiBiXiang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>齐云清露</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "陆游途径苏州时无意间品尝到的酒，后赋诗一首使其名声大震。此酒清新淡雅，与苏州的气韵如出一辙。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+50 「诗词」+30 「书画」+30"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShiCi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HuiHua_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "醉酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+50"
+        },
+        {
+          "Description": "「诗词」+30"
+        },
+        {
+          "Description": "「书画」+30"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-40"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/QiYunQingLu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>蓝桥风月</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "据传乃高宗的吴皇后娘家吴府所酿。酒呈透亮的琥珀色，深红中略带橘黄，闻一下有淡淡花香。入口生津，口感温醇，甜酸协调，回味爽净悠长。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "JiZhong_0000000001"
+          ],
+          "Name": {
+            "Value": "「集中」+30 「镇定」+30 「决断」+30"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ZhenDing_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "醉酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「集中」+30"
+        },
+        {
+          "Description": "「镇定」+30"
+        },
+        {
+          "Description": "「决断」+30"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-40"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/LanQiaoFengYue"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>北府兵厨</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "东晋时期，地处长江要津的镇江成为了军事重镇，所组成的军队名为“北府兵”。此酒乃当时犒劳军队的酒，配方一直沿用至今。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+50 「腰马」+20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "YaoMa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "醉酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShaYi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "醉酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+50"
+        },
+        {
+          "Description": "「腰马」+20"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-40"
+        },
+        {
+          "Description": "「杀意」+30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/BeiFuBingChu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>静治堂</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "一种用石榴酿造的果酒，因颜色橙红相映，灿若朝霞，所以叫朝霞酒。此酒酸甜爽口，很适合夏天饮用。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+30 「茶道」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ChaDao_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「茶道」+10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-60"
+        },
+        {
+          "Description": "「决断」-20"
+        },
+        {
+          "Description": "「涵养」-50"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/JingZhiTang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>灵溪酒</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "一种用石榴酿造的果酒，因颜色橙红相映，灿若朝霞，所以叫朝霞酒。此酒酸甜爽口，很适合夏天饮用。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+30 「悟性」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "CharacterWuXing_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「悟性」+10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-60"
+        },
+        {
+          "Description": "「决断」-20"
+        },
+        {
+          "Description": "「涵养」-50"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/LingXiJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>六客堂</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "一种用石榴酿造的果酒，因颜色橙红相映，灿若朝霞，所以叫朝霞酒。此酒酸甜爽口，很适合夏天饮用。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+30 「交涉」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "CharacterJiaoShe_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「交涉」+10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-60"
+        },
+        {
+          "Description": "「决断」-20"
+        },
+        {
+          "Description": "「涵养」-50"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/LiuKeTang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>剑南烧春</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "以陈年优质的汾酒为基酒，加以淡竹叶、陈皮、檀香、砂仁等名贵药材精制而成。颜色金黄碧翠、芳香醇厚、柔和爽口。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+40 「使刀」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "DaoFa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+40"
+        },
+        {
+          "Description": "「使刀」+10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-50"
+        },
+        {
+          "Description": "「决断」-20"
+        },
+        {
+          "Description": "「涵养」-30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/JianNanShaoChun"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>金泉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "以陈年优质的汾酒为基酒，加以淡竹叶、陈皮、檀香、砂仁等名贵药材精制而成。颜色金黄碧翠、芳香醇厚、柔和爽口。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+40 「钩法」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "GouFa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+40 "
+        },
+        {
+          "Description": "「钩法」+10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-50"
+        },
+        {
+          "Description": "「决断」-20"
+        },
+        {
+          "Description": "「涵养」-30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/JinQuan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>南中酝</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "以陈年优质的汾酒为基酒，加以淡竹叶、陈皮、檀香、砂仁等名贵药材精制而成。颜色金黄碧翠、芳香醇厚、柔和爽口。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+40 「鞭术」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShiBian_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+40"
+        },
+        {
+          "Description": "「鞭术」+10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-50"
+        },
+        {
+          "Description": "「决断」-20"
+        },
+        {
+          "Description": "「涵养」-30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/NanZhongYun"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>沙醅金波</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "东晋时期，地处长江要津的镇江成为了军事重镇，所组成的军队名为“北府兵”。此酒乃当时犒劳军队的酒，配方一直沿用至今。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+50 「杀意」+30 「集中」+30"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShaYi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JiZhong_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "醉酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "TiaoXi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "醉酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+50"
+        },
+        {
+          "Description": "「杀意」+30"
+        },
+        {
+          "Description": "「集中」+30"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-40"
+        },
+        {
+          "Description": "「调息」-20"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/ShaBeiJinBo"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>十八仙</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "东晋时期，地处长江要津的镇江成为了军事重镇，所组成的军队名为“北府兵”。此酒乃当时犒劳军队的酒，配方一直沿用至今。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShenLai_0000000001"
+          ],
+          "Name": {
+            "Value": "「神来」+30 「耍棍」+20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShuaGun_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "醉酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HuiHua_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "醉酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「神来」+30"
+        },
+        {
+          "Description": "「耍棍」+20"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-40"
+        },
+        {
+          "Description": "「书画」+20"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/ShiBaXian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>冰堂上尊</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "东晋时期，地处长江要津的镇江成为了军事重镇，所组成的军队名为“北府兵”。此酒乃当时犒劳军队的酒，配方一直沿用至今。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShiCi_0000000001"
+          ],
+          "Name": {
+            "Value": "「诗词」+30 「笔法」+20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "BiFa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "醉酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "醉酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「诗词」+30"
+        },
+        {
+          "Description": "「笔法」+20"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-40"
+        },
+        {
+          "Description": "「决断」-20"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/BingTangShangZun"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>金陵春</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "东晋时期，地处长江要津的镇江成为了军事重镇，所组成的军队名为“北府兵”。此酒乃当时犒劳军队的酒，配方一直沿用至今。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShenLai_0000000001"
+          ],
+          "Name": {
+            "Value": "「神来」+15 「用剑」+15 「集中」+30"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JianFa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JiZhong_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "醉酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShenLai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "醉酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「神来」+15"
+        },
+        {
+          "Description": "「用剑」+15"
+        },
+        {
+          "Description": "「集中」+30"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-40"
+        },
+        {
+          "Description": "「神来」-20"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/Jiu/JinLingChun"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>赤霄酒</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {
+            "Value": "「心态」+30 「集中」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JiZhong_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JiZhong_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「集中」+10"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-50"
+        },
+        {
+          "Description": "「集中」-20"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/Jiu/ChiXiaoJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>掷灵酒</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShenLai_0000000001"
+          ],
+          "Name": {
+            "Value": "「神来」+10 「关扑」+30"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "GuanPu_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "醉酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "CharacterFuYuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "醉酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「神来」+10"
+        },
+        {
+          "Description": "「关扑」+30"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-40"
+        },
+        {
+          "Description": "「福缘」-20"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/Jiu/ZhiLingJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>青焰秘酒</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "东晋时期，地处长江要津的镇江成为了军事重镇，所组成的军队名为“北府兵”。此酒乃当时犒劳军队的酒，配方一直沿用至今。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "QuanZhang_0000000001"
+          ],
+          "Name": {
+            "Value": "「拳掌」+15 「决断」+15 「集中」-15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JiZhong_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "醉酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "醉酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「拳掌」+15"
+        },
+        {
+          "Description": "「决断」+15"
+        },
+        {
+          "Description": "「集中」-15"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-30"
+        },
+        {
+          "Description": "「决断」-20"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/Jiu/QingYanMiJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>光相堂</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "DaoFa_0000000001"
+          ],
+          "Name": {
+            "Value": "「使刀」+5 「集中」+5"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JiZhong_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JiZhong_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「使刀」+5"
+        },
+        {
+          "Description": "「集中」+5"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-50"
+        },
+        {
+          "Description": "「集中」-20"
+        },
+        {
+          "Description": "「涵养」-30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1215 ADD/Jiu/GuangXiangTang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>碎玉堂</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GouFa_0000000001"
+          ],
+          "Name": {
+            "Value": "「钩法」+5 「集中」+5"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "DaoFa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JiZhong_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「钩法」+5"
+        },
+        {
+          "Description": "「集中」+5"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-50"
+        },
+        {
+          "Description": "「集中」-20"
+        },
+        {
+          "Description": "「涵养」-30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1215 ADD/Jiu/SuiYuTang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>玉虚清</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShiBian_0000000001"
+          ],
+          "Name": {
+            "Value": "「鞭术」+5 「意志」+5"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "YiZhi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "YiZhi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「鞭术」+5"
+        },
+        {
+          "Description": "「意志」+5"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-50"
+        },
+        {
+          "Description": "「意志」-20"
+        },
+        {
+          "Description": "「涵养」-30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1215 ADD/Jiu/YuXuQing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>定风堂</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YongQiang_0000000001"
+          ],
+          "Name": {
+            "Value": "「用枪」+5 「决断」+5"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「用枪」+5"
+        },
+        {
+          "Description": "「决断」+5"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-50"
+        },
+        {
+          "Description": "「决断」-20"
+        },
+        {
+          "Description": "「涵养」-30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1215 ADD/Jiu/DingFengTang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>震岳酒</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ChuiFu_0000000001"
+          ],
+          "Name": {
+            "Value": "「运斧」+5 「腰马」+5"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "YaoMa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "YaoMa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「运斧」+5"
+        },
+        {
+          "Description": "「腰马」+5"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-50"
+        },
+        {
+          "Description": "「腰马」-20"
+        },
+        {
+          "Description": "「涵养」-30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1215 ADD/Jiu/ZhenYueJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>碧古露</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ZhiLi_0000000001"
+          ],
+          "Name": {
+            "Value": "「指力」+5 「调息」+5"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "TiaoXi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "TiaoXi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「指力」+5"
+        },
+        {
+          "Description": "「调息」+5"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-50"
+        },
+        {
+          "Description": "「调息」-20"
+        },
+        {
+          "Description": "「涵养」-30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1215 ADD/Jiu/BiGuLu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>一气灵酒</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShuaGun_0000000001"
+          ],
+          "Name": {
+            "Value": "「耍棍」+5 「决断」+5"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "美酒状态"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "XinTai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {},
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「耍棍」+5"
+        },
+        {
+          "Description": "「决断」+5"
+        }
+      ],
+      "Neg": [
+        {
+          "Description": "「心态」-50"
+        },
+        {
+          "Description": "「决断」-20"
+        },
+        {
+          "Description": "「涵养」-30"
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1215 ADD/Jiu/YiQiLingJiu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>葫芦瓶</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "因形似葫芦，谐音”福禄“而广受大众喜爱的酒瓶。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "无携带效果"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/HuLuPing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>玉壶春瓶</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "灵感来源于寺院里的净水瓶演变而来，是一种寻常盛酒器。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "无携带效果"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/YuHuChunPing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>梅瓶</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "又称”经瓶“。因造型挺秀俏丽，深受大众的喜爱。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "无携带效果"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/MeiPing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>红釉葫芦瓶</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "器身满施红釉，釉面滋润肥厚，大足底，一圈露胎芦宽，其上显出细密的旋纹。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "「饮酒」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/HongYouHuLuPing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>青瓷胆瓶</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "细颈，腹部形似垂胆，圈足部分略呈外撇。整体罩以温润如玉之天青色釉，布有均匀开片。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "「饮酒」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/QingCiDanPing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>白釉瓜棱瓶</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "腹部四面凹进，呈瓜棱状。圈足外撇。通体施白釉，釉质莹润。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "「饮酒」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/BaiYouGuaLingPing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>鹧鸪釉梅瓶</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "器形端秀，釉色斑驳似鹧鸪毛色，流丽精巧，妙趣天成。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "「饮酒」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/ZheGuYouMeiPing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>白釉玉台盏</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "呈酒用的台盏。纯色白釉，虽极简朴，却映射出幽幽之极素光芒。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "「饮酒」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/BaiYouYuTaiZhan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>青花盏</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "胎色洁白，胎质细腻。底釉有影青，盏上刻有牡丹的纹饰，是较为少见的酒器。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "「饮酒」+1 「魅力」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "MeiLi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/QingHuaZhan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>风雷杯</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "据说研制此杯的人是以古琴曲《风雷引》为灵感，杯体轻薄如风，造型棱角分明，形似如雷，是一个风格鲜明、引人注目的酒杯。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "「饮酒」+1 「交涉」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "CharacterJiaoShe_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/FengLeiBei"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>孔雀杯</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "因高温曜变产生的蓝绿色，像极了孔雀的羽毛。因曜变的颜色不可控，所以每一只孔雀杯都是独一无二的。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "MeiLi_0000000001"
+          ],
+          "Name": {
+            "Value": "「魅力」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/KongQueBei"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>仙花杯</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "仿照长寿花的形状做出来的酒杯，也被称为仙花杯。色泽清透，青绿釉居多。因寓意长寿成仙而受到达官贵人的喜爱，因此价格不菲。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "MeiLi_0000000001"
+          ],
+          "Name": {
+            "Value": "「魅力」+1 「涵养」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "HanYang_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/XianHuaBei"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>明玉仙盏</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "用成色通透的汉白玉制成的盏杯，产量少，器型娴雅冰洁，深受文人雅士的喜爱。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "「饮酒」+2 「魅力」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "MeiLi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/MingYuXianZhan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>玉露琉璃杯</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "相传是照前朝诗人王翰所写的《凉州词》中提到的”葡萄美酒夜光杯“为灵感，制成的酒杯。诗中所提到的美酒名为玉露酒，琉璃能在月色下散发出耀眼的光芒。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "JiZhong_0000000001"
+          ],
+          "Name": {
+            "Value": "「集中」+3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/YuLuLiuLiBei"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>夜光玉盏</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "一种用青玉琢成的名贵饮酒器皿。当把美酒置于杯中，放在月光下，杯子就会闪闪发亮。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "「饮酒」+1 「神来」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShenLai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/YeGuangYuZhan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>银光影叶盏</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "酒盏通体施黑釉，盏底嵌入一片纯银打造的镂空叶片。倒入美酒后，银色叶片会反射出银色的光芒，和黑色的盏体形成鲜明的对比。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "「饮酒」+2 「用剑」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JianFa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/YinGuangYingYeZhan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>双弓盏</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "器身满施红釉，釉面滋润肥厚，大足底，一圈露胎芦宽，其上显出细密的旋纹。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "「饮酒」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/ShuangGongZhan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>双鹿杯</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "器身满施红釉，釉面滋润肥厚，大足底，一圈露胎芦宽，其上显出细密的旋纹。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "CharacterFuYuan_0000000001"
+          ],
+          "Name": {
+            "Value": "「福缘」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/ShuangLuBei"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>斧爵</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "器身满施红釉，釉面滋润肥厚，大足底，一圈露胎芦宽，其上显出细密的旋纹。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ChuiFu_0000000001"
+          ],
+          "Name": {
+            "Value": "「运斧」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/FuJue"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>白玉盏</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "据说研制此杯的人是以古琴曲《风雷引》为灵感，杯体轻薄如风，造型棱角分明，形似如雷，是一个风格鲜明、引人注目的酒杯。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "「饮酒」+1 「交涉」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "CharacterJiaoShe_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/BaiYuZhan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>牺首杯</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "据说研制此杯的人是以古琴曲《风雷引》为灵感，杯体轻薄如风，造型棱角分明，形似如雷，是一个风格鲜明、引人注目的酒杯。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "「饮酒」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/XiShouBei"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>云雷卮</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "据说研制此杯的人是以古琴曲《风雷引》为灵感，杯体轻薄如风，造型棱角分明，形似如雷，是一个风格鲜明、引人注目的酒杯。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShaYi_0000000001"
+          ],
+          "Name": {
+            "Value": "「杀意」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/YunLeiE"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>风纹杯</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "据说研制此杯的人是以古琴曲《风雷引》为灵感，杯体轻薄如风，造型棱角分明，形似如雷，是一个风格鲜明、引人注目的酒杯。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "「饮酒」+1 「决断」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JueDuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/FengWenBei"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>金夔龙觚</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "一种用青玉琢成的名贵饮酒器皿。当把美酒置于杯中，放在月光下，杯子就会闪闪发亮。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {
+            "Value": "「饮酒」+1 「福缘」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "CharacterFuYuan_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/JinKuiLongGu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>古玉灵霄杯</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "一种用青玉琢成的名贵饮酒器皿。当把美酒置于杯中，放在月光下，杯子就会闪闪发亮。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShouCang_0000000001"
+          ],
+          "Name": {
+            "Value": "「收藏」+1 「悟性」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "CharacterWuXing_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/JiuQi/GuYuLingXiaoBei"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>玲珑杯</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "MeiLi_0000000001"
+          ],
+          "Name": {
+            "Value": "「魅力」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/JiuQi/LingLongBei"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>神宝卮</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "CharacterFuYuan_0000000001"
+          ],
+          "Name": {
+            "Value": "「福缘」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/JiuQi/ShenBaoZhi"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>枯荣盏</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "CharacterJianShi_0000000001"
+          ],
+          "Name": {
+            "Value": "「见识」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/JiuQi/KuRongZhan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>灵悟盏</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "CharacterWuXing_0000000001"
+          ],
+          "Name": {
+            "Value": "「悟性」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/JiuQi/LingWuZhan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>太清古玉杯</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "ShenLai_0000000001"
+          ],
+          "Name": {
+            "Value": "「神来」+2 「笔法」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "BiFa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/JiuQi/TaiQingGuYuBei"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>三昧鬼盏</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "GouFa_0000000001"
+          ],
+          "Name": {
+            "Value": "「钩法」+2 「毒术」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "DuShu_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/JiuQi/SanWeiGuiZhan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>陨玉古瓶</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "RenMai_0000000001"
+          ],
+          "Name": {
+            "Value": "「任脉」+1 「集中」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "JiZhong_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/JiuQi/YunYuGuPing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>金霞归元盏</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "DuMai_0000000001"
+          ],
+          "Name": {
+            "Value": "「督脉」+1 「意志」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "YiZhi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/JiuQi/JinXiaGuiYuanZhan"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "酒器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>义令盏</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YiZhi_0000000001"
+          ],
+          "Name": {
+            "Value": "「意志」+1 「道德」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "DaoDe_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/JiuQi/YiLingZhan"
+    ]
+  }
+]

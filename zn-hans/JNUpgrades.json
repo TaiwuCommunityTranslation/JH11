@@ -1,0 +1,2737 @@
+[
+  {
+    "GuiZe": [
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#E24344FF>「攻招式威力」</color>",
+        "RightValueInfo": "10%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#5C9BE2FF>「防招式威力」</color>",
+        "RightValueInfo": "10%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#FF7E2EFF>「击破破绽几率」</color>",
+        "RightValueInfo": "1%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#FF0000FF>「击杀致命几率」</color>",
+        "RightValueInfo": "0.4%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#FF5344FF>「击伤几率」</color>",
+        "RightValueInfo": "1%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#00CAB0FF>「点穴几率」</color>",
+        "RightValueInfo": "1%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#64B200FF>「淬毒几率」</color>",
+        "RightValueInfo": "1%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>角色</color>\n<color=#00FFDDFF>「武艺属性」</color>",
+        "RightValueInfo": "点击查看",
+        "DialogContent": "参悟进修完成！[PropName]提升了[Value]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF5344FF>「部位击伤」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF5344FF>「击伤」</color>对手[BuWei]"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.2
+                    ],
+                    [
+                      0.0,
+                      0.7
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「[WuGongType]克制」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手<color=#00CAB0FF>「[WuGongType]招式威力」</color>-40%"
+                },
+                "WuGongType": []
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF5344FF>「部位击伤」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF5344FF>「击伤」</color>对手[BuWei]"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.2
+                    ],
+                    [
+                      0.0,
+                      0.7
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF7E2EFF>「击破破绽」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF7E2EFF>「击破」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.65
+                    ],
+                    [
+                      0.0,
+                      0.55
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF0000FF>「击杀致命」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF0000FF>「击杀」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.05
+                    ],
+                    [
+                      0.0,
+                      0.3
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#ACCFFFFF>「夺取武器」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#ACCFFFFF>「夺取」</color>对手「兵器」"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.0,
+                      0.3
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFD41BFF>「一击制胜」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FFD41BFF>「直接击败」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.0,
+                      0.25
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「[WuGongType]克制」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手<color=#00CAB0FF>「[WuGongType]招式威力」</color>-40%"
+                },
+                "WuGongType": []
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF5344FF>「部位击伤」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF5344FF>「击伤」</color>对手[BuWei]"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.2
+                    ],
+                    [
+                      0.0,
+                      0.7
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「[WuGongType]克制」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手<color=#00CAB0FF>「[WuGongType]招式威力」</color>-40%"
+                },
+                "WuGongType": []
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#ACCFFFFF>「击落武器」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#ACCFFFFF>「击落」</color>对手「兵器」"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.0,
+                      0.26
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「破绽守护」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "<color=#FF5E4EFF>「出现破绽」</color>几率-60%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「重防卸力」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手武功招式「内力消耗」+160%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「顽强不屈」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "<color=#FFDDBDFF>「对招落败」</color>几率-70%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「绝境求生」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "<color=#FF0000FF>「对招殒命」</color>几率-60%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「借力反打」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "「招式威力」+30%；对手「招式威力」-30%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFD41BFF>「一击制胜」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FFD41BFF>「直接击败」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.0,
+                      0.25
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#00CAB0FF>「点穴封脉」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#00CAB0FF>「封住」</color>对手「[BuWei]」穴脉,持续4回合"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.08,
+                      0.25
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#64B200FF>「淬毒」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#00CAB0FF>「淬毒」</color>对手「[BuWei]」，毒性持续6回合"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.1
+                    ],
+                    [
+                      0.0,
+                      0.4
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF7E2EFF>「击破破绽」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF7E2EFF>「击破」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.65
+                    ],
+                    [
+                      0.0,
+                      0.55
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF5344FF>「部位击伤」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF5344FF>「击伤」</color>对手[BuWei]"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.2
+                    ],
+                    [
+                      0.0,
+                      0.7
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF7E2EFF>「击破破绽」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF7E2EFF>「击破」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.65
+                    ],
+                    [
+                      0.0,
+                      0.55
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「[WuGongType]克制」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手<color=#00CAB0FF>「[WuGongType]招式威力」</color>-40%"
+                },
+                "WuGongType": []
+              }
+            ]
+          }
+        ],
+        "LeftValueInfo": "<color=#D7C8AFFF>招式</color>\n<color=#B27200>「特技替换」</color>",
+        "RightValueInfo": "点击查看",
+        "DialogContent": "[WuGongName]的[ZhaoShiName]招式特色已由[Tese1]变为[Tese2]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>套路</color>\n<color=#E24344FF>「攻招式槽位数」</color>",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>套路</color>\n<color=#5C9BE2FF>「防招式槽位数」</color>",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>套路</color>\n<color=#1BDFFFFF>「技招式槽位数」</color>",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      }
+    ]
+  },
+  {
+    "GuiZe": [
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#E24344FF>「攻招式威力」</color>",
+        "RightValueInfo": "8%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#5C9BE2FF>「防招式威力」</color>",
+        "RightValueInfo": "8%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#FF7E2EFF>「击破破绽几率」</color>",
+        "RightValueInfo": "1.5%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#FF0000FF>「击杀致命几率」</color>",
+        "RightValueInfo": "0.4%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#FF5344FF>「击伤几率」</color>",
+        "RightValueInfo": "1.5%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#00CAB0FF>「点穴几率」</color>",
+        "RightValueInfo": "1.5%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#64B200FF>「淬毒几率」</color>",
+        "RightValueInfo": "1.5%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>角色</color>\n<color=#00FFDDFF>「武艺属性」</color>",
+        "RightValueInfo": "点击查看",
+        "DialogContent": "参悟进修完成！[PropName]提升了[Value]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF5344FF>「部位击伤」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF5344FF>「击伤」</color>对手[BuWei]"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.2
+                    ],
+                    [
+                      0.0,
+                      0.7
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「[WuGongType]克制」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手<color=#00CAB0FF>「[WuGongType]招式威力」</color>-40%"
+                },
+                "WuGongType": []
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF5344FF>「部位击伤」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF5344FF>「击伤」</color>对手[BuWei]"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.2
+                    ],
+                    [
+                      0.0,
+                      0.7
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF7E2EFF>「击破破绽」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF7E2EFF>「击破」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.65
+                    ],
+                    [
+                      0.0,
+                      0.55
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF0000FF>「击杀致命」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF0000FF>「击杀」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.05
+                    ],
+                    [
+                      0.0,
+                      0.3
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#ACCFFFFF>「夺取武器」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#ACCFFFFF>「夺取」</color>对手「兵器」"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.0,
+                      0.3
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFD41BFF>「一击制胜」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FFD41BFF>「直接击败」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.0,
+                      0.25
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「[WuGongType]克制」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手<color=#00CAB0FF>「[WuGongType]招式威力」</color>-40%"
+                },
+                "WuGongType": []
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF5344FF>「部位击伤」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF5344FF>「击伤」</color>对手[BuWei]"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.2
+                    ],
+                    [
+                      0.0,
+                      0.7
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「[WuGongType]克制」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手<color=#00CAB0FF>「[WuGongType]招式威力」</color>-40%"
+                },
+                "WuGongType": []
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#ACCFFFFF>「击落武器」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#ACCFFFFF>「击落」</color>对手「兵器」"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.0,
+                      0.26
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「破绽守护」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "<color=#FF5E4EFF>「出现破绽」</color>几率-60%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「重防卸力」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手武功招式「内力消耗」+160%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「顽强不屈」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "<color=#FFDDBDFF>「对招落败」</color>几率-70%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「绝境求生」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "<color=#FF0000FF>「对招殒命」</color>几率-60%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「借力反打」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "「招式威力」+30%；对手「招式威力」-30%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFD41BFF>「一击制胜」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FFD41BFF>「直接击败」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.0,
+                      0.25
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#00CAB0FF>「点穴封脉」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#00CAB0FF>「封住」</color>对手「[BuWei]」穴脉,持续4回合"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.08,
+                      0.25
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#64B200FF>「淬毒」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#00CAB0FF>「淬毒」</color>对手「[BuWei]」，毒性持续6回合"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.1
+                    ],
+                    [
+                      0.0,
+                      0.4
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF7E2EFF>「击破破绽」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF7E2EFF>「击破」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.65
+                    ],
+                    [
+                      0.0,
+                      0.55
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF5344FF>「部位击伤」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF5344FF>「击伤」</color>对手[BuWei]"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.2
+                    ],
+                    [
+                      0.0,
+                      0.7
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF7E2EFF>「击破破绽」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF7E2EFF>「击破」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.65
+                    ],
+                    [
+                      0.0,
+                      0.55
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「[WuGongType]克制」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手<color=#00CAB0FF>「[WuGongType]招式威力」</color>-40%"
+                },
+                "WuGongType": []
+              }
+            ]
+          }
+        ],
+        "LeftValueInfo": "<color=#D7C8AFFF>招式</color>\n<color=#B27200>「特技替换」</color>",
+        "RightValueInfo": "点击查看",
+        "DialogContent": "[WuGongName]的[ZhaoShiName]招式特色已由[Tese1]变为[Tese2]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>套路</color>\n<color=#E24344FF>「攻招式槽位数」</color>",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>套路</color>\n<color=#5C9BE2FF>「防招式槽位数」</color>",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>套路</color>\n<color=#1BDFFFFF>「技招式槽位数」</color>",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      }
+    ]
+  },
+  {
+    "GuiZe": [
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#E24344FF>「攻招式威力」</color>",
+        "RightValueInfo": "6%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#5C9BE2FF>「防招式威力」</color>",
+        "RightValueInfo": "6%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#FF7E2EFF>「击破破绽几率」</color>",
+        "RightValueInfo": "2%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#FF0000FF>「击杀致命几率」</color>",
+        "RightValueInfo": "0.4%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#FF5344FF>「击伤几率」</color>",
+        "RightValueInfo": "2%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#00CAB0FF>「点穴几率」</color>",
+        "RightValueInfo": "2%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#64B200FF>「淬毒几率」</color>",
+        "RightValueInfo": "2%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>角色</color>\n<color=#00FFDDFF>「武艺属性」</color>",
+        "RightValueInfo": "点击查看",
+        "DialogContent": "参悟进修完成！[PropName]提升了[Value]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF5344FF>「部位击伤」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF5344FF>「击伤」</color>对手[BuWei]"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.2
+                    ],
+                    [
+                      0.0,
+                      0.7
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「[WuGongType]克制」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手<color=#00CAB0FF>「[WuGongType]招式威力」</color>-40%"
+                },
+                "WuGongType": []
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF5344FF>「部位击伤」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF5344FF>「击伤」</color>对手[BuWei]"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.2
+                    ],
+                    [
+                      0.0,
+                      0.7
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF7E2EFF>「击破破绽」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF7E2EFF>「击破」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.65
+                    ],
+                    [
+                      0.0,
+                      0.55
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF0000FF>「击杀致命」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF0000FF>「击杀」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.05
+                    ],
+                    [
+                      0.0,
+                      0.3
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#ACCFFFFF>「夺取武器」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#ACCFFFFF>「夺取」</color>对手「兵器」"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.0,
+                      0.3
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFD41BFF>「一击制胜」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FFD41BFF>「直接击败」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.0,
+                      0.25
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「[WuGongType]克制」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手<color=#00CAB0FF>「[WuGongType]招式威力」</color>-40%"
+                },
+                "WuGongType": []
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF5344FF>「部位击伤」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF5344FF>「击伤」</color>对手[BuWei]"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.2
+                    ],
+                    [
+                      0.0,
+                      0.7
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「[WuGongType]克制」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手<color=#00CAB0FF>「[WuGongType]招式威力」</color>-40%"
+                },
+                "WuGongType": []
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#ACCFFFFF>「击落武器」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#ACCFFFFF>「击落」</color>对手「兵器」"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.0,
+                      0.26
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「破绽守护」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "<color=#FF5E4EFF>「出现破绽」</color>几率-60%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「重防卸力」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手武功招式「内力消耗」+160%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「顽强不屈」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "<color=#FFDDBDFF>「对招落败」</color>几率-70%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「绝境求生」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "<color=#FF0000FF>「对招殒命」</color>几率-60%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「借力反打」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "「招式威力」+30%；对手「招式威力」-30%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFD41BFF>「一击制胜」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FFD41BFF>「直接击败」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.0,
+                      0.25
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#00CAB0FF>「点穴封脉」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#00CAB0FF>「封住」</color>对手「[BuWei]」穴脉,持续4回合"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.08,
+                      0.25
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#64B200FF>「淬毒」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#00CAB0FF>「淬毒」</color>对手「[BuWei]」，毒性持续6回合"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.1
+                    ],
+                    [
+                      0.0,
+                      0.4
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF7E2EFF>「击破破绽」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF7E2EFF>「击破」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.65
+                    ],
+                    [
+                      0.0,
+                      0.55
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF5344FF>「部位击伤」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF5344FF>「击伤」</color>对手[BuWei]"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.2
+                    ],
+                    [
+                      0.15,
+                      0.78
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF7E2EFF>「击破破绽」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF7E2EFF>「击破」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.65
+                    ],
+                    [
+                      0.0,
+                      0.55
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「[WuGongType]克制」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手<color=#00CAB0FF>「[WuGongType]招式威力」</color>-40%"
+                },
+                "WuGongType": []
+              }
+            ]
+          }
+        ],
+        "LeftValueInfo": "<color=#D7C8AFFF>招式</color>\n<color=#B27200>「特技替换」</color>",
+        "RightValueInfo": "点击查看",
+        "DialogContent": "[WuGongName]的[ZhaoShiName]招式特色已由[Tese1]变为[Tese2]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>套路</color>\n<color=#E24344FF>「攻招式槽位数」</color>",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>套路</color>\n<color=#5C9BE2FF>「防招式槽位数」</color>",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>套路</color>\n<color=#1BDFFFFF>「技招式槽位数」</color>",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      }
+    ]
+  },
+  {
+    "GuiZe": [
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#E24344FF>「攻招式威力」</color>",
+        "RightValueInfo": "4%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#5C9BE2FF>「防招式威力」</color>",
+        "RightValueInfo": "4%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#FF7E2EFF>「击破破绽几率」</color>",
+        "RightValueInfo": "2.5%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#FF0000FF>「击杀致命几率」</color>",
+        "RightValueInfo": "0.4%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#FF5344FF>「击伤几率」</color>",
+        "RightValueInfo": "2.5%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#00CAB0FF>「点穴几率」</color>",
+        "RightValueInfo": "2.5%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#64B200FF>「淬毒几率」</color>",
+        "RightValueInfo": "2.5%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>角色</color>\n<color=#00FFDDFF>「武艺属性」</color>",
+        "RightValueInfo": "点击查看",
+        "DialogContent": "参悟进修完成！[PropName]提升了[Value]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF5344FF>「部位击伤」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF5344FF>「击伤」</color>对手[BuWei]"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.2
+                    ],
+                    [
+                      0.0,
+                      0.7
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「[WuGongType]克制」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手<color=#00CAB0FF>「[WuGongType]招式威力」</color>-40%"
+                },
+                "WuGongType": []
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF5344FF>「部位击伤」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF5344FF>「击伤」</color>对手[BuWei]"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.2
+                    ],
+                    [
+                      0.0,
+                      0.7
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF7E2EFF>「击破破绽」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF7E2EFF>「击破」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.65
+                    ],
+                    [
+                      0.0,
+                      0.55
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF0000FF>「击杀致命」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF0000FF>「击杀」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.05
+                    ],
+                    [
+                      0.0,
+                      0.3
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#ACCFFFFF>「夺取武器」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#ACCFFFFF>「夺取」</color>对手「兵器」"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.0,
+                      0.3
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFD41BFF>「一击制胜」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FFD41BFF>「直接击败」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.0,
+                      0.25
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「[WuGongType]克制」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手<color=#00CAB0FF>「[WuGongType]招式威力」</color>-40%"
+                },
+                "WuGongType": []
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF5344FF>「部位击伤」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF5344FF>「击伤」</color>对手[BuWei]"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.2
+                    ],
+                    [
+                      0.0,
+                      0.7
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「[WuGongType]克制」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手<color=#00CAB0FF>「[WuGongType]招式威力」</color>-40%"
+                },
+                "WuGongType": []
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#ACCFFFFF>「击落武器」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#ACCFFFFF>「击落」</color>对手「兵器」"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.0,
+                      0.26
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「破绽守护」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "<color=#FF5E4EFF>「出现破绽」</color>几率-60%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「重防卸力」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手武功招式「内力消耗」+160%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「顽强不屈」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "<color=#FFDDBDFF>「对招落败」</color>几率-70%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「绝境求生」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "<color=#FF0000FF>「对招殒命」</color>几率-60%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「借力反打」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "「招式威力」+30%；对手「招式威力」-30%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFD41BFF>「一击制胜」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FFD41BFF>「直接击败」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.0,
+                      0.25
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#00CAB0FF>「点穴封脉」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#00CAB0FF>「封住」</color>对手「[BuWei]」穴脉,持续4回合"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.08,
+                      0.25
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#64B200FF>「淬毒」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#00CAB0FF>「淬毒」</color>对手「[BuWei]」，毒性持续6回合"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.1
+                    ],
+                    [
+                      0.0,
+                      0.4
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF7E2EFF>「击破破绽」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF7E2EFF>「击破」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.65
+                    ],
+                    [
+                      0.0,
+                      0.55
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF5344FF>「部位击伤」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF5344FF>「击伤」</color>对手[BuWei]"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.2
+                    ],
+                    [
+                      0.0,
+                      0.7
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF7E2EFF>「击破破绽」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF7E2EFF>「击破」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.65
+                    ],
+                    [
+                      0.0,
+                      0.55
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「[WuGongType]克制」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手<color=#00CAB0FF>「[WuGongType]招式威力」</color>-40%"
+                },
+                "WuGongType": []
+              }
+            ]
+          }
+        ],
+        "LeftValueInfo": "<color=#D7C8AFFF>招式</color>\n<color=#B27200>「特技替换」</color>",
+        "RightValueInfo": "点击查看",
+        "DialogContent": "[WuGongName]的[ZhaoShiName]招式特色已由[Tese1]变为[Tese2]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>套路</color>\n<color=#E24344FF>「攻招式槽位数」</color>",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>套路</color>\n<color=#5C9BE2FF>「防招式槽位数」</color>",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>套路</color>\n<color=#1BDFFFFF>「技招式槽位数」</color>",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      }
+    ]
+  },
+  {
+    "GuiZe": [
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#E24344FF>「攻招式威力」</color>",
+        "RightValueInfo": "25%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#5C9BE2FF>「防招式威力」</color>",
+        "RightValueInfo": "25%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#FF7E2EFF>「击破破绽几率」</color>",
+        "RightValueInfo": "25%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#FF0000FF>「击杀致命几率」</color>",
+        "RightValueInfo": "25%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#FF5344FF>「击伤几率」</color>",
+        "RightValueInfo": "25%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#00CAB0FF>「点穴几率」</color>",
+        "RightValueInfo": "25%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>本武功</color>\n<color=#64B200FF>「淬毒几率」</color>",
+        "RightValueInfo": "25%",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>角色</color>\n<color=#00FFDDFF>「武艺属性」</color>",
+        "RightValueInfo": "点击查看",
+        "DialogContent": "参悟进修完成！[PropName]提升了[Value]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF5344FF>「部位击伤」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF5344FF>「击伤」</color>对手[BuWei]"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.2
+                    ],
+                    [
+                      0.0,
+                      0.7
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「[WuGongType]克制」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手<color=#00CAB0FF>「[WuGongType]招式威力」</color>-40%"
+                },
+                "WuGongType": []
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF5344FF>「部位击伤」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF5344FF>「击伤」</color>对手[BuWei]"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.2
+                    ],
+                    [
+                      0.0,
+                      0.7
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF7E2EFF>「击破破绽」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF7E2EFF>「击破」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.65
+                    ],
+                    [
+                      0.0,
+                      0.55
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF0000FF>「击杀致命」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF0000FF>「击杀」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.05
+                    ],
+                    [
+                      0.0,
+                      0.3
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#ACCFFFFF>「夺取武器」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#ACCFFFFF>「夺取」</color>对手「兵器」"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.0,
+                      0.3
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFD41BFF>「一击制胜」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FFD41BFF>「直接击败」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.0,
+                      0.25
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「[WuGongType]克制」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手<color=#00CAB0FF>「[WuGongType]招式威力」</color>-40%"
+                },
+                "WuGongType": []
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF5344FF>「部位击伤」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF5344FF>「击伤」</color>对手[BuWei]"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.2
+                    ],
+                    [
+                      0.0,
+                      0.7
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「[WuGongType]克制」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手<color=#00CAB0FF>「[WuGongType]招式威力」</color>-40%"
+                },
+                "WuGongType": []
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#ACCFFFFF>「击落武器」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#ACCFFFFF>「击落」</color>对手「兵器」"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.0,
+                      0.26
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「破绽守护」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "<color=#FF5E4EFF>「出现破绽」</color>几率-60%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「重防卸力」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手武功招式「内力消耗」+160%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「顽强不屈」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "<color=#FFDDBDFF>「对招落败」</color>几率-70%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「绝境求生」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "<color=#FF0000FF>「对招殒命」</color>几率-60%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「借力反打」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "「招式威力」+30%；对手「招式威力」-30%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFD41BFF>「一击制胜」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FFD41BFF>「直接击败」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.0,
+                      0.25
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#00CAB0FF>「点穴封脉」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#00CAB0FF>「封住」</color>对手「[BuWei]」穴脉,持续4回合"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.0
+                    ],
+                    [
+                      0.08,
+                      0.25
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#64B200FF>「淬毒」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#00CAB0FF>「淬毒」</color>对手「[BuWei]」，毒性持续6回合"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.1
+                    ],
+                    [
+                      0.0,
+                      0.4
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF7E2EFF>「击破破绽」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF7E2EFF>「击破」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.65
+                    ],
+                    [
+                      0.0,
+                      0.55
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF5344FF>「部位击伤」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF5344FF>「击伤」</color>对手[BuWei]"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.2
+                    ],
+                    [
+                      0.0,
+                      0.7
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FF7E2EFF>「击破破绽」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "尝试<color=#FF7E2EFF>「击破」</color>对手"
+                },
+                "GaiLvGuiZe": {
+                  "RelatedID": [],
+                  "Value": [
+                    [
+                      0.0,
+                      0.65
+                    ],
+                    [
+                      0.0,
+                      0.55
+                    ]
+                  ]
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": "<color=#FFDDBDFF>「[WuGongType]克制」</color>"
+                },
+                "RelatedID": [],
+                "TeSeLeiDes": {
+                  "Value": "对手<color=#00CAB0FF>「[WuGongType]招式威力」</color>-40%"
+                },
+                "WuGongType": []
+              }
+            ]
+          }
+        ],
+        "LeftValueInfo": "<color=#D7C8AFFF>招式</color>\n<color=#B27200>「特技替换」</color>",
+        "RightValueInfo": "点击查看",
+        "DialogContent": "[WuGongName]的[ZhaoShiName]招式特色已由[Tese1]变为[Tese2]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>套路</color>\n<color=#E24344FF>「攻招式槽位数」</color>",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>套路</color>\n<color=#5C9BE2FF>「防招式槽位数」</color>",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      },
+      {
+        "RelatedID": [],
+        "ReplaceGuiZe": [],
+        "LeftValueInfo": "<color=#D7C8AFFF>套路</color>\n<color=#1BDFFFFF>「技招式槽位数」</color>",
+        "DialogContent": "参悟进修完成！[WuGongName]的[LeftValueInfo]提升了[RightValueInfo]。"
+      }
+    ]
+  }
+]

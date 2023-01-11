@@ -1,0 +1,506 @@
+[
+  {
+    "Name": {
+      "ValueInfo": "激骂"
+    },
+    "XingWeiType": {},
+    "XingWeiIcon": {},
+    "XingWeiDes": {
+      "Value": "自己心态值少量减少，对方心态值大量减少"
+    },
+    "LengQueHuiHe": {},
+    "YouLieXianZhi": {
+      "ChuJing": {},
+      "KeYongDengJi": {}
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {},
+      "DuiFang": {}
+    },
+    "QiTaYingXiang": {
+      "Values": [
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "冷静失效"
+          },
+          "YingXiangDes": {
+            "Value": "让对方的冷静行为失效"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "无视义理"
+          },
+          "YingXiangDes": {
+            "Value": "无视对方义理对自己造成的影响"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "无视激骂"
+          },
+          "YingXiangDes": {
+            "Value": "无视对方激骂对自己造成的影响"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "劝对方投降"
+          },
+          "YingXiangDes": {
+            "Value": "劝对方投降"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "向对方投降"
+          },
+          "YingXiangDes": {
+            "Value": "向对方投降"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "示弱"
+    },
+    "XingWeiType": {},
+    "XingWeiIcon": {},
+    "XingWeiDes": {
+      "Value": "自己心态值少量增加 对方的心态值少量增加"
+    },
+    "LengQueHuiHe": {},
+    "YouLieXianZhi": {
+      "ChuJing": {},
+      "KeYongDengJi": {}
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {},
+      "DuiFang": {}
+    },
+    "QiTaYingXiang": {
+      "Values": [
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "冷静失效"
+          },
+          "YingXiangDes": {
+            "Value": "让对方的冷静行为失效"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "无视义理"
+          },
+          "YingXiangDes": {
+            "Value": "无视对方义理对自己造成的影响"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "无视激骂"
+          },
+          "YingXiangDes": {
+            "Value": "无视对方激骂对自己造成的影响"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "劝对方投降"
+          },
+          "YingXiangDes": {
+            "Value": "劝对方投降"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "向对方投降"
+          },
+          "YingXiangDes": {
+            "Value": "向对方投降"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "挑衅"
+    },
+    "XingWeiType": {},
+    "XingWeiIcon": {},
+    "XingWeiDes": {
+      "Value": "让对方的冷静失效"
+    },
+    "LengQueHuiHe": {},
+    "YouLieXianZhi": {
+      "ChuJing": {},
+      "KeYongDengJi": {}
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {},
+      "DuiFang": {}
+    },
+    "QiTaYingXiang": {
+      "Values": [
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "冷静失效"
+          },
+          "YingXiangDes": {
+            "Value": "让对方的冷静行为失效"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "无视义理"
+          },
+          "YingXiangDes": {
+            "Value": "无视对方义理对自己造成的影响"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "无视激骂"
+          },
+          "YingXiangDes": {
+            "Value": "无视对方激骂对自己造成的影响"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "劝对方投降"
+          },
+          "YingXiangDes": {
+            "Value": "劝对方投降"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "向对方投降"
+          },
+          "YingXiangDes": {
+            "Value": "向对方投降"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "冷静"
+    },
+    "XingWeiType": {},
+    "XingWeiIcon": {},
+    "XingWeiDes": {
+      "Value": "大量增加自己的心态值"
+    },
+    "LengQueHuiHe": {},
+    "YouLieXianZhi": {
+      "ChuJing": {},
+      "KeYongDengJi": {}
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {},
+      "DuiFang": {}
+    },
+    "QiTaYingXiang": {
+      "Values": [
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "冷静失效"
+          },
+          "YingXiangDes": {
+            "Value": "让对方的冷静行为失效"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "无视义理"
+          },
+          "YingXiangDes": {
+            "Value": "无视对方义理对自己造成的影响"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "无视激骂"
+          },
+          "YingXiangDes": {
+            "Value": "无视对方激骂对自己造成的影响"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "劝对方投降"
+          },
+          "YingXiangDes": {
+            "Value": "劝对方投降"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "向对方投降"
+          },
+          "YingXiangDes": {
+            "Value": "向对方投降"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "义理"
+    },
+    "XingWeiType": {},
+    "XingWeiIcon": {},
+    "XingWeiDes": {
+      "Value": "自己心态值增加，对方的心态减少"
+    },
+    "LengQueHuiHe": {},
+    "YouLieXianZhi": {
+      "ChuJing": {},
+      "KeYongDengJi": {}
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {},
+      "DuiFang": {}
+    },
+    "QiTaYingXiang": {
+      "Values": [
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "冷静失效"
+          },
+          "YingXiangDes": {
+            "Value": "让对方的冷静行为失效"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "无视义理"
+          },
+          "YingXiangDes": {
+            "Value": "无视对方义理对自己造成的影响"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "无视激骂"
+          },
+          "YingXiangDes": {
+            "Value": "无视对方激骂对自己造成的影响"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "劝对方投降"
+          },
+          "YingXiangDes": {
+            "Value": "劝对方投降"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "向对方投降"
+          },
+          "YingXiangDes": {
+            "Value": "向对方投降"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "无视"
+    },
+    "XingWeiType": {},
+    "XingWeiIcon": {},
+    "XingWeiDes": {
+      "Value": "无视对方的义理和激骂"
+    },
+    "LengQueHuiHe": {},
+    "YouLieXianZhi": {
+      "ChuJing": {},
+      "KeYongDengJi": {}
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {},
+      "DuiFang": {}
+    },
+    "QiTaYingXiang": {
+      "Values": [
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "冷静失效"
+          },
+          "YingXiangDes": {
+            "Value": "让对方的冷静行为失效"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "无视义理"
+          },
+          "YingXiangDes": {
+            "Value": "无视对方义理对自己造成的影响"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "无视激骂"
+          },
+          "YingXiangDes": {
+            "Value": "无视对方激骂对自己造成的影响"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "劝对方投降"
+          },
+          "YingXiangDes": {
+            "Value": "劝对方投降"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "向对方投降"
+          },
+          "YingXiangDes": {
+            "Value": "向对方投降"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "劝降"
+    },
+    "XingWeiType": {},
+    "XingWeiIcon": {},
+    "XingWeiDes": {
+      "Value": "尝试说服对方主动投降"
+    },
+    "LengQueHuiHe": {},
+    "YouLieXianZhi": {
+      "ChuJing": {},
+      "KeYongDengJi": {}
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {},
+      "DuiFang": {}
+    },
+    "QiTaYingXiang": {
+      "Values": [
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "冷静失效"
+          },
+          "YingXiangDes": {
+            "Value": "让对方的冷静行为失效"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "无视义理"
+          },
+          "YingXiangDes": {
+            "Value": "无视对方义理对自己造成的影响"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "无视激骂"
+          },
+          "YingXiangDes": {
+            "Value": "无视对方激骂对自己造成的影响"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "劝对方投降"
+          },
+          "YingXiangDes": {
+            "Value": "劝对方投降"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "向对方投降"
+          },
+          "YingXiangDes": {
+            "Value": "向对方投降"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "投降"
+    },
+    "XingWeiType": {},
+    "XingWeiIcon": {},
+    "XingWeiDes": {
+      "Value": "尝试向对象投降"
+    },
+    "LengQueHuiHe": {},
+    "YouLieXianZhi": {
+      "ChuJing": {},
+      "KeYongDengJi": {}
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {},
+      "DuiFang": {}
+    },
+    "QiTaYingXiang": {
+      "Values": [
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "冷静失效"
+          },
+          "YingXiangDes": {
+            "Value": "让对方的冷静行为失效"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "无视义理"
+          },
+          "YingXiangDes": {
+            "Value": "无视对方义理对自己造成的影响"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "无视激骂"
+          },
+          "YingXiangDes": {
+            "Value": "无视对方激骂对自己造成的影响"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "劝对方投降"
+          },
+          "YingXiangDes": {
+            "Value": "劝对方投降"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "向对方投降"
+          },
+          "YingXiangDes": {
+            "Value": "向对方投降"
+          }
+        }
+      ]
+    }
+  }
+]

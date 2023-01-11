@@ -1,0 +1,5135 @@
+[
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "四相门徒"
+        ],
+        "DangWei": [
+          0.0,
+          4.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1600000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "四相门徒"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1600000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "DuoZiYangRou_Food00002",
+        "ZhiMaJiaoShaoBing_Food00004"
+      ],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [
+          "ChestTemp_BaiMaDuKou_LiangShanZeiKou_0000000001"
+        ],
+        "BattleName": [
+          "铁掌帮弃徒",
+          "梁山贼寇"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          10.0
+        ],
+        "DropBag": [],
+        "Money": [
+          150000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [
+          "ChestTemp_BaiMaDuKou_LiangShanZeiKou_0000000001"
+        ],
+        "BattleName": [
+          "铁掌帮弃徒",
+          "梁山贼寇"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          150000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "飞贼"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          10.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          15000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "飞贼"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          10.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          15000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "山林隐士"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          80000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "山林隐士"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          80000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [
+          "ChestTemp_YueYangLou_FengYue_0000000001"
+        ],
+        "BattleName": [
+          "水天",
+          "风月"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1500000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [
+          "ChestTemp_YueYangLou_FengYue_0000000001"
+        ],
+        "BattleName": [
+          "水天",
+          "风月"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1500000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [
+        "BaiYangJiu_Wine00006",
+        "ChiXiaoJiu_EA_Feng_Wine_003"
+      ],
+      "Food": [
+        "DuoZiYangRou_Food00002",
+        "ZhiMaJiaoShaoBing_Food00004"
+      ],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "五毒使者"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          500000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "五毒使者"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          500000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "灵蛇剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          200000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "灵蛇剑客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1600000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "水心亭鱼贩"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          10.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          40000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "水心亭鱼贩"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          40000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "百丈叛徒"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          40000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "百丈叛徒"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          10.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          40000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "河童老"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          10.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          700000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "河童老"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          700000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "血冥剑徒"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          900000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "血冥剑徒"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          900000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      360
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "米泉食客"
+        ],
+        "DangWei": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1000000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "米泉食客"
+        ],
+        "DangWei": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1000000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "见龙使"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          600000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "降龙使"
+        ],
+        "DangWei": [
+          0.0,
+          4.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          600000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第二层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "降龙使"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1600000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "DuoZiYangRou_Food00002",
+        "ZhiMaJiaoShaoBing_Food00004"
+      ],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "青云天道"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          600000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "青云天道"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1600000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      360
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "青王隐僧"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          10.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          800000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "青王隐僧"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          800000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第二层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "青王隐僧"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          800000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      360
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "白虎刺客"
+        ],
+        "DangWei": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          500000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "白虎刺客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          500000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "DuoZiYangRou_Food00002",
+        "ZhiMaJiaoShaoBing_Food00004"
+      ],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [
+          "ChestTemp_GuangXiaoShi_YouHongQiTu_0000000001"
+        ],
+        "BattleName": [
+          "炎凤叛徒",
+          "幽鸿弃徒"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          10.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          60000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [
+          "ChestTemp_GuangXiaoShi_YouHongQiTu_0000000001"
+        ],
+        "BattleName": [
+          "炎凤叛徒",
+          "幽鸿弃徒"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          60000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      360
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "看园老人"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          15000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "看园老人"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          15000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第二层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "看园老人"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          15000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第三层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "看园老人"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          15000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "霜曦剑"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1500000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "霜曦剑"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1500000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": [],
+      "MingXiang": [],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "化影刀"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          900000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "化影刀"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          900000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": [],
+      "MingXiang": [],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "小贼"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          10.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1000000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "小贼"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          10.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1000000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": [],
+      "MingXiang": [],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      360
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "大理灵宗"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          200000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      360
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "大理灵宗"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          200000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "太和叫花"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          150000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "太和叫花"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          150000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第二层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "太和叫花"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          150000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "ShaoE_Food00039",
+        "SaTang_Food00003"
+      ],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "源闻者"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          10.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          15000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "源闻者"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          15000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "星落玄者"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          350000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "星落玄者"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          350000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "ShaoE_Food00039",
+        "SaTang_Food00003"
+      ],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "青衫剑"
+        ],
+        "DangWei": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1500000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "青衫剑"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1500000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "DuoZiYangRou_Food00002",
+        "ZhiMaJiaoShaoBing_Food00004"
+      ],
+      "Tea": [],
+      "MingXiang": [],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "大理灵宗"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1000000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "大理灵宗"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1000000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": [],
+      "MingXiang": [],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "摘星玄者"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1200000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "摘星玄者"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1200000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": [],
+      "MingXiang": [],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "阴蝎鬼侍"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          800000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "阴蝎鬼侍"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          800000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": [],
+      "MingXiang": [],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      360
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "大理灵宗"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          2000000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      360
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "大理灵宗"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1200000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "无相者"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          3500000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "无相者"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          3500000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "XieHuangManTou_Food00046",
+        "QunXianHui_Food00088"
+      ],
+      "Tea": [],
+      "MingXiang": [],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "撰榜侍卫"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1500000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "撰榜侍卫"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1500000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "XieHuangManTou_Food00046",
+        "QunXianHui_Food00088"
+      ],
+      "Tea": [],
+      "MingXiang": [],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "喂猫徒"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1000000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "喂猫徒"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1000000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [
+        "ChongMiZhiXiQuan_Wine00021",
+        "BeiFuBingChu_Wine00025"
+      ],
+      "Food": [
+        "XieHuangManTou_Food00046",
+        "QunXianHui_Food00088"
+      ],
+      "Tea": [],
+      "MingXiang": [],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "天门武人"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          150000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "天门武人"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          150000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      280
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "青州盗"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          10.0
+        ],
+        "DropBag": [],
+        "Money": [
+          120000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "青州盗"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          10.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          120000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "深木达士"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          120000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "深木达士"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          120000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "DuoZiYangRou_Food00002",
+        "ZhiMaJiaoShaoBing_Food00004"
+      ],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "断心杀手"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          500000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "断心杀手"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          500000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      360
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "水心亭鱼贩"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          10.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          190000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "影白刃"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          60000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "影白刃"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          60000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "DuoZiYangRou_Food00002",
+        "ZhiMaJiaoShaoBing_Food00004"
+      ],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      360
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "水心亭鱼贩"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          70000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [
+          "ChestTemp_LongDong5_GuiYan_0000000001"
+        ],
+        "BattleName": [
+          "黑仙",
+          "鬼燕"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          2500000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [
+          "ChestTemp_LongDong5_GuiYan_0000000001"
+        ],
+        "BattleName": [
+          "黑仙",
+          "鬼燕"
+        ],
+        "DangWei": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          2500000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [
+        "ChiXiaoJiu_EA_Feng_Wine_003",
+        "ShaPeiJinBo_EA_Long_Wine_001"
+      ],
+      "Food": [
+        "DuoZiYangRou_Food00002",
+        "ZhiMaJiaoShaoBing_Food00004"
+      ],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "紫竹教头"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          800000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "紫竹教头"
+        ],
+        "DangWei": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          800000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "达摩秘使"
+        ],
+        "DangWei": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          3800000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "达摩秘使"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          3800000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第二层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "达摩秘使"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          3800000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "崆峒逆徒"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          90000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "崆峒逆徒"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          90000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第二层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "崆峒逆徒"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          90000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "洪忠刺客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          120000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "洪忠刺客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          120000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "景悲娘"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          120000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "景悲娘"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          120000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "DuoZiYangRou_Food00002",
+        "ZhiMaJiaoShaoBing_Food00004"
+      ],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "通敌叛使"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          10.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          280000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "通敌叛使"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          10.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          280000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      360
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "青焰尊者"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1200000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "青焰尊者"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1200000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "DuoZiYangRou_Food00002",
+        "ZhiMaJiaoShaoBing_Food00004"
+      ],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "琉璃殊色"
+        ],
+        "DangWei": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          2000000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "琉璃殊色"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          2000000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "DuoZiYangRou_Food00002",
+        "ZhiMaJiaoShaoBing_Food00004"
+      ],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "邪月"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          2000000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "邪月"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          2000000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "DuoZiYangRou_Food00002",
+        "ZhiMaJiaoShaoBing_Food00004"
+      ],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "乌矛客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          300000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "乌矛客"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          300000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "灵指曦钰"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1300000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "灵指曦钰"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1300000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "DuoZiYangRou_Food00002",
+        "ZhiMaJiaoShaoBing_Food00004"
+      ],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "无色玄岳剑"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          150000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "无色玄岳剑"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          150000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "DuoZiYangRou_Food00002",
+        "ZhiMaJiaoShaoBing_Food00004"
+      ],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "素光密使"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1000000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "素光密使"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1000000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "DuoZiYangRou_Food00002",
+        "ZhiMaJiaoShaoBing_Food00004"
+      ],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "灵指曦钰"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1600000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "摘星剑"
+        ],
+        "DangWei": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1200000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "摘星剑"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          1200000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [],
+      "Food": [
+        "DuoZiYangRou_Food00002",
+        "ZhiMaJiaoShaoBing_Food00004"
+      ],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "一灵堂使徒"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          10.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          500000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "一灵堂使徒"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          500000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "神月枪"
+        ],
+        "DangWei": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          500000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "神月枪"
+        ],
+        "DangWei": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          500000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [
+        "BeiFuBingChu_Wine00025"
+      ],
+      "Food": [
+        "DuoZiYangRou_Food00002",
+        "ZhiMaJiaoShaoBing_Food00004"
+      ],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      360
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "醉酒仙"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          800000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "醉酒仙"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          500000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [
+        "BeiFuBingChu_Wine00025"
+      ],
+      "Food": [
+        "DuoZiYangRou_Food00002",
+        "ZhiMaJiaoShaoBing_Food00004"
+      ],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      360
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "剑宗传人"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          800000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "剑宗传人"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          800000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ],
+    "BuffPool": {
+      "Weight": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Music": [],
+      "Wine": [
+        "BeiFuBingChu_Wine00025"
+      ],
+      "Food": [
+        "DuoZiYangRou_Food00002",
+        "ZhiMaJiaoShaoBing_Food00004"
+      ],
+      "Tea": [],
+      "MingXiang": [
+        2
+      ],
+      "Poem": []
+    }
+  },
+  {
+    "CoolDown": [
+      240
+    ],
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "大理灵宗"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          150000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST CJ",
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleCharacterTemplates": [],
+        "BattleName": [
+          "大理灵宗"
+        ],
+        "DangWei": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "DropBag": [],
+        "Money": [
+          150000
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ": "CHEST R"
+      }
+    ]
+  }
+]

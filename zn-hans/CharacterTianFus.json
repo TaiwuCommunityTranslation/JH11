@@ -1,0 +1,854 @@
+[
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「炮凤烹龙」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「烹饪」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「妙笔生花」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「诗词」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「点茶高手」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「茶道」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「挥毫落纸」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「书画」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「品竹弹丝」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「乐器」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「五斗先生」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「饮酒」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「奇珍异宝」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「收藏」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「饕餮学士」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "ShiCi_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
+    "Description": "「烹饪」+5「诗词」+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「烹龙茶甘」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "ChaDao_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
+    "Description": "「烹饪」+5「茶道」+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「妙笔厨师」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "HuiHua_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
+    "Description": "「烹饪」+5「书画」+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「回味绕梁」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "YueQi_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
+    "Description": "「烹饪」+5「乐器」+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「厨饮双全」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "YinJiu_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
+    "Description": "「烹饪」+5「饮酒」+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「奇珍大厨」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "ShouCang_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
+    "Description": "「烹饪」+5「收藏」+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「甘茗行空」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "ChaDao_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
+    "Description": "「诗词」+5「茶道」+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「妙笔诗人」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "HuiHua_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
+    "Description": "「诗词」+5「书画」+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「妙笔缭绕」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "YueQi_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
+    "Description": "「诗词」+5「乐器」+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「酒龙诗虎」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "YinJiu_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
+    "Description": "「诗词」+5「饮酒」+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「藏龙行空」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "ShouCang_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
+    "Description": "「诗词」+5「收藏」+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「品茗生花」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "HuiHua_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
+    "Description": "「茶道」+5「书画」+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「余音甘冽」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "YueQi_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
+    "Description": "「茶道」+5「乐器」+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「茶酒双绝」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "YinJiu_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
+    "Description": "「茶道」+5「饮酒」+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「馥郁异宝」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "ShouCang_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
+    "Description": "「茶道」+5「收藏」+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「音笔全能」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "YueQi_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
+    "Description": "「书画」+5「乐器」+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「酣饮书生」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "YinJiu_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
+    "Description": "「书画」+5「饮酒」+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「绘卷藏宝」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "ShouCang_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
+    "Description": "「书画」+5「收藏」+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「对酒当歌」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "YinJiu_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
+    "Description": "「乐器」+5「饮酒」+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「音律鉴藏」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "ShouCang_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
+    "Description": "「乐器」+5「收藏」+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「酣畅奇珍」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "ShouCang_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
+    "Description": "「饮酒」+5「收藏」+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「医者」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「医术」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「毒师」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「毒术」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「医毒双修」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "DuShu_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
+    "Description": "「医术」+5「毒术」+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「细嚼慢咽」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "BuffTypes": [],
+    "Description": "「美食状态」持续时间翻倍"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「佳酿醇香」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "BuffTypes": [],
+    "Description": "「美酒状态」持续时间翻倍"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「齿颊留香」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "BuffTypes": [],
+    "Description": "「饮茶状态」持续时间翻倍"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「余音袅袅」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "BuffTypes": [],
+    "Description": "「余音缭绕状态」持续时间翻倍"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「开卷有益」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "BuffTypes": [],
+    "Description": "「阅读状态」持续时间翻倍"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「天人合一」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「神来」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「心无旁骛」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「集中」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「坚韧不拔」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「意志」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「当机立断」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「决断」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「身强体健」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「体魄」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「用剑好手」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「用剑」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「使刀好手」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「使刀」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「拳掌好手」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「拳掌」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「指力达人」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「指力」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「用枪好手」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「用枪」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「耍棍好手」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「耍棍」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「运斧达人」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「运斧」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「鞭术好手」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「鞭术」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「钩法达人」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「钩法」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「善用暗器」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「暗器」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「笔法达人」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「笔法」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「空手无双」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "ZhiLi_0000000001"
+    ],
+    "Values": [
+      5.0
+    ],
+    "Description": "「拳掌」+5「指力」+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「兵器无双」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "DaoFa_0000000001",
+      "ShuaGun_0000000001",
+      "ShiBian_0000000001",
+      "CunJin_0000000001"
+    ],
+    "Values": [
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "Description": "「全兵器」+3"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「水之北向」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "RenMai_0000000001"
+    ],
+    "Values": [
+      -4.0
+    ],
+    "Description": "「督脉」+4「任脉」-4"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「水之南向」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [
+      "DuMai_0000000001"
+    ],
+    "Values": [
+      -4.0
+    ],
+    "Description": "「任脉」+4「督脉」-4"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「灵心慧性」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「悟性」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「吉人天相」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「福缘」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「天生丽质」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「魅力」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「能说会道」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「交涉」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「见多识广」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「见识」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「知书达礼」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「涵养」+8"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「杀气腾腾」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "RelatedID": [],
+    "Values": [],
+    "Description": "「杀意」+15"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「练武奇才」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "Description": "「修炼槽位」中「功法」会每阶段增加更多修炼点"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「奇经异脉」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "Description": "「内力值」会自动恢复"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「骨骼清奇」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "Description": "身体部位「伤」状态能自动恢复到「良好」"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「真气充盈」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "Description": "基础「内力值」增加1200点"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「乐天喜人」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "Description": "负面「心态」会自动恢复提升"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「如沐春风」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "Description": "相识过程中会给人留下良好的第一印象"
+  }
+]

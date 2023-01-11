@@ -1,0 +1,1815 @@
+[
+  {
+    "ItemType": {
+      "ValueInfo": "医书"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {}
+        ],
+        "Description": "败毒散配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "白虎汤配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {}
+        ],
+        "Description": "雨余凉配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {}
+        ],
+        "Description": "健足膏配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "香药小元儿配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {}
+        ],
+        "Description": "三度乳香油配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {}
+        ],
+        "Description": "沉香丸配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《旅舍备要方》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "董汲所著的《旅舍备要方》收录了部分常见的疾病症状和药方，此书的特点是所用药材简单、方便且有效。是百姓家中人手一本的医书良方。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YiShu_0000000001"
+          ],
+          "Name": {
+            "Value": "「医术」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/YiShu/LvSheBeiYaoFang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "医书"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "正柴胡饮配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "溃疡粉配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {},
+          {}
+        ],
+        "Description": "至元内丹配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "木金丹配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《苏沈良方》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "苏轼和沈括和撰的一本医书。内容繁杂，载有各种疾病的简易疗法，还提及了日常生活起居的调理宜忌，是一本质量上乘的医书。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YiShu_0000000001"
+          ],
+          "Name": {
+            "Value": "「医术」+2 「见识」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "CharacterJianShi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/YiShu/SuShenLiangFang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "医书"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {}
+        ],
+        "Description": "仙人玉壶丸配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {}
+        ],
+        "Description": "芦吸散配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "冰清熔毒液配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {},
+          {}
+        ],
+        "Description": "破血金疮药配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《太平圣惠方》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "太宗平日里就留心医学，收得药方千余，后诏翰林医官征集各家药方，在太平兴国三年开始校勘官修方书，经数年才完成了这本《太平圣惠方》。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YiShu_0000000001"
+          ],
+          "Name": {
+            "Value": "「医术」+3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/YiShu/TaiPingShengHuiFang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "医书"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "丹砂膏配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "十神汤配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "藿香石膏茶配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "羌活通脉丸配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《伤寒杂病论》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "《伤寒杂病论》是东汉张仲景博览群书，广采众方，凝聚毕生心血所著的医学巨作，是一部理法和方药兼备，理论与实践结合的经典之作。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "CharacterFuYuan_0000000001"
+          ],
+          "Name": {
+            "Value": "「福缘」+2 「诗词」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShiCi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/YiShu/ShangHanZaBingLun"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "医书"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "黄芩黄连汤配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "紫火宝丸配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {},
+          {}
+        ],
+        "Description": "大补内丹配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《黄帝内经》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "最古老的中药医学著作，无数后世药方无一不参考、借鉴此经内容。内容包括摄生、阴阳、脏象、经络和论治之道。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YaoMa_0000000001"
+          ],
+          "Name": {
+            "Value": "「腰马」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/YiShu/HuangDiNeiJing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "医书"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "七星丸配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {},
+          {}
+        ],
+        "Description": "神农还阳丹配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《神农本草经》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "医学四大经典之一，《神农本草经》系统地总结了古代医家等各方面的用药经验，对已经掌握的药物知识进行了一次全面而系统的整理。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YiShu_0000000001"
+          ],
+          "Name": {
+            "Value": "「医术」+2 「体魄」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "TiPo_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/YiShu/ShenNongBenCaoJing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "医书"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "补天丸配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {},
+          {}
+        ],
+        "Description": "龙涎膏配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《大观本草》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "《大观本草》不仅收录了前代有关本草的资料，按年份排序，还添补了各地奇珍异草和佛书道藏重有关本草的理论知识。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YiShu_0000000001"
+          ],
+          "Name": {
+            "Value": "「医术」+4"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/YiShu/DaGuanBenCao"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "医书"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {},
+          {},
+          {}
+        ],
+        "Description": "五行回天草配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "金髓草药配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {},
+          {}
+        ],
+        "Description": "护灵还心丹配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《金匮要略》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "医学四大经典之一，“金匮”是存放古代帝王圣训和实录的地方，意指本书内容之珍贵。所述病证以内科杂病为主，兼及外科疾病和急救卒死、饮食禁忌等内容。被誉为“方书之祖”。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YiShu_0000000001"
+          ],
+          "Name": {
+            "Value": "「医术」+4"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/YiShu/JinKuiYaoLue"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "医书"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {}
+        ],
+        "Description": "天一小还丹配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {}
+        ],
+        "Description": "乌鸡凤凰丸配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《普济本事方》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "YiShu_0000000001"
+          ],
+          "Name": {
+            "Value": "「医术」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/YiShu/PuJiBenShiFang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "医书"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "星月露配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "洗骨金膏配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《备急千金要方》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "CharacterFuYuan_0000000001"
+          ],
+          "Name": {
+            "Value": "「福缘」+3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/YiShu/BeiJiQianJinYaoFang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "医书"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "补中益气丸配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "真元丹配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "浑天丹配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《针灸甲乙经》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "CharacterJianShi_0000000001"
+          ],
+          "Name": {
+            "Value": "「见识」+3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/YiShu/ZhenJiuJiaYiJing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "医书"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "九霄还丹配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Description": "七命宝丹配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {},
+          {}
+        ],
+        "Description": "血凝草药配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《脉经》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "DuMai_0000000001"
+          ],
+          "Name": {
+            "Value": "「督脉」+1 「任脉」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "RenMai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/YiShu/MaiJing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "医书"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "立止咳血膏配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {},
+          {}
+        ],
+        "Description": "葛花解酲汤配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《外台秘要》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "CharacterWuXing_0000000001"
+          ],
+          "Name": {
+            "Value": "「悟性」+2 「饮酒」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "YinJiu_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/YiShu/WaiTaiMiYao"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "医书"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {},
+          {},
+          {}
+        ],
+        "Description": "玉衡换骨药配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "南斗赤膏配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《参合诀》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "CharacterJianShi_0000000001"
+          ],
+          "Name": {
+            "Value": "「见识」+2 「神来」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShenLai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/YiShu/CanHeJue"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "医书"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "千转补灵丹配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "太易灵紫膏配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {},
+          {}
+        ],
+        "Description": "玉清白骨膏配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《神照残经》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "CharacterWuXing_0000000001"
+          ],
+          "Name": {
+            "Value": "「悟性」+2 「神来」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShenLai_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/YiShu/ShenZhaoCanJing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "毒经"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "牵机玉丸配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "炎阳衔命汤配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {}
+        ],
+        "Description": "碧蚕毒蛊配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {},
+          {}
+        ],
+        "Description": "醉仙灵配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "破障金丹配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《五毒秘典》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "五毒洞历代掌门研究撰写的毒经圣典。记载的毒药配方都是一等一的剧毒，据说为了著成此秘典，不知多少无辜的性命因验毒而死在了五毒洞……"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "DuShu_0000000001"
+          ],
+          "Name": {
+            "Value": "「毒术」+5"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/DuJing/WuDuMiDian"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "毒经"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {}
+        ],
+        "Description": "鸾凤烟配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {}
+        ],
+        "Description": "赤蝎粉配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "阴云虚空配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {}
+        ],
+        "Description": "雷公秘酒配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《虚瘾三章》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "据说著成此毒经的乃是前朝的一位道士，平日里无心修仙，只爱研究毒药配制。临终前感慨自己虚度光阴，制毒成瘾，便把倾注了毕生心血的毒经命名为《虚瘾三章》。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "DuShu_0000000001"
+          ],
+          "Name": {
+            "Value": "「毒术」+2 「杀意」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShaYi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/DuJing/XuYinSanZhang"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "毒经"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "凝魂蛊配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {},
+          {}
+        ],
+        "Description": "金玉丸配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "土石清心丹配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《破凰毒经》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "人们常用凤凰于飞来指代两情缱绻。据传此毒经乃苗疆的一位女子所著，因心爱的丈夫不幸中蛊毒去世，从此研究虫蛊，耗费毕生心血写下了记载多种虫蛊毒的制作方式以及解毒药方，并命名为《破凰毒经》。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "DuShu_0000000001"
+          ],
+          "Name": {
+            "Value": "「毒术」+3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/DuJing/PoHuangDuJing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "毒经"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {}
+        ],
+        "Description": "雪上一枝蒿配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {}
+        ],
+        "Description": "雪珠海棠配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "红信膏配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {},
+          {}
+        ],
+        "Description": "霹雳散功散配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《星罗蚀日》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {
+      "Value": "世上的奇毒异毒均记录在册，据说按照此方所制成的毒之威力足以使星月吞噬太阳，世间呈日夜颠倒之状。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "DuShu_0000000001"
+          ],
+          "Name": {
+            "Value": "「毒术」+3 「杀意」+3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "ShaYi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/DuJing/XingLuoShiRi"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "毒经"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "元阳化毒散配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "青莲花配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "牵机玉丸配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {}
+        ],
+        "Description": "断脉草配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《牵机秋石谱》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "DuShu_0000000001"
+          ],
+          "Name": {
+            "Value": "「毒术」+2 「医术」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "YiShu_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/DuJing/QianJiQiuShiPu"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "毒经"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "金线蛇配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "钩吻丸配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {}
+        ],
+        "Description": "煞秋根配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《鸾蛛毒经》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "DuShu_0000000001"
+          ],
+          "Name": {
+            "Value": "「毒术」+2 「暗器」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "CunJin_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/DuJing/LuanZhuDuJing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "毒经"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {}
+        ],
+        "Description": "桃花露配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {}
+        ],
+        "Description": "蚀心散配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "煞骨魅药配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《仙霓蛊经》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "DuShu_0000000001"
+          ],
+          "Name": {
+            "Value": "「毒术」+2 「魅力」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "MeiLi_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/DuJing/XianNiGuJing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "毒经"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "金颜香配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {},
+          {}
+        ],
+        "Description": "天命四散丸配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《鸩蛊毒经》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "DuShu_0000000001"
+          ],
+          "Name": {
+            "Value": "「毒术」+4"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/DuJing/ZhenGuDuJing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "毒经"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "拈花笑配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "破风油配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {},
+          {}
+        ],
+        "Description": "烂喉夺心草配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《邪月禁诀》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "DuShu_0000000001"
+          ],
+          "Name": {
+            "Value": "「毒术」+10 「道德」-20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "DaoDe_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/DuJing/XieYueJinJue"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "毒经"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "黄龙毒丹配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "灵角歧丝配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "金蚕蛊配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "分元秘丹配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《化脉墨仙经》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "DuShu_0000000001"
+          ],
+          "Name": {
+            "Value": "「毒术」+2 「笔法」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "BiFa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/DuJing/HuaMaiMoXianJing"
+    ]
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "毒经"
+    },
+    "PeiFangs": [
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "金乌毒丹配方"
+      },
+      {
+        "YaoCaiGroup": [
+          {},
+          {}
+        ],
+        "Description": "凄煌蚀泪配方"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《凄煌金乌》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemZhiMingDu": {},
+    "BuyPrice": {},
+    "SalePrice": {},
+    "ItemDescription": {},
+    "ItemTeSes": {
+      "Values": [
+        {
+          "RelatedID": [
+            "CharacterJianShi_0000000001"
+          ],
+          "Name": {
+            "Value": "「见识」+2 「气法」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        },
+        {
+          "RelatedID": [
+            "QiFa_0000000001"
+          ],
+          "Name": {},
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "Value": {}
+        }
+      ]
+    },
+    "Prefabs": [
+      "UI/_Icon_Prefab/1109 ADD/DuJing/QiHuangJinWu"
+    ]
+  }
+]

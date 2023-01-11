@@ -1,0 +1,1628 @@
+[
+  {
+    "Name": "「吉星」出身",
+    "Description1": "「全武」+8",
+    "Description2": "追加额外「金钱」",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "天赋",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "开卷有益"
+    ],
+    "Text2": [
+      "吉人天相"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": []
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「奇真」出身",
+    "Description1": "「全武」+8",
+    "Description2": "追加额外「金钱」",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "天赋",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "奇经异脉"
+    ],
+    "Text2": [
+      "真气充盈"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": []
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「绝玄」出身",
+    "Description1": "「全武」+8",
+    "Description2": "追加额外「金钱」",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "天赋",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "骨骼清奇"
+    ],
+    "Text2": [
+      "练武奇才"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": []
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「乐世」出身",
+    "Description1": "「魅力」+10",
+    "Description2": "「涵养」+10",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "天赋",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "乐天喜人"
+    ],
+    "Text2": [
+      "如沐春风"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": []
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「养天馆」出身",
+    "Description1": "「医术」+15",
+    "Description2": "自宅仓库追加「医书」<color=#23FF00FF>《旅舍备要方》</color>",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "医术",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于70"
+    ],
+    "Text2": [
+      "医者"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          100.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「黑仙洞」出身",
+    "Description1": "「毒术」+15",
+    "Description2": "自宅仓库追加「毒经」<color=#FF00B6FF>《牵机秋石谱》</color>",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "毒术",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于70"
+    ],
+    "Text2": [
+      "毒师"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          100.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「奇世家」出身",
+    "Description1": "「收藏」+10",
+    "Description2": "「悟性」+10",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "收藏",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于75"
+    ],
+    "Text2": [
+      "奇珍异宝"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          999.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「茶世家」出身",
+    "Description1": "「茶道」+15",
+    "Description2": "自宅仓库追加额外「茶具茶叶」",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": [
+        "SongZhenCha_Tea00002",
+        "SongZhenCha_Tea00002",
+        "SongZhenCha_Tea00002",
+        "SongZhenCha_Tea00002",
+        "SongZhenCha_Tea00002"
+      ]
+    },
+    "ShuXing1": "茶道",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于75"
+    ],
+    "Text2": [
+      "点茶高手"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          999.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「食世家」出身",
+    "Description1": "「烹饪」+15",
+    "Description2": "自宅仓库追加额外「食材」",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": [
+        "ZhuRou_ShiCai00001",
+        "ZhuRou_ShiCai00001",
+        "YangRou_ShiCai00002",
+        "YangRou_ShiCai00002",
+        "YangRou_ShiCai00002",
+        "NiuRou_ShiCai00003",
+        "NiuRou_ShiCai00003",
+        "LiYu_ShiCai00023",
+        "LiYu_ShiCai00023",
+        "LiYu_ShiCai00023",
+        "MianFen_ShiCai00070",
+        "MianFen_ShiCai00070",
+        "MianFen_ShiCai00070",
+        "MianFen_ShiCai00070",
+        "MianFen_ShiCai00070",
+        "DaMi_ShiCai00071",
+        "DaMi_ShiCai00071",
+        "DaMi_ShiCai00071",
+        "DaMi_ShiCai00071",
+        "DaMi_ShiCai00071"
+      ]
+    },
+    "ShuXing1": "烹饪",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于75"
+    ],
+    "Text2": [
+      "炮凤烹龙"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          999.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「酒世家」出身",
+    "Description1": "「饮酒」+15",
+    "Description2": "自宅仓库追加额外「酒器名酒」",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": [
+        "LianQuanJiu_Wine00002",
+        "LianQuanJiu_Wine00002",
+        "LianQuanJiu_Wine00002",
+        "LianQuanJiu_Wine00002",
+        "LianQuanJiu_Wine00002"
+      ]
+    },
+    "ShuXing1": "饮酒",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于75"
+    ],
+    "Text2": [
+      "五斗先生"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          999.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「音世家」出身",
+    "Description1": "「乐器」+15",
+    "Description2": "自宅仓库追加额外「乐器乐谱」",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": [
+        "BaiXueCao_Music00001"
+      ]
+    },
+    "ShuXing1": "乐器",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于75"
+    ],
+    "Text2": [
+      "品竹弹丝"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          999.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「诗世家」出身",
+    "Description1": "「诗词」+15",
+    "Description2": "自宅仓库追加额外「书籍」",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": [
+        "ShiJing_Reading00006"
+      ]
+    },
+    "ShuXing1": "诗词",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于75"
+    ],
+    "Text2": [
+      "妙笔生花"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          999.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「画世家」出身",
+    "Description1": "「书画」+15",
+    "Description2": "自宅仓库追加额外「文房四宝」",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": [
+        "BaiMaZhi_Antique_Zhi_00001",
+        "CuanKongYan_Antique_Yan_00001"
+      ]
+    },
+    "ShuXing1": "书画",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于75"
+    ],
+    "Text2": [
+      "挥毫落纸"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          999.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「一灵堂」出身",
+    "Description1": "「悟性」+15",
+    "Description2": "追加额外「金钱」",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "悟性",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于55"
+    ],
+    "Text2": [
+      "灵心慧性"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          100.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「素光寺」出身",
+    "Description1": "「福缘」+15",
+    "Description2": "追加额外「金钱」",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "福缘",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于55"
+    ],
+    "Text2": [
+      "吉人天相"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          100.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「青竹塔」出身",
+    "Description1": "「魅力」+15",
+    "Description2": "追加额外「金钱」",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "魅力",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于65"
+    ],
+    "Text2": [
+      "天生丽质"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          100.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「四方庄」出身",
+    "Description1": "「交涉」+15",
+    "Description2": "追加额外「金钱」",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "交涉",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于55"
+    ],
+    "Text2": [
+      "能说会道"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          100.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「摘星崖」出身",
+    "Description1": "「见识」+15",
+    "Description2": "追加额外「金钱」",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "见识",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于55"
+    ],
+    "Text2": [
+      "见多识广"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          100.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「无色坊」出身",
+    "Description1": "「涵养」+15",
+    "Description2": "追加额外「金钱」",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "涵养",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于65"
+    ],
+    "Text2": [
+      "知书达礼"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          100.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「血冥」出身",
+    "Description1": "「杀意」+15",
+    "Description2": "追加额外「金钱」",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "杀意",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于70"
+    ],
+    "Text2": [
+      "杀气腾腾"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          100.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「拂云」出身",
+    "Description1": "「神来」+15",
+    "Description2": "追加额外「金钱」",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "神来",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于60"
+    ],
+    "Text2": [
+      "天人和一"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          100.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「定风」出身",
+    "Description1": "「集中」+15",
+    "Description2": "追加额外「金钱」",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "集中",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于60"
+    ],
+    "Text2": [
+      "心无旁骛"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          100.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「开弓」出身",
+    "Description1": "「意志」+15",
+    "Description2": "追加额外「金钱」",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "意志",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于60"
+    ],
+    "Text2": [
+      "坚韧不拔"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          100.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「千钧」出身",
+    "Description1": "「决断」+15",
+    "Description2": "追加额外「金钱」",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "决断",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于60"
+    ],
+    "Text2": [
+      "当机立断"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          100.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「太始」出身",
+    "Description1": "「体魄」+8",
+    "Description2": "「腰马」+8",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "体魄",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于60"
+    ],
+    "Text2": [
+      "身强体健"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      },
+      {
+        "RelatedID": [],
+        "Value": [
+          8.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          100.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「封侯」出身",
+    "Description1": "「指力」+15",
+    "Description2": "自宅仓库追加「内功秘籍」<color=#23FF00FF>墨阳气法</color>",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "指力",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于55"
+    ],
+    "Text2": [
+      "指力达人"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          999.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「刀门」出身",
+    "Description1": "「使刀」+15",
+    "Description2": "自宅仓库追加「内功秘籍」<color=#23FF00FF>点苍心法</color>「兵器」<color=#23FF00FF>戒刀</color>",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "使刀",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于55"
+    ],
+    "Text2": [
+      "使刀好手"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          999.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「棍宗」出身",
+    "Description1": "「耍棍」+15",
+    "Description2": "自宅仓库追加「内功秘籍」<color=#23FF00FF>青狄内功</color>「兵器」<color=#23FF00FF>铜棍</color>",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "耍棍",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于55"
+    ],
+    "Text2": [
+      "耍棍好手"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          999.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「枪阁」出身",
+    "Description1": "「用枪」+15",
+    "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>昆吾枪法</color>「兵器」<color=#23FF00FF>素木枪</color>",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "用枪",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于55"
+    ],
+    "Text2": [
+      "用枪好手"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          999.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「斧寨」出身",
+    "Description1": "「运斧」+15",
+    "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>将军斧法</color>「兵器」<color=#23FF00FF>板斧</color>",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "运斧",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于55"
+    ],
+    "Text2": [
+      "运斧达人"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          999.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「鞭楼」出身",
+    "Description1": "「鞭术」+15",
+    "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>扫霞鞭法</color>「兵器」<color=#23FF00FF>柳皇鞭</color>",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "鞭术",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于55"
+    ],
+    "Text2": [
+      "鞭术好手"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          999.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「钩角」出身",
+    "Description1": "「钩法」+15",
+    "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>小紫云钩诀</color>「兵器」<color=#23FF00FF>铁钩</color>",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "钩法",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于55"
+    ],
+    "Text2": [
+      "钩法达人"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          999.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「隐秘」出身",
+    "Description1": "「暗器」+15",
+    "Description2": "自宅仓库追加「内功秘籍」<color=#23FF00FF>残魂气法</color>「兵器」<color=#23FF00FF>银镖</color>",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "暗器",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于55"
+    ],
+    "Text2": [
+      "善用暗器"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          999.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「笔祠」出身",
+    "Description1": "「笔法」+15",
+    "Description2": "自宅仓库追加「内功秘籍」<color=#23FF00FF>金字心经</color>「兵器」<color=#23FF00FF>银钩笔</color>",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "笔法",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于55"
+    ],
+    "Text2": [
+      "笔法达人"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          999.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「剑邸」出身",
+    "Description1": "「用剑」+10",
+    "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>两仪剑法</color>",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "用剑",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于60"
+    ],
+    "Text2": [
+      "用剑好手"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          100.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「拳府」出身",
+    "Description1": "「拳掌」+10",
+    "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>乾天掌</color>",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "拳掌",
+    "ShuXing2": "天赋",
+    "Text1": [
+      "高于60"
+    ],
+    "Text2": [
+      "拳掌好手"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          10.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "RelatedID": [],
+        "Value": [
+          100.0
+        ]
+      },
+      {
+        "RelatedID": []
+      }
+    ]
+  },
+  {
+    "Name": "「武世家」出身",
+    "Description1": "自宅仓库追加「轻功秘籍」<color=#23FF00FF>疾风步法</color>",
+    "Description2": "自宅仓库追加额外「伤药」",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": [
+        "PXJinChuangYao00001",
+        "PXJinChuangYao00001",
+        "PXJinChuangYao00001",
+        "PXJinChuangYao00001",
+        "PXJinChuangYao00001"
+      ]
+    },
+    "ShuXing1": "武功",
+    "ShuXing2": "身体",
+    "Text1": [
+      "不凡"
+    ],
+    "Text2": [
+      "不凡"
+    ],
+    "CharacterPropsUpgrades": [],
+    "Conditions": [
+      {
+        "Value": [
+          999.0
+        ]
+      },
+      {
+        "Value": [
+          100.0
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "「玄世家」出身",
+    "Description1": "自宅仓库追加「内功秘籍」<color=#23FF00FF>丹阳心法</color>",
+    "Description2": "自宅仓库追加额外「补药」",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": [
+        "ZhiYuanNeiDan00001",
+        "ZhiYuanNeiDan00001",
+        "ZhiYuanNeiDan00001",
+        "ZhiYuanNeiDan00001",
+        "ZhiYuanNeiDan00001"
+      ]
+    },
+    "ShuXing1": "内功",
+    "ShuXing2": "精神",
+    "Text1": [
+      "不凡"
+    ],
+    "Text2": [
+      "不凡"
+    ],
+    "CharacterPropsUpgrades": [],
+    "Conditions": [
+      {
+        "Value": [
+          999.0
+        ]
+      },
+      {
+        "Value": [
+          999.0
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "「无奇」出身",
+    "Description1": "「福缘」+15",
+    "Description2": "追加额外「金钱」",
+    "CangKu": {
+      "WeaponEntitys": [],
+      "Items": []
+    },
+    "ShuXing1": "武功",
+    "ShuXing2": "生平",
+    "Text1": [
+      "无奇"
+    ],
+    "Text2": [
+      "无奇"
+    ],
+    "CharacterPropsUpgrades": [
+      {
+        "RelatedID": [],
+        "Value": [
+          15.0
+        ]
+      }
+    ],
+    "Conditions": [
+      {
+        "Value": [
+          999.0
+        ]
+      }
+    ]
+  }
+]
