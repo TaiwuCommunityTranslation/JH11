@@ -1,0 +1,506 @@
+[
+  {
+    "Name": {
+      "ValueInfo": "scold angrily"
+    },
+    "XingWeiType": {},
+    "XingWeiIcon": {},
+    "XingWeiDes": {
+      "Value": "A small reduction in your own mind value and a large reduction in the opponent's mind value"
+    },
+    "LengQueHuiHe": {},
+    "YouLieXianZhi": {
+      "ChuJing": {},
+      "KeYongDengJi": {}
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {},
+      "DuiFang": {}
+    },
+    "QiTaYingXiang": {
+      "Values": [
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Calm Failure"
+          },
+          "YingXiangDes": {
+            "Value": "Disabling the other person's calm behavior"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Ignoring Righteousness"
+          },
+          "YingXiangDes": {
+            "Value": "Ignoring the impact of the other party's righteousness on oneself"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Ignore the radical scolding"
+          },
+          "YingXiangDes": {
+            "Value": "Ignore the impact of the other party's aggressive cursing on you"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Persuade each other to surrender"
+          },
+          "YingXiangDes": {
+            "Value": "Persuade each other to surrender"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Surrender to the other side"
+          },
+          "YingXiangDes": {
+            "Value": "Surrender to the other side"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "show weakness"
+    },
+    "XingWeiType": {},
+    "XingWeiIcon": {},
+    "XingWeiDes": {
+      "Value": "A small increase in your own mind value A small increase in your opponent's mind value"
+    },
+    "LengQueHuiHe": {},
+    "YouLieXianZhi": {
+      "ChuJing": {},
+      "KeYongDengJi": {}
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {},
+      "DuiFang": {}
+    },
+    "QiTaYingXiang": {
+      "Values": [
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Calm Failure"
+          },
+          "YingXiangDes": {
+            "Value": "Disabling the other person's calm behavior"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Ignoring Righteousness"
+          },
+          "YingXiangDes": {
+            "Value": "Ignoring the impact of the other party's righteousness on oneself"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Ignore the radical scolding"
+          },
+          "YingXiangDes": {
+            "Value": "Ignore the impact of the other party's aggressive cursing on you"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Persuade each other to surrender"
+          },
+          "YingXiangDes": {
+            "Value": "Persuade each other to surrender"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Surrender to the other side"
+          },
+          "YingXiangDes": {
+            "Value": "Surrender to the other side"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "provoke"
+    },
+    "XingWeiType": {},
+    "XingWeiIcon": {},
+    "XingWeiDes": {
+      "Value": "Invalidate the other side's calmness"
+    },
+    "LengQueHuiHe": {},
+    "YouLieXianZhi": {
+      "ChuJing": {},
+      "KeYongDengJi": {}
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {},
+      "DuiFang": {}
+    },
+    "QiTaYingXiang": {
+      "Values": [
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Calm Failure"
+          },
+          "YingXiangDes": {
+            "Value": "Disabling the other person's calm behavior"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Ignoring Righteousness"
+          },
+          "YingXiangDes": {
+            "Value": "Ignoring the impact of the other party's righteousness on oneself"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Ignore the radical scolding"
+          },
+          "YingXiangDes": {
+            "Value": "Ignore the impact of the other party's aggressive cursing on you"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Persuade each other to surrender"
+          },
+          "YingXiangDes": {
+            "Value": "Persuade each other to surrender"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Surrender to the other side"
+          },
+          "YingXiangDes": {
+            "Value": "Surrender to the other side"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "Calm"
+    },
+    "XingWeiType": {},
+    "XingWeiIcon": {},
+    "XingWeiDes": {
+      "Value": "Increase your mindset value a lot"
+    },
+    "LengQueHuiHe": {},
+    "YouLieXianZhi": {
+      "ChuJing": {},
+      "KeYongDengJi": {}
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {},
+      "DuiFang": {}
+    },
+    "QiTaYingXiang": {
+      "Values": [
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Calm Failure"
+          },
+          "YingXiangDes": {
+            "Value": "Disabling the other person's calm behavior"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Ignoring Righteousness"
+          },
+          "YingXiangDes": {
+            "Value": "Ignoring the impact of the other party's righteousness on oneself"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Ignore the radical scolding"
+          },
+          "YingXiangDes": {
+            "Value": "Ignore the impact of the other party's aggressive cursing on you"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Persuade each other to surrender"
+          },
+          "YingXiangDes": {
+            "Value": "Persuade each other to surrender"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Surrender to the other side"
+          },
+          "YingXiangDes": {
+            "Value": "Surrender to the other side"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "Righteousness"
+    },
+    "XingWeiType": {},
+    "XingWeiIcon": {},
+    "XingWeiDes": {
+      "Value": "The value of your own mind increases, the other party's mind decreases"
+    },
+    "LengQueHuiHe": {},
+    "YouLieXianZhi": {
+      "ChuJing": {},
+      "KeYongDengJi": {}
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {},
+      "DuiFang": {}
+    },
+    "QiTaYingXiang": {
+      "Values": [
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Calm Failure"
+          },
+          "YingXiangDes": {
+            "Value": "Disabling the other person's calm behavior"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Ignoring Righteousness"
+          },
+          "YingXiangDes": {
+            "Value": "Ignoring the impact of the other party's righteousness on oneself"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Ignore the radical scolding"
+          },
+          "YingXiangDes": {
+            "Value": "Ignore the impact of the other party's aggressive cursing on you"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Persuade each other to surrender"
+          },
+          "YingXiangDes": {
+            "Value": "Persuade each other to surrender"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Surrender to the other side"
+          },
+          "YingXiangDes": {
+            "Value": "Surrender to the other side"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "ignore"
+    },
+    "XingWeiType": {},
+    "XingWeiIcon": {},
+    "XingWeiDes": {
+      "Value": "Ignoring each other's righteousness and aggressive scolding"
+    },
+    "LengQueHuiHe": {},
+    "YouLieXianZhi": {
+      "ChuJing": {},
+      "KeYongDengJi": {}
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {},
+      "DuiFang": {}
+    },
+    "QiTaYingXiang": {
+      "Values": [
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Calm Failure"
+          },
+          "YingXiangDes": {
+            "Value": "Disabling the other person's calm behavior"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Ignoring Righteousness"
+          },
+          "YingXiangDes": {
+            "Value": "Ignoring the impact of the other party's righteousness on oneself"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Ignore the radical scolding"
+          },
+          "YingXiangDes": {
+            "Value": "Ignore the impact of the other party's aggressive cursing on you"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Persuade each other to surrender"
+          },
+          "YingXiangDes": {
+            "Value": "Persuade each other to surrender"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Surrender to the other side"
+          },
+          "YingXiangDes": {
+            "Value": "Surrender to the other side"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "persuade to surrender"
+    },
+    "XingWeiType": {},
+    "XingWeiIcon": {},
+    "XingWeiDes": {
+      "Value": "Try to convince the other person to surrender voluntarily"
+    },
+    "LengQueHuiHe": {},
+    "YouLieXianZhi": {
+      "ChuJing": {},
+      "KeYongDengJi": {}
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {},
+      "DuiFang": {}
+    },
+    "QiTaYingXiang": {
+      "Values": [
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Calm Failure"
+          },
+          "YingXiangDes": {
+            "Value": "Disabling the other person's calm behavior"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Ignoring Righteousness"
+          },
+          "YingXiangDes": {
+            "Value": "Ignoring the impact of the other party's righteousness on oneself"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Ignore the radical scolding"
+          },
+          "YingXiangDes": {
+            "Value": "Ignore the impact of the other party's aggressive cursing on you"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Persuade each other to surrender"
+          },
+          "YingXiangDes": {
+            "Value": "Persuade each other to surrender"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Surrender to the other side"
+          },
+          "YingXiangDes": {
+            "Value": "Surrender to the other side"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "ValueInfo": "surrender"
+    },
+    "XingWeiType": {},
+    "XingWeiIcon": {},
+    "XingWeiDes": {
+      "Value": "Try to surrender to the object"
+    },
+    "LengQueHuiHe": {},
+    "YouLieXianZhi": {
+      "ChuJing": {},
+      "KeYongDengJi": {}
+    },
+    "XinTaiYingXiang": {
+      "JiFang": {},
+      "DuiFang": {}
+    },
+    "QiTaYingXiang": {
+      "Values": [
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Calm Failure"
+          },
+          "YingXiangDes": {
+            "Value": "Disabling the other person's calm behavior"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Ignoring Righteousness"
+          },
+          "YingXiangDes": {
+            "Value": "Ignoring the impact of the other party's righteousness on oneself"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Ignore the radical scolding"
+          },
+          "YingXiangDes": {
+            "Value": "Ignore the impact of the other party's aggressive cursing on you"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Persuade each other to surrender"
+          },
+          "YingXiangDes": {
+            "Value": "Persuade each other to surrender"
+          }
+        },
+        {
+          "YingXiangLeiXing": {
+            "ValueInfo": "Surrender to the other side"
+          },
+          "YingXiangDes": {
+            "Value": "Surrender to the other side"
+          }
+        }
+      ]
+    }
+  }
+]
