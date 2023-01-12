@@ -1,0 +1,1017 @@
+{
+  "Global": {
+    "BuWeiZhuangTai": {
+      "Shang": "伤",
+      "Can": "残",
+      "Fei": "废",
+      "ZhengChang": "正常"
+    },
+    "Season": {
+      "Spring": "<color=#FB31D1>春</color>",
+      "Summer": "<color=#30FAA8>夏</color>",
+      "Autumn": "<color=#FF9800FF>秋</color>",
+      "Winter": "<color=#FFFFFF>冬</color>"
+    },
+    "Time": {
+      "Morning": "早上",
+      "Noon": "中午",
+      "Afternoon": "下午",
+      "Night": "晚上"
+    },
+    "State": {
+      "WeiZhongDu": "无",
+      "WeiShengBing": "无症状",
+      "ShengBing": "生病",
+      "Qing": "轻",
+      "Zhong": "重",
+      "Huan": "缓",
+      "Ji": "急"
+    },
+    "BuWei": {
+      "TouMian": "头面",
+      "ShouWan": "手腕",
+      "ShouBi": "手臂",
+      "XiongBei": "胸背",
+      "YaoFu": "腰腹",
+      "TuiJiao": "腿脚",
+      "JinMai": "筋脉"
+    },
+    "Gender": {
+      "Nan": "男",
+      "Nv": "女",
+      "Yan": "阉"
+    },
+    "Date": {
+      "NianYueRi": "{0}年{1}月{2}日",
+      "YueRi": "{0}月{1}日",
+      "Nian": "年",
+      "Yue": "月",
+      "Ri": "日"
+    },
+    "DangWei": {
+      "DiYiDang": "第一档",
+      "DiErDang": "第二档",
+      "DiSanDang": "第三档",
+      "DiSiDang": "第四档",
+      "DiWuDang": "第五档",
+      "DiLiuDang": "第六档",
+      "DiQiDang": "第七档",
+      "DiBaDang": "第八档",
+      "DiJiuDang": "第九档",
+      "DiShiDang": "第十档",
+      "DiShiYiDang": "第十一档",
+      "DiShiErDang": "第十二档",
+      "DiShiSanDang": "第十三档"
+    },
+    "Hobby": {
+      "ShiCi": "诗词",
+      "PengRen": "烹饪",
+      "ChaDao": "茶道",
+      "HuiHua": "绘画",
+      "YueQi": "乐器",
+      "YinJiu": "饮酒",
+      "GuanPu": "关扑",
+      "ShouCang": "收藏",
+      "YiShu": "医术",
+      "DuShu": "毒术"
+    },
+    "WaiGongType": {
+      "None": "空手",
+      "Quan": "拳",
+      "Jian": "剑",
+      "Dao": "刀",
+      "Gun": "棍",
+      "Qiang": "枪",
+      "Zhi": "指",
+      "Chui": "锤",
+      "Bian": "鞭",
+      "Gou": "钩"
+    },
+    "NianLing": {
+      "Sui": "岁"
+    },
+    "FanYe": {
+      "Ye": "{0}/{1}页"
+    },
+    "Money": {
+      "Wen": "文",
+      "Guan": "贯",
+      "NoMoney_MainDH": "<color=#FF5E4EFF>身无分文</color>"
+    }
+  },
+  "LianGongXiTong": {
+    "PanelText": "武艺修炼",
+    "WuGong": "武功",
+    "NeiGong": "内功",
+    "QingGong": "轻功",
+    "XinFa": "武功心法",
+    "YiXiuLian": "已修炼",
+    "WeiXiuLian": "未修炼",
+    "WuWuGong": "未习得武功",
+    "WuNeiGong": "未习得内功",
+    "WuQingGong": "未习得轻功"
+  },
+  "Action": {
+    "DianCha": {
+      "PanelName": "点茶"
+    },
+    "FuShi": {
+      "PanelName": "赋诗"
+    },
+    "HaoYin": {
+      "PanelName": "豪饮"
+    },
+    "TiaoXiXiuYang": {
+      "PanelName": "调息修养"
+    },
+    "YueDu": {
+      "PanelName": "阅读"
+    },
+    "YunGongJieDu": {
+      "PanelName": "运功解毒",
+      "CanJieDu": "运功解毒",
+      "CanNotJieDu": "无法解毒"
+    },
+    "YunGongLiaoShang": {
+      "PanelName": "运功疗伤",
+      "CanLiaoShang": "运功疗伤",
+      "CanNotLiaoShang": "无法疗伤"
+    },
+    "ZhiZuoDu": {
+      "PanelName": "制作毒"
+    },
+    "ZhiZuoYao": {
+      "PanelName": "制作药"
+    },
+    "ZhuanXieMiJi": {
+      "PanelName": "撰写秘籍",
+      "WuWuGong": "未习满武功",
+      "WuNeiGong": "未习满内功",
+      "WuQingGong": "未习满轻功"
+    },
+    "PengRen": {
+      "PanelName": "烹饪",
+      "QueShaoShiCai": "<color=#FF5E4EFF>缺少</color>"
+    },
+    "XieZiZuoHua": {
+      "PanelName": "写字作画",
+      "Bi": "笔",
+      "Mo": "墨",
+      "Zhi": "纸",
+      "Yan": "砚"
+    },
+    "YanZou": {
+      "PanelName": "演奏"
+    },
+    "JianBao": {
+      "PanelName": "鉴宝"
+    },
+    "BaWan": {
+      "PanelName": "把玩",
+      "BaWanButton": "把玩"
+    },
+    "ChuangZuoShiCi": {
+      "PanelName": "创作诗词"
+    },
+    "ChuangZuoShuHua": {
+      "PanelName": "创作书画"
+    },
+    "XiuXi": {
+      "PanelName": "休息"
+    },
+    "MingXiang": {
+      "PanelName": "冥想"
+    },
+    "PaoZao": {
+      "PanelName": "泡澡"
+    },
+    "ChuWu": {
+      "PanelName_Cun": "储存物品",
+      "PanelName_Qu": "提取物品",
+      "EmptySignText_CunRu": "未携带",
+      "EmptySignText_QuChu": "无存货",
+      "CunRu": "存入",
+      "QuChu": "取出",
+      "DepositName_Cun": "存入数量",
+      "DepositName_Qu": "取出数量",
+      "QuChuAll": {
+        "BingQiRongJu": {
+          "Info1": "确定要取出所有兵器戎具吗？",
+          "Info2": ""
+        },
+        "MiJiBaoDian": {
+          "Info1": "确定要取出所有秘籍宝典吗？",
+          "Info2": ""
+        },
+        "LingDanMiaoYao": {
+          "Info1": "确定要取出所有灵丹妙药吗？",
+          "Info2": ""
+        },
+        "ShiCaiJiaYao": {
+          "Info1": "确定要取出所有食材佳肴吗？",
+          "Info2": ""
+        },
+        "ChaJvChaYe": {
+          "Info1": "确定要取出所有茶具茶叶吗？",
+          "Info2": ""
+        },
+        "JiuQiMingJiu": {
+          "Info1": "确定要取出所有酒器名酒吗？",
+          "Info2": ""
+        },
+        "ShiCiShuKan": {
+          "Info1": "确定要取出所有诗词书刊吗？",
+          "Info2": ""
+        },
+        "YiShuDuJing": {
+          "Info1": "确定要取出所有医术毒经吗？",
+          "Info2": ""
+        },
+        "ShuFaHuiHua": {
+          "Info1": "确定要取出所有书法绘画吗？",
+          "Info2": ""
+        },
+        "YueQiYuePu": {
+          "Info1": "确定要取出所有乐器乐谱吗？",
+          "Info2": ""
+        },
+        "WenWanShouCang": {
+          "Info1": "确定要取出所有文玩收藏吗？",
+          "Info2": ""
+        }
+      }
+    },
+    "DaZuo": {
+      "NeiLi": "消耗{0}内力"
+    }
+  },
+  "Relation": {
+    "DianCha": "点茶",
+    "DuiYin": "对饮",
+    "GongZou": "共奏",
+    "XiaChuYanQing": "烹饪",
+    "Wo": "我",
+    "ShiFu": "师父",
+    "TuDi": "徒弟",
+    "ChaKanGuanXi": "查看关系",
+    "QingBao": "情报",
+    "QueDingSongChu": "确定送出\"{0}\"吗？",
+    "QueDingTouZou": "确定偷走\"{0}\"吗？",
+    "WuYiXiuLian": "武艺修炼",
+    "TouShi": "偷师",
+    "QueDingTouShi": "确定要偷学修炼武功\"{0}\"吗？",
+    "WuGong": "武功",
+    "WeiXie": "威胁",
+    "QiaoShe": "巧舌",
+    "SiDou": "死斗",
+    "QueDingShiYong": "确定使用\"{0}\"吗？",
+    "XueXiJiYiPayShengYvCiShu": "「传艺次数」还剩{0}次"
+  },
+  "Bag": {
+    "WuQiFangJu": {
+      "TianShuMingHaoWu": "无"
+    },
+    "MiJiBaoDian": {
+      "XinFaConfirm": "确定要修炼心法\"{0}\"吗",
+      "WuGongConfirm": "确定要修炼武功\"{0}\"吗",
+      "NeiGongQingGongConfirm": "确定要修炼\"{0}\"吗",
+      "Yin": "阴",
+      "Yang": "阳",
+      "WuShuXing": "无属性",
+      "BaoHan": "包含",
+      "BuBaoHan": "不包含",
+      "NeiGong": "内功",
+      "QingGong": "轻功",
+      "Wu": "无",
+      "YiXiuLian": "已修炼",
+      "WeiXiuLian": "未修炼",
+      "WuGongXinFa": "武功心法",
+      "XinFaKouJue": "心法口诀",
+      "GongCaoWei": "{0}<size=14>槽位</size>",
+      "FangCaoWei": "{0}<size=14>槽位</size>",
+      "JiCaoWei": "{0}<size=14>槽位</size>"
+    },
+    "YiShuDuJing": {
+      "Need": "需要:",
+      "Ge": "个"
+    },
+    "JiuQiMingJiu": {
+      "QueDingShiYong": "确定使用"
+    },
+    "ShiCiShuKan": {
+      "BuKeYueDu": "不可阅读"
+    }
+  },
+  "Shop": {
+    "PanelName": "商品一览",
+    "EmptySignText": "无货",
+    "GouMai": "购买",
+    "ChuShou": "出售",
+    "HuiShou": "回收",
+    "BuyAll": {
+      "BingQiRongJu": {
+        "Info1": "确定要购买所有兵器戎具吗？",
+        "Info2": "（总共将花费{0}）"
+      },
+      "MiJiBaoDian": {
+        "Info1": "确定要购买所有秘籍宝典吗？",
+        "Info2": "（总共将花费{0}）"
+      },
+      "LingDanMiaoYao": {
+        "Info1": "确定要购买所有灵丹妙药吗？",
+        "Info2": "（总共将花费{0}）"
+      },
+      "ShiCaiJiaYao": {
+        "Info1": "确定要购买所有食材佳肴吗？",
+        "Info2": "（总共将花费{0}）"
+      },
+      "ChaJvChaYe": {
+        "Info1": "确定要购买所有茶具茶叶吗？",
+        "Info2": "（总共将花费{0}）"
+      },
+      "JiuQiMingJiu": {
+        "Info1": "确定要购买所有酒器名酒吗？",
+        "Info2": "（总共将花费{0}）"
+      },
+      "ShiCiShuKan": {
+        "Info1": "确定要购买所有诗词书刊吗？",
+        "Info2": "（总共将花费{0}）"
+      },
+      "YiShuDuJing": {
+        "Info1": "确定要购买所有医术毒经吗？",
+        "Info2": "（总共将花费{0}）"
+      },
+      "ShuFaHuiHua": {
+        "Info1": "确定要购买所有书法绘画吗？",
+        "Info2": "（总共将花费{0}）"
+      },
+      "YueQiYuePu": {
+        "Info1": "确定要购买所有乐器乐谱吗？",
+        "Info2": "（总共将花费{0}）"
+      },
+      "WenWanShouCang": {
+        "Info1": "确定要购买所有文玩收藏吗？",
+        "Info2": "（总共将花费{0}）"
+      }
+    },
+    "SaleAll": {
+      "BingQiRongJu": {
+        "All": {
+          "Info1": "确定要出售所有兵器戎具吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "White": {
+          "Info1": "确定要出售所有狼等兵器戎具吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Green": {
+          "Info1": "确定要出售所有虎等兵器戎具吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Blue": {
+          "Info1": "确定要出售所有凤等兵器戎具吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Gold": {
+          "Info1": "确定要出售所有龙等兵器戎具吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        }
+      },
+      "MiJiBaoDian": {
+        "All": {
+          "Info1": "确定要出售所有秘籍宝典吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "White": {
+          "Info1": "确定要出售所有狼等秘籍宝典吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Green": {
+          "Info1": "确定要出售所有虎等秘籍宝典吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Blue": {
+          "Info1": "确定要出售所有凤等秘籍宝典吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Gold": {
+          "Info1": "确定要出售所有龙等秘籍宝典吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        }
+      },
+      "LingDanMiaoYao": {
+        "All": {
+          "Info1": "确定要出售所有灵丹妙药吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "White": {
+          "Info1": "确定要出售所有狼等灵丹妙药吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Green": {
+          "Info1": "确定要出售所有虎等灵丹妙药吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Blue": {
+          "Info1": "确定要出售所有凤等灵丹妙药吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Gold": {
+          "Info1": "确定要出售所有龙等灵丹妙药吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        }
+      },
+      "ShiCaiJiaYao": {
+        "All": {
+          "Info1": "确定要出售所有食材佳肴吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "White": {
+          "Info1": "确定要出售所有狼等食材佳肴吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Green": {
+          "Info1": "确定要出售所有虎等食材佳肴吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Blue": {
+          "Info1": "确定要出售所有凤等食材佳肴吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Gold": {
+          "Info1": "确定要出售所有龙等食材佳肴吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        }
+      },
+      "ChaJvChaYe": {
+        "All": {
+          "Info1": "确定要出售所有酒器名酒吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "White": {
+          "Info1": "确定要出售所有狼等酒器名酒吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Green": {
+          "Info1": "确定要出售所有虎等酒器名酒吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Blue": {
+          "Info1": "确定要出售所有凤等酒器名酒吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Gold": {
+          "Info1": "确定要出售所有龙等酒器名酒吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        }
+      },
+      "JiuQiMingJiu": {
+        "All": {
+          "Info1": "确定要出售所有酒器名酒吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "White": {
+          "Info1": "确定要出售所有狼等酒器名酒吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Green": {
+          "Info1": "确定要出售所有虎等酒器名酒吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Blue": {
+          "Info1": "确定要出售所有凤等酒器名酒吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Gold": {
+          "Info1": "确定要出售所有龙等酒器名酒吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        }
+      },
+      "ShiCiShuKan": {
+        "All": {
+          "Info1": "确定要出售所有诗词书刊吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "White": {
+          "Info1": "确定要出售所有狼等诗词书刊吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Green": {
+          "Info1": "确定要出售所有虎等诗词书刊吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Blue": {
+          "Info1": "确定要出售所有凤等诗词书刊吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Gold": {
+          "Info1": "确定要出售所有龙等诗词书刊吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        }
+      },
+      "YiShuDuJing": {
+        "All": {
+          "Info1": "确定要出售所有医术毒经吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "White": {
+          "Info1": "确定要出售所有狼等医术毒经吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Green": {
+          "Info1": "确定要出售所有虎等医术毒经吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Blue": {
+          "Info1": "确定要出售所有凤等医术毒经吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Gold": {
+          "Info1": "确定要出售所有龙等医术毒经吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        }
+      },
+      "ShuFaHuiHua": {
+        "All": {
+          "Info1": "确定要出售所有书法绘画吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "White": {
+          "Info1": "确定要出售所有狼等书法绘画吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Green": {
+          "Info1": "确定要出售所有虎等书法绘画吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Blue": {
+          "Info1": "确定要出售所有凤等书法绘画吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Gold": {
+          "Info1": "确定要出售所有龙等书法绘画吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        }
+      },
+      "YueQiYuePu": {
+        "All": {
+          "Info1": "确定要出售所有乐器乐谱吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "White": {
+          "Info1": "确定要出售所有狼等乐器乐谱吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Green": {
+          "Info1": "确定要出售所有虎等乐器乐谱吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Blue": {
+          "Info1": "确定要出售所有凤等乐器乐谱吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Gold": {
+          "Info1": "确定要出售所有龙等乐器乐谱吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        }
+      },
+      "WenWanShouCang": {
+        "All": {
+          "Info1": "确定要出售所有文玩收藏吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "White": {
+          "Info1": "确定要出售所有狼等文玩收藏吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Green": {
+          "Info1": "确定要出售所有虎等文玩收藏吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Blue": {
+          "Info1": "确定要出售所有凤等文玩收藏吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        },
+        "Gold": {
+          "Info1": "确定要出售所有龙等文玩收藏吗？",
+          "Info2": "（总共将卖出获得{0}）"
+        }
+      }
+    }
+  },
+  "BiWuInfo": {
+    "Si": "死",
+    "Kong": "空",
+    "Dui": "队",
+    "LikaiLunJian": "离开论剑",
+    "RenWuXinXi": "人物信息",
+    "ZhanKuang": "战况",
+    "Nian": "年",
+    "Yue": "月",
+    "LunJianLiShi": "论剑历史",
+    "JinJi": "晋级{0}强",
+    "Sheng": "{0}胜",
+    "JinJiYiQiang": "晋级1强"
+  },
+  "Fight": {
+    "GongFangHuiHe": "{0}攻防回合",
+    "WuLengQue": "无冷却",
+    "BuXian": "不限",
+    "Gong": "<color=#E24344FF>攻</color>",
+    "Fang": "<color=#5C9BE2FF>防</color>",
+    "Wu": "无",
+    "HuiHeJieShu": "还有{0}回合战斗结束",
+    "Yi": "一",
+    "Er": "二",
+    "San": "三",
+    "DuiWu": "队",
+    "HuiHeTiaoZheng": "每{0}回合进行调整",
+    "GuiZeText": "回合内决出胜负，生死不限",
+    "GongZhaoWeiLi": "攻招威力",
+    "FangZhaoWeiLi": "防招威力",
+    "ZhongDu": "每回合造成持续伤害，还有N回合",
+    "FengMai": "还有N回合穴道冲破",
+    "NeiGongZhunBei": "内功准备中……",
+    "QingGongZhunBei": "轻功准备中……",
+    "Xu": "需",
+    "BeiJiHuo": "被{0}激活",
+    "ZhanPing": "战平",
+    "ShuangFangZhanPing": "双方战平",
+    "ShuangFangDaPing": "双方打平",
+    "ZhanSheng": "战胜",
+    "ZhanBai": "战败",
+    "FangHuoSheng": "方获胜",
+    "HuoSheng": "获胜",
+    "ShouShang": "受伤",
+    "Di": "              第",
+    "HuiHe": "回合",
+    "HuoQuShengDian": "获{0}胜点",
+    "DuiZhan": "对",
+    "KongShou": "空手",
+    "WuBingQiXiaoGuo": "无兵器效果",
+    "WuBingQiMingHaoXiaoGuo": "无兵器名号效果"
+  },
+  "JueSe_Self": {
+    "Wu": "无",
+    "WuZhengZhuang": "无症状",
+    "ShengPingFu": "{0}胜{1}平{2}负"
+  },
+  "WuGongXiuLian": {
+    "WuGong": "武功",
+    "NeiGong": "内功",
+    "QingGong": "轻功",
+    "YiXiuLian": "已修炼",
+    "CengShu": "第{0}层",
+    "CanWuJinXiu": "参悟进修",
+    "ShengYvJieDuan": "还剩{0}个时段",
+    "ShengYvTianShu": "还剩{0}天",
+    "CanWuWanCheng": "参悟完成",
+    "Man": "满",
+    "Wu": "无",
+    "JinXiuWanCheng": "进修完成",
+    "JinXiuZhong": "进修中",
+    "XiuLianaZhong": "修炼中",
+    "GongFangHuiHe": "{0}攻防回合",
+    "WuLengQue": "无冷却",
+    "MultiZhaoShi": "多招式激活",
+    "BeiJiHuo": "被{0}激活",
+    "QueDingXiuLianWuGong": "确定要修炼武功“{0}”吗？",
+    "TiHuanWuGong": "（将替换正在修炼的武功“{0}”）",
+    "JinXiuCanWuXiaoHao": "进修提升需要{0}点参悟点？",
+    "WuFaJinXiu": "无法进修",
+    "QueDingXiuLianNeiGong": "确定要修炼内功“{0}”吗？",
+    "TiHuanNeiGong": "（将替换正在修炼的内功“{0}”）",
+    "QueDingXiuLianQingGong": "确定要修炼轻功“{0}”吗？",
+    "TiHuanQingGong": "（将替换正在修炼的轻功“{0}”）",
+    "GongFaYiWang": "功法遗忘",
+    "CanWuYiWang": "参悟遗忘",
+    "QueDingYiWang": "确定要遗忘{0}吗？",
+    "WuYiXiuLian": "武艺修炼",
+    "TianXiaWuXue": "天下武学",
+    "QueDingCanWuTiSheng": "确定要进行{0}的参悟提升？",
+    "ShenTi": "身体",
+    "JingShen": "精神",
+    "JinMai": "筋脉",
+    "CaoWei": "{0}槽位"
+  },
+  "MainDH": {
+    "Shang": "伤",
+    "ZaiYe": "江湖",
+    "QingBao": "情报",
+    "XiangShiRenWu": "相识人物"
+  },
+  "CharacterList": {
+    "RenWuXinXi": "人物信息",
+    "YiQianYiXia": "一千以下",
+    "YiQianYiShang": "{0}千以上",
+    "ShengPingFu": "{0}胜{1}平{2}负",
+    "MenPaiRenWu": "门派人物",
+    "QingXuanZe": "请选择",
+    "QueDingXiaZhu": "确定要下注{0}？",
+    "BuKeYaZhu": "不可押注",
+    "XiaZhu": "下注{0}",
+    "QingBao": "情报"
+  },
+  "MenPaiZuZhiList": {
+    "MenPai": "门派",
+    "ShiZhen": "市镇",
+    "WuMenPai": "无门无派"
+  },
+  "AvatarList": {
+    "QingBao": "情报"
+  },
+  "DialogSystem": {
+    "FanHui": "返回",
+    "QingBao": "情报",
+    "LiJiTiaoZhan": "立即挑战",
+    "KaoLvYiXia": "考虑一下",
+    "WoYaoDuJian": "我要赌剑"
+  },
+  "ShangJiaoPanel": {
+    "QueDingJiaoChu": "确定要将{0}交出吗？",
+    "Wu": "无",
+    "WuGongXinFa": "武功心法",
+    "NeiGong": "内功",
+    "QingGong": "轻功",
+    "XinFaKouJue": "心法口诀",
+    "YiXiuLian": "已修炼",
+    "WeiXiuLian": "未修炼"
+  },
+  "PlayerEndEffect": {
+    "CengJi": "第{0}层"
+  },
+  "BattleEndPanel": {
+    "CanWuJinXiuZhong": "参悟进修中",
+    "Wu": "无",
+    "HuoDeWuPin": "获得物品",
+    "ShiQuWuPin": "<color=#DC143C>战败无掉落</color>",
+    "QieCuoWuDiaoLuo": "切磋无掉落",
+    "JinQian": "金钱",
+    "WuQiZhuangBei": "武器装备",
+    "MiJiBaoDian": "秘籍宝典",
+    "LingDanMiaoYao": "灵丹妙药",
+    "YiShuDuJing": "医书毒经",
+    "ShiCiShuKan": "诗词书刊",
+    "HuaJvHuaZuo": "画具画作",
+    "YueQiYuePu": "乐器乐谱",
+    "ShiCaiJiaYao": "食材佳肴",
+    "JiuQiMingJiu": "酒器名酒",
+    "ChaJvChaYe": "茶具茶叶",
+    "WenWanShouCang": "文玩收藏"
+  },
+  "Map": {
+    "ShiFouJinRu": "是否要进入{0}？",
+    "ShiFouYiDong": "是否移动到{0}？",
+    "TingZhiYiDong": "停止移动到{0}？"
+  },
+  "Mission": {
+    "BuDaoYiTian": "不到1天",
+    "HaiShengTianShu": "还剩{0}天",
+    "SanShiErQiangZhengBa": "三十二强争霸",
+    "BaQiangZhengBa": "八强争霸",
+    "LunJianYaoQing": "论剑邀请",
+    "JieZhi": "截止{0}"
+  },
+  "WorkPanel": {
+    "DiDianBuXian": "地点不限"
+  },
+  "LunJianPanel": {
+    "YiWanBi": "已完毕",
+    "Nian": "年",
+    "WuPaiMing": "<color=#A4A4A4FF><size=16>无排名</size></color>",
+    "Sheng": "胜",
+    "DuoKui": "/夺魁",
+    "LunJianHuiGu": "论剑回顾",
+    "GuiZe": "规则",
+    "Fen": "{0}分",
+    "JiFenGuiZe": "<color=#DDBE84FF>*</color>「每胜一场」得<color=#5CCAA6FF> {0}分</color>\n<color=#DDBE84FF>*</color>「决赛失利」得<color=#5CCAA6FF> {1}分</color>\n<color=#DDBE84FF>*</color>「决赛胜利」得<color=#5CCAA6FF> {2}分</color>",
+    "LunJianXinXi": "{0}论剑信息"
+  },
+  "SavePanel": {
+    "QueDingBaoCunBingFuGai": "<color=#DDBE84FF>确定「保存」并「覆盖」「记录{0}」？</color>",
+    "Time": "{0}小时{1}分{2}秒",
+    "QueDingDuQu": "确定「读取」「记录{0}」？",
+    "QueDingDuQu_AutoSave": "确定「读取」「自动存档记录{0}」？",
+    "QueDingBaoCun": "确定「保存」至「记录{0}」？ "
+  },
+  "ToolTip": {
+    "WuXiuLianYingXiang": "无修炼影响"
+  },
+  "Battle": {
+    "GuiHuan": "归还",
+    "ZhanYou": "占有",
+    "WeiXie": "威胁",
+    "QiaoShe": "巧舌",
+    "SiDou": "死斗",
+    "FangQi": "放弃",
+    "QiuRao": "求饶",
+    "MaiMing": "买命",
+    "JiuYi": "就义",
+    "JiaoNaMaiMingCai": "缴纳买命财",
+    "NingSiBuQu": "宁死不屈",
+    "ChuJue": "<color=#FF1B00FF>处决</color>",
+    "FangSheng": "直接放生",
+    "SuoQuMaiMingCai_ChuJue": "<color=#FF1B00FF>索财后处决</color>",
+    "SuoQuMaiMingCai_FangSheng": "索财后放生"
+  },
+  "Service": {
+    "GongFaJiHui_WuWuGong": "未回收武功",
+    "GongFaJiHui_WuNeiGong": "未回收内功",
+    "GongFaJiHui_WuQingGong": "未回收轻功",
+    "ChaoZhuanGongFa_WuWuGong": "未习满武功",
+    "ChaoZhuanGongFa_WuNeiGong": "未习满内功",
+    "ChaoZhuanGongFa_WuQingGong": "未习满轻功",
+    "GuanPu_Big": "大",
+    "GuanPu_Small": "小",
+    "GuanPuRuleInfo_Big": "<color=#DDBE84FF>*</color>「3骰共计{0}至{1}点」可再<color=#5CCAA6FF> 盲抽1次</color><color=#DDBE84FF>\n*</color>「3骰都为1点」获得所有<color=#FF00B6FF>「凤等」奖品</color><color=#DDBE84FF>\n*</color>「3骰都为6点」获得所有<color=#FF9A00FF>「龙等」奖品</color>",
+    "GuanPuRuleInfo_Small": "<color=#DDBE84FF>*</color>「3骰共计{0}至{1}点」可再<color=#5CCAA6FF> 盲抽1次</color><color=#DDBE84FF>\n*</color>「3骰都为1点」获得所有<color=#FF00B6FF>「凤等」奖品</color><color=#DDBE84FF>\n*</color>「3骰都为6点」获得所有<color=#FF9A00FF>「龙等」奖品</color>",
+    "GuanPu_Dice_Big": "{0}大",
+    "GuanPu_Dice_Small": "{0}小",
+    "GuanPuRuleInfo_Special_Big": "特殊<color=#DDBE84FF>*</color>「3骰共计{0}至{1}点」可再<color=#5CCAA6FF> 盲抽1次</color><color=#DDBE84FF>\n*</color>「3骰都为1点」直接获得<color=#5CCAA6FF>3个奖品</color><color=#DDBE84FF>\n*</color>「3骰都为6点」直接获得<color=#5CCAA6FF>6个奖品</color>",
+    "GuanPuRuleInfo_Special_Small": "特殊<color=#DDBE84FF>*</color>「3骰共计{0}至{1}点」可再<color=#5CCAA6FF> 盲抽1次</color><color=#DDBE84FF>\n*</color>「3骰都为1点」直接获得<color=#5CCAA6FF>3个奖品</color><color=#DDBE84FF>\n*</color>「3骰都为6点」直接获得<color=#5CCAA6FF>6个奖品</color>",
+    "ChaoZhuanGongFaPanelName": "抄撰功法",
+    "GongFaJiHuiPanelName": "功法寄回",
+    "GongFaJiHui_XiuLianCengJi": "功法层级"
+  },
+  "TaoLuPeiZhi": {
+    "None": "无",
+    "ShouZhi": "指",
+    "Dao": "刀",
+    "Qiang": "枪",
+    "Jian": "剑",
+    "Fu": "斧",
+    "Chui": "锤",
+    "Bi": "笔",
+    "Gun": "棍",
+    "Bian": "鞭",
+    "TeShu": "特",
+    "AnQi": "暗",
+    "TongYong": "通",
+    "GongFangHuiHe": "{0}攻防回合",
+    "WuLengQue": "无冷却",
+    "XuGongFangHuiHe": "需{0}攻防回合",
+    "Wu": "无",
+    "CaoWeiYi": "槽位一",
+    "CaoWeiEr": "槽位二",
+    "CaoWeiSan": "槽位三",
+    "CaoWeiSi": "槽位四",
+    "CaoWeiWu": "槽位五",
+    "QueDingBaoCun": "确定保存并覆盖{0}配置",
+    "Gou": "钩"
+  },
+  "Quest": {
+    "ZhunBeiZhong": "准备中",
+    "JinXingZhong": "进行中",
+    "YiWanCheng": "已完成",
+    "QueDingZhongZhi": "重新开启该支线时，会从以下剧情继续：",
+    "WenZhenTitleText": "在该地        成功「问诊行医」1次"
+  },
+  "ActionManager": {
+    "YeGuangBei": "夜光杯",
+    "GuoZhi": "果汁"
+  },
+  "ZiZhai": {
+    "FangZhiCangPin": "放置藏品",
+    "CiZhiPanelName": "瓷质藏品一览",
+    "YvZhiPanelName": "玉质藏品一览",
+    "QingTongZhiPanelName": "青铜质藏品一览",
+    "FangZhiCangPin_InfoPanelButton": "放入",
+    "CangPinShuLiang": "{0}/{1}",
+    "WeiFangZhi": "未放置"
+  },
+  "NieRen": {
+    "FuZhuang": "服装{0}",
+    "LianXing": "脸型{0}",
+    "TouFa": "头发{0}",
+    "HuZi": "胡子{0}",
+    "ZhuangShi": "装饰{0}",
+    "YanJing": "眼睛{0}",
+    "MeiMao": "眉毛{0}",
+    "BiZi": "鼻子{0}",
+    "ZuiBa": "嘴巴{0}",
+    "ChuShenShanChang": {
+      "QuanZhang": "拳掌",
+      "YongJian": "用剑",
+      "ShiDao": "使刀",
+      "ZhiLi": "指力",
+      "ShuaGun": "耍棍",
+      "YongQiang": "用枪",
+      "YunFu": "运斧",
+      "BianShu": "鞭术",
+      "GouFa": "钩法",
+      "AnQi": "暗器",
+      "BiFa": "笔法"
+    },
+    "SaveLoadPanel": {
+      "BaoCun": "保存",
+      "DuQu": "读取",
+      "CaoWeiYi": "槽位一",
+      "CaoWeiEr": "槽位二",
+      "CaoWeiSan": "槽位三",
+      "CaoWeiSi": "槽位四",
+      "CaoWeiWu": "槽位五",
+      "QueDingBaoCun": "确定保存并覆盖{0}数据",
+      "QueDingDuQu": "确定读取{0}数据"
+    }
+  },
+  "TeChanWu": {
+    "ChiYouJuanShu": "持有{0}卷",
+    "Juan": "{0}卷",
+    "TiaoShangLu": "{0}条商路",
+    "WeiChiYou": "未持有",
+    "MaiRu": "买入",
+    "MaiChu": "卖出",
+    "MaiRuJin": "买入金",
+    "MaiChuJin": "卖出金",
+    "MaiRuShuLiang": "买入数量",
+    "MaiChuShuLiang": "卖出数量",
+    "QiangHuo": "抢获{0}卷",
+    "BuyAll": {
+      "Info1": "确定要买入所有钞引吗？",
+      "Info2": "（总共将花费{0}）"
+    }
+  },
+  "Map2D": {
+    "WuPaiMing": "无排名",
+    "PaiMing": "排名{0}",
+    "ChuanSongTextInfo1": "确定要移动到{0}的驿站吗?",
+    "ChuanSongTextInfo2": "（将消耗{0}个时段）",
+    "ChuanSongTextInfo2_NoMapData": "荒郊野岭，无法评估路途耗时"
+  },
+  "ShiLiPiao": {
+    "SLP_Trade_Panel_Juan": "{0}卷",
+    "SLP_Trade_Panel_DuiHuanJuan": "1卷兑{0}贯",
+    "SLP_Trade_Panel_ConfirmJuan": "确定要兑换{0}卷商户票？"
+  },
+  "FightStory": {
+    "NGQGTexts": [
+      "同时使出「[NGQGNAME]」招式「[ZhaoShiName]」\n[ZhaoShiTese]」"
+    ],
+    "WuTeJi": "<color=#A2A2A2>「无特技」</color>"
+  },
+  "Place": {
+    "WuBaoHuSan": "无"
+  },
+  "LingHunLeiTai": {
+    "SaveLoadPanel": {
+      "BaoCun": "保存",
+      "DuQu": "读取",
+      "CaoWeiYi": "槽位一",
+      "CaoWeiEr": "槽位二",
+      "CaoWeiSan": "槽位三",
+      "CaoWeiSi": "槽位四",
+      "CaoWeiWu": "槽位五",
+      "QueDingBaoCun": "确定保存并覆盖{0}数据",
+      "QueDingDuQu": "确定读取{0}数据"
+    },
+    "JueSe_List_LHLT": {
+      "LHPF_RESTR": "灵魂评分限制 不高于{0}",
+      "LHPF_RESTR_XWD": "灵魂修为限制 不高于{0}"
+    },
+    "LHLT_P": {
+      "Season": {
+        "Spring": "春季",
+        "Summer": "夏季",
+        "Autumn": "秋季",
+        "Winter": "冬季"
+      },
+      "RuleText": "{0}进1",
+      "ChooseSeason": "确定选择{0}吗？",
+      "ChooseTime": "确定选择{0}吗？",
+      "ChooseRule": "确定选择{0}吗？",
+      "ChooseKill": "确定选择{0}吗？",
+      "ChooseTraining": "确定选择{0}吗？",
+      "Kill": {
+        "Enable": "可以击杀",
+        "Disable": "不可击杀"
+      },
+      "Training": {
+        "Enable": "AI进修",
+        "Disable": "AI不进修"
+      },
+      "Restriction": "低于{0}评分",
+      "RestrictionConfirm_Enable": "选择低于{0}评分限制吗？",
+      "RestrictionConfirm_Disable": "选择无评分限制吗？",
+      "Restriction_XWD": "低于{0}修为",
+      "RestrictionConfirm_Enable_XWD": "选择低于{0}修为限制吗？",
+      "RestrictionConfirm_Disable_XWD": "选择无修为限制吗？"
+    },
+    "C_Seclet_Panel": {
+      "NoCharacter": "  ？？？"
+    }
+  },
+  "LingHunHub": {
+    "DeleteConfirmInfo": "确定要删除{0}的灵魂吗？"
+  },
+  "GraphicSystem": {
+    "GS_Confirm": {
+      "GS_LEVEL": "确定要采用该画面设置？",
+      "SelectWindowed": "确定要采用窗口化模式吗？",
+      "UnSelectWindowed": "确定要采用全屏模式吗？",
+      "Res": "确定采用{0}的分辨率模式吗？"
+    },
+    "Res_Windowed": {
+      "Resolution": "{0} × {1}"
+    }
+  }
+}
