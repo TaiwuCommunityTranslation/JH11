@@ -451,7 +451,7 @@
     "ShuXing1": "Medical Science",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 70"
+      "高于80"
     ],
     "Text2": [
       "Healer"
@@ -473,7 +473,7 @@
           "YiShu_0000000001"
         ],
         "Value": [
-          70.0,
+          80.0,
           100.0
         ]
       },
@@ -497,7 +497,7 @@
     "ShuXing1": "Poison Technique",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 70"
+      "高于80"
     ],
     "Text2": [
       "Poisoner"
@@ -519,7 +519,7 @@
           "DuShu_0000000001"
         ],
         "Value": [
-          70.0,
+          80.0,
           100.0
         ]
       },
@@ -541,7 +541,7 @@
     "ShuXing1": "Collection",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 75"
+      "高于85"
     ],
     "Text2": [
       "Exotic Treasures"
@@ -572,7 +572,7 @@
           "ShouCang_0000000001"
         ],
         "Value": [
-          75.0,
+          85.0,
           999.0
         ]
       },
@@ -606,7 +606,7 @@
     "ShuXing1": "Tea Ceremony",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 75"
+      "高于85"
     ],
     "Text2": [
       "Tea ordering master"
@@ -628,7 +628,7 @@
           "ChaDao_0000000001"
         ],
         "Value": [
-          75.0,
+          85.0,
           999.0
         ]
       },
@@ -691,7 +691,7 @@
     "ShuXing1": "Cooking",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 75"
+      "高于85"
     ],
     "Text2": [
       "cannon phoenix cooks the dragon"
@@ -713,7 +713,7 @@
           "PengRen_0000000001"
         ],
         "Value": [
-          75.0,
+          85.0,
           999.0
         ]
       },
@@ -747,7 +747,7 @@
     "ShuXing1": "Drinking",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 75"
+      "高于85"
     ],
     "Text2": [
       "Mr. Five Dou"
@@ -769,7 +769,7 @@
           "YinJiu_0000000001"
         ],
         "Value": [
-          75.0,
+          85.0,
           999.0
         ]
       },
@@ -795,7 +795,7 @@
     "ShuXing1": "Musical Instrument",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 75"
+      "高于85"
     ],
     "Text2": [
       "Tasting bamboo and playing silk"
@@ -817,7 +817,7 @@
           "YueQi_0000000001"
         ],
         "Value": [
-          75.0,
+          85.0,
           999.0
         ]
       },
@@ -842,7 +842,7 @@
     "ShuXing1": "Poetry",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 75"
+      "高于85"
     ],
     "Text2": [
       "Wonderful writing"
@@ -864,7 +864,7 @@
           "ShiCi_0000000001"
         ],
         "Value": [
-          75.0,
+          85.0,
           999.0
         ]
       },
@@ -891,7 +891,7 @@
     "ShuXing1": "Painting and Calligraphy",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 75"
+      "高于85"
     ],
     "Text2": [
       "wield a writing brush and drop the paper"
@@ -913,7 +913,7 @@
           "HuiHua_0000000001"
         ],
         "Value": [
-          75.0,
+          85.0,
           999.0
         ]
       },
@@ -935,7 +935,7 @@
     "ShuXing1": "Perception",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 55"
+      "高于67"
     ],
     "Text2": [
       "spiritual heart and wise nature"
@@ -957,7 +957,7 @@
           "CharacterWuXing_0000000001"
         ],
         "Value": [
-          55.0,
+          67.0,
           100.0
         ]
       },
@@ -979,7 +979,7 @@
     "ShuXing1": "Fuyuan",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 55"
+      "高于67"
     ],
     "Text2": [
       "Heavenly good fortune"
@@ -1001,7 +1001,7 @@
           "CharacterFuYuan_0000000001"
         ],
         "Value": [
-          55.0,
+          67.0,
           100.0
         ]
       },
@@ -1023,7 +1023,7 @@
     "ShuXing1": "Charm",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 65"
+      "高于67"
     ],
     "Text2": [
       "Natural beauty"
@@ -1045,7 +1045,7 @@
           "MeiLi_0000000001"
         ],
         "Value": [
-          65.0,
+          67.0,
           100.0
         ]
       },
@@ -1067,7 +1067,7 @@
     "ShuXing1": "Negotiation",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 55"
+      "高于67"
     ],
     "Text2": [
       "articulate"
@@ -1089,7 +1089,7 @@
           "CharacterJiaoShe_0000000001"
         ],
         "Value": [
-          55.0,
+          67.0,
           100.0
         ]
       },
@@ -1111,7 +1111,7 @@
     "ShuXing1": "Knowledge",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 55"
+      "高于67"
     ],
     "Text2": [
       "experienced and knowledgeable"
@@ -1133,7 +1133,7 @@
           "CharacterJianShi_0000000001"
         ],
         "Value": [
-          55.0,
+          67.0,
           100.0
         ]
       },
@@ -1155,7 +1155,7 @@
     "ShuXing1": "Containment",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 65"
+      "高于67"
     ],
     "Text2": [
       "well versed in books and manners"
@@ -1177,7 +1177,7 @@
           "HanYang_0000000001"
         ],
         "Value": [
-          65.0,
+          67.0,
           100.0
         ]
       },
@@ -1243,7 +1243,7 @@
     "ShuXing1": "God comes",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 60"
+      "高于70"
     ],
     "Text2": [
       "Harmony between heaven and man"
@@ -1265,7 +1265,7 @@
           "ShenLai_0000000001"
         ],
         "Value": [
-          60.0,
+          70.0,
           100.0
         ]
       },
@@ -1287,7 +1287,7 @@
     "ShuXing1": "Concentration",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 60"
+      "高于70"
     ],
     "Text2": [
       "No distractions"
@@ -1309,7 +1309,7 @@
           "JiZhong_0000000001"
         ],
         "Value": [
-          60.0,
+          70.0,
           100.0
         ]
       },
@@ -1331,7 +1331,7 @@
     "ShuXing1": "Will",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 60"
+      "高于70"
     ],
     "Text2": [
       "Tough and unyielding"
@@ -1353,7 +1353,7 @@
           "YiZhi_0000000001"
         ],
         "Value": [
-          60.0,
+          70.0,
           100.0
         ]
       },
@@ -1375,7 +1375,7 @@
     "ShuXing1": "Decisions",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 60"
+      "高于70"
     ],
     "Text2": [
       "Make an immediate decision"
@@ -1397,7 +1397,7 @@
           "JueDuan_0000000001"
         ],
         "Value": [
-          60.0,
+          70.0,
           100.0
         ]
       },
@@ -1419,7 +1419,7 @@
     "ShuXing1": "Physique",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 60"
+      "高于70"
     ],
     "Text2": [
       "strong and healthy body"
@@ -1450,7 +1450,7 @@
           "TiPo_0000000001"
         ],
         "Value": [
-          60.0,
+          70.0,
           100.0
         ]
       },
@@ -1474,7 +1474,7 @@
     "ShuXing1": "Finger Force",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 55"
+      "高于65"
     ],
     "Text2": [
       "Finger Power Man"
@@ -1496,7 +1496,7 @@
           "ZhiLi_0000000001"
         ],
         "Value": [
-          55.0,
+          65.0,
           999.0
         ]
       },
@@ -1522,7 +1522,7 @@
     "ShuXing1": "make a knife",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 55"
+      "高于65"
     ],
     "Text2": [
       "A good swordsman"
@@ -1544,7 +1544,7 @@
           "DaoFa_0000000001"
         ],
         "Value": [
-          55.0,
+          65.0,
           999.0
         ]
       },
@@ -1570,7 +1570,7 @@
     "ShuXing1": "play with a stick",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 55"
+      "高于65"
     ],
     "Text2": [
       "A good stick juggler"
@@ -1592,7 +1592,7 @@
           "ShuaGun_0000000001"
         ],
         "Value": [
-          55.0,
+          65.0,
           999.0
         ]
       },
@@ -1618,7 +1618,7 @@
     "ShuXing1": "With guns",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 55"
+      "高于65"
     ],
     "Text2": [
       "Good with guns"
@@ -1640,7 +1640,7 @@
           "YongQiang_0000000001"
         ],
         "Value": [
-          55.0,
+          65.0,
           999.0
         ]
       },
@@ -1666,7 +1666,7 @@
     "ShuXing1": "axe",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 55"
+      "高于65"
     ],
     "Text2": [
       "Axe Runner"
@@ -1688,7 +1688,7 @@
           "ChuiFu_0000000001"
         ],
         "Value": [
-          55.0,
+          65.0,
           999.0
         ]
       },
@@ -1714,7 +1714,7 @@
     "ShuXing1": "Whip art",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 55"
+      "高于65"
     ],
     "Text2": [
       "Good whip fighter"
@@ -1736,7 +1736,7 @@
           "ShiBian_0000000001"
         ],
         "Value": [
-          55.0,
+          65.0,
           999.0
         ]
       },
@@ -1762,7 +1762,7 @@
     "ShuXing1": "hook method",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 55"
+      "高于65"
     ],
     "Text2": [
       "Crochet Master"
@@ -1784,7 +1784,7 @@
           "GouFa_0000000001"
         ],
         "Value": [
-          55.0,
+          65.0,
           999.0
         ]
       },
@@ -1810,7 +1810,7 @@
     "ShuXing1": "Concealed weapons",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 55"
+      "高于65"
     ],
     "Text2": [
       "Good use of concealed weapons"
@@ -1832,7 +1832,7 @@
           "CunJin_0000000001"
         ],
         "Value": [
-          55.0,
+          65.0,
           999.0
         ]
       },
@@ -1858,7 +1858,7 @@
     "ShuXing1": "Penmanship",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 55"
+      "高于65"
     ],
     "Text2": [
       "Master of Penmanship"
@@ -1880,7 +1880,7 @@
           "BiFa_0000000001"
         ],
         "Value": [
-          55.0,
+          65.0,
           999.0
         ]
       },
@@ -1904,7 +1904,7 @@
     "ShuXing1": "with a sword",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 60"
+      "高于70"
     ],
     "Text2": [
       "Good with swords"
@@ -1926,7 +1926,7 @@
           "JianFa_0000000001"
         ],
         "Value": [
-          60.0,
+          70.0,
           100.0
         ]
       },
@@ -1950,7 +1950,7 @@
     "ShuXing1": "Fist and Palm",
     "ShuXing2": "Talent",
     "Text1": [
-      "Above 60"
+      "高于70"
     ],
     "Text2": [
       "Good punching and palming"
@@ -1972,7 +1972,7 @@
           "QuanZhang_0000000001"
         ],
         "Value": [
-          60.0,
+          70.0,
           100.0
         ]
       },
@@ -2015,13 +2015,13 @@
     "Conditions": [
       {
         "Value": [
-          40.0,
+          50.0,
           999.0
         ]
       },
       {
         "Value": [
-          40.0,
+          50.0,
           100.0
         ]
       }
@@ -2059,13 +2059,13 @@
     "Conditions": [
       {
         "Value": [
-          40.0,
+          50.0,
           999.0
         ]
       },
       {
         "Value": [
-          40.0,
+          50.0,
           999.0
         ]
       }
@@ -2101,7 +2101,7 @@
     "Conditions": [
       {
         "Value": [
-          20.0,
+          30.0,
           999.0
         ]
       }
