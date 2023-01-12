@@ -5,4 +5,4 @@ git:
     source_file_extension: json
     source_language: zh_CN
     source_file_dir: Translation/zh_CN
-    translation_files_expression: 'Translation/<lang>/'
+    translation_files_expression: 'Output/<lang>/'
