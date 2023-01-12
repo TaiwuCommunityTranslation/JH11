@@ -1,0 +1,1017 @@
+{
+  "Global": {
+    "BuWeiZhuangTai": {
+      "Shang": "Injury",
+      "Can": "disabled",
+      "Fei": "Waste",
+      "ZhengChang": "Normal"
+    },
+    "Season": {
+      "Spring": " <color=#FB31D1> Spring </color> ",
+      "Summer": " <color=#30FAA8> Summer </color> ",
+      "Autumn": " <color=#FF9800FF> Autumn </color> ",
+      "Winter": " <color=#FFFFFF> Winter </color> "
+    },
+    "Time": {
+      "Morning": "Morning",
+      "Noon": "Noon",
+      "Afternoon": "Afternoon",
+      "Night": "Evening"
+    },
+    "State": {
+      "WeiZhongDu": "None",
+      "WeiShengBing": "No symptoms",
+      "ShengBing": "Sickness",
+      "Qing": "light",
+      "Zhong": "Heavy",
+      "Huan": "slow",
+      "Ji": "Urgent"
+    },
+    "BuWei": {
+      "TouMian": "Head",
+      "ShouWan": "Wrist",
+      "ShouBi": "Arms",
+      "XiongBei": "Chest and Back",
+      "YaoFu": "Waist and abdomen",
+      "TuiJiao": "Legs and feet",
+      "JinMai": "tendons and veins"
+    },
+    "Gender": {
+      "Nan": "Male",
+      "Nv": "Female",
+      "Yan": "castration"
+    },
+    "Date": {
+      "NianYueRi": "{ 0} year { 1} month { 2} day",
+      "YueRi": "{ 0} month { 1} day",
+      "Nian": "Year",
+      "Yue": "Month",
+      "Ri": "Day"
+    },
+    "DangWei": {
+      "DiYiDang": "First gear",
+      "DiErDang": "Second gear",
+      "DiSanDang": "Third gear",
+      "DiSiDang": "Fourth gear",
+      "DiWuDang": "Fifth gear",
+      "DiLiuDang": "Sixth gear",
+      "DiQiDang": "Seventh gear",
+      "DiBaDang": "Eighth gear",
+      "DiJiuDang": "Ninth gear",
+      "DiShiDang": "Tenth gear",
+      "DiShiYiDang": "Eleventh gear",
+      "DiShiErDang": "Twelfth gear",
+      "DiShiSanDang": "Thirteenth gear"
+    },
+    "Hobby": {
+      "ShiCi": "Poetry",
+      "PengRen": "Cooking",
+      "ChaDao": "Tea Ceremony",
+      "HuiHua": "Painting",
+      "YueQi": "Musical Instrument",
+      "YinJiu": "Drinking",
+      "GuanPu": "Guanpu",
+      "ShouCang": "Collection",
+      "YiShu": "Medical Science",
+      "DuShu": "Poison Technique"
+    },
+    "WaiGongType": {
+      "None": "Empty-handed",
+      "Quan": "Fist",
+      "Jian": "Sword",
+      "Dao": "Knife",
+      "Gun": "stick",
+      "Qiang": "Gun",
+      "Zhi": "Refers to",
+      "Chui": "Hammer",
+      "Bian": "whip",
+      "Gou": "Hook"
+    },
+    "NianLing": {
+      "Sui": "age"
+    },
+    "FanYe": {
+      "Ye": "{ 0}/{ 1} page"
+    },
+    "Money": {
+      "Wen": "Text",
+      "Guan": "pass through",
+      "NoMoney_MainDH": " <color=#FF5E4EFF> Penniless </color> "
+    }
+  },
+  "LianGongXiTong": {
+    "PanelText": "Martial Arts Training",
+    "WuGong": "Martial Arts",
+    "NeiGong": "internal power",
+    "QingGong": "lightning feat",
+    "XinFa": "Martial arts techniques",
+    "YiXiuLian": "Cultivated",
+    "WeiXiuLian": "uncultivated",
+    "WuWuGong": "Unacquired martial arts",
+    "WuNeiGong": "Unacquired inner strength",
+    "WuQingGong": "Have not acquired the lightness"
+  },
+  "Action": {
+    "DianCha": {
+      "PanelName": "Order Tea"
+    },
+    "FuShi": {
+      "PanelName": "Fugue poem"
+    },
+    "HaoYin": {
+      "PanelName": "drink heavily"
+    },
+    "TiaoXiXiuYang": {
+      "PanelName": "Rest and recuperation"
+    },
+    "YueDu": {
+      "PanelName": "Read"
+    },
+    "YunGongJieDu": {
+      "PanelName": "use one's energy to detoxify the body",
+      "CanJieDu": "use one's energy to detoxify the body",
+      "CanNotJieDu": "No antidote"
+    },
+    "YunGongLiaoShang": {
+      "PanelName": "Healing",
+      "CanLiaoShang": "Healing",
+      "CanNotLiaoShang": "Unable to heal"
+    },
+    "ZhiZuoDu": {
+      "PanelName": "Making poison"
+    },
+    "ZhiZuoYao": {
+      "PanelName": "Making medicine"
+    },
+    "ZhuanXieMiJi": {
+      "PanelName": "Writing Secrets",
+      "WuWuGong": "Have not learned all the martial arts",
+      "WuNeiGong": "Not full of internal skills",
+      "WuQingGong": "Not full of light skills"
+    },
+    "PengRen": {
+      "PanelName": "Cooking",
+      "QueShaoShiCai": " <color=#FF5E4EFF> Missing </color> "
+    },
+    "XieZiZuoHua": {
+      "PanelName": "Writing and painting",
+      "Bi": "Pen",
+      "Mo": "ink",
+      "Zhi": "Paper",
+      "Yan": "ink-stone"
+    },
+    "YanZou": {
+      "PanelName": "Play"
+    },
+    "JianBao": {
+      "PanelName": "treasure hunting"
+    },
+    "BaWan": {
+      "PanelName": "Play with it",
+      "BaWanButton": "Play with it"
+    },
+    "ChuangZuoShiCi": {
+      "PanelName": "Composing poems"
+    },
+    "ChuangZuoShuHua": {
+      "PanelName": "Creation of paintings and calligraphy"
+    },
+    "XiuXi": {
+      "PanelName": "Rest"
+    },
+    "MingXiang": {
+      "PanelName": "Meditation"
+    },
+    "PaoZao": {
+      "PanelName": "Bathing"
+    },
+    "ChuWu": {
+      "PanelName_Cun": "Storage items",
+      "PanelName_Qu": "Extraction of items",
+      "EmptySignText_CunRu": "Not carried",
+      "EmptySignText_QuChu": "No inventory",
+      "CunRu": "Deposit",
+      "QuChu": "Extraction",
+      "DepositName_Cun": "Number of deposits",
+      "DepositName_Qu": "Number of withdrawals",
+      "QuChuAll": {
+        "BingQiRongJu": {
+          "Info1": "Are you sure you want to take out all the weapons and weapons?",
+          "Info2": ""
+        },
+        "MiJiBaoDian": {
+          "Info1": "Are you sure you want to take out all the secret treasures?",
+          "Info2": ""
+        },
+        "LingDanMiaoYao": {
+          "Info1": "Are you sure you want to take out all the elixirs?",
+          "Info2": ""
+        },
+        "ShiCaiJiaYao": {
+          "Info1": "Are you sure you want to take out all the ingredients for the delicacies?",
+          "Info2": ""
+        },
+        "ChaJvChaYe": {
+          "Info1": "Are you sure you want to take out all the tea sets and tea leaves?",
+          "Info2": ""
+        },
+        "JiuQiMingJiu": {
+          "Info1": "Sure you want to take out all the wine vessels famous wine?",
+          "Info2": ""
+        },
+        "ShiCiShuKan": {
+          "Info1": "Are you sure you want to take out all the poetry books?",
+          "Info2": ""
+        },
+        "YiShuDuJing": {
+          "Info1": "Are you sure you want to take out all the medical poison scriptures?",
+          "Info2": ""
+        },
+        "ShuFaHuiHua": {
+          "Info1": "Are you sure you want to take out all the calligraphy paintings?",
+          "Info2": ""
+        },
+        "YueQiYuePu": {
+          "Info1": "Are you sure you want to take out all the instrument scores?",
+          "Info2": ""
+        },
+        "WenWanShouCang": {
+          "Info1": "Are you sure you want to take out all of your collection?",
+          "Info2": ""
+        }
+      }
+    },
+    "DaZuo": {
+      "NeiLi": "Consume { 0} internal power"
+    }
+  },
+  "Relation": {
+    "DianCha": "Order Tea",
+    "DuiYin": "For drinking",
+    "GongZou": "play together",
+    "XiaChuYanQing": "Cooking",
+    "Wo": "I",
+    "ShiFu": "Master",
+    "TuDi": "Disciple",
+    "ChaKanGuanXi": "View Relationships",
+    "QingBao": "Intelligence",
+    "QueDingSongChu": "Sure to send \"{ 0}\"?",
+    "QueDingTouZou": "Sure to steal \"{ 0}\"?",
+    "WuYiXiuLian": "Martial Arts Training",
+    "TouShi": "steal a teacher",
+    "QueDingTouShi": "Sure you want to steal the training of martial arts \"{ 0}\"?",
+    "WuGong": "Martial Arts",
+    "WeiXie": "Threats",
+    "QiaoShe": "skillful tongue",
+    "SiDou": "Death Match",
+    "QueDingShiYong": "Sure to use \"{ 0}\"?",
+    "XueXiJiYiPayShengYvCiShu": "There are still { 0} times left in the \"Passing Times\"."
+  },
+  "Bag": {
+    "WuQiFangJu": {
+      "TianShuMingHaoWu": "None"
+    },
+    "MiJiBaoDian": {
+      "XinFaConfirm": "Are you sure you want to practice the heart technique \"{ 0}\"?",
+      "WuGongConfirm": "Sure to practice martial arts \"{ 0}\"?",
+      "NeiGongQingGongConfirm": "Are you sure you want to practice \"{ 0}\"?",
+      "Yin": "Yin",
+      "Yang": "Yang",
+      "WuShuXing": "No attribute",
+      "BaoHan": "Contains",
+      "BuBaoHan": "Not included",
+      "NeiGong": "internal power",
+      "QingGong": "lightning feat",
+      "Wu": "None",
+      "YiXiuLian": "Cultivated",
+      "WeiXiuLian": "uncultivated",
+      "WuGongXinFa": "Martial arts techniques",
+      "XinFaKouJue": "Mind Mantra",
+      "GongCaoWei": "{ 0} <size=14> slot </size> ",
+      "FangCaoWei": "{ 0} <size=14> slot </size> ",
+      "JiCaoWei": "{ 0} <size=14> slot </size> "
+    },
+    "YiShuDuJing": {
+      "Need": "Required:",
+      "Ge": "individual"
+    },
+    "JiuQiMingJiu": {
+      "QueDingShiYong": "Determine the use of"
+    },
+    "ShiCiShuKan": {
+      "BuKeYueDu": "Unreadable"
+    }
+  },
+  "Shop": {
+    "PanelName": "Product List",
+    "EmptySignText": "Out of stock",
+    "GouMai": "Purchase",
+    "ChuShou": "For Sale",
+    "HuiShou": "Recycling",
+    "BuyAll": {
+      "BingQiRongJu": {
+        "Info1": "Are you sure you want to buy all the weapons and armaments?",
+        "Info2": "(total will cost { 0})"
+      },
+      "MiJiBaoDian": {
+        "Info1": "Sure you want to buy all the secret treasures?",
+        "Info2": "(total will cost { 0})"
+      },
+      "LingDanMiaoYao": {
+        "Info1": "Sure you want to buy all the elixirs?",
+        "Info2": "(total will cost { 0})"
+      },
+      "ShiCaiJiaYao": {
+        "Info1": "Are you sure you want to buy all the ingredients for the delicacies?",
+        "Info2": "(total will cost { 0})"
+      },
+      "ChaJvChaYe": {
+        "Info1": "Sure you want to buy all the tea sets and tea leaves?",
+        "Info2": "(total will cost { 0})"
+      },
+      "JiuQiMingJiu": {
+        "Info1": "Are you sure you want to buy all the famous wine vessels?",
+        "Info2": "(total will cost { 0})"
+      },
+      "ShiCiShuKan": {
+        "Info1": "Sure you want to buy all poetry books?",
+        "Info2": "(total will cost { 0})"
+      },
+      "YiShuDuJing": {
+        "Info1": "Sure you want to buy all the healing and poison scriptures?",
+        "Info2": "(total will cost { 0})"
+      },
+      "ShuFaHuiHua": {
+        "Info1": "Sure you want to buy all calligraphy paintings?",
+        "Info2": "(total will cost { 0})"
+      },
+      "YueQiYuePu": {
+        "Info1": "Sure you want to buy all the instrument sheet music?",
+        "Info2": "(total will cost { 0})"
+      },
+      "WenWanShouCang": {
+        "Info1": "Are you sure you want to buy all of the Bunko collection?",
+        "Info2": "(total will cost { 0})"
+      }
+    },
+    "SaleAll": {
+      "BingQiRongJu": {
+        "All": {
+          "Info1": "Are you sure you want to sell all your weapons and armaments?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "White": {
+          "Info1": "Are you sure you want to sell all the wolves and other weapons and armaments?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Green": {
+          "Info1": "Are you sure you want to sell all the tigers and other weapons and weaponry?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Blue": {
+          "Info1": "Are you sure you want to sell all the phoenix and other weapons and weapons?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Gold": {
+          "Info1": "Are you sure you want to sell all the dragons and other weapons and weapons?",
+          "Info2": "(Total will be sold to get { 0})"
+        }
+      },
+      "MiJiBaoDian": {
+        "All": {
+          "Info1": "Are you sure you want to sell all the secret treasures?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "White": {
+          "Info1": "Sure you want to sell all the wolves and other secret treasures?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Green": {
+          "Info1": "Sure you want to sell all the Tiger and other secret treasures?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Blue": {
+          "Info1": "Are you sure you want to sell all the secret treasures such as Feng?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Gold": {
+          "Info1": "Are you sure you want to sell all the secret treasures such as the Dragon?",
+          "Info2": "(Total will be sold to get { 0})"
+        }
+      },
+      "LingDanMiaoYao": {
+        "All": {
+          "Info1": "Sure you want to sell all the elixirs?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "White": {
+          "Info1": "Sure you want to sell all the wolf and other elixirs?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Green": {
+          "Info1": "Are you sure you want to sell all the elixirs such as tiger?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Blue": {
+          "Info1": "Are you sure you want to sell all the elixirs such as phoenix?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Gold": {
+          "Info1": "Are you sure you want to sell all the elixirs such as dragon?",
+          "Info2": "(Total will be sold to get { 0})"
+        }
+      },
+      "ShiCaiJiaYao": {
+        "All": {
+          "Info1": "Are you sure you want to sell all the ingredients of the delicacies?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "White": {
+          "Info1": "Are you sure you want to sell all the delicacies of wolves and other ingredients?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Green": {
+          "Info1": "Are you sure you want to sell all the tiger delicacies?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Blue": {
+          "Info1": "Are you sure you want to sell all the delicacies with ingredients like phoenix?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Gold": {
+          "Info1": "Are you sure you want to sell all the delicacies of dragons and other ingredients?",
+          "Info2": "(Total will be sold to get { 0})"
+        }
+      },
+      "ChaJvChaYe": {
+        "All": {
+          "Info1": "Are you sure you want to sell all the wine vessels and famous wines?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "White": {
+          "Info1": "Are you sure you want to sell all the famous wines such as Wolf?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Green": {
+          "Info1": "Are you sure you want to sell all the tiger and other famous wine vessels?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Blue": {
+          "Info1": "Are you sure you want to sell all the famous wine vessels such as Feng?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Gold": {
+          "Info1": "Are you sure you want to sell all the famous wines such as Dragon?",
+          "Info2": "(Total will be sold to get { 0})"
+        }
+      },
+      "JiuQiMingJiu": {
+        "All": {
+          "Info1": "Are you sure you want to sell all the wine vessels and famous wines?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "White": {
+          "Info1": "Are you sure you want to sell all the famous wines such as Wolf?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Green": {
+          "Info1": "Are you sure you want to sell all the tiger and other famous wine vessels?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Blue": {
+          "Info1": "Are you sure you want to sell all the famous wine vessels such as Feng?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Gold": {
+          "Info1": "Are you sure you want to sell all the famous wines such as Dragon?",
+          "Info2": "(Total will be sold to get { 0})"
+        }
+      },
+      "ShiCiShuKan": {
+        "All": {
+          "Info1": "Sure you want to sell all poetry books?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "White": {
+          "Info1": "Sure you want to sell all the poetry books such as Wolf?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Green": {
+          "Info1": "Sure you want to sell all Tiger and other poetry books?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Blue": {
+          "Info1": "Sure you want to sell all Feng and other poetry books?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Gold": {
+          "Info1": "Are you sure you want to sell all the poetry books such as Dragon?",
+          "Info2": "(Total will be sold to get { 0})"
+        }
+      },
+      "YiShuDuJing": {
+        "All": {
+          "Info1": "Sure you want to sell all the healing and poison scriptures?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "White": {
+          "Info1": "Sure you want to sell all the wolf and other healing and poison scriptures?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Green": {
+          "Info1": "Sure you want to sell all the tiger and other healing and poison scriptures?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Blue": {
+          "Info1": "Sure you want to sell all Feng and other medical and poison scriptures?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Gold": {
+          "Info1": "Sure you want to sell all the dragon and other healing and poison scriptures?",
+          "Info2": "(Total will be sold to get { 0})"
+        }
+      },
+      "ShuFaHuiHua": {
+        "All": {
+          "Info1": "Are you sure you want to sell all your calligraphy paintings?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "White": {
+          "Info1": "Are you sure you want to sell all the wolf and other calligraphy paintings?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Green": {
+          "Info1": "Are you sure you want to sell all the tiger and other calligraphy paintings?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Blue": {
+          "Info1": "Are you sure you want to sell all the calligraphy paintings such as Feng?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Gold": {
+          "Info1": "Are you sure you want to sell all your calligraphy paintings such as dragons?",
+          "Info2": "(Total will be sold to get { 0})"
+        }
+      },
+      "YueQiYuePu": {
+        "All": {
+          "Info1": "Are you sure you want to sell all your instrument sheet music?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "White": {
+          "Info1": "Sure you want to sell all wolf and other instrument sheet music?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Green": {
+          "Info1": "Are you sure you want to sell all Tiger and other instrument sheet music?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Blue": {
+          "Info1": "Are you sure you want to sell all the scores for instruments such as the phoenix?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Gold": {
+          "Info1": "Are you sure you want to sell all the musical scores for dragons and other instruments?",
+          "Info2": "(Total will be sold to get { 0})"
+        }
+      },
+      "WenWanShouCang": {
+        "All": {
+          "Info1": "Are you sure you want to sell your entire collection?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "White": {
+          "Info1": "Sure you want to sell all the wolves and other literature collection?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Green": {
+          "Info1": "Are you sure you want to sell all your tiger and other cultural collections?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Blue": {
+          "Info1": "Are you sure you want to sell your entire collection of phoenixes and other artifacts?",
+          "Info2": "(Total will be sold to get { 0})"
+        },
+        "Gold": {
+          "Info1": "Are you sure you want to sell all your dragon and other cultural collections?",
+          "Info2": "(Total will be sold to get { 0})"
+        }
+      }
+    }
+  },
+  "BiWuInfo": {
+    "Si": "Death",
+    "Kong": "Empty",
+    "Dui": "Team",
+    "LikaiLunJian": "Leaving Sword Talk",
+    "RenWuXinXi": "Character Information",
+    "ZhanKuang": "Battle situation",
+    "Nian": "Year",
+    "Yue": "Month",
+    "LunJianLiShi": "History of Sword Talk",
+    "JinJi": "Advance to { 0} top",
+    "Sheng": "{ 0} win",
+    "JinJiYiQiang": "Advance to Top 1"
+  },
+  "Fight": {
+    "GongFangHuiHe": "{ 0}Offensive and defensive rounds",
+    "WuLengQue": "No cooling",
+    "BuXian": "No limit",
+    "Gong": " <color=#E24344FF> Attack </color> ",
+    "Fang": " <color=#5C9BE2FF> Anti </color> ",
+    "Wu": "None",
+    "HuiHeJieShu": "And { 0} end of round combat",
+    "Yi": "One",
+    "Er": "II",
+    "San": "Three",
+    "DuiWu": "Team",
+    "HuiHeTiaoZheng": "Adjust every { 0} turn",
+    "GuiZeText": "The winner will be decided within the round, life or death is not limited",
+    "GongZhaoWeiLi": "Attack power",
+    "FangZhaoWeiLi": "Anti-movement power",
+    "ZhongDu": "Deals continuous damage every turn, with N more turns",
+    "FengMai": "There are still N rounds of acupuncture points to break through",
+    "NeiGongZhunBei": "Inner work in preparation ......",
+    "QingGongZhunBei": "Lightweight preparation in progress ......",
+    "Xu": "Need",
+    "BeiJiHuo": "Activated by { 0}",
+    "ZhanPing": "A draw of war",
+    "ShuangFangZhanPing": "Both sides drew",
+    "ShuangFangDaPing": "Both sides are tied",
+    "ZhanSheng": "Defeat",
+    "ZhanBai": "Defeat",
+    "FangHuoSheng": "Party wins",
+    "HuoSheng": "Winning",
+    "ShouShang": "Injured",
+    "Di": "              No.",
+    "HuiHe": "Roundup",
+    "HuoQuShengDian": "Winning points from { 0}",
+    "DuiZhan": "Right",
+    "KongShou": "Empty-handed",
+    "WuBingQiXiaoGuo": "No weapon effect",
+    "WuBingQiMingHaoXiaoGuo": "No weapon name effect"
+  },
+  "JueSe_Self": {
+    "Wu": "None",
+    "WuZhengZhuang": "No symptoms",
+    "ShengPingFu": "{ 0}win { 1}draw { 2}lose"
+  },
+  "WuGongXiuLian": {
+    "WuGong": "Martial Arts",
+    "NeiGong": "internal power",
+    "QingGong": "lightning feat",
+    "YiXiuLian": "Cultivated",
+    "CengShu": "Layer { 0}",
+    "CanWuJinXiu": "Learning",
+    "ShengYvJieDuan": "There are { 0} slots left",
+    "ShengYvTianShu": "{ 0} days left",
+    "CanWuWanCheng": "Completion of enlightenment",
+    "Man": "full",
+    "Wu": "None",
+    "JinXiuWanCheng": "Further training completed",
+    "JinXiuZhong": "Further training in progress",
+    "XiuLianaZhong": "Training in progress",
+    "GongFangHuiHe": "{ 0}Offensive and defensive rounds",
+    "WuLengQue": "No cooling",
+    "MultiZhaoShi": "Multi-stroke activation",
+    "BeiJiHuo": "Activated by { 0}",
+    "QueDingXiuLianWuGong": "Sure you want to practice the martial art \"{ 0}\"?",
+    "TiHuanWuGong": "(will replace the martial art being practiced \"{ 0}\")",
+    "JinXiuCanWuXiaoHao": "Need { 0} censure points for progression enhancement?",
+    "WuFaJinXiu": "Unable to further study",
+    "QueDingXiuLianNeiGong": "Sure you want to practice your internal strength \"{ 0}\"?",
+    "TiHuanNeiGong": "(will replace the internal skill being practiced \"{ 0}\")",
+    "QueDingXiuLianQingGong": "Are you sure you want to practice the lightning skill \"{ 0}\"?",
+    "TiHuanQingGong": "(will replace the light skill being practiced \"{ 0}\")",
+    "GongFaYiWang": "Kung Fu Forgetting",
+    "CanWuYiWang": "Comprehending Oblivion",
+    "QueDingYiWang": "Sure you want to forget { 0}?",
+    "WuYiXiuLian": "Martial Arts Training",
+    "TianXiaWuXue": "Martial Arts in the World",
+    "QueDingCanWuTiSheng": "Sure you want to do { 0} enlightenment enhancement?",
+    "ShenTi": "Body",
+    "JingShen": "Spirituality",
+    "JinMai": "tendons and veins",
+    "CaoWei": "{ 0} slot"
+  },
+  "MainDH": {
+    "Shang": "Injury",
+    "ZaiYe": "rivers and lakes",
+    "QingBao": "Intelligence",
+    "XiangShiRenWu": "Meet the people"
+  },
+  "CharacterList": {
+    "RenWuXinXi": "Character Information",
+    "YiQianYiXia": "Under 1,000",
+    "YiQianYiShang": "{ 0}thousands more",
+    "ShengPingFu": "{ 0}win { 1}draw { 2}lose",
+    "MenPaiRenWu": "Sect Personality",
+    "QingXuanZe": "Please select",
+    "QueDingXiaZhu": "Sure you want to place a bet { 0}?",
+    "BuKeYaZhu": "No bets",
+    "XiaZhu": "Place your bet { 0}",
+    "QingBao": "Intelligence"
+  },
+  "MenPaiZuZhiList": {
+    "MenPai": "Sects",
+    "ShiZhen": "Municipalities",
+    "WuMenPai": "No school, no sect"
+  },
+  "AvatarList": {
+    "QingBao": "Intelligence"
+  },
+  "DialogSystem": {
+    "FanHui": "Back",
+    "QingBao": "Intelligence",
+    "LiJiTiaoZhan": "Challenge Now",
+    "KaoLvYiXia": "Consider this",
+    "WoYaoDuJian": "I want to bet on the sword"
+  },
+  "ShangJiaoPanel": {
+    "QueDingJiaoChu": "Sure you want to hand over { 0}?",
+    "Wu": "None",
+    "WuGongXinFa": "Martial arts techniques",
+    "NeiGong": "internal power",
+    "QingGong": "lightning feat",
+    "XinFaKouJue": "Mind Mantra",
+    "YiXiuLian": "Cultivated",
+    "WeiXiuLian": "uncultivated"
+  },
+  "PlayerEndEffect": {
+    "CengJi": "Layer { 0}"
+  },
+  "BattleEndPanel": {
+    "CanWuJinXiuZhong": "In the process of further study",
+    "Wu": "None",
+    "HuoDeWuPin": "Acquired items",
+    "ShiQuWuPin": " <color=#DC143C> No drops on defeat </color> ",
+    "QieCuoWuDiaoLuo": "No drop in the cut",
+    "JinQian": "Money",
+    "WuQiZhuangBei": "Weaponry",
+    "MiJiBaoDian": "Secret Treasure",
+    "LingDanMiaoYao": "elixir",
+    "YiShuDuJing": "Medical Book of Poison",
+    "ShiCiShuKan": "Poetry Books",
+    "HuaJvHuaZuo": "Paintings",
+    "YueQiYuePu": "Instrumental sheet music",
+    "ShiCaiJiaYao": "Food delicacies",
+    "JiuQiMingJiu": "Wine ware famous wine",
+    "ChaJvChaYe": "Tea set tea leaves",
+    "WenWanShouCang": "Arts &amp; Crafts Collection"
+  },
+  "Map": {
+    "ShiFouJinRu": "Do you want to enter { 0}?",
+    "ShiFouYiDong": "Does it move to { 0}?",
+    "TingZhiYiDong": "Stop moving to { 0}?"
+  },
+  "Mission": {
+    "BuDaoYiTian": "Less than 1 day",
+    "HaiShengTianShu": "{ 0} days left",
+    "SanShiErQiangZhengBa": "Thirty-two top contenders",
+    "BaQiangZhengBa": "Top 8 Competition",
+    "LunJianYaoQing": "Invitation to Sword Talk",
+    "JieZhi": "As of { 0}"
+  },
+  "WorkPanel": {
+    "DiDianBuXian": "Location is not limited"
+  },
+  "LunJianPanel": {
+    "YiWanBi": "Completed",
+    "Nian": "Year",
+    "WuPaiMing": " <color=#A4A4A4FF>  <size=16> No ranking </size> </color> ",
+    "Sheng": "Winning",
+    "DuoKui": "/ Winning",
+    "LunJianHuiGu": "Sword Talk Review",
+    "GuiZe": "Rules",
+    "Fen": "{ 0}min",
+    "JiFenGuiZe": " <color=#DDBE84FF> * </color> <color=#5CCAA6FF> { 0} points for each \"win\" </color> \n <color=#DDBE84FF> * </color> <color=#5CCAA6FF> { 1} points for \"Final Loss\" </color> \n <color=#DDBE84FF> * </color> <color=#5CCAA6FF> { 2} points for \"Winning the Final\" </color> ",
+    "LunJianXinXi": "{ 0}Fencing Information"
+  },
+  "SavePanel": {
+    "QueDingBaoCunBingFuGai": " <color=#DDBE84FF> OK to \"Save\" and \"Overwrite\" \"Record { 0}\"? </color> ",
+    "Time": "{ 0}hours { 1}minutes { 2}seconds",
+    "QueDingDuQu": "Sure to \"read\" \"record { 0}\"?",
+    "QueDingDuQu_AutoSave": "Sure to \"Read\" \"Auto Archive Record { 0}\"?",
+    "QueDingBaoCun": "OK to \"Save\" to \"Record { 0}\"?"
+  },
+  "ToolTip": {
+    "WuXiuLianYingXiang": "No cultivation impact"
+  },
+  "Battle": {
+    "GuiHuan": "Return",
+    "ZhanYou": "Possession",
+    "WeiXie": "Threats",
+    "QiaoShe": "skillful tongue",
+    "SiDou": "Death Match",
+    "FangQi": "Give up",
+    "QiuRao": "beg forgiveness",
+    "MaiMing": "buy a life",
+    "JiuYi": "Inauguration",
+    "JiaoNaMaiMingCai": "Paying for life money",
+    "NingSiBuQu": "Better to die than to submit",
+    "ChuJue": " <color=#FF1B00FF> Execution </color> ",
+    "FangSheng": "Direct release",
+    "SuoQuMaiMingCai_ChuJue": " <color=#FF1B00FF> Execution after demand for money </color> ",
+    "SuoQuMaiMingCai_FangSheng": "Release after claiming money"
+  },
+  "Service": {
+    "GongFaJiHui_WuWuGong": "Uncollected martial arts",
+    "GongFaJiHui_WuNeiGong": "Unrecovered internal power",
+    "GongFaJiHui_WuQingGong": "Unrecovered light work",
+    "ChaoZhuanGongFa_WuWuGong": "Have not learned all the martial arts",
+    "ChaoZhuanGongFa_WuNeiGong": "Not full of internal skills",
+    "ChaoZhuanGongFa_WuQingGong": "Not full of light skills",
+    "GuanPu_Big": "Big",
+    "GuanPu_Small": "small",
+    "GuanPuRuleInfo_Big": " <color=#DDBE84FF> * </color> \"3 dice totaling { 0} to { 1} points\" can be drawn blind once more at <color=#5CCAA6FF> </color> <color=#DDBE84FF> \n* </color> \"1 point on all 3 dice\" wins all <color=#FF00B6FF> \"Phoenix, etc.\" prizes </color> <color=#DDBE84FF> \n* </color> \"3 dice with 6 points\" gets all <color=#FF9A00FF> \"Dragons, etc.\" prizes </color> ",
+    "GuanPuRuleInfo_Small": " <color=#DDBE84FF> * </color> \"3 dice totaling { 0} to { 1} points\" can be drawn blind once more at <color=#5CCAA6FF> </color> <color=#DDBE84FF> \n* </color> \"1 point on all 3 dice\" wins all <color=#FF00B6FF> \"Phoenix, etc.\" prizes </color> <color=#DDBE84FF> \n* </color> \"3 dice with 6 points\" gets all <color=#FF9A00FF> \"Dragons, etc.\" prizes </color> ",
+    "GuanPu_Dice_Big": "{ 0}Large",
+    "GuanPu_Dice_Small": "{ 0} small",
+    "GuanPuRuleInfo_Special_Big": "Special <color=#DDBE84FF> * </color> \"3 dice totaling { 0} to { 1} points\" can be drawn again <color=#5CCAA6FF> 1 time blind </color> <color=#DDBE84FF> \n* </color> \"1 point on all 3 dice\" will get 3 prizes directly from <color=#5CCAA6FF> </color> <color=#DDBE84FF> \n* </color> \"3 dice with 6 points\" directly to <color=#5CCAA6FF> 6 prizes </color> ",
+    "GuanPuRuleInfo_Special_Small": "Special <color=#DDBE84FF> * </color> \"3 dice totaling { 0} to { 1} points\" can be drawn again <color=#5CCAA6FF> 1 time blind </color> <color=#DDBE84FF> \n* </color> \"1 point on all 3 dice\" will get 3 prizes directly from <color=#5CCAA6FF> </color> <color=#DDBE84FF> \n* </color> \"3 dice with 6 points\" directly to <color=#5CCAA6FF> 6 prizes </color> ",
+    "ChaoZhuanGongFaPanelName": "Copying Kung Fu",
+    "GongFaJiHuiPanelName": "Kung Fu sent back",
+    "GongFaJiHui_XiuLianCengJi": "Kung Fu Levels"
+  },
+  "TaoLuPeiZhi": {
+    "None": "None",
+    "ShouZhi": "Refers to",
+    "Dao": "Knife",
+    "Qiang": "Gun",
+    "Jian": "Sword",
+    "Fu": "axe",
+    "Chui": "Hammer",
+    "Bi": "Pen",
+    "Gun": "stick",
+    "Bian": "whip",
+    "TeShu": "Special",
+    "AnQi": "dark",
+    "TongYong": "Tong",
+    "GongFangHuiHe": "{ 0}Offensive and defensive rounds",
+    "WuLengQue": "No cooling",
+    "XuGongFangHuiHe": "Need { 0} attack and defense rounds",
+    "Wu": "None",
+    "CaoWeiYi": "Slot I",
+    "CaoWeiEr": "Slot 2",
+    "CaoWeiSan": "Slot 3",
+    "CaoWeiSi": "Slot IV",
+    "CaoWeiWu": "Slot V",
+    "QueDingBaoCun": "OK to save and overwrite { 0} configuration",
+    "Gou": "Hook"
+  },
+  "Quest": {
+    "ZhunBeiZhong": "In preparation",
+    "JinXingZhong": "In progress",
+    "YiWanCheng": "Completed",
+    "QueDingZhongZhi": "When the branch is reopened, it continues from the following episodes.",
+    "WenZhenTitleText": "1 successful \"medical consultation\" in this location"
+  },
+  "ActionManager": {
+    "YeGuangBei": "Luminous Cup",
+    "GuoZhi": "Fruit Juice"
+  },
+  "ZiZhai": {
+    "FangZhiCangPin": "Placement of collections",
+    "CiZhiPanelName": "Porcelain collection at a glance",
+    "YvZhiPanelName": "Jade collection at a glance",
+    "QingTongZhiPanelName": "Bronze collection at a glance",
+    "FangZhiCangPin_InfoPanelButton": "Put in",
+    "CangPinShuLiang": "{ 0}/{ 1}",
+    "WeiFangZhi": "Not placed"
+  },
+  "NieRen": {
+    "FuZhuang": "Clothing { 0}",
+    "LianXing": "Face Type { 0}",
+    "TouFa": "Hair { 0}",
+    "HuZi": "Beard { 0}",
+    "ZhuangShi": "Decoration { 0}",
+    "YanJing": "Eyes { 0}",
+    "MeiMao": "Eyebrows { 0}",
+    "BiZi": "Nose { 0}",
+    "ZuiBa": "Mouth { 0}",
+    "ChuShenShanChang": {
+      "QuanZhang": "Fist and Palm",
+      "YongJian": "with a sword",
+      "ShiDao": "make a knife",
+      "ZhiLi": "Finger Force",
+      "ShuaGun": "play with a stick",
+      "YongQiang": "With guns",
+      "YunFu": "axe",
+      "BianShu": "Whip art",
+      "GouFa": "hook method",
+      "AnQi": "Concealed weapons",
+      "BiFa": "Penmanship"
+    },
+    "SaveLoadPanel": {
+      "BaoCun": "Save",
+      "DuQu": "Read",
+      "CaoWeiYi": "Slot I",
+      "CaoWeiEr": "Slot 2",
+      "CaoWeiSan": "Slot 3",
+      "CaoWeiSi": "Slot IV",
+      "CaoWeiWu": "Slot V",
+      "QueDingBaoCun": "OK to save and overwrite { 0} data",
+      "QueDingDuQu": "Determine to read { 0} data"
+    }
+  },
+  "TeChanWu": {
+    "ChiYouJuanShu": "Hold { 0} volume",
+    "Juan": "{ 0} volume",
+    "TiaoShangLu": "{ 0} a business road",
+    "WeiChiYou": "Not held",
+    "MaiRu": "Buy",
+    "MaiChu": "Sell out",
+    "MaiRuJin": "Buy-in Gold",
+    "MaiChuJin": "Selling Gold",
+    "MaiRuShuLiang": "Number of buys",
+    "MaiChuShuLiang": "Number of Sells",
+    "QiangHuo": "Grab the { 0} volume",
+    "BuyAll": {
+      "Info1": "Are you sure you want to buy all the banknotes?",
+      "Info2": "(total will cost { 0})"
+    }
+  },
+  "Map2D": {
+    "WuPaiMing": "No ranking",
+    "PaiMing": "Ranking { 0}",
+    "ChuanSongTextInfo1": "Sure you want to move to { 0} the post?",
+    "ChuanSongTextInfo2": "(will consume { 0} slots)",
+    "ChuanSongTextInfo2_NoMapData": "Wilderness, no way to assess the time spent on the road"
+  },
+  "ShiLiPiao": {
+    "SLP_Trade_Panel_Juan": "{ 0} volume",
+    "SLP_Trade_Panel_DuiHuanJuan": "1 volume to { 0} Guan",
+    "SLP_Trade_Panel_ConfirmJuan": "Sure you want to redeem { 0} rolls of merchant tickets?"
+  },
+  "FightStory": {
+    "NGQGTexts": [
+      "Simultaneously perform the \"[NGQGNAME]\" move \"[ZhaoShiName]\"\n[ZhaoShiTese]\""
+    ],
+    "WuTeJi": " <color=#A2A2A2> \"No Stunts\" </color> "
+  },
+  "Place": {
+    "WuBaoHuSan": "None"
+  },
+  "LingHunLeiTai": {
+    "SaveLoadPanel": {
+      "BaoCun": "Save",
+      "DuQu": "Read",
+      "CaoWeiYi": "Slot I",
+      "CaoWeiEr": "Slot 2",
+      "CaoWeiSan": "Slot 3",
+      "CaoWeiSi": "Slot IV",
+      "CaoWeiWu": "Slot V",
+      "QueDingBaoCun": "OK to save and overwrite { 0} data",
+      "QueDingDuQu": "Determine to read { 0} data"
+    },
+    "JueSe_List_LHLT": {
+      "LHPF_RESTR": "Soul score limit No higher than { 0}",
+      "LHPF_RESTR_XWD": "Soul cultivation limit No higher than { 0}"
+    },
+    "LHLT_P": {
+      "Season": {
+        "Spring": "Spring",
+        "Summer": "Summer",
+        "Autumn": "Autumn",
+        "Winter": "Winter"
+      },
+      "RuleText": "{ 0} into 1",
+      "ChooseSeason": "Sure you want to select { 0}?",
+      "ChooseTime": "Sure you want to select { 0}?",
+      "ChooseRule": "Sure you want to select { 0}?",
+      "ChooseKill": "Sure you want to select { 0}?",
+      "ChooseTraining": "Sure you want to select { 0}?",
+      "Kill": {
+        "Enable": "Can kill",
+        "Disable": "Cannot be killed"
+      },
+      "Training": {
+        "Enable": "AI Advanced Learning",
+        "Disable": "AI does not advance"
+      },
+      "Restriction": "Lower than { 0} rating",
+      "RestrictionConfirm_Enable": "Choose a rating limit below { 0}?",
+      "RestrictionConfirm_Disable": "Choose no rating limit?",
+      "Restriction_XWD": "Lower than { 0} modifier",
+      "RestrictionConfirm_Enable_XWD": "Choose below { 0} the cultivation limit?",
+      "RestrictionConfirm_Disable_XWD": "Choose no cultivation limit?"
+    },
+    "C_Seclet_Panel": {
+      "NoCharacter": "  ????"
+    }
+  },
+  "LingHunHub": {
+    "DeleteConfirmInfo": "Sure you want to remove the soul of { 0}?"
+  },
+  "GraphicSystem": {
+    "GS_Confirm": {
+      "GS_LEVEL": "Sure you want to use this screen setting?",
+      "SelectWindowed": "Sure you want to use windowed mode?",
+      "UnSelectWindowed": "Sure you want to use full screen mode?",
+      "Res": "Sure to use the resolution mode of { 0}?"
+    },
+    "Res_Windowed": {
+      "Resolution": "{ 0} × { 1}"
+    }
+  }
+}
