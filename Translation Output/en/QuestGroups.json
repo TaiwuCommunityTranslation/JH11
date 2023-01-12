@@ -1088,7 +1088,7 @@
           }
         ],
         "Content": "After getting the wine, \"Qin Morsheng\" is very happy and drinks happily, and soon shows some drunkenness. After three rounds of wine, \"Qin Mosheng\" invites you to enjoy the food together.",
-        "Target": "Objective: <color=#FFA41BFF> Eating \"Sesame char siu mai\" </color> ",
+        "Target": "目标：<color=#FFA41BFF>食用「芝麻焦烧饼」获得「美食」状态后在「柴阳居」与「秦莫生」对话</color>",
         "Map2DIndiValues": [
           {
             "Text": "Téa"
@@ -1115,7 +1115,7 @@
           }
         ],
         "Content": "During the conversation, \"Qin Mosheng\" thanks you for saving his life and says he has prepared a thank you gift and put it in the warehouse.",
-        "Target": "Objective: <color=#FFA41BFF> Open the warehouse and take out 1 \"Tonic\" \"Taiyue Nourishing Qi Pill\" </color> ",
+        "Target": "目标：<color=#FFA41BFF>从「仓库」中取出1颗「补药」「太岳养气丹」放在「行囊」中后在「柴阳居」与「秦莫生」对话\n（点击「仓库」-「提取物品」即可查看并提取「太岳养气丹」）</color>",
         "Map2DIndiValues": [
           {
             "Text": "Téa"
@@ -1491,7 +1491,7 @@
           }
         ],
         "Content": "You have learned that there is an epidemic in Qingzhou, and you have seen \"Zhang Hou\", a big merchant of \"Langya Merchant\", preparing to go to the people's houses to distribute medicinal materials, and \"Ye Ying Che\" has brought you along to help.",
-        "Target": "Objective: <color=#FFA41BFF> Go to the Qingzhou Residence\n(If interested, try to settle local \"fights\" at \"Qingzhou ▪ Hotel\") </color> ",
+        "Target": "目标：<color=#FFA41BFF>去青州民宅\n（若有兴趣，可尝试在「青州▪饭店」解决当地的「争斗」）\n（若行走江湖时受伤，可在「客邸」、「名邸」、「住房」等设施「运功疗伤」，所需伤药可在「大名府」、「桂林」、「河中府」的药铺购买。除此之外，也可向「药王庄」掌门「曹朗」或其他可为人疗伤的角色「求医」）</color>",
         "Map2DIndiValues": [
           {
             "Text": "First time in the jungle"
@@ -1782,7 +1782,7 @@
           }
         ],
         "Content": "When I came to the tile house, I heard the storyteller was telling the past stories of the \"Green Dragon\" and \"White Tiger\" in a colorful way. \"He asked him about the whereabouts of the disciples of the Huashan School and learned that they had appeared in a village outside Jiangling Province.",
-        "Target": "Objective: <color=#FFA41BFF> Go to the village town outside of Gangneung Province\n(The village town is located near Gangneung Province with a small lake on each side) </color> ",
+        "Target": "目标：<color=#FFA41BFF>前往江陵府外的村镇\n（村镇位于江陵府附近，两侧各有一湾小湖）\n（到达村镇所在的位置后点击「探索」即可发现并进入村镇）</color>",
         "MuDiDiValues": {
           "DDText": "199,206"
         }
@@ -4406,7 +4406,7 @@
           }
         ],
         "Content": "It turns out that \"Di Meng\" wants to come to \"meat bun\" because he wants \"Ling Tian Zong\" to try it. But \"Ling Tian Zong\" prefers the Northwest \"beef noodles\", insisting that you have time to come to Lanzhou, he wants to invite you to eat the real Northwest first food.",
-        "Target": "Goal: <color=#FFA41BFF> Go to Lanzhou to find \"Ling Tian Zong\n(If the \"side story\" is difficult to advance, you can \"interrupt the mission\" and wait for the right time to continue) </color> ",
+        "Target": "目标：<color=#FFA41BFF>前往兰州找「凌天宗」</color>",
         "Map2DIndiValues": [
           {
             "Text": "Seven Absolutes"
@@ -4733,7 +4733,7 @@
           }
         ],
         "Content": "\"The Ling Tian Clan has not been able to find Di Meng recently, no matter what. He hopes you can find Di Meng and confirm that she is safe.",
-        "Target": "Objective: <color=#FFA41BFF> Go to the capital to inquire about Di Meng's whereabouts\n(If the \"side story\" is difficult to advance, you can \"interrupt the mission\" and wait for the right time to continue) </color> ",
+        "Target": "目标：<color=#FFA41BFF>前往京兆府打听「狄梦」的踪迹</color>",
         "Map2DIndiValues": [
           {
             "Text": "The End of the World"
@@ -5411,7 +5411,7 @@
           }
         ],
         "Content": "After you told \"Pei Ying\" that you were fine, she offered to take you around Chengdu Mansion.",
-        "Target": "Objective: <color=#FFA41BFF> Go to the store to find out what's going on\n(If the \"side story\" is difficult to advance, you can \"interrupt the mission\" and wait for the right time to continue) </color> ",
+        "Target": "目标：<color=#FFA41BFF>前往铺席一探究竟</color>",
         "Map2DIndiValues": [
           {
             "Text": "Lion Lucite"
@@ -5432,7 +5432,7 @@
           }
         ],
         "Content": "You and Pei Ying were about to leave the store, but you were stopped by a strange man. This man showed many expensive goods, and Pei Ying saw that he was not right-minded, so she sent him away, but she was curious about what the man said about the \"Lurid Palace\", and decided to go to the \"You Hong Palace\" to ask if the \"Hong Xian Ling\" knew anything about it.",
-        "Target": "Goal: <color=#FFA41BFF> Team up with \"Pei Ying\" to \"Youhong Palace\n(Information about teaming up can be found in \"Guide\" - \"Teaming up\" page) </color> ",
+        "Target": "目标：<color=#FFA41BFF>与「裴颖」组队前往「幽鸿宫」\n（组队相关信息可在「指南」-「组队」页面进行查看）\n（若「支线故事」难以推进，可「中断任务」等待合适时机再继续进行）</color>",
         "Map2DIndiValues": [
           {
             "Text": "Lion Lucite"
@@ -5455,7 +5455,7 @@
           }
         ],
         "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Story - The Lion Ruri - Main Part II - The Great Reveal\" </size> </b> </color> \n\nYou came to \"You Hong Palace\", \"Pei Ying\" made her intention clear, \"Hong Xian Ling\" decided to test \"Pei Ying's\" martial arts skills first, then depending on the situation, decide whether to tell her about \"Lurid Palace\".",
-        "Target": "Objective: <color=#FFA41BFF> Deliver the \"Golden Needle\" to \"Hong Xian Ling\" </color> ",
+        "Target": "目标：<color=#FFA41BFF>向「鸿仙灵」交纳「金针」\n（「金针」可在「象鼻山」（216,335）的隐秘商人处购得）</color>",
         "Map2DIndiValues": [
           {
             "Text": "Lion Lucite"
@@ -5737,7 +5737,7 @@
           }
         ],
         "Content": "As soon as you entered the restaurant, the waiter gave you a new dish to taste and said that if you were interested in this dish, you could go to the \"Taotie Gate\" and ask the master \"Dragon Broken Sky\" for advice.",
-        "Target": "Objective: <color=#FFA41BFF> Go to the \"Taotie Gate\" kitchen to visit the master\n(If the \"side story\" is difficult to advance, you can \"interrupt the mission\" and wait for the right time to continue) </color> ",
+        "Target": "目标：<color=#FFA41BFF>前往「饕餮门」伙房拜访掌门</color>",
         "Map2DIndiValues": [
           {
             "Text": "Exotic Flavors"
@@ -5788,7 +5788,7 @@
           }
         ],
         "Content": "You succeeded in making \"plum ginger\", and \"Dragon Broken Sky\" quickly regained his appetite after eating it. He thinks you are very talented in cooking, and tells you that he has been studying a recipe passed down from the Spring and Autumn Period, \"Strange Taste\", and hopes to find a like-minded person to recreate the dishes recorded in \"Strange Taste\" together.",
-        "Target": "Objective: <color=#FFA41BFF> Team up with \"Dragon Broken Sky\" and go to Henan Province Hotel\n(Information about teaming up can be found in the \"Guide\" - \"Teaming Up\" page) </color> ",
+        "Target": "目标：<color=#FFA41BFF>与「龙断天」组队并前往河南府饭店\n（组队相关信息可在「指南」-「组队」页面进行查看）\n（若「支线故事」难以推进，可「中断任务」等待合适时机再继续进行）</color>",
         "Map2DIndiValues": [
           {
             "Text": "Exotic Flavors"
@@ -6249,7 +6249,7 @@
           }
         ],
         "Content": "You came to the guest house in Chengdu and found that \"Bao Hongtu\" was blue and purple. ...... You tried to detoxify him, but there was no improvement at all. In the end, \"Bao Hongtu\" had to ask you to go to \"Medicine King Villa\" for medicine.",
-        "Target": "Objective: <color=#FFA41BFF> Visit the owner of \"Medicine King Villa\n(If the \"side story\" is difficult to advance, you can \"interrupt the mission\" and wait for the right time to continue) </color> ",
+        "Target": "目标：<color=#FFA41BFF>前往「药王庄」拜访庄主</color>",
         "Map2DIndiValues": [
           {
             "Text": "Five Poison Cave"
@@ -6272,7 +6272,7 @@
           }
         ],
         "Content": "You came to the guest house in Chengdu and found that \"Bao Hongtu\" was blue and purple. ...... He had difficulty moving and had to ask you to go to a nearby pharmacy to find some antidote.",
-        "Target": "Objective: <color=#FFA41BFF> Deliver the \"Yubi Pill\" to \"Bao Hongtu\n(If the \"side story\" is difficult to advance, you can \"interrupt the mission\" and wait for the right time to continue) </color> ",
+        "Target": "目标：<color=#FFA41BFF>向「鲍弘图」交纳「玉碧幽丸」\n（「玉碧幽丸」可在桂林药铺购得）\n（若「支线故事」难以推进，可「中断任务」等待合适时机再继续进行）</color>",
         "Map2DIndiValues": [
           {
             "Text": "Five Poison Cave"
@@ -6711,7 +6711,7 @@
           }
         ],
         "Content": "\"Omei Sect's senior disciple \"Quan Xin Nuo\" informed that there are many poisoning incidents in the southwest area recently, and the Beggar's Gang wants to gather the righteous sect to fight against the power of \"Five Poison Cave\". This letter is the response of \"Jaguar Master\" to this matter, ask you must deliver this letter to \"beggar gang\".",
-        "Target": "Objective: <color=#FFA41BFF> Go to \"beggar gang\" to deliver the letter\n(If the \"side story\" is difficult to advance, you can \"interrupt the task\" and wait for the right time to continue) </color> ",
+        "Target": "目标：<color=#FFA41BFF>前往「丐帮」送信</color>",
         "Map2DIndiValues": [
           {
             "Text": "Vietnamese girl"
@@ -6916,7 +6916,7 @@
           }
         ],
         "Content": "\"I hope you can send a gift of thanks to Jian Wu Xian for her.",
-        "Target": "Objective: <color=#FFA41BFF> Deliver \"Omei White Bud Tea\" to \"Jian Wu Xian\" </color> ",
+        "Target": "目标：<color=#FFA41BFF>向「剑无仙」交纳「峨嵋白芽茶」\n（「峨嵋白芽茶」可在金州茶坊处购得或在「峨嵋派」住房中进行搜索）</color>",
         "Map2DIndiValues": [
           {
             "Text": "Vietnamese girl"
@@ -8136,7 +8136,7 @@
           }
         ],
         "Content": "\"Zhang Zeduan\" is the former painter of the Hanlin Painting Institute. When he learned that you were interested in learning painting, he taught you some painting techniques and decided to test your basic skills.",
-        "Target": "Objective: <color=#FFA41BFF> Submit \"Ordinary Painting\" to \"Zhang Zeduan\n(If the \"side story\" is difficult to advance, you can \"interrupt the mission\" and wait for the right time to continue) </color> ",
+        "Target": "目标：<color=#FFA41BFF>向「张择端」交纳「普通画作」\n（作画所需的笔墨纸砚，可在河南府书画铺的书画商处购得）\n（若「支线故事」难以推进，可「中断任务」等待合适时机再继续进行）</color>",
         "Map2DIndiValues": [
           {
             "Text": "rivers and mountains with extreme intent"
@@ -10133,7 +10133,13 @@
         ],
         "MuDiDiValues": {
           "DDText": "Hakujo Mountain Resort"
-        }
+        },
+        "ShowChests": [
+          {
+            "TEXT1": "传闻「流云崖」出现秘宝",
+            "TEXT2": "78，262"
+          }
+        ]
       },
       {
         "Condition": [
@@ -10411,7 +10417,7 @@
           }
         ],
         "Content": "\"Huo Yang\" can not know the crux of the problem, only to promise you to practice this skill in the future, and then write the secret book for you.",
-        "Target": "Goal: <color=#FFA41BFF> Improve your \"qi method\" before talking to \"Huo Yang\n(You can enjoy the gain effect from specific \"food delicacies\", \"tea\", \"wine\" and \"music score and sound\" by the acts of \"eating\", \"ordering tea\", \"drinking heavily\" and \"playing\" to enhance) </color> ",
+        "Target": "目标：<color=#FFA41BFF>提升自己的「气法」后再与「霍阳」交谈\n（可通过「吃东西」、「点茶」、「豪饮」、「演奏」等行为，享受特定的「美食佳肴」、「茶」、「酒」、「乐谱音律」带来的增益效果，进行提升）\n（若「支线故事」难以推进，可「中断任务」等待合适时机再继续进行）</color>",
         "Map2DIndiValues": [
           {
             "Text": "Asking for Taizu"
@@ -10848,7 +10854,7 @@
           }
         ],
         "Content": " <color=#DDBE84FF>  <b>  <size=23> \"The Story - The Blazing Sword - The Main Story - The Peak of the Road\" </size> </b> </color> \n\nYou found a box in the cave, meanwhile, \"Hong Zhong\" also arrived because he was worried about \"Yan Mu Yi\". You find that the box is locked tightly, and you need to fill up your Yang veins to open the box with your inner strength.",
-        "Target": "Objective: <color=#FFA41BFF> Talk to \"Yan Mu Yi\" again after upgrading the \"Governor\"\n(You can enjoy the gain effect from specific \"food and delicacies\", \"wine\" and \"music score and sound\" by the acts of \"eating\", \"drinking heavily\" and \"playing\" to enhance) </color> ",
+        "Target": "目标：<color=#FFA41BFF>提升「督脉」后再次与「阎穆一」交谈\n（可通过「吃东西」、「豪饮」、「演奏」等行为，享受特定的「美食佳肴」、「酒」、「乐谱音律」带来的增益效果，进行提升）\n（若「支线故事」难以推进，可「中断任务」等待合适时机再继续进行）</color>",
         "MuDiDiValues": {
           "DDText": "230,39"
         }
@@ -11615,8 +11621,8 @@
             ]
           }
         ],
-        "Content": "The \"White Bear of the Forest\" asks for your help in finding a \"Spring Walk on the Mountain Trail\".",
-        "Target": "Objective: <color=#FFA41BFF> Go to \"Nanyang Boxing Villa\" and talk to \"Lin Bai Xiong\" after you have the \"Spring Walk on the Mountain Trail\".\n(The \"Spring Walk on the Mountain Trail\" can be made by \"writing and painting\") </color> ",
+        "Content": "「林白熊」托你帮忙作一幅「山径春行图」。",
+        "Target": "目标：<color=#FFA41BFF>拥有「山径春行图」后前往「南阳拳庄」与「林白熊」对话\n（「山径春行图」描绘的是庐州春天的景色，可通过「写字作画」作成）\n（若「支线故事」难以推进，可「中断任务」等待合适时机再继续进行）</color>",
         "Map2DIndiValues": [
           {
             "Text": "Starry Four Elephants"
@@ -14830,8 +14836,7 @@
         ],
         "LeiTaiTargetText": [
           "\"Within 18 rounds\"",
-          "\"Winning the battle\"",
-          "In a \"tea-drinking state"
+          "\"Winning the battle\""
         ]
       },
       {
@@ -15033,8 +15038,7 @@
         ],
         "LeiTaiTargetText": [
           "\"Within 18 rounds\"",
-          "\"Winning the battle\"",
-          "In a \"poisoned state"
+          "\"Winning the battle\""
         ]
       },
       {
@@ -15083,8 +15087,7 @@
         ],
         "LeiTaiTargetText": [
           "\"Within 18 rounds\"",
-          "\"Winning the battle\"",
-          "In a \"wounded state"
+          "\"Winning the battle\""
         ]
       },
       {
