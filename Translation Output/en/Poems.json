@@ -14,10 +14,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "An unusual and ordinary piece of poetry."
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/PuTongShiCi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -36,55 +33,16 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShiZhen000000043"
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          50.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {
       "Value": "This poem is about the mood of a young girl who is immersed in her first love."
     },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/ZhuZhiCi"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Kui Zhou\"\n\"Winter\" \"Afternoon\n\"Poetry\" 65+ \"Fortunate\" 50+ \"Cultured\" 65+"
     }
@@ -106,55 +64,16 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "YangZhouKedi_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          70.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          40.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {
       "Value": "Words of homesickness made at the hostel in Yangzhou on the 15th of September."
     },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/JingYeSi"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Yangzhou\" \"guest house\n\"Autumn\" \"Evening\n\"Poetry\" 70+ \"Fortunate\" 60+ \"Cultured\" 40+"
     }
@@ -176,55 +95,16 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShiZhen000000031"
-        ]
-      },
-      {
-        "Value": [
-          2.0
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {
       "Value": "This work was written after hearing that Wang Anshi had failed to implement the new law and had retired to Jinling."
     },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/QianQiuSuiYin"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Jiangning Mansion\"\n\"Autumn\" \"Noon\n\"Poetry\" 60+ \"Fortunate\" 60+ \"Cultured\" 60+"
     }
@@ -246,55 +126,16 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShiZhen000000025"
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          50.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          50.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {
       "Value": "The description and association of the moment when you just wake up in the spring morning."
     },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/ChunXiao"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Xiangzhou\"\n\"Spring\" \"Morning\n\"Poetry\" 60+ \"Fortunate\" 50+ \"Cultured\" 60+"
     }
@@ -316,55 +157,16 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "BiaoJu000000005"
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          40.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          50.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          40.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {
       "Value": "On a crisp autumn day, spontaneously exclaim: What a cool autumn day!"
     },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/ChouNuErShuBoShanDaoZhongBi"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Sawaji Merchant\"\n\"Autumn\" \"Morning\n\"Poetry\" 40+ \"Fortunate\" 50+ \"Cultured\" 40+"
     }
@@ -386,55 +188,16 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShiZhen000000010"
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          70.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          50.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {
       "Value": "After seeing the plum blossoms blooming on the branches in the cold winter, he was infected by their steadfast and unyielding image and composed this lyric."
     },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/PuSuanZiYongMei"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Taiyuan Province\"\n\"Winter\" \"Afternoon\n\"Poetry\" 70+ \"Fortunate\" 50+ \"Cultured\" 60+"
     }
@@ -456,55 +219,16 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShiZhen000000005"
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          100.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          85.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          90.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {
       "Value": "Faced with the bright moon, my heart was in turmoil, so I took advantage of my wine to write this poem."
     },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/ShuiDiaoGeTou"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Qingzhou\"\n\"Autumn\" \"Evening\n\"Poetry\" 100+ \"Fortunate\" 85+ \"Cultured\" 90+"
     }
@@ -526,55 +250,16 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "FuXiGe_ZiZhai_TingYuan_0001"
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "Value": [
-          2.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          90.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          75.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          95.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {
       "Value": "When I saw people playing in the street, I remembered my own past, so I composed this word to commemorate it."
     },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/RuMengLing"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Tokyo Bianliang\" \"Fuxi Pavilion\" \"Courtyard\n\"Summer\" \"Evening\n\"Poetry\" 90+ \"Fuyuan\" 75+ \"Cultured\" 95+"
     }
@@ -596,55 +281,16 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "LanZhuLuoMei_ZiZhai_ChaShi_0001"
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          75.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          85.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          90.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {
       "Value": "A poem made after drinking Dragon Phoenix Group tea."
     },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/PinLingChaCi"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Chengdu House\" \"Orchid, Bamboo and Plum Blossoms\" \"Tea Room\n\"Autumn\" \"Afternoon\n\"Poetry\" 75+ \"Fortunate\" 85+ \"Cultured\" 90+"
     }
@@ -666,55 +312,16 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "TanZhouKeDi_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          40.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          40.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          40.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {
       "Value": "Seeing the scene of the dying flowers in late spring, I feel sad about the passing of my own years."
     },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/YuanXiSha"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Tanjo\" \"Guest House\n\"Spring\" \"Afternoon\n\"Poetry\" 40+ \"Fortunate\" 40+ \"Cultured\" 40+"
     }
@@ -736,55 +343,16 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "HongZhouJiuLou_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          50.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          75.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {
       "Value": "When I was enjoying the moon alone, I thought of my friends and relatives in distant places, so I wrote this poem to remember them."
     },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/WangYueHuaiGu"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Hong Zhou\" \"Restaurant\n\"Autumn\" \"Evening\n\"Poetry\" 60+ \"Fortunate\" 50+ \"Cultured\" 75+"
     }
@@ -806,55 +374,16 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "tansuo_POI_DHHotel_LZL_000000001"
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          40.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          50.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          40.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {
       "Value": "In the early morning, I climbed Mount Broken and entered Xingfu Temple, where the sun was rising and shining in the woods on the mountain. This poem is about a Buddhist temple and a Zen garden, and it expresses the seclusion of forgetting the world and the love for the landscape."
     },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/TiPoShanSiHouChanYuan"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Dinghai Inn\"\n\"Autumn\" \"Morning\"\n\"Poetry\" 40+ \"Fortunate\" 50+ \"Cultured\" 40+"
     }
@@ -876,55 +405,16 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "LYSH_LangYaShan_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          85.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          75.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          85.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {
       "Value": "It is a song that tells the pain of parting from love."
     },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/YiJianMei"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Langya Merchants\"「Langya Mountain\n\"Autumn\" \"Afternoon\n\"Poetry\" 85+ \"Fortunate\" 75+ \"Cultured\" 85+"
     }
@@ -946,55 +436,16 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ChengDuFuGongYuan_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          70.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          50.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          90.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {
       "Value": "A poem in praise of the spring rain that nourishes all things. The description of the spring rain is a poem with a distinctive charm, with a subtle description of the objects and sounds."
     },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/ChunYeXiYu"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Chengdu Mansion\" \"Park\n\"Spring\" \"Morning\n\"Poetry\" 70+ \"Fortunate\" 50+ \"Cultured\" 60+"
     }
@@ -1016,55 +467,16 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "HangZhouKeDi_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          35.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          50.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          50.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {
       "Value": "With the cool breeze, bright moon and lonely lamp of the chilly mid-autumn night, the emotional imagery creates a perfect mood of intermingling scenes."
     },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/XijiangYue"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Hangzhou House\" \"Guest House\n\"Spring\" \"Evening\n\"Poetry\" 35+ \"Fortunate\" 50+ \"Cultured\" 50+"
     }
@@ -1086,55 +498,16 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "HeNanFuMingDi_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          75.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {
       "Value": "A lyric commemorating a meeting with a good friend for a drink in winter."
     },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/WenLiuShiJiu"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Henan Mansion\" \"Residence\"\n\"Winter\" \"Afternoon\n\"Poetry\" 65+ \"Fortunate\" 75+ \"Cultured\" 60+"
     }
@@ -1156,55 +529,16 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "SuYuXiaoZhu_ZiZhai_QianTing_0001"
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          85.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          85.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          85.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {
       "Value": "Record the scene of the Lantern Festival in the last Yuan, full of lights and revelry of the crowd."
     },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/QingYuAnYuanXi"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Hangzhou Mansion\" \"Soseok Soseok\" \"Front Room\n\"Spring\" \"Evening\"\n\"Poetry\" 85+ \"Fortunate\" 85+ \"Cultured\" 85+"
     }
@@ -1226,55 +560,16 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ZhenDingFuJiuLou_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "Value": [
-          2.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          80.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          85.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          85.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {
       "Value": "A lyric recording the relaxed state of mind after drinking wine."
     },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/YinJiuJieLuZaiRenJing"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Zhending Mansion\" \"Restaurant\"\n\"Summer\" \"Evening\n\"Poetry\" 80+ \"Fortunate\" 85+ \"Cultured\" 85+"
     }
@@ -1296,55 +591,16 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "HongZhouFanDian_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          95.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          75.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          100.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {
       "Value": "In the autumn at the head of the Xunyang River, I happened to meet a young singer who was abandoned because of her skills, and I listened to her play a lute and wrote this song."
     },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/PiPaXing"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Hongju\" \"Hotel\n\"Autumn\" \"Afternoon\n\"Poetry\" 95+ \"Fortunate\" 75+ \"Cultured\" 100+"
     }
@@ -1366,55 +622,16 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShiZhen000000029"
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          50.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          50.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {
       "Value": "It depicts a scene of heavy snow and freezing cold."
     },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/JiangXue"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Yibin Town\"\n\"Winter\" \"Afternoon\n\"Poetry\" 65+ \"Fortunate\" 50+ \"Cultured\" 50+"
     }
@@ -1436,55 +653,16 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "JingZhaoFuMingDi_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          95.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          95.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          95.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {
       "Value": "With refined language, beautiful images, and a combination of narrative and lyricism, it recounts the love tragedy of Emperor Xuanzong of Tang and Yang Guifei during the An Shi Rebellion."
     },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/ChangHenGe"
-    ],
     "Inspiration": {
       "ValueInfo": "\"The King's Mansion\" \"Famous Residence\n\"Autumn\" \"Afternoon\n\"Poetry\" 95+ \"Fortunate\" 95+ \"Cultured\" 95+"
     }
@@ -1506,55 +684,16 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "JingZhaoFuGLWS_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "Value": [
-          2.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          70.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          70.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          80.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {
       "Value": "The parting words are a parting speech made from the feeling of seeing off a friend at a post station. The language is natural and clear, and the scene is well blended, which is very infectious."
     },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/SongYuanErShiAnXi"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Beijing Zhaofu\" \"Grotto House\"\n\"Summer\" \"Afternoon\n\"Poetry\" 70+ \"Fortunate\" 70+ \"Cultured\" 80+"
     }
@@ -1576,55 +715,16 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "BianLiangQingLou_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          40.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          40.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          50.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {
       "Value": "The wild cursive style, with its sweeping strokes, majestic and majestic momentum, and strange and dazzling characters, like a horse off the reins, without restraint, can especially show the superb calligraphy of the hanging wrist and the forward movement of the brush."
     },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/QueQiaoXianQianYunNongQiao"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Tokyo Bianliang\" \"Greenhouse\"\n\"Spring\" \"Evening\"\n\"Poetry\" 40+ \"Fortunate\" 40+ \"Cultured\" 50+"
     }
@@ -1646,53 +746,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShiZhen000000016"
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          90.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          80.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          80.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/ChunJiangHuaYueYe"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Yangzhou\"\n\"Spring\" \"Evening\n\"Poetry\" 90+ \"Fortunate\" 80+ \"Cultured\" 80+"
     }
@@ -1714,53 +775,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "HaiZhouJiuLou_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          75.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/JiangChengZi"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Haizhou\" \"Restaurant\n\"Spring\" \"Morning\n\"Poetry\" 65+ \"Fortunate\" 75+ \"Cultured\" 65+"
     }
@@ -1782,53 +804,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "YongZhouKeDi_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          70.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          70.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          70.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/QingPingLeChunGuiHeChu"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Yongzhou\" \"guest house\n\"Spring\" \"Afternoon\n\"Poetry\" 70+ \"Fortunate\" 70+ \"Cultured\" 70+"
     }
@@ -1850,53 +833,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "XiangZhouGLWS_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          70.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          55.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/ChunZhongXiWangJiuXiangXun"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Xiangzhou\" \"The House of the Gables\"\n\"Spring\" \"Morning\"\n\"Poetry\" 70+ \"Fortunate\" 55+ \"Cultured\" 65+"
     }
@@ -1918,53 +862,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShiZhen000000020"
-        ]
-      },
-      {
-        "Value": [
-          2.0
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          80.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/QingMing"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Luzhou\"\n\"Spring\" \"Noon\n\"Poetry\" 65+ \"Fortunate\" 65+ \"Cultured\" 80+"
     }
@@ -1986,53 +891,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShouZhouMingDi_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          2.0
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          80.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          80.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          80.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/ChuZhouXiJian"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Shouzhou\" \"Residence\"\n\"Spring\" \"Noon\n\"Poetry\" 80+ \"Fortunate\" 80+ \"Cultured\" 80+"
     }
@@ -2054,53 +920,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "XingYuanFuGLWS_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          70.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/ChuChunHanZhongDangZhou"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Xing Yuan Fu\" \"Grottoes\"\n\"Spring\" \"Morning\"\n\"Poetry\" 70+ \"Fortunate\" 65+ \"Cultured\" 65+"
     }
@@ -2122,53 +949,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShiZhen000000037"
-        ]
-      },
-      {
-        "Value": [
-          2.0
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          90.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          90.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          80.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/PoZhenZi"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Fuzhou\"\n\"Spring\" \"Noon\n\"Poetry\" 90+ \"Fortunate\" 90+ \"Cultured\" 80+"
     }
@@ -2190,53 +978,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShiZhen000000033"
-        ]
-      },
-      {
-        "Value": [
-          2.0
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          70.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/YuanXiShaYouQiShuiQingQuanSi"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Gangneung Province\"\n\"Spring\" \"Noon\n\"Poetry\" 60+ \"Fortunate\" 65+ \"Cultured\" 70+"
     }
@@ -2258,53 +1007,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShuXiangShuiXie_ZiZhai_QianTing_0001"
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          90.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          85.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          85.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/DieLianHuaHuaTuiCanYangQingXingXiao"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Guilin,\" \"Pepperland,\" \"Front Room\n\"Spring\" \"Morning\"\n\"Poetry\" 90+ \"Fortunate\" 85+ \"Cultured\" 85+"
     }
@@ -2326,53 +1036,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "YangZhouPuXi_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          2.0
-        ]
-      },
-      {
-        "Value": [
-          2.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          35.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          45.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          40.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/BaiLianJing"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Yangzhou\" \"laying a mat\"\n\"Summer\" \"Noon\n\"Poetry\" 35+ \"Fortunate\" 45+ \"Cultured\" 40+"
     }
@@ -2394,53 +1065,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "YongZhouMinZhai_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "Value": [
-          2.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          75.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          75.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/XiaRiXianJu"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Yongzhou \"Residential houses\n\"Summer\" \"Afternoon\n\"Poetry\" 60+ \"Fortunate\" 75+ \"Cultured\" 75+"
     }
@@ -2462,53 +1094,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "EMeiPai_EMeiShan_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "Value": [
-          2.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/ShanTingXiaRi"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Emei School\" \"Emei Mountain\n\"Summer\" \"Morning\n\"Poetry\" 65+ \"Fortunate\" 65+ \"Cultured\" 65+"
     }
@@ -2530,53 +1123,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "GongZhouCaiShiChang_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          2.0
-        ]
-      },
-      {
-        "Value": [
-          2.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          75.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          50.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/RuanLangGuiChuXia"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Gongju\" \"Food Market\n\"Summer\" \"Noon\n\"Poetry\" 75+ \"Fortunate\" 60+ \"Cultured\" 50+"
     }
@@ -2598,53 +1152,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShiZhen000000024"
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "Value": [
-          2.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          70.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          55.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/XiaRiTianYuanZaXing"
-    ],
     "Inspiration": {
       "ValueInfo": "\"New Rest Town\"\n\"Summer\" \"Afternoon\n\"Poetry\" 65+ \"Fortunate\" 70+ \"Cultured\" 55+"
     }
@@ -2666,53 +1181,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "XuZhouKedi_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "Value": [
-          2.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          30.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          45.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          50.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/YongYuLePengChengYeSuYanZiLou"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Xuzhou\" \"guest house\n\"Summer\" \"Evening\n\"Poetry\" 30+ \"Fortunate\" 45+ \"Cultured\" 50+"
     }
@@ -2734,53 +1210,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "KuiZhouKeDi_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "Value": [
-          2.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          70.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          70.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          70.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/JiangChengZiMoYunTuoYuGuoXiLou"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Kui Zhou\" \"Guest House\n\"Summer\" \"Afternoon\n\"Poetry\" 70+ \"Fortunate\" 70+ \"Cultured\" 70+"
     }
@@ -2802,53 +1239,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShiZhen000000018"
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "Value": [
-          2.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          45.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          45.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          45.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/XiYu"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Zizhou\"\n\"Summer\" \"Afternoon\n\"Poetry\" 45+ \"Fortunate\" 45+ \"Cultured\" 45+"
     }
@@ -2870,53 +1268,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShiZhen000000013"
-        ]
-      },
-      {
-        "Value": [
-          2.0
-        ]
-      },
-      {
-        "Value": [
-          2.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/QingPingLeCunJu"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Ganquan Town\" \"One\n\"Summer\" \"Noon\n\"Poetry\" 65+ \"Fortunate\" 60+ \"Cultured\" 60+"
     }
@@ -2938,53 +1297,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "XingYuan_LingYaSi_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          80.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          80.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          80.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/YuJiaAoQiuSi"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Xing Yuan Mansion\" \"Ling Ya Temple\n\"Autumn\" \"Evening\n\"Poetry\" 80+ \"Fortunate\" 80+ \"Cultured\" 80+"
     }
@@ -3006,53 +1326,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "KuiZhouMinZhai_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          75.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          75.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          75.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/YeYuJiBei"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Kui Zhou\" \"House\"\n\"Autumn\" \"Evening\n\"Poetry\" 75+ \"Fortunate\" 75+ \"Cultured\" 75+"
     }
@@ -3074,53 +1355,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ChengDuFuFanDian_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/ChuFaJiaZhou"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Chengdu Mansion\" \"Hotel\n\"Autumn\" \"Morning\n\"Poetry\" 65+ \"Fortunate\" 60+ \"Cultured\" 60+"
     }
@@ -3142,53 +1384,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "HongZhouTengWangGe_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          95.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          100.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          90.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/TengWangGeXu"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Hongzhou\" \"Tengwangge\"\n\"Autumn\" \"Evening\n\"Poetry\" 95+ \"Fortunate\" 100+ \"Cultured\" 90+"
     }
@@ -3210,53 +1413,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "JingZhaoFuKeDi_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/YeZuo"
-    ],
     "Inspiration": {
       "ValueInfo": "\"The King's Mansion\" \"Guest House\n\"Autumn\" \"Evening\n\"Poetry\" 65+ \"Fortunate\" 65+ \"Cultured\" 65+"
     }
@@ -3278,53 +1442,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "HeNanFuKeDi_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          2.0
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          80.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/QiuSi"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Henan Province\" \"guest house\n\"Autumn\" \"Noon\n\"Poetry\" 60+ \"Fortunate\" 60+ \"Cultured\" 80+"
     }
@@ -3346,53 +1471,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShiZhen000000015"
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          30.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          25.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          25.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/JinChengBeiLou"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Lanzhou\"\n\"Autumn\" \"Evening\n\"Poetry\" 30+ \"Fortunate\" 25+ \"Cultured\" 25+"
     }
@@ -3414,53 +1500,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "MenPai000000010"
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          50.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/YuJiaAoSaiXiaQiu"
-    ],
     "Inspiration": {
       "ValueInfo": "\"The Church of the Blazing Sun\"\n\"Autumn\" \"Morning\"\n\"Poetry\" 60+ \"Fortunate\" 50+ \"Cultured\" 60+"
     }
@@ -3482,53 +1529,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShiZhen000000011"
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          40.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          40.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/ChangAnQiuWang"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Jingzhaofu\"\n\"Autumn\" \"Morning\n\"Poetry\" 60+ \"Fortunate\" 40+ \"Cultured\" 40+"
     }
@@ -3550,53 +1558,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "JiangNingFuJNShuFang_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          80.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          80.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/YuanRi"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Jiangningfu\" \"Shufang\n\"Winter\" \"Morning\n\"Poetry\" 80+ \"Fortunate\" 80+ \"Cultured\" 60+"
     }
@@ -3618,53 +1587,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShiZhen000000035"
-        ]
-      },
-      {
-        "Value": [
-          2.0
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          35.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          35.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          35.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/DuiXueShiYun"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Cinnabar\"\n\"Winter\" \"Noon\n\"Poetry\" 35+ \"Fortunate\" 35+ \"Cultured\" 35+"
     }
@@ -3686,53 +1616,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "XingLanJu_ZiZhai_TingYuan_0001"
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/QingPingLeShenDongHanYue"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Lanzhou\" \"Hoshirashi Residence\" \"Courtyard\n\"Winter\" \"Afternoon\n\"Poetry\" 60+ \"Fortunate\" 60+ \"Cultured\" 60+"
     }
@@ -3754,53 +1645,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "CaiYangJu_ZiZhai_QinShi_0001"
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          55.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/HanDanDongZhiYeSiJia"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Yingchangfu\" \"Chaiyangju\" \"Bedroom\n\"Winter\" \"Evening\n\"Poetry\" 55+ \"Fortunate\" 60+ \"Cultured\" 65+"
     }
@@ -3822,53 +1674,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ZiZhouGuanPu_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          40.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          40.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          40.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/NanXiangZi"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Zizhou\" \"Guanfu\"\n\"Winter\" \"Morning\n\"Poetry\" 40+ \"Fortunate\" 40+ \"Cultured\" 40+"
     }
@@ -3890,53 +1703,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ChaoZhouChaFang_0000000001"
-        ]
-      },
-      {
-        "Value": [
-          1.0
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          70.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          70.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/DongRiGuiJiuShan"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Chaozhou\" \"Tea House\n\"Winter\" \"Morning\n\"Poetry\" 70+ \"Fortunate\" 65+ \"Cultured\" 70+"
     }
@@ -3958,53 +1732,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShiZhen000000013"
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          80.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          80.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          80.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/DongRiLinKunMingChi"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Ganquan Town\" \"II\n\"Winter\" \"Afternoon\n\"Poetry\" 80+ \"Fortunate\" 80+ \"Cultured\" 80+"
     }
@@ -4026,53 +1761,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShiZhen000000039"
-        ]
-      },
-      {
-        "Value": [
-          2.0
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          45.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          50.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          50.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/ChaoYangDaoZhong"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Chaozhou\"\n\"Winter\" \"Noon\n\"Poetry\" 45+ \"Fortunate\" 50+ \"Cultured\" 50+"
     }
@@ -4094,53 +1790,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShiZhen000000017"
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "Value": [
-          4.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          70.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          60.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/ZaoDong"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Haizhou\"\n\"Winter\" \"Afternoon\n\"Poetry\" 65+ \"Fortunate\" 70+ \"Cultured\" 60+"
     }
@@ -4162,53 +1819,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "Conditions": [
-      {
-        "RelatedID": [
-          "tansuo_ChiBi_000000001"
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "Value": [
-          3.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          80.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          100.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          85.0,
-          999.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "ItemDescription": {},
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShiCi/ChiBi"
-    ],
     "Inspiration": {
       "ValueInfo": "\"Chibi\"\n\"Autumn\" \"Afternoon\n\"Poetry\" 80+ \"Fortunate\" 100+ \"Cultured\" 85+"
     }
@@ -4232,9 +1850,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {
             "Value": "\"Cultured\" +1"
           },
@@ -4248,19 +1863,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/ShuoYuan"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -4281,9 +1885,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {
             "Value": "\"Ethics\" +1"
           },
@@ -4297,19 +1898,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/DaXue"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -4330,9 +1920,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {
             "Value": "\"Ethics\" +1"
           },
@@ -4346,19 +1933,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/ZhongYong"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -4379,9 +1955,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {
             "Value": "\"Ethics\" +1"
           },
@@ -4395,19 +1968,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Good Talk\"",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/LunYu"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -4428,9 +1990,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {
             "Value": "\"Ethics\" +1"
           },
@@ -4444,19 +2003,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Confidence",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/MengZi"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -4477,9 +2025,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShiCi_0000000001"
-          ],
           "Name": {
             "Value": "\"Poetry\" +1"
           },
@@ -4493,19 +2038,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/ShiJing"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -4526,9 +2060,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {
             "Value": "\"Ethics\" +1"
           },
@@ -4542,19 +2073,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Sense\"",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/ShangShu"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -4575,9 +2095,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJiaoShe_0000000001"
-          ],
           "Name": {
             "Value": "\"Bargaining\" +1"
           },
@@ -4591,19 +2108,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Good Talk\"",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/LiJi"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -4624,9 +2130,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {
             "Value": "+1 for \"Insight\""
           },
@@ -4640,19 +2143,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Good Talk\"",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/ChunQiu"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -4673,9 +2165,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {
             "Value": "\"Ethics\" +1"
           },
@@ -4689,19 +2178,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/ZhouYi"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -4722,9 +2200,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {
             "Value": "\"Cultured\" +1"
           },
@@ -4738,19 +2213,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/SanZiJing"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -4771,9 +2235,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "HuiHua_0000000001"
-          ],
           "Name": {
             "Value": "\"Painting and Calligraphy\" +1"
           },
@@ -4787,19 +2248,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"inspiration",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/YanPu"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -4820,9 +2270,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Charisma"
           },
@@ -4836,19 +2283,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Good Talk\"",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/XiangPu"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -4869,9 +2305,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {
             "Value": "+1 for \"Drinking\""
           },
@@ -4885,19 +2318,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Confidence",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/JiuPu"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -4918,9 +2340,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "PengRen_0000000001"
-          ],
           "Name": {
             "Value": "\"Cooking\" +1"
           },
@@ -4934,19 +2353,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"inspiration",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/TangShuangPu"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -4967,9 +2375,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "\"Tea Ceremony\" +1"
           },
@@ -4983,19 +2388,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/ChaLu"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -5016,9 +2410,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShiCi_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 for \"Poetry\" and +1 for \"Contentment"
           },
@@ -5031,9 +2422,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -5045,19 +2433,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/PingZhaiWenJi"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -5078,9 +2455,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShiCi_0000000001"
-          ],
           "Name": {
             "Value": "\"Poetry\" +2"
           },
@@ -5094,19 +2468,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"inspiration",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/YangChunBaiXue"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -5127,9 +2490,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Fortunate Edge\" +1 to \"Enlightenment"
           },
@@ -5142,9 +2502,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -5156,19 +2513,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Confidence",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/BiYanLu"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -5189,9 +2535,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {
             "Value": "\"Knowledge\" +2"
           },
@@ -5205,19 +2548,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/WuXingZhi"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -5238,9 +2570,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {
             "Value": "\"Knowledge\" +2"
           },
@@ -5254,19 +2583,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/LuoYangMuDanJi"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -5287,9 +2605,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Morality\" +1 to \"Contentment"
           },
@@ -5302,9 +2617,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -5316,19 +2628,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Sense\"",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/ZhouZiQuanShu"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -5349,9 +2650,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShiCi_0000000001"
-          ],
           "Name": {
             "Value": "\"Poetry\" +2"
           },
@@ -5365,19 +2663,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"inspiration",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/MengHaoRanShiJi"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -5398,9 +2685,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {
             "Value": "\"Knowledge\" +2"
           },
@@ -5414,19 +2698,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Lucky\"",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        0.0,
-        1.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/GuYuTuPu"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -5447,9 +2720,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {
             "Value": "\"Insight\" +3"
           },
@@ -5463,19 +2733,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"inspiration\" \"enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/DaTangXiYuJi"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -5496,9 +2755,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJiaoShe_0000000001"
-          ],
           "Name": {
             "Value": "\"Bargaining\" +3"
           },
@@ -5512,19 +2768,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Confidence\" and \"Good conversation",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/TaiPingGuangJi"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -5545,9 +2790,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {
             "Value": "\"Insight\" +3"
           },
@@ -5561,19 +2803,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"enlightenment\" and \"enlightenment\"",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        1.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/TaiPingYuLan"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -5594,9 +2825,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {
             "Value": "\"Perception\" +3"
           },
@@ -5610,19 +2838,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"perception\" and \"luck",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        1.0,
-        0.0,
-        0.0,
-        1.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/ZiZhiTongJian"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -5643,9 +2860,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {
             "Value": "\"+2 to \"Knowledge\" +1 to \"Charisma"
           },
@@ -5658,9 +2872,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -5672,19 +2883,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Enlightenment\" \"Confidence",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        1.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/GuanXiangWanZhan"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -5705,9 +2905,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "\"Musical Instrument\" +2 \"Knowledge\" +1"
           },
@@ -5720,9 +2917,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -5734,19 +2928,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Inspiration\" \"Luck",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        1.0,
-        1.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/TaiGuYiYin"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -5767,9 +2950,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {
             "Value": "\"Insight\" +3"
           },
@@ -5783,19 +2963,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"confidence\" and \"good conversation",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/MengXiBiTan"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -5816,9 +2985,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShiCi_0000000001"
-          ],
           "Name": {
             "Value": "\"Poetry\" +3"
           },
@@ -5832,19 +2998,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Enlightenment\" \"Confidence",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        1.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/WenYuanYingHua"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -5865,9 +3020,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "PengRen_0000000001"
-          ],
           "Name": {
             "Value": "\"Cooking\" +1"
           },
@@ -5881,19 +3033,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/LiZhiPu"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -5914,9 +3055,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {
             "Value": "\"Ethics\" +1"
           },
@@ -5930,19 +3068,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Sense\"",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/ErChengJi"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -5963,9 +3090,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Charisma"
           },
@@ -5979,19 +3103,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/HaiTangPu"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -6012,9 +3125,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Perception"
           },
@@ -6028,19 +3138,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/HanJian"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -6061,9 +3160,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 for \"Insight"
           },
@@ -6077,19 +3173,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Sense\"",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/LuShanJi"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -6110,9 +3195,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {
             "Value": "+1 for \"Insight\""
           },
@@ -6126,19 +3208,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Confidence",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/LiuShiJuPu"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -6159,9 +3230,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "\"Musical Instrument\" +1"
           },
@@ -6175,19 +3243,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Confidence",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/JiYun"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -6208,9 +3265,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShiCi_0000000001"
-          ],
           "Name": {
             "Value": "\"Poetry\" +1"
           },
@@ -6224,19 +3278,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/HuaiHaiJi"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -6257,9 +3300,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 for \"Insight"
           },
@@ -6273,19 +3313,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/QingYiLu"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -6306,9 +3335,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 for \"Fortunate Fate"
           },
@@ -6322,19 +3348,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/RuShuJi"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -6355,9 +3370,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJiaoShe_0000000001"
-          ],
           "Name": {
             "Value": "\"Bargaining\" +2"
           },
@@ -6371,19 +3383,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Good Talk\"",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/JiaYiLun"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -6404,9 +3405,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJiaoShe_0000000001"
-          ],
           "Name": {
             "Value": "+1 to \"Bargaining\" +1 to \"Fortunes\""
           },
@@ -6419,9 +3417,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -6433,19 +3428,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Good Talk\"",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/LiuGuoLun"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -6466,9 +3450,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJiaoShe_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 for \"Bargaining\" and +1 for \"Contentment"
           },
@@ -6481,9 +3462,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -6495,19 +3473,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Good Talk\"",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/BianJianLun"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -6528,9 +3495,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShiCi_0000000001"
-          ],
           "Name": {
             "Value": "\"Poetry\" +2"
           },
@@ -6544,19 +3508,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/WangMoJieWenJi"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -6577,9 +3530,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Perception\" +1 to \"Concentration"
           },
@@ -6592,9 +3542,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -6606,19 +3553,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/ChangAnZhi"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -6639,9 +3575,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Insight\" +1 to \"Perception"
           },
@@ -6654,9 +3587,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -6668,19 +3598,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/KaoGuTu"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -6701,9 +3620,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "\"Tea Ceremony\" +2"
           },
@@ -6717,19 +3633,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/XuanHeBeiYuanGongChaLu"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -6750,9 +3655,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"+2 to \"Charisma"
           },
@@ -6766,19 +3668,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/QuanFangBeiZu"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -6799,9 +3690,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Perception\" +1 to \"Will"
           },
@@ -6814,9 +3702,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -6828,19 +3713,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/DongDuShiLue"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -6861,9 +3735,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "\"Musical Instrument\" +2"
           },
@@ -6877,19 +3748,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Sense\"",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/DaSongChongXiuGuangYun"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -6910,9 +3770,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJiaoShe_0000000001"
-          ],
           "Name": {
             "Value": "\"Bargaining\" +2"
           },
@@ -6926,19 +3783,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Sense\"",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/HeiDongXianShengJi"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -6959,9 +3805,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "HuiHua_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 for \"Painting and Calligraphy\" +1 for \"Ethics"
           },
@@ -6974,9 +3817,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -6988,19 +3828,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/DongGuanYuLun"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -7021,9 +3850,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 for \"Contentment\" and +1 for \"Determination"
           },
@@ -7036,9 +3862,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -7050,19 +3873,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Good Talk\"",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/LongPingJi"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -7083,9 +3895,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {
             "Value": "\"Knowledge\" +2"
           },
@@ -7099,19 +3908,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Confidence",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/HanLiZiYuan"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -7132,9 +3930,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Blessing\" +1 to \"Morality"
           },
@@ -7147,9 +3942,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -7161,19 +3953,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/XiaoTangJiGuLu"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -7194,9 +3975,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShiCi_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 for \"Poetry\" +1 for \"Concentration"
           },
@@ -7209,9 +3987,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -7223,19 +3998,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Sense\"",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/DonglaiXianShengShiJi"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -7256,9 +4020,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Perception\" +1 to \"Calmness"
           },
@@ -7271,9 +4032,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -7285,19 +4043,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/CeFuYuanGui"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -7318,9 +4065,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShiCi_0000000001"
-          ],
           "Name": {
             "Value": "\"Poetry\" +2"
           },
@@ -7334,19 +4078,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/JiaXuanChangDuanJu"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -7367,9 +4100,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Fortunate Fate\" +1 to \"Bargaining"
           },
@@ -7382,9 +4112,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterJiaoShe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -7396,19 +4123,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Confidence",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/YanZhaiKaoGongJiZai"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -7429,9 +4145,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Insight\" +1 to \"Concentration"
           },
@@ -7444,9 +4157,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -7458,19 +4168,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/YouHuanJiWen"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -7491,9 +4190,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 \"Calmness\" + 1"
           },
@@ -7506,9 +4202,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -7520,19 +4213,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Sense\"",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/RongZhaiSuiBi"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -7553,9 +4235,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShiCi_0000000001"
-          ],
           "Name": {
             "Value": "\"Poetry\" +2"
           },
@@ -7569,19 +4248,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Sense\"",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/ShiJiZhuan"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -7602,9 +4270,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {
             "Value": "+1 to \"enlightenment\" and +1 to \"divine\""
           },
@@ -7617,9 +4282,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -7631,19 +4293,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to obtain \"Enlightenment",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/YuDiGuangJi"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -7664,9 +4315,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Fortunate Fortune\" +1 to \"God's Coming"
           },
@@ -7679,9 +4327,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -7693,19 +4338,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Lucky\"",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        0.0,
-        1.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/YunJiQiQian"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -7726,9 +4360,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {
             "Value": "\"+2 for \"enlightenment\" and +1 for \"divine coming"
           },
@@ -7741,9 +4372,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -7755,19 +4383,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"perception\" and \"good talk",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/QianChiBiFu"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -7788,9 +4405,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {
             "Value": "\"Knowledge\" +2 \"Morality\" +1"
           },
@@ -7803,9 +4417,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -7817,19 +4428,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Inspiration\" \"Confidence",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        1.0,
-        0.0,
-        1.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/JinShiLu"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -7850,9 +4450,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "\"+2 for \"Musical Instrument\" and +1 for \"Connotation"
           },
@@ -7865,9 +4462,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -7879,19 +4473,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Enlightenment\" \"Confidence",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        1.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/JuSongGuanYun"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -7912,9 +4495,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {
             "Value": "\"+2 to \"Gods Come\" +1 to \"Enlightenment"
           },
@@ -7927,9 +4507,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -7941,19 +4518,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"perception\" and \"luck",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        1.0,
-        0.0,
-        0.0,
-        1.0,
-        0.0,
-        0.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/ZongJingLu"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -7974,9 +4540,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {
             "Value": "\"+2 to \"Decisions\" and +1 to \"Ethics"
           },
@@ -7989,9 +4552,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -8003,19 +4563,8 @@
         }
       ],
       "ZhuangTaiDescription": "Chance to get \"Confidence\" and \"Good conversation",
-      "WeiWanChengYueDuDescription": " ？？？？？",
-      "Weight": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ShuKan/HongZhengFanJian"
-    ]
+      "WeiWanChengYueDuDescription": " ？？？？？"
+    }
   },
   {
     "ItemType": {
@@ -8032,10 +4581,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "One portion each of flour, pork and stock, season with salt and steam in a pot."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8052,10 +4598,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Use one part of lamb plus two parts of regular lamb, add salt and stew."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8072,10 +4615,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "One portion of pheasant, one portion of cilantro, and one portion of stock, cooked with salt and spicy seasoning."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8092,10 +4632,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "One portion each of flour and sesame seeds, seasoned with salt and baked."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8112,10 +4649,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "One portion each of flour and green onion, two portions of lamb, add salt for seasoning and bake."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8132,10 +4666,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Two parts of flour plus one part each of lamb and sesame seeds, season with salt and roast over high heat to serve."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8152,10 +4683,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "One portion each of pork, green onion and egg, mix well and add salt to taste, cook and serve."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8172,10 +4700,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Two portions of donkey meat and one portion of flour, seasoned with salt and baked."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8192,10 +4717,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "One serving of sweet potato flour plus one serving of pork, seasoned with salt and simmered."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8212,10 +4734,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "One portion each of flour, stock and bok choy, add salt and spicy seasoning and serve."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8232,10 +4751,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "One part flour and four parts pork, add smoke seasoning marinade and bake well."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8252,10 +4768,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "One part flour and one part all bean curd cooked, sprinkle well with salt before serving."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8272,10 +4785,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Two parts flour plus one part bean sprouts, blanched and ready to serve with salt and spicy seasoning."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8292,10 +4802,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "One serving each of beef, cabbage and beans, add salt and spicy seasoning and serve."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8312,10 +4819,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "One part of osmanthus, one part of mash, add sugar and mix well."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8332,10 +4836,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "One part pork, one part crab, plus one part egg, mixed well and steamed with salt."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8352,10 +4853,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Just add one portion each of rice wine and crab, and marinate in salt."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8372,10 +4870,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "One portion each of bamboo shoots and mushrooms, add salt and marinate to serve."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8392,10 +4887,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Four servings of tofu, add salt to taste and serve."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8412,10 +4904,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Two portions of glutinous rice with sugar, steamed and ready to serve."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8432,10 +4921,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Two portions of duck meat, salted and roasted"
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8452,10 +4938,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Two portions of carp, seasoned with vinegar and sugar, stir-fried over high heat and ready to serve."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8472,10 +4955,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "One portion each of almonds, peanuts and roses, ground into powder and added to sugar to serve."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8492,10 +4972,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Two servings of mustard greens marinated with spicy seasoning."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8510,10 +4987,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -8530,10 +5004,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Two parts flour and one part green onion, season with salt and spicy seasoning, cook and serve."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8550,10 +5021,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "One portion each of flour and pork, two portions of stock, add salt and cook."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8570,10 +5038,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Two parts glutinous rice and one part pork, add salt to season and steam."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8590,10 +5055,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Two portions each of pork and wild boar, one portion of eggs, then add salt and sugar to taste, and simmer over low heat."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8610,10 +5072,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Two portions of wild duck meat can then be marinated with salt."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8630,10 +5089,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Three parts pork and one part rice, seasoned with salt and steamed to serve."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8650,10 +5106,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "One portion of grass carp plus one portion of eggs, seasoned with salt and steamed over high heat."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8670,10 +5123,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Two parts flour, one part sesame seeds, then salt, sugar and spicy seasoning to taste, mix well and serve."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8690,10 +5140,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Two portions of rice plus one portion of cilantro, season with salt and steam to serve."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8710,10 +5157,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Just cook two portions of pork plus salt and sugar to taste, and marinate in an altar."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8730,10 +5174,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "One part glutinous rice, one part pork, one part mushrooms, season with salt, cook and serve."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8750,10 +5191,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "One portion each of wild boar, chub, shrimp, and flour, season with salt, wrap and cook, and serve."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8770,10 +5208,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Two portions of sea fish are pounded into a puree, mixed with salt and steamed to serve."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8790,10 +5225,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Quartered goose meat marinated with salt and sugar to taste and grilled."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8810,10 +5242,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Two servings of horse feet are steamed and sprinkled with sugar."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8830,10 +5259,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Two parts rice and one part pork, seasoned with sour seasoning, cooked and ready to serve."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8850,10 +5276,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Two servings of cashew, add salt and spicy seasoning, stir-fry over high heat and serve."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8870,10 +5293,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Two servings of fatty sausage, add salt and spicy seasoning, stir-fry over high heat and serve."
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -8888,10 +5308,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -8906,10 +5323,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -8924,10 +5338,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -8942,10 +5353,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -8960,10 +5368,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -8978,10 +5383,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -8996,10 +5398,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9014,10 +5413,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9032,10 +5428,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9050,10 +5443,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9068,10 +5458,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9086,10 +5473,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9104,10 +5488,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9122,10 +5503,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9140,10 +5518,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9158,10 +5533,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9176,10 +5548,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9194,10 +5563,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9212,10 +5578,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9230,10 +5593,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9248,10 +5608,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9266,10 +5623,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9284,10 +5638,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9302,10 +5653,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9320,10 +5668,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9338,10 +5683,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9356,10 +5698,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9374,10 +5713,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9392,10 +5728,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9410,10 +5743,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9428,10 +5758,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9446,10 +5773,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9464,10 +5788,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9482,10 +5803,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9500,10 +5818,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9518,10 +5833,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9536,10 +5848,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9554,10 +5863,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9572,10 +5878,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9590,10 +5893,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9608,10 +5908,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9626,10 +5923,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9644,10 +5938,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9662,10 +5953,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9680,10 +5968,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9698,10 +5983,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9716,10 +5998,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9734,10 +6013,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9752,10 +6028,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9770,10 +6043,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9788,10 +6058,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9806,10 +6073,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9824,10 +6088,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9842,10 +6103,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9860,10 +6118,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9878,10 +6133,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9896,10 +6148,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9914,10 +6163,7 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   },
   {
     "ItemType": {
@@ -9932,9 +6178,6 @@
     "ItemZhiMingDu": {},
     "BuyPrice": {},
     "SalePrice": {},
-    "ItemDescription": {},
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_ALLITEMS/Iteams/SCSK/SCSK_SK1"
-    ]
+    "ItemDescription": {}
   }
 ]
