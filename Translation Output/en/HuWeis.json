@@ -1,26 +1,5 @@
 [
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_TaiShanPai_0000000001"
-    ],
     "BattleName": [
       "Tarzan Guards"
     ],
@@ -29,27 +8,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "Jinzon Escort"
     ],
@@ -58,27 +16,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_QingWangSi_0000000001"
-    ],
     "BattleName": [
       "Green King Escort"
     ],
@@ -87,27 +24,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_TianZunJiao_0000000001"
-    ],
     "BattleName": [
       "Heavenly Guardian"
     ],
@@ -116,27 +32,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "Silver clan escort"
     ],
@@ -145,27 +40,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "Silver clan escort"
     ],
@@ -174,27 +48,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "Jinzon Escort"
     ],
@@ -203,27 +56,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "Silver clan escort"
     ],
@@ -232,27 +64,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "Silver clan escort"
     ],
@@ -261,27 +72,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "Jinzon Escort"
     ],
@@ -290,27 +80,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_QuanZhenJiao_0000000001"
-    ],
     "BattleName": [
       "All True Guards"
     ],
@@ -319,27 +88,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "Silver clan escort"
     ],
@@ -348,27 +96,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "Silver clan escort"
     ],
@@ -377,27 +104,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "Jinzon Escort"
     ],
@@ -406,27 +112,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "Silver clan escort"
     ],
@@ -435,27 +120,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "Silver clan escort"
     ],
@@ -464,27 +128,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_NanYangQuanZhuang_0000000001"
-    ],
     "BattleName": [
       "Nanyang Escorts"
     ],
@@ -493,27 +136,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "Silver clan escort"
     ],
@@ -522,27 +144,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_0000000001"
-    ],
     "BattleName": [
       "Copper clan guards"
     ],
@@ -551,27 +152,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_TaiShanPai_0000000001"
-    ],
     "BattleName": [
       "Tarzan Guards"
     ],
@@ -580,27 +160,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "Silver clan escort"
     ],
@@ -609,27 +168,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_GaiBang_0000000001"
-    ],
     "BattleName": [
       "Beggar Guards"
     ],
@@ -638,27 +176,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "Jinzon Escort"
     ],
@@ -667,27 +184,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      100.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "Jiezong Guards"
     ],
@@ -696,27 +192,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "Silver clan escort"
     ],
@@ -725,27 +200,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "Jinzon Escort"
     ],
@@ -754,27 +208,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "Silver clan escort"
     ],
@@ -783,27 +216,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "Silver clan escort"
     ],
@@ -812,27 +224,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_0000000001"
-    ],
     "BattleName": [
       "Copper clan guards"
     ],
