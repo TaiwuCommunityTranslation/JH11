@@ -5,24 +5,9 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"killing\" the opponent by 5%."
           },
@@ -30,21 +15,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"killing\" the opponent by 5%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"killing\" the opponent by 5%."
   },
   {
     "Name": " <color=#23FF00FF> Flying Feather </color> ",
@@ -52,24 +28,9 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"Break\" by 10%."
           },
@@ -77,21 +38,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Break\" by 10%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Break\" by 10%."
   },
   {
     "Name": " <color=#23FF00FF> Deadman </color> ",
@@ -99,24 +51,9 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "The chance of being \"killed\" is reduced by 20%."
           },
@@ -124,21 +61,12 @@
             "ValueInfo": "Reduction"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "Chance of being \"killed\" is reduced by 20%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Chance of being \"killed\" is reduced by 20%."
   },
   {
     "Name": " <color=#23FF00FF> Icefall </color> ",
@@ -146,32 +74,14 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Decision\" +2"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Decision\" +2",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#23FF00FF> Drinking Blood </color> ",
@@ -179,19 +89,6 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Muscle\" -8"
@@ -200,9 +97,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "15% increase in \"Attack Power\"."
           },
@@ -210,16 +104,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"wounding\" the opponent by 10%."
           },
@@ -227,21 +114,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Muscle\" -8",
-    "Teses_ZhanDou_ValueInfo": "Increase \"Attacking Power\" by 15%, and increase the chance of \"Damage\" to the opponent by 10%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Increase \"Attacking Power\" by 15%, and increase the chance of \"Damage\" to the opponent by 10%."
   },
   {
     "Name": " <color=#23FF00FF> Broken Crane </color> ",
@@ -249,10 +127,6 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      2,
-      5
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Under\" -5"
@@ -261,7 +135,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"Break\" by 20%."
           },
@@ -269,21 +142,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Under\" -5",
-    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Break\" by 20%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_NOTALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Break\" by 20%."
   },
   {
     "Name": " <color=#23FF00FF> Gentoo </color> ",
@@ -291,11 +155,6 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      4,
-      2,
-      5
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Killing intent\"-10"
@@ -304,9 +163,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"15% increase in the \"Power of Defense Stance"
           },
@@ -314,21 +170,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Killing intent\"-10 ",
-    "Teses_ZhanDou_ValueInfo": "\"15% increase in the \"Power of Defense Stance",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_NOTALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"15% increase in the \"Power of Defense Stance"
   },
   {
     "Name": " <color=#23FF00FF> Locust Rain </color> ",
@@ -336,25 +183,14 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      9,
-      10,
-      12,
-      8
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"+2 for \"body shape"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"+2 for \"body shape",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_NOTALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#23FF00FF> Plunging Teeth </color> ",
@@ -362,23 +198,14 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      12,
-      8
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Fist and Palm\" +1 "
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Fist and Palm\" +1 ",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_NOTALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#23FF00FF> Sealed Spirit </color> ",
@@ -386,23 +213,14 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      12,
-      8
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Ren Chakra\" +1"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Ren Chakra\" +1",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_NOTALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#23FF00FF> Fragrance Charm </color> ",
@@ -410,15 +228,9 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      10,
-      12
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"Hardened Poison\" by 5%."
           },
@@ -426,21 +238,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Hardened Poison\" by 5%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_NOTALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Hardened Poison\" by 5%."
   },
   {
     "Name": " <color=#23FF00FF> Nexia </color> ",
@@ -448,17 +251,9 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      4,
-      2
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "10% increase in \"Attack Power\"."
           },
@@ -466,21 +261,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "10% increase in \"Attack Power\".",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_NOTALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "10% increase in \"Attack Power\"."
   },
   {
     "Name": " <color=#23FF00FF> Embroidered clouds </color> ",
@@ -488,12 +274,6 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      9,
-      10,
-      12,
-      8
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Calm\" -4"
@@ -502,9 +282,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "10% increase in \"Attack Power\"."
           },
@@ -512,18 +289,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"10% increase in the \"power of defense moves"
           },
@@ -531,21 +299,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Calm\" -4",
-    "Teses_ZhanDou_ValueInfo": "\"10% increase in \"offensive and defensive move power",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_NOTALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"10% increase in \"offensive and defensive move power"
   },
   {
     "Name": " <color=#23FF00FF> Hope for the Moon </color> ",
@@ -553,24 +312,14 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      10,
-      12,
-      8
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"+2 to \"Charisma"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"+2 to \"Charisma",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_NOTALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#23FF00FF> Seal Flame </color> ",
@@ -578,23 +327,14 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      12,
-      8
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Finger Power\" +1 "
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Finger Power\" +1 ",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_NOTALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#23FF00FF> Fireworms </color> ",
@@ -602,25 +342,14 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      4,
-      2,
-      3,
-      5
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Killing Intent\" +2"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Killing Intent\" +2",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_NOTALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#23FF00FF> Soul Protection </color> ",
@@ -628,24 +357,14 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      5
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Tendon\" +2"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Tendon\" +2",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_NOTALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#23FF00FF> Flying Smoke </color> ",
@@ -653,13 +372,6 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      4,
-      2,
-      3,
-      9,
-      10
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"+1 for \"body shape"
@@ -668,9 +380,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "10% increase in \"Attack Power\"."
           },
@@ -678,21 +387,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"+1 for \"body shape",
-    "Teses_ZhanDou_ValueInfo": "10% increase in \"Attack Power\".",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_NOTALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "10% increase in \"Attack Power\"."
   },
   {
     "Name": " <color=#FF00B6FF> Basalt </color> ",
@@ -700,19 +400,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "+1 for \"God Comes\""
@@ -724,7 +411,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"Break\" by 10%."
           },
@@ -732,21 +418,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "+1 to \"Gods Come\" +1 to \"Fortunes\"",
-    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Break\" by 10%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Break\" by 10%."
   },
   {
     "Name": " <color=#FF00B6FF> Nandu </color> ",
@@ -754,19 +431,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Gods Come\" +2"
@@ -775,9 +439,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"15% increase in the \"Power of Defense Stance"
           },
@@ -785,21 +446,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Gods Come\" +2",
-    "Teses_ZhanDou_ValueInfo": "\"15% increase in the \"Power of Defense Stance",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"15% increase in the \"Power of Defense Stance"
   },
   {
     "Name": " <color=#FF00B6FF> Mikado </color> ",
@@ -807,19 +459,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "+1 for \"Resting\" "
@@ -831,9 +470,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "10% increase in \"Attack Power\"."
           },
@@ -841,21 +477,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"+1 to \"Breath Regulation\" +1 to \"Qi Technique ",
-    "Teses_ZhanDou_ValueInfo": "10% increase in \"Attack Power\".",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "10% increase in \"Attack Power\"."
   },
   {
     "Name": " <color=#FF00B6FF> Ruthless </color> ",
@@ -863,19 +490,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Concentration\" +2"
@@ -884,7 +498,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"killing\" the opponent by 5%."
           },
@@ -892,21 +505,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Concentration\" +2",
-    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"killing\" the opponent by 5%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"killing\" the opponent by 5%."
   },
   {
     "Name": " <color=#FF00B6FF> Broken Heart </color> ",
@@ -914,26 +518,9 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "15% increase in \"Attack Power\"."
           },
@@ -941,16 +528,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"wounding\" the opponent by 10%."
           },
@@ -958,21 +538,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "Increase \"Attacking Power\" by 15%, and increase the chance of \"Damage\" to the opponent by 10%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Increase \"Attacking Power\" by 15%, and increase the chance of \"Damage\" to the opponent by 10%."
   },
   {
     "Name": " <color=#FF00B6FF> Three Stripes </color> ",
@@ -980,32 +551,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Fortunate Fate\" +4"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Fortunate Fate\" +4",
-    "Teses_ZhanDou_ValueInfo": "No carry effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No carry effect"
   },
   {
     "Name": " <color=#FF00B6FF> Qingli </color> ",
@@ -1013,11 +566,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      4,
-      3,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Fist and Palm\" +1 "
@@ -1026,14 +574,9 @@
         "Description": "\"Finger Power\" +1"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"+1 to \"Fist and Palm\" +1 to \"Finger Power",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_NOTALL/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Broken Dollar </color> ",
@@ -1041,23 +584,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      2,
-      5
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Fist and Palm\" +2"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Fist and Palm\" +2",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_NOTALL/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> The Hidden Spirit </color> ",
@@ -1065,24 +599,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      12,
-      10,
-      8
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Finger Power\" +2"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Finger Power\" +2",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_NOTALL/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Tianze </color> ",
@@ -1090,19 +614,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Perception\" +2"
@@ -1111,14 +622,9 @@
         "Description": "\"Knowledge\" +2"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"+2 to \"Perception\" and +2 to \"Insight",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF9A00FF> Luang Xie </color> ",
@@ -1126,19 +632,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Fist and Palm\" +2"
@@ -1147,14 +640,9 @@
         "Description": "\"Finger Power\" +2"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Fist and Palm\" +2 \"Finger Power\" +2",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF9A00FF> Fengming </color> ",
@@ -1162,26 +650,9 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragons, etc. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "15% increase in \"Attack Power\"."
           },
@@ -1189,18 +660,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"15% increase in the \"Power of Defense Stance"
           },
@@ -1208,16 +670,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"Break\" by 15%."
           },
@@ -1225,21 +680,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "15% increase in \"Attack and Defense Power\" and 15% increase in \"Breakdown\" chance",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "15% increase in \"Attack and Defense Power\" and 15% increase in \"Breakdown\" chance"
   },
   {
     "Name": " <color=#FF9A00FF> Demon Light </color> ",
@@ -1247,19 +693,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Body\" -10"
@@ -1271,9 +704,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "30% increase in \"attack power\""
           },
@@ -1281,18 +711,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"30% increase in the \"Power of Defense Stance"
           },
@@ -1300,21 +721,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Fitness\" -10 \"Concentration\" -15",
-    "Teses_ZhanDou_ValueInfo": "\"30% increase in the power of \"offensive and defensive moves",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"30% increase in the power of \"offensive and defensive moves"
   },
   {
     "Name": " <color=#FF9A00FF> Longquan </color> ",
@@ -1322,19 +734,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"+2 to \"Qi Method"
@@ -1343,9 +742,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "20% increase in \"Attacking Power\""
           },
@@ -1353,18 +749,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"20% increase in the \"Power of Defense Stance"
           },
@@ -1372,21 +759,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"+2 to \"Qi Method",
-    "Teses_ZhanDou_ValueInfo": "\"20% increase in the power of \"offensive and defensive moves",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"20% increase in the power of \"offensive and defensive moves"
   },
   {
     "Name": " <color=#23FF00FF> Snapshot </color> ",
@@ -1394,22 +772,14 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      4
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"+2 for \"body shape"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"+2 for \"body shape",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Jian/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#23FF00FF> It's Guts </color> ",
@@ -1417,22 +787,14 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      4
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Will\" +2"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Will\" +2",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Jian/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#23FF00FF> Xuantian </color> ",
@@ -1440,22 +802,14 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      4
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Fortunate Fate\" +3"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Fortunate Fate\" +3",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Jian/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#23FF00FF> Taimuro No Frontier </color> ",
@@ -1463,9 +817,6 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      4
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Fortunate Fate\" - 3"
@@ -1474,9 +825,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"10% increase in the \"power of defense moves"
           },
@@ -1484,16 +832,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "The chance of being \"wounded\" is reduced by 15%."
           },
@@ -1501,21 +842,12 @@
             "ValueInfo": "Reduction"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Fortunate Fate\" - 3",
-    "Teses_ZhanDou_ValueInfo": "10% increase in the \"power of defense moves\" and 15% decrease in the chance of being \"injured\"",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Jian/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "10% increase in the \"power of defense moves\" and 15% decrease in the chance of being \"injured\""
   },
   {
     "Name": " <color=#23FF00FF> Tianmen </color> ",
@@ -1523,16 +855,9 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      4
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"10% increase in the \"power of defense moves"
           },
@@ -1540,21 +865,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "\"10% increase in the \"power of defense moves",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Jian/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"10% increase in the \"power of defense moves"
   },
   {
     "Name": " <color=#23FF00FF> Disorderly </color> ",
@@ -1562,9 +878,6 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      4
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Calm\" -5"
@@ -1573,7 +886,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "25% reduction in the chance of \"breakage\""
           },
@@ -1581,21 +893,12 @@
             "ValueInfo": "Reduction"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Calm\" -5",
-    "Teses_ZhanDou_ValueInfo": "25% reduction in the chance of \"breakage\"",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Jian/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "25% reduction in the chance of \"breakage\""
   },
   {
     "Name": " <color=#23FF00FF> Seung-Jo </color> ",
@@ -1603,22 +906,14 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      4
-    ],
     "Teses_ShuXing": [
       {
         "Description": "+1 to \"Sword\""
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "+1 to \"Sword\"",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Jian/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Wu Yue </color> ",
@@ -1626,16 +921,9 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      4
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "20% increase in \"Attacking Power\""
           },
@@ -1643,21 +931,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "20% increase in \"Attacking Power\"",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Jian/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "20% increase in \"Attacking Power\""
   },
   {
     "Name": " <color=#FF00B6FF> Golden Snake </color> ",
@@ -1665,9 +944,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      4
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Killing Intent\" +6"
@@ -1676,14 +952,9 @@
         "Description": "\"Fortunate Fate\"-4"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"+6 to \"Killing Intent\" and -4 to \"Fate",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Jian/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Pornography </color> ",
@@ -1691,9 +962,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      4
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Sword\" +5"
@@ -1702,14 +970,9 @@
         "Description": "\"Charm\" -15"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"+5 to \"Sword\" and -15 to \"Charisma",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Jian/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Avalanche Sky </color> ",
@@ -1717,9 +980,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      4
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Decision\" +3"
@@ -1728,9 +988,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "10% increase in \"Attack Power\"."
           },
@@ -1738,21 +995,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Decision\" +3",
-    "Teses_ZhanDou_ValueInfo": "10% increase in \"Attack Power\".",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Jian/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "10% increase in \"Attack Power\"."
   },
   {
     "Name": " <color=#FF00B6FF> Red Sky </color> ",
@@ -1760,16 +1008,9 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      4
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yang\" \"Attacking Power\" increased by 15%."
           },
@@ -1777,16 +1018,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              1
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yang\" \"Anti-move power\" increased by 15%"
           },
@@ -1794,19 +1028,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              1
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "\"Yang\" \"Attack and defense power\" increased by 15%",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Jian/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"Yang\" \"Attack and defense power\" increased by 15%"
   },
   {
     "Name": " <color=#FF00B6FF> Jade </color> ",
@@ -1814,16 +1041,9 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      4
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "15% increase in \"Yin\" \"Attacking power\""
           },
@@ -1831,16 +1051,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yin\" \"Anti-move power\" increased by 15%"
           },
@@ -1848,19 +1061,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "15% increase in \"Yin\" \"Attack and defense power\"",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Jian/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "15% increase in \"Yin\" \"Attack and defense power\""
   },
   {
     "Name": " <color=#FF00B6FF> Drinking Blood for the Soul </color> ",
@@ -1868,14 +1074,9 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      4
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "10% increase in the chance of \"killing\" the opponent"
           },
@@ -1883,21 +1084,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "10% increase in the chance of \"killing\" the opponent",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Jian/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "10% increase in the chance of \"killing\" the opponent"
   },
   {
     "Name": " <color=#FF9A00FF> Mo Xie </color> ",
@@ -1905,16 +1097,9 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      4
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yin Yang\" \"Attacking Power\" increased by 50%"
           },
@@ -1922,16 +1107,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "Increase \"Yin Yang\" \"Anti-move power\" by 50%"
           },
@@ -1939,19 +1117,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "50% increase in \"Yin and Yang\" \"Attack and defense power of moves\"",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Jian/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "50% increase in \"Yin and Yang\" \"Attack and defense power of moves\""
   },
   {
     "Name": " <color=#FF9A00FF> Dry General </color> ",
@@ -1959,16 +1130,9 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragons, etc. </color> "
     },
-    "WeaponType": [
-      4
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"35% increase in the \"power of defense moves"
           },
@@ -1976,21 +1140,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "\"35% increase in the \"power of defense moves",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Jian/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"35% increase in the \"power of defense moves"
   },
   {
     "Name": " <color=#FF9A00FF> Zhanlu </color> ",
@@ -1998,22 +1153,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragons, etc. </color> "
     },
-    "WeaponType": [
-      4
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Sword\" +6"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Sword\" +6",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Jian/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF9A00FF> Xuan Yuan </color> ",
@@ -2021,9 +1168,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragons, etc. </color> "
     },
-    "WeaponType": [
-      4
-    ],
     "Teses_ShuXing": [
       {
         "Description": "+2 to \"Resting\""
@@ -2032,9 +1176,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "20% increase in \"Attacking Power\""
           },
@@ -2042,18 +1183,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"20% increase in the \"Power of Defense Stance"
           },
@@ -2061,21 +1193,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "+2 to \"Resting\"",
-    "Teses_ZhanDou_ValueInfo": "\"20% increase in the power of \"offensive and defensive moves",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Jian/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"20% increase in the power of \"offensive and defensive moves"
   },
   {
     "Name": " <color=#FF9A00FF> Red Crane </color> ",
@@ -2083,9 +1206,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      4
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Gods Come\" +5"
@@ -2094,9 +1214,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "20% increase in \"Attacking Power\""
           },
@@ -2104,21 +1221,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Gods Come\" +5",
-    "Teses_ZhanDou_ValueInfo": "15% increase in \"Attack Power\".",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Jian/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "15% increase in \"Attack Power\"."
   },
   {
     "Name": " <color=#FF9A00FF> Fish gut </color> ",
@@ -2126,16 +1234,9 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      4
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "Power of \"Attacking Stance\" increased by 25%."
           },
@@ -2143,16 +1244,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"Break\" by 10%."
           },
@@ -2160,21 +1254,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "Increase in \"Attacking Power\" by 25% and \"Breaking\" chance by 10%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Jian/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Increase in \"Attacking Power\" by 25% and \"Breaking\" chance by 10%."
   },
   {
     "Name": " <color=#FF9A00FF> Leaning on the sky </color> ",
@@ -2182,9 +1267,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      4
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Fortunate Fate\" +4"
@@ -2193,9 +1275,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "15% increase in \"Attack Power\"."
           },
@@ -2203,18 +1282,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"15% increase in the \"Power of Defense Stance"
           },
@@ -2222,21 +1292,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Fortunate Fate\" +4",
-    "Teses_ZhanDou_ValueInfo": "\"15% increase in \"offensive and defensive move power",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Jian/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"15% increase in \"offensive and defensive move power"
   },
   {
     "Name": " <color=#FF9A00FF> Cthulhu </color> ",
@@ -2244,9 +1305,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      4
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Sword\" +2"
@@ -2255,9 +1313,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "10% increase in \"Attack Power\"."
           },
@@ -2265,18 +1320,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"10% increase in the \"power of defense moves"
           },
@@ -2284,21 +1330,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Sword\" +2",
-    "Teses_ZhanDou_ValueInfo": "\"10% increase in \"offensive and defensive move power",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Jian/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"10% increase in \"offensive and defensive move power"
   },
   {
     "Name": " <color=#23FF00FF> Ting Hou </color> ",
@@ -2306,22 +1343,14 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      2
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"+2 to \"Charisma"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"+2 to \"Charisma",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Dao/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#23FF00FF> Cold Spirit </color> ",
@@ -2329,9 +1358,6 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      2
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Concentration\" +1"
@@ -2340,7 +1366,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increases the chance of \"wounding\" the opponent by 5%."
           },
@@ -2348,21 +1373,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Concentration\" +1",
-    "Teses_ZhanDou_ValueInfo": "Increases the chance of \"wounding\" the opponent by 5%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Dao/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Increases the chance of \"wounding\" the opponent by 5%."
   },
   {
     "Name": " <color=#23FF00FF> Cut Jade </color> ",
@@ -2370,9 +1386,6 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      2
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Killing Intent\" +1"
@@ -2381,7 +1394,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increases the chance of \"wounding\" the opponent by 5%."
           },
@@ -2389,21 +1401,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Killing Intent\" +1",
-    "Teses_ZhanDou_ValueInfo": "Increases the chance of \"wounding\" the opponent by 5%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Dao/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Increases the chance of \"wounding\" the opponent by 5%."
   },
   {
     "Name": " <color=#23FF00FF> Daxia </color> ",
@@ -2411,9 +1414,6 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      2
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Under\" -4"
@@ -2422,7 +1422,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"Break\" by 20%."
           },
@@ -2430,21 +1429,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Under\" -4",
-    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Break\" by 20%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Dao/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Break\" by 20%."
   },
   {
     "Name": " <color=#23FF00FF> Mantis </color> ",
@@ -2452,14 +1442,9 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      2
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "10% increase in the chance of \"killing\" the opponent"
           },
@@ -2467,16 +1452,9 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "The chance of being \"wounded\" is increased by 20%."
           },
@@ -2484,21 +1462,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "The chance of \"killing\" the opponent is increased by 10%, and the chance of being \"wounded\" is increased by 20%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Dao/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "The chance of \"killing\" the opponent is increased by 10%, and the chance of being \"wounded\" is increased by 20%."
   },
   {
     "Name": " <color=#FF00B6FF> Ming Hong </color> ",
@@ -2506,22 +1475,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      2
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Decisions\" +4"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Decisions\" +4",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Dao/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Absolutely True </color> ",
@@ -2529,16 +1490,9 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      2
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "15% increase in \"Attack Power\"."
           },
@@ -2546,16 +1500,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"Break\" by 10%."
           },
@@ -2563,21 +1510,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "15% increase in \"Attacking Power\" and 10% increase in \"Breaking\" chance",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Dao/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "15% increase in \"Attacking Power\" and 10% increase in \"Breaking\" chance"
   },
   {
     "Name": " <color=#FF00B6FF> Qin Xi </color> ",
@@ -2585,22 +1523,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      2
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"+2 for \"Governor's Vein"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"+2 to \"Governor's Vein",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Dao/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Phoenix </color> ",
@@ -2608,9 +1538,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      2
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"+1 to \"Use the sword"
@@ -2619,7 +1546,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"Break\" by 10%."
           },
@@ -2627,21 +1553,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"+1 to \"Use the sword",
-    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Break\" by 10%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Dao/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Break\" by 10%."
   },
   {
     "Name": " <color=#FF00B6FF> White Moon </color> ",
@@ -2649,9 +1566,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      2
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Fortunate Fate\" +2"
@@ -2660,14 +1574,9 @@
         "Description": "\"Gods Come\" +2"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"+2 to \"Fortunate Fate\" +2 to \"God's Coming",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Dao/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF9A00FF> Blazing Sun </color> ",
@@ -2675,9 +1584,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      2
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"+3 for \"Knife Making"
@@ -2686,9 +1592,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "20% increase in \"Attacking Power\""
           },
@@ -2696,16 +1599,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"Break\" by 10%."
           },
@@ -2713,21 +1609,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"+3 for \"Knife Making",
-    "Teses_ZhanDou_ValueInfo": "20% increase in \"Attacking Power\" and 10% increase in \"Breaking\" chance",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Dao/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "20% increase in \"Attacking Power\" and 10% increase in \"Breaking\" chance"
   },
   {
     "Name": " <color=#FF9A00FF> Butcher </color> ",
@@ -2735,22 +1622,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      2
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Cooking\" +15"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Cooking\" +15",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Dao/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF9A00FF> </color> ",
@@ -2758,9 +1637,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      2
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"+1 to \"Use the sword"
@@ -2769,9 +1645,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "20% increase in \"Attacking Power\""
           },
@@ -2779,18 +1652,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"20% increase in the \"Power of Defense Stance"
           },
@@ -2798,21 +1662,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"+1 to \"Use the sword",
-    "Teses_ZhanDou_ValueInfo": "\"20% increase in the power of \"offensive and defensive moves",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Dao/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"20% increase in the power of \"offensive and defensive moves"
   },
   {
     "Name": " <color=#FF9A00FF> Dragon Slayer </color> ",
@@ -2820,22 +1675,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      2
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"+10 for \"Knife Making"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"+10 for \"Knife Making",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Dao/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Prime </color> ",
@@ -2843,16 +1690,9 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      3
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "20% increase in \"Attacking Power\""
           },
@@ -2860,21 +1700,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "20% increase in \"Attacking Power\"",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Qiang/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "20% increase in \"Attacking Power\""
   },
   {
     "Name": " <color=#FF00B6FF> Underworld Silver </color> ",
@@ -2882,9 +1713,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      3
-    ],
     "Teses_ShuXing": [
       {
         "Description": "+2 to \"Resting\""
@@ -2893,7 +1721,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "10% increase in the chance of \"wounding\" the opponent"
           },
@@ -2901,21 +1728,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "+2 to \"Resting\"",
-    "Teses_ZhanDou_ValueInfo": "10% increase in the chance of \"wounding\" the opponent",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Qiang/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "10% increase in the chance of \"wounding\" the opponent"
   },
   {
     "Name": " <color=#FF00B6FF> Leach Springs </color> ",
@@ -2923,9 +1741,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      3
-    ],
     "Teses_ShuXing": [
       {
         "Description": "+1 for \"Guns\""
@@ -2934,9 +1749,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "15% increase in \"Attack Power\"."
           },
@@ -2944,21 +1756,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "+1 for \"Gun\"",
-    "Teses_ZhanDou_ValueInfo": "15% increase in \"Attack Power\".",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Qiang/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "15% increase in \"Attack Power\"."
   },
   {
     "Name": " <color=#FF00B6FF> Shineway </color> ",
@@ -2966,22 +1769,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      3
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Gun\" +2"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Gun\" +2",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Qiang/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Broken Soul </color> ",
@@ -2989,9 +1784,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      3
-    ],
     "Teses_ShuXing": [
       {
         "Description": "+1 for \"Gun\""
@@ -3000,7 +1792,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "10% increase in the chance of \"killing\" the opponent"
           },
@@ -3008,21 +1799,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "+1 for \"Gun\"",
-    "Teses_ZhanDou_ValueInfo": "10% increase in the chance of \"killing\" the opponent",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Qiang/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "10% increase in the chance of \"killing\" the opponent"
   },
   {
     "Name": " <color=#FF00B6FF> Cloudy winds </color> ",
@@ -3030,16 +1812,9 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      3
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "Power of \"Attacking Stance\" increased by 45%"
           },
@@ -3047,16 +1822,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "15% increase in the chance of \"breakage\""
           },
@@ -3064,21 +1832,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "Power of \"attacking moves\" increased by 45%, and the chance of \"breakage\" increased by 15%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Qiang/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Power of \"attacking moves\" increased by 45%, and the chance of \"breakage\" increased by 15%."
   },
   {
     "Name": " <color=#FF9A00FF> Gentian </color> ",
@@ -3086,9 +1845,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      3
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Gun\" +2"
@@ -3097,9 +1853,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "30% increase in \"attack power\""
           },
@@ -3107,21 +1860,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Gun\" +2",
-    "Teses_ZhanDou_ValueInfo": "30% increase in \"attack power\"",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Qiang/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "30% increase in \"attack power\""
   },
   {
     "Name": " <color=#FF9A00FF> Red Flame </color> ",
@@ -3129,9 +1873,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      3
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Gun\" +2"
@@ -3143,14 +1884,9 @@
         "Description": "\"Decision\" +2"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"+2 to \"Use Gun\", +2 to \"Will\", +2 to \"Determination",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Qiang/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF9A00FF> Overlord </color> ",
@@ -3158,22 +1894,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      3
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Gun\" +9"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Gun\" +9",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Qiang/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Longbans </color> ",
@@ -3181,22 +1909,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      9
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Gods Come\" +4"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Gods Come\" +4",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Gun/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Tiger Tail </color> ",
@@ -3204,22 +1924,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      9
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Baton Juggling\" +2"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Baton Juggling\" +2",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Gun/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Thunderstruck </color> ",
@@ -3227,9 +1939,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      9
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"+1 for \"Baton Juggling"
@@ -3238,9 +1947,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yin Yang\" \"Attacking Power\" increased by 30%"
           },
@@ -3248,19 +1954,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"+1 for \"Baton Juggling",
-    "Teses_ZhanDou_ValueInfo": "\"Yin Yang\" \"Attacking Power\" increased by 30%",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Gun/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"Yin Yang\" \"Attacking Power\" increased by 30%"
   },
   {
     "Name": " <color=#FF00B6FF> Raw Iron Rohan </color> ",
@@ -3268,16 +1967,9 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      9
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yin Yang\" \"Attacking Power\" increased by 60%"
           },
@@ -3285,16 +1977,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yin Yang\" \"Anti-move power\" increased by 60%"
           },
@@ -3302,14 +1987,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Chance of \"God's Strike\" reduced by 10%"
           },
@@ -3317,21 +1997,12 @@
             "ValueInfo": "Reduction"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "60% increase in \"attack and defense power\" of \"Yin Yang\" and 15% decrease in \"Divine Strike\" chance",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Gun/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "60% increase in \"attack and defense power\" of \"Yin Yang\" and 15% decrease in \"Divine Strike\" chance"
   },
   {
     "Name": " <color=#FF00B6FF> Gossip </color> ",
@@ -3339,9 +2010,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      9
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Baton Juggling\" +2"
@@ -3350,7 +2018,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Chance of \"God's Strike\" increased by 5%"
           },
@@ -3358,21 +2025,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"+1 for \"Baton Juggling",
-    "Teses_ZhanDou_ValueInfo": "Chance of \"God's Strike\" increased by 5%",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Gun/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Chance of \"God's Strike\" increased by 5%"
   },
   {
     "Name": " <color=#FF00B6FF> Yueyang </color> ",
@@ -3380,9 +2038,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      9
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Gods Come\" +2"
@@ -3391,9 +2046,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "15% increase in \"Attack Power\"."
           },
@@ -3401,18 +2053,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"15% increase in the \"Power of Defense Stance"
           },
@@ -3420,21 +2063,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Gods Come\" +2",
-    "Teses_ZhanDou_ValueInfo": "\"15% increase in \"offensive and defensive move power",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Gun/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"15% increase in \"offensive and defensive move power"
   },
   {
     "Name": " <color=#FF00B6FF> Qi Men </color> ",
@@ -3442,14 +2076,9 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      9
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"God's Strike\" by 10%."
           },
@@ -3457,21 +2086,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"God's Strike\" by 10%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Gun/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"God's Strike\" by 10%."
   },
   {
     "Name": " <color=#FF9A00FF> Meteor </color> ",
@@ -3479,14 +2099,9 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      9
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Chance of \"Divine Strike\" increased by 16%"
           },
@@ -3494,21 +2109,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "Chance of \"Divine Strike\" increased by 16%",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Gun/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Chance of \"Divine Strike\" increased by 16%"
   },
   {
     "Name": " <color=#FF9A00FF> Dog fighting </color> ",
@@ -3516,9 +2122,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      9
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Gods Come\" +4"
@@ -3527,9 +2130,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yin Yang\" \"Attacking Power\" increased by 60%"
           },
@@ -3537,19 +2137,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Gods Come\" +4",
-    "Teses_ZhanDou_ValueInfo": "\"Yin Yang\" \"Attacking Power\" increased by 60%",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Gun/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"Yin Yang\" \"Attacking Power\" increased by 60%"
   },
   {
     "Name": " <color=#FF9A00FF> Panlong </color> ",
@@ -3557,22 +2150,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      9
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Baton Juggling\" +8"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Baton Juggling\" +8",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Gun/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Attack the wind </color> ",
@@ -3580,9 +2165,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      10
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Whip Technique\" +1"
@@ -3591,9 +2173,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yin\" \"Attacking Power\" increased by 30%"
           },
@@ -3601,19 +2180,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Whip Technique\" +1",
-    "Teses_ZhanDou_ValueInfo": "\"Yin\" \"Attacking Power\" increased by 30%",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Bian/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"Yin\" \"Attacking Power\" increased by 30%"
   },
   {
     "Name": " <color=#FF00B6FF> Broken Star </color> ",
@@ -3621,14 +2193,9 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      10
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"Break\" by 20%."
           },
@@ -3636,21 +2203,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Break\" by 20%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Bian/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Break\" by 20%."
   },
   {
     "Name": " <color=#FF00B6FF> Deduction of life </color> ",
@@ -3658,9 +2216,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      10
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Whip Technique\" +1"
@@ -3669,7 +2224,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "10% increase in the chance of \"killing\" the opponent"
           },
@@ -3677,21 +2231,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Whip Technique\" +1",
-    "Teses_ZhanDou_ValueInfo": "10% increase in the chance of \"killing\" the opponent",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Bian/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "10% increase in the chance of \"killing\" the opponent"
   },
   {
     "Name": " <color=#FF00B6FF> Lingbo Sorrowful Rain </color> ",
@@ -3699,22 +2244,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      10
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Whip Technique\" +3"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Whip Technique\" +3",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Bian/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Butterfly Shadow </color> ",
@@ -3722,9 +2259,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      10
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Whip Technique\" +1"
@@ -3733,9 +2267,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yin\" \"Attacking Power\" increased by 20%"
           },
@@ -3743,14 +2274,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"Break\" by 10%."
           },
@@ -3758,21 +2284,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Whip Technique\" +1",
-    "Teses_ZhanDou_ValueInfo": "20% increase in \"Attacking Power\" and 10% increase in \"Breaking\" chance for \"Yin\"",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Bian/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "20% increase in \"Attacking Power\" and 10% increase in \"Breaking\" chance for \"Yin\""
   },
   {
     "Name": " <color=#FF9A00FF> Thor </color> ",
@@ -3780,9 +2297,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragons, etc. </color> "
     },
-    "WeaponType": [
-      10
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Whip Art\" +2"
@@ -3791,9 +2305,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yin\" \"Attacking Power\" increased by 50%"
           },
@@ -3801,19 +2312,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Whip Art\" +2",
-    "Teses_ZhanDou_ValueInfo": "\"Yin\" \"Attacking Power\" increased by 50%",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Bian/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"Yin\" \"Attacking Power\" increased by 50%"
   },
   {
     "Name": " <color=#FF9A00FF> Roxas </color> ",
@@ -3821,14 +2325,9 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      10
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"Break\" by 20%."
           },
@@ -3836,16 +2335,9 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"wounding\" the opponent by 20%."
           },
@@ -3853,21 +2345,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Break\" by 20% and the chance of \"Wound\" by 20%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Bian/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Break\" by 20% and the chance of \"Wound\" by 20%."
   },
   {
     "Name": " <color=#FF9A00FF> Maple Red Bamboo Water </color> ",
@@ -3875,9 +2358,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      10
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Whip Art\" +2"
@@ -3886,7 +2366,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"Break\" by 20%."
           },
@@ -3894,21 +2373,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Whip Art\" +2",
-    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Break\" by 20%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Bian/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Break\" by 20%."
   },
   {
     "Name": " <color=#FF00B6FF> Jade Bee </color> ",
@@ -3916,22 +2386,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Concealed Weapon\" +2"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Concealed Weapon\" +2",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/AnQi/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Ice Phenomenon </color> ",
@@ -3939,14 +2401,9 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      12
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"Hardened Poison\" by 15%."
           },
@@ -3954,21 +2411,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Hardened Poison\" by 15%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/AnQi/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Hardened Poison\" by 15%."
   },
   {
     "Name": " <color=#FF00B6FF> Flower Shadow </color> ",
@@ -3976,9 +2424,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Body shape\" +3"
@@ -3987,14 +2432,9 @@
         "Description": "\"Charm\" +3"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"+3 to \"body shape\" +3 to \"charisma",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/AnQi/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Ghost Spring </color> ",
@@ -4002,9 +2442,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Decision\" -3"
@@ -4013,7 +2450,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"Hardened Poison\" by 10%."
           },
@@ -4021,16 +2457,9 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "10% increase in the chance of \"killing\" the opponent"
           },
@@ -4038,21 +2467,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Decision\" -3",
-    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Hardened Poison\" by 10% and the chance of \"Killing\" the opponent by 10%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/AnQi/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Hardened Poison\" by 10% and the chance of \"Killing\" the opponent by 10%."
   },
   {
     "Name": " <color=#FF00B6FF> Weeping Blood </color> ",
@@ -4060,22 +2480,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Killing Intent\" +5"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Killing Intent\" +5",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/AnQi/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Perak </color> ",
@@ -4083,14 +2495,9 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      12
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"Break\" by 10%."
           },
@@ -4098,16 +2505,9 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"wounding\" the opponent by 10%."
           },
@@ -4115,21 +2515,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "The chance of \"Break\" increases by 10%, and the chance of \"Wound\" increases by 10%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/AnQi/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "The chance of \"Break\" increases by 10%, and the chance of \"Wound\" increases by 10%."
   },
   {
     "Name": " <color=#FF00B6FF> Chasing the Sun </color> ",
@@ -4137,16 +2528,9 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      12
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yin\" \"Attacking Power\" increased by 20%"
           },
@@ -4154,14 +2538,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "10% increase in the chance of \"damage\""
           },
@@ -4169,21 +2548,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "20% increase in \"Attacking Power\" and 10% increase in \"Damage\" chance for \"Yin\"",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/AnQi/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "20% increase in \"Attacking Power\" and 10% increase in \"Damage\" chance for \"Yin\""
   },
   {
     "Name": " <color=#FF00B6FF> Voluntary corpses </color> ",
@@ -4191,9 +2561,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Body\" -10"
@@ -4205,7 +2572,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"killing\" the opponent by 20%."
           },
@@ -4213,21 +2579,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Body\" -10 \"Concentration\" -10",
-    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"killing\" the opponent by 20%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/AnQi/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"killing\" the opponent by 20%."
   },
   {
     "Name": " <color=#FF00B6FF> Black cloth </color> ",
@@ -4235,9 +2592,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"+1 to \"Concealed Weapon"
@@ -4246,9 +2600,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yin\" \"Attacking Power\" increased by 25%"
           },
@@ -4256,19 +2607,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"+1 to \"Concealed Weapon",
-    "Teses_ZhanDou_ValueInfo": "\"Yin\" \"Attacking Power\" increased by 25%",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/AnQi/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"Yin\" \"Attacking Power\" increased by 25%"
   },
   {
     "Name": " <color=#FF00B6FF> Broken Hearts </color> ",
@@ -4276,9 +2620,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Will\"-5"
@@ -4290,7 +2631,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "30% increase in the chance of \"wounding\" the opponent"
           },
@@ -4298,21 +2638,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Will\"-5 \"Calmness\"-5",
-    "Teses_ZhanDou_ValueInfo": "30% increase in the chance of \"wounding\" the opponent",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/AnQi/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "30% increase in the chance of \"wounding\" the opponent"
   },
   {
     "Name": " <color=#FF9A00FF> Shadowbane </color> ",
@@ -4320,9 +2651,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Concealed Weapon\" +3"
@@ -4331,14 +2659,9 @@
         "Description": "\"Body shape\" +6"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"+3 to \"Concealed Weapon\" +6 to \"Body Form",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/AnQi/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF9A00FF> Hyun Jin Poison Butterfly </color> ",
@@ -4346,9 +2669,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Concealed Weapon\" +2"
@@ -4363,7 +2683,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"Hardened Poison\" by 20%."
           },
@@ -4371,21 +2690,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Concealed Weapon\" +2 \"Body\" -3 \"Muscle\" -3",
-    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Hardened Poison\" by 20%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/AnQi/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Hardened Poison\" by 20%."
   },
   {
     "Name": " <color=#FF9A00FF> No Trace of the Phantom Brain </color> ",
@@ -4393,14 +2703,9 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      12
-    ],
-    "Teses_ShuXing": [],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"damage\" by 20%."
           },
@@ -4408,16 +2713,9 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"Hardened Poison\" by 20%."
           },
@@ -4425,21 +2723,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Teses_ZhanDou_ValueInfo": "\"20% increase in the chance of \"Hit\" and 20% increase in the chance of \"Hardened Poison",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/AnQi/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"20% increase in the chance of \"Hit\" and 20% increase in the chance of \"Hardened Poison"
   },
   {
     "Name": " <color=#FF9A00FF> Spot Gold </color> ",
@@ -4447,22 +2736,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragons, etc. </color> "
     },
-    "WeaponType": [
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Concealed Weapon\" +8"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Concealed Weapon\" +8",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/AnQi/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF9A00FF> Purple Jade Deadwood </color> ",
@@ -4470,9 +2751,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      8
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Penmanship\" +2"
@@ -4484,14 +2762,9 @@
         "Description": "\"Poetry\" +2"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"+2 to \"Strokes\", +2 to \"Gods\", +2 to \"Poems",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Bi/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF9A00FF> Lingzong Tianji </color> ",
@@ -4499,22 +2772,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      8
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Penmanship\" +5"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Penmanship\" +5",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Bi/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF9A00FF> Eloquent Ruyi </color> ",
@@ -4522,9 +2787,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      8
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Penmanship\" +2"
@@ -4536,9 +2798,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yin Yang\" \"Attacking Power\" increased by 40%"
           },
@@ -4546,16 +2805,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yin Yang\" \"Anti-move power\" increased by 40%"
           },
@@ -4563,19 +2815,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "+2 to \"Strokes\" +2 to \"Gods\"",
-    "Teses_ZhanDou_ValueInfo": "40% increase in \"Yin Yang\" \"Attack and defense power\"",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Bi/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "40% increase in \"Yin Yang\" \"Attack and defense power\""
   },
   {
     "Name": " <color=#FF9A00FF> Mirrors </color> ",
@@ -4583,9 +2828,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      8
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Gods Come\" +2"
@@ -4597,9 +2839,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yin\" \"Attacking Power\" increased by 20%"
           },
@@ -4607,16 +2846,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yin\" \"Anti-move power\" increased by 20%"
           },
@@ -4624,14 +2856,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"Break\" by 10%."
           },
@@ -4639,21 +2866,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"+2 to \"Gods Come\" +2 to \"Concentration",
-    "Teses_ZhanDou_ValueInfo": "20% increase in \"attack and defense power\" of \"Yin\" and 10% increase in \"break\" chance",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Bi/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "20% increase in \"attack and defense power\" of \"Yin\" and 10% increase in \"break\" chance"
   },
   {
     "Name": " <color=#FF9A00FF> Genkai Return to One </color> ",
@@ -4661,9 +2879,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      8
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Penmanship\" +2"
@@ -4672,9 +2887,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yang\" \"Attacking Power\" increased by 30%"
           },
@@ -4682,16 +2894,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              1
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yang\" \"Anti-move power\" increased by 30%"
           },
@@ -4699,19 +2904,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              1
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Penmanship\" +2",
-    "Teses_ZhanDou_ValueInfo": "\"30% increase in the power of offensive and defensive moves of \"Yang\"",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/Bi/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"30% increase in the power of offensive and defensive moves of \"Yang\""
   },
   {
     "Name": " <color=#FF00B6FF> Luan spider </color> ",
@@ -4719,9 +2917,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      7
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"+1 for \"hook method"
@@ -4733,7 +2928,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"hitting\" the opponent by 15%."
           },
@@ -4741,16 +2935,9 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "10% increase in the chance of \"killing\" the opponent"
           },
@@ -4758,21 +2945,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"+1 to \"Hooking\" and -5 to \"Ethics",
-    "Teses_ZhanDou_ValueInfo": "The chance of \"wounding\" the opponent is increased by 15%, and the chance of \"killing\" the opponent is increased by 10%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/0608 ADD/BingQiMingHao0608/Gou/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "The chance of \"wounding\" the opponent is increased by 15%, and the chance of \"killing\" the opponent is increased by 10%."
   },
   {
     "Name": " <color=#FF00B6FF> Iron Horned Rhinoceros Spirit </color> ",
@@ -4780,9 +2958,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      7
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"+1 for \"hook method"
@@ -4791,9 +2966,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "10% increase in \"Attack Power\"."
           },
@@ -4801,16 +2973,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "10% increase in the chance of \"wounding\" the opponent"
           },
@@ -4818,21 +2983,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"+1 for \"hook method",
-    "Teses_ZhanDou_ValueInfo": "10% increase in \"attacking power\" and 10% increase in the chance of \"wounding\" the opponent",
-    "Prefabs": [
-      "UI/_Icon_Prefab/0608 ADD/BingQiMingHao0608/Gou/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "10% increase in \"attacking power\" and 10% increase in the chance of \"wounding\" the opponent"
   },
   {
     "Name": " <color=#FF00B6FF> Hundred Rust </color> ",
@@ -4840,9 +2996,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      7
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Ethics\" - 10"
@@ -4854,7 +3007,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "25% increase in the chance of \"wounding\" the opponent"
           },
@@ -4862,21 +3014,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Morality\" -10 \"Killing intent\" +3",
-    "Teses_ZhanDou_ValueInfo": "25% increase in the chance of \"wounding\" the opponent",
-    "Prefabs": [
-      "UI/_Icon_Prefab/0608 ADD/BingQiMingHao0608/Gou/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "25% increase in the chance of \"wounding\" the opponent"
   },
   {
     "Name": " <color=#FF00B6FF> Cold Marrow </color> ",
@@ -4884,9 +3027,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      7
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Killing Intent\" +5"
@@ -4895,9 +3035,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yin\" \"Attacking Power\" increased by 35%."
           },
@@ -4905,19 +3042,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Killing Intent\" +5",
-    "Teses_ZhanDou_ValueInfo": "\"Yin\" \"Attacking Power\" increased by 35%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/0608 ADD/BingQiMingHao0608/Gou/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"Yin\" \"Attacking Power\" increased by 35%."
   },
   {
     "Name": " <color=#FF9A00FF> Xuan Hei </color> ",
@@ -4925,9 +3055,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      7
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Hook Method\" +4"
@@ -4936,9 +3063,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yin\" \"Attacking Power\" increased by 25%"
           },
@@ -4946,16 +3070,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yin\" \"Anti-move power\" increased by 25%"
           },
@@ -4963,14 +3080,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"wounding\" the opponent by 12%."
           },
@@ -4978,21 +3090,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Hook Method\" +4",
-    "Teses_ZhanDou_ValueInfo": "\"Yin\" increases the power of \"attack and defense moves\" by 25%; the chance of \"wounding\" the opponent increases by 15%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/0608 ADD/BingQiMingHao0608/Gou/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"Yin\" increases the power of \"attack and defense moves\" by 25%; the chance of \"wounding\" the opponent increases by 15%."
   },
   {
     "Name": " <color=#FF00B6FF> Shredded armor </color> ",
@@ -5000,9 +3103,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      5
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Luck Axe\" +1"
@@ -5011,7 +3111,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"shooting down\" the opponent's weapon by 15%."
           },
@@ -5019,21 +3118,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Luck Axe\" +1",
-    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"shooting down\" the opponent's weapon by 15%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/0608 ADD/BingQiMingHao0608/Fu/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"shooting down\" the opponent's weapon by 15%."
   },
   {
     "Name": " <color=#FF00B6FF> Akimoto </color> ",
@@ -5041,9 +3131,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      5
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Luck Axe\" +2"
@@ -5052,9 +3139,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yang\" \"Anti-move power\" increased by 15%"
           },
@@ -5062,19 +3146,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              1
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Luck Axe\" +2",
-    "Teses_ZhanDou_ValueInfo": "\"Yang\" \"Anti-move power\" increased by 15%",
-    "Prefabs": [
-      "UI/_Icon_Prefab/0608 ADD/BingQiMingHao0608/Fu/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"Yang\" \"Anti-move power\" increased by 15%"
   },
   {
     "Name": " <color=#FF00B6FF> Kaishan </color> ",
@@ -5082,9 +3159,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      5
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Luck Axe\" +1"
@@ -5096,9 +3170,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yang\" \"Anti-move power\" increased by 10%"
           },
@@ -5106,14 +3177,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              1
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"shooting down\" the opponent's weapon by 10%."
           },
@@ -5121,21 +3187,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"+1 to \"Axe of Fortune\" +1 to \"Decisiveness",
-    "Teses_ZhanDou_ValueInfo": "10% increase in the \"power of anti-stance\" of \"Yang\"; 10% increase in the chance of \"knocking down\" the opponent's weapon",
-    "Prefabs": [
-      "UI/_Icon_Prefab/0608 ADD/BingQiMingHao0608/Fu/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "10% increase in the \"power of anti-stance\" of \"Yang\"; 10% increase in the chance of \"knocking down\" the opponent's weapon"
   },
   {
     "Name": " <color=#FF00B6FF> Cyclone </color> ",
@@ -5143,9 +3200,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      5
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Luck Axe\" +3"
@@ -5157,9 +3211,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yang\" \"Attacking Power\" increased by 15%."
           },
@@ -5167,16 +3218,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              1
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yang\" \"Anti-move power\" increased by 15%"
           },
@@ -5184,19 +3228,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              1
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"+3 for \"Axe of Fortune\" and -3 for \"Sword",
-    "Teses_ZhanDou_ValueInfo": "\"Yang\" \"Attack and defense power\" increased by 15%",
-    "Prefabs": [
-      "UI/_Icon_Prefab/0608 ADD/BingQiMingHao0608/Fu/Feng"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"Yang\" \"Attack and defense power\" increased by 15%"
   },
   {
     "Name": " <color=#FF9A00FF> Chopper </color> ",
@@ -5204,9 +3241,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      5
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Luck Axe\" +4"
@@ -5215,9 +3249,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yang\" \"Attacking power\" increased by 20%"
           },
@@ -5225,16 +3256,9 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              1
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "\"Yang\" \"Anti-move power\" increased by 20%"
           },
@@ -5242,19 +3266,12 @@
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              1
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"Luck Axe\" +7",
-    "Teses_ZhanDou_ValueInfo": "\"20% increase in the power of \"offensive and defensive moves",
-    "Prefabs": [
-      "UI/_Icon_Prefab/0608 ADD/BingQiMingHao0608/Fu/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "\"20% increase in the power of \"offensive and defensive moves"
   },
   {
     "Name": " <color=#FF9A00FF> Blunt Sky </color> ",
@@ -5262,9 +3279,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragons, etc. </color> "
     },
-    "WeaponType": [
-      5
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Luck Axe\" +5"
@@ -5276,7 +3290,6 @@
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Increase the chance of \"shooting down\" the opponent's weapon by 20%."
           },
@@ -5284,21 +3297,12 @@
             "ValueInfo": "Add"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
     "Teses_ShuXing_ValueInfo": "\"+5 to \"Axe of Fortune\" +5 to \"Physique",
-    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"shooting down\" the opponent's weapon by 20%.",
-    "Prefabs": [
-      "UI/_Icon_Prefab/0608 ADD/BingQiMingHao0608/Fu/Long"
-    ]
+    "Teses_ZhanDou_ValueInfo": "Increase the chance of \"shooting down\" the opponent's weapon by 20%."
   },
   {
     "Name": " <color=#23FF00FF> Across the Sky </color> ",
@@ -5306,32 +3310,14 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Finger Power\" +1"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Finger Power\" +1",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#23FF00FF> Youxiong </color> ",
@@ -5339,32 +3325,14 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Fist and Palm\" +1"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Fist and Palm\" +1",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Fighting wind </color> ",
@@ -5372,32 +3340,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Decision\" +2"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Decision\" +2",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> White Pony </color> ",
@@ -5405,32 +3355,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Concentration\" +2"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Concentration\" +2",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Lock Day </color> ",
@@ -5438,32 +3370,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Will\" +2"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Will\" +2",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Flash Gold </color> ",
@@ -5471,19 +3385,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Concentration\" +1"
@@ -5492,14 +3393,9 @@
         "Description": "\"+1 to \"Will"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"+1 to \"Concentration\" +1 to \"Will",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Green Bamboo </color> ",
@@ -5507,32 +3403,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Gods Come\" +2"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Gods Come\" +2",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Taisho </color> ",
@@ -5540,19 +3418,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Concentration\"-2"
@@ -5561,14 +3426,9 @@
         "Description": "\"Will\" +4"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Concentration\" -2 \"Will\" +4",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Flame Song </color> ",
@@ -5576,19 +3436,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Will\"-2"
@@ -5597,14 +3444,9 @@
         "Description": "\"Concentration\" +4"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Will\" -2 \"Concentration\" +4",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Falling butterfly </color> ",
@@ -5612,19 +3454,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Decision\" -3"
@@ -5633,14 +3462,9 @@
         "Description": "\"Gods Come\" +5"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Decisive\" -3 \"Divine\" +5",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Sushin </color> ",
@@ -5648,19 +3472,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Body\" -3"
@@ -5669,14 +3480,9 @@
         "Description": "\"+5 to \"Decide"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Physical strength\" -3 \"Decisiveness\" +5",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF00B6FF> Mirror Void </color> ",
@@ -5684,19 +3490,6 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Concentration\" -5"
@@ -5705,14 +3498,9 @@
         "Description": "\"Gods Come\" +8"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Concentration\" -5 \"Divine Coming\" +8",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF9A00FF> Nine refinements of the Tong Arm </color> ",
@@ -5720,32 +3508,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragons, etc. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Fist and Palm\" +6"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Fist and Palm\" +6",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FF9A00FF> Chiku Muyo </color> ",
@@ -5753,32 +3523,14 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
-    ],
     "Teses_ShuXing": [
       {
         "Description": "\"Finger Power\" +6"
       }
     ],
-    "Teses_ZhanDou": {
-      "Values": []
-    },
+    "Teses_ZhanDou": {},
     "Teses_ShuXing_ValueInfo": "\"Finger Power\" +6",
-    "Teses_ZhanDou_ValueInfo": "No equipment effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Hu"
-    ]
+    "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
     "Name": " <color=#FFFFFFFF> Wolves, etc. </color> ",
@@ -5786,48 +3538,22 @@
     "Quality": {
       "ValueInfo": " <color=#FFFFFFFF> Wolves, etc. </color> "
     },
-    "WeaponType": [
-      2,
-      3,
-      4,
-      9,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12,
-      13
-    ],
     "Teses_ShuXing": [
       {}
     ],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {},
           "ValueOperator": {
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
     },
-    "Teses_ShuXing_ValueInfo": "No carry effect",
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Hu"
-    ]
+    "Teses_ShuXing_ValueInfo": "No carry effect"
   },
   {
     "Name": " <color=#23FF00FF> Tiger, etc. </color> ",
@@ -5835,36 +3561,21 @@
     "Quality": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "WeaponType": [
-      12
-    ],
     "Teses_ShuXing": [
       {}
     ],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {},
           "ValueOperator": {
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Hu"
-    ]
+    }
   },
   {
     "Name": " <color=#FF00B6FF> Feng et al. </color> ",
@@ -5872,36 +3583,21 @@
     "Quality": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "WeaponType": [
-      12
-    ],
     "Teses_ShuXing": [
       {}
     ],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {},
           "ValueOperator": {
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Hu"
-    ]
+    }
   },
   {
     "Name": " <color=#FF9A00FF> Dragon, etc. </color> ",
@@ -5909,35 +3605,20 @@
     "Quality": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "WeaponType": [
-      8
-    ],
     "Teses_ShuXing": [
       {}
     ],
     "Teses_ZhanDou": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {},
           "ValueOperator": {
             "ValueInfo": "Additive"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQiMingHao/ALL_ALL/Hu"
-    ]
+    }
   }
 ]
