@@ -2,77 +2,46 @@
   {
     "GuiZe": [
       {
-        "RelatedID": [
-          "BenWuGongGongZhanDouQiangDuJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#E24344FF> \"Attacking Stance Power\" </color> ",
         "RightValueInfo": "10%",
         "DialogContent": "The sensual advancement is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongFangZhanDouQiangDuJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#5C9BE2FF> Power of \"Defense Stance\" </color> ",
         "RightValueInfo": "10%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongJiPoPoZhanJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF7E2EFF> \"Breakdown Chance\" </color> ",
         "RightValueInfo": "1%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongYiJiZhiMingJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF0000FF> \"Fatal Hit Chance\" </color> ",
         "RightValueInfo": "0.4%",
         "DialogContent": "The sensual advancement is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongBuWeiShouShangJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF5344FF> \"Chance to hit\" </color> ",
         "RightValueInfo": "1%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongDianXueJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#00CAB0FF> \"Point Chance\" </color> ",
         "RightValueInfo": "1%",
         "DialogContent": "The sensual advancement is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongCuiDuJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#64B200FF> \"Hardened Poison Chance\" </color> ",
         "RightValueInfo": "1%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> Character </color> \n <color=#00FFDDFF> \"Martial Arts Attributes\" </color> ",
         "RightValueInfo": "Click to view",
         "DialogContent": "Gnosis progression is complete! [PropName] has been upgraded to [Value]."
       },
       {
-        "RelatedID": [],
         "ReplaceGuiZe": [
           {
             "ReplaceTeSes": [
@@ -80,16 +49,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
                 },
-                "RelatedID": [
-                  "ShouBi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -112,15 +75,9 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
-                },
-                "WuGongType": [
-                  6
-                ]
+                }
               }
             ]
           },
@@ -130,16 +87,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
                 },
-                "RelatedID": [
-                  "ShouBi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -162,14 +113,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -196,14 +143,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF0000FF> \"Hit to Kill\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF0000FF> \"Kill\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -226,14 +169,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#ACCFFFFF> \"Seize the Weapon\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#ACCFFFFF> \"Capture\" </color> Opponent \"Weapon\""
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -260,14 +199,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFD41BFF> \"One Hit Wins\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FFD41BFF> \"Direct Defeat\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -294,30 +229,18 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
-                },
-                "WuGongType": [
-                  6
-                ]
+                }
               },
               {
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
                 },
-                "RelatedID": [
-                  "ShouBi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -344,15 +267,9 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
-                },
-                "WuGongType": [
-                  6
-                ]
+                }
               }
             ]
           },
@@ -362,14 +279,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#ACCFFFFF> \"Shoot Down Weapons\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#ACCFFFFF> \"Shoot Down\" </color> Opponent \"Weapon\""
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -396,9 +309,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Breach Guard\" </color> "
                 },
-                "RelatedID": [
-                  "PoZhanFYZDiv_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": " <color=#FF5E4EFF> \"Breakdown\" </color> Chance -60%"
                 }
@@ -411,9 +321,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
                 },
-                "RelatedID": [
-                  "NeiLiXiaoHaoBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent's martial arts moves \"internal energy consumption\" +160%"
                 }
@@ -426,7 +333,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Tenacity\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": " <color=#FFDDBDFF> \"Losing a Match\" </color> Chance-70%"
                 }
@@ -439,7 +345,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Surviving the Desperate Times\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": " <color=#FF0000FF> \"Perish on the move\" </color> Chance -60%"
                 }
@@ -452,9 +357,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Leveraging Counterattack\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "+30% to \"move power\"; -30% to \"move power\" of opponent"
                 }
@@ -467,14 +369,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFD41BFF> \"One Hit Wins\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FFD41BFF> \"Direct Defeat\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -501,16 +399,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#00CAB0FF> \"Point and Seal\" </color> "
                 },
-                "RelatedID": [
-                  "TuiJiao_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#00CAB0FF> \"Block\" </color> Opponent's \"[BuWei]\" acupuncture point for 4 turns"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -537,16 +429,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#64B200FF> \"Hardened Poison\" </color> "
                 },
-                "RelatedID": [
-                  "TuiJiao_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#00CAB0FF> \"Hardened Poison\" </color> Opponent \"[BuWei]\", poison lasts 6 turns"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -573,14 +459,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -603,16 +485,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
                 },
-                "RelatedID": [
-                  "ShouBi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -639,14 +515,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -669,15 +541,9 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
-                },
-                "WuGongType": [
-                  6
-                ]
+                }
               }
             ]
           }
@@ -687,20 +553,14 @@
         "DialogContent": "The [ZhaoShiName] move feature of [WuGongName] has changed from [Tese1] to [Tese2]."
       },
       {
-        "RelatedID": [],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#E24344FF> Number of \"Attack Slots\" </color> ",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#5C9BE2FF> Number of \"Defense Slots\" </color> ",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#1BDFFFFF> Number of \"Skill Slots\" </color> ",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       }
@@ -709,77 +569,46 @@
   {
     "GuiZe": [
       {
-        "RelatedID": [
-          "BenWuGongGongZhanDouQiangDuJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#E24344FF> \"Attacking Stance Power\" </color> ",
         "RightValueInfo": "8%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongFangZhanDouQiangDuJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#5C9BE2FF> Power of \"Defense Stance\" </color> ",
         "RightValueInfo": "8%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongJiPoPoZhanJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF7E2EFF> \"Breakdown Chance\" </color> ",
         "RightValueInfo": "1.5%",
         "DialogContent": "The sensual advancement is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongYiJiZhiMingJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF0000FF> \"Fatal Hit Chance\" </color> ",
         "RightValueInfo": "0.4%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongBuWeiShouShangJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF5344FF> \"Chance to hit\" </color> ",
         "RightValueInfo": "1.5%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongDianXueJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#00CAB0FF> \"Point Chance\" </color> ",
         "RightValueInfo": "1.5%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongCuiDuJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#64B200FF> \"Hardened Poison Chance\" </color> ",
         "RightValueInfo": "1.5%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> Character </color> \n <color=#00FFDDFF> \"Martial Arts Attributes\" </color> ",
         "RightValueInfo": "Click to view",
         "DialogContent": "Gnosis progression is complete! [PropName] has been upgraded to [Value]."
       },
       {
-        "RelatedID": [],
         "ReplaceGuiZe": [
           {
             "ReplaceTeSes": [
@@ -787,16 +616,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
                 },
-                "RelatedID": [
-                  "ShouBi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -819,15 +642,9 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
-                },
-                "WuGongType": [
-                  6
-                ]
+                }
               }
             ]
           },
@@ -837,16 +654,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
                 },
-                "RelatedID": [
-                  "ShouBi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF5344FF> \"Hit Wound\" </color> Opponent [BuWei]"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -869,14 +680,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -903,14 +710,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF0000FF> \"Hit to Kill\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF0000FF> \"Kill\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -933,14 +736,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#ACCFFFFF> \"Seize the Weapon\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#ACCFFFFF> \"Capture\" </color> Opponent \"Weapon\""
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -967,14 +766,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFD41BFF> \"One Hit Wins\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FFD41BFF> \"Direct Defeat\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -1001,30 +796,18 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
-                },
-                "WuGongType": [
-                  6
-                ]
+                }
               },
               {
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
                 },
-                "RelatedID": [
-                  "ShouBi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -1051,15 +834,9 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
-                },
-                "WuGongType": [
-                  6
-                ]
+                }
               }
             ]
           },
@@ -1069,14 +846,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#ACCFFFFF> \"Shoot Down Weapons\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#ACCFFFFF> \"Shoot Down\" </color> Opponent \"Weapon\""
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -1103,9 +876,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Breach Guard\" </color> "
                 },
-                "RelatedID": [
-                  "PoZhanFYZDiv_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": " <color=#FF5E4EFF> \"Breakdown\" </color> Chance -60%"
                 }
@@ -1118,9 +888,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
                 },
-                "RelatedID": [
-                  "NeiLiXiaoHaoBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent's martial arts moves \"internal energy consumption\" +160%"
                 }
@@ -1133,7 +900,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Tenacity\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": " <color=#FFDDBDFF> \"Losing a Match\" </color> Chance-70%"
                 }
@@ -1146,7 +912,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Surviving the Desperate Times\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": " <color=#FF0000FF> \"Perish on the move\" </color> Chance -60%"
                 }
@@ -1159,9 +924,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Leveraging Counterattack\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "\"Power of move\" +30%; opponent's \"Power of move\" -30%"
                 }
@@ -1174,14 +936,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFD41BFF> \"One Hit Wins\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FFD41BFF> \"Direct Defeat\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -1208,16 +966,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#00CAB0FF> \"Point and Seal\" </color> "
                 },
-                "RelatedID": [
-                  "TuiJiao_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#00CAB0FF> \"Block\" </color> Opponent's \"[BuWei]\" acupuncture point for 4 turns"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -1244,16 +996,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#64B200FF> \"Hardened Poison\" </color> "
                 },
-                "RelatedID": [
-                  "TuiJiao_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#00CAB0FF> \"Hardened Poison\" </color> Opponent \"[BuWei]\", poison lasts 6 turns"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -1280,14 +1026,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -1310,16 +1052,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
                 },
-                "RelatedID": [
-                  "ShouBi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -1346,14 +1082,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -1376,15 +1108,9 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
-                },
-                "WuGongType": [
-                  6
-                ]
+                }
               }
             ]
           }
@@ -1394,20 +1120,14 @@
         "DialogContent": "The [ZhaoShiName] move feature of [WuGongName] has changed from [Tese1] to [Tese2]."
       },
       {
-        "RelatedID": [],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#E24344FF> Number of \"Attack Slots\" </color> ",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#5C9BE2FF> Number of \"Defense Slots\" </color> ",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#1BDFFFFF> Number of \"Skill Slots\" </color> ",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       }
@@ -1416,77 +1136,46 @@
   {
     "GuiZe": [
       {
-        "RelatedID": [
-          "BenWuGongGongZhanDouQiangDuJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#E24344FF> \"Attacking Stance Power\" </color> ",
         "RightValueInfo": "6%",
         "DialogContent": "The sensual advancement is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongFangZhanDouQiangDuJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#5C9BE2FF> Power of \"Defense Stance\" </color> ",
         "RightValueInfo": "6%",
         "DialogContent": "The sensual advancement is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongJiPoPoZhanJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF7E2EFF> \"Breakdown Chance\" </color> ",
         "RightValueInfo": "2%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongYiJiZhiMingJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF0000FF> \"Fatal Hit Chance\" </color> ",
         "RightValueInfo": "0.4%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongBuWeiShouShangJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF5344FF> \"Chance to hit\" </color> ",
         "RightValueInfo": "2%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongDianXueJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#00CAB0FF> \"Point Chance\" </color> ",
         "RightValueInfo": "2%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongCuiDuJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#64B200FF> \"Hardened Poison Chance\" </color> ",
         "RightValueInfo": "2%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> Character </color> \n <color=#00FFDDFF> \"Martial Arts Attributes\" </color> ",
         "RightValueInfo": "Click to view",
         "DialogContent": "Gnosis progression is complete! [PropName] has been upgraded to [Value]."
       },
       {
-        "RelatedID": [],
         "ReplaceGuiZe": [
           {
             "ReplaceTeSes": [
@@ -1494,16 +1183,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
                 },
-                "RelatedID": [
-                  "ShouBi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -1526,15 +1209,9 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
-                },
-                "WuGongType": [
-                  6
-                ]
+                }
               }
             ]
           },
@@ -1544,16 +1221,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
                 },
-                "RelatedID": [
-                  "ShouBi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -1576,14 +1247,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -1610,14 +1277,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF0000FF> \"Hit to Kill\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF0000FF> \"Kill\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -1640,14 +1303,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#ACCFFFFF> \"Seize the Weapon\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#ACCFFFFF> \"Capture\" </color> Opponent \"Weapon\""
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -1674,14 +1333,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFD41BFF> \"One Hit Wins\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FFD41BFF> \"Direct Defeat\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -1708,30 +1363,18 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
-                },
-                "WuGongType": [
-                  6
-                ]
+                }
               },
               {
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
                 },
-                "RelatedID": [
-                  "ShouBi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -1758,15 +1401,9 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
-                },
-                "WuGongType": [
-                  6
-                ]
+                }
               }
             ]
           },
@@ -1776,14 +1413,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#ACCFFFFF> \"Shoot Down Weapons\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#ACCFFFFF> \"Shoot Down\" </color> Opponent \"Weapon\""
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -1810,9 +1443,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Breach Guard\" </color> "
                 },
-                "RelatedID": [
-                  "PoZhanFYZDiv_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": " <color=#FF5E4EFF> \"Breakdown\" </color> Chance -60%"
                 }
@@ -1825,9 +1455,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
                 },
-                "RelatedID": [
-                  "NeiLiXiaoHaoBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent's martial arts moves \"internal energy consumption\" +160%"
                 }
@@ -1840,7 +1467,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Tenacity\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": " <color=#FFDDBDFF> \"Losing a Match\" </color> Chance-70%"
                 }
@@ -1853,7 +1479,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Surviving the Desperate Times\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": " <color=#FF0000FF> \"Perish on the move\" </color> Chance -60%"
                 }
@@ -1866,9 +1491,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Leveraging Counterattack\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "\"Power of move\" +30%; opponent's \"Power of move\" -30%"
                 }
@@ -1881,14 +1503,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFD41BFF> \"One Hit Wins\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FFD41BFF> \"Direct Defeat\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -1915,16 +1533,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#00CAB0FF> \"Point and Seal\" </color> "
                 },
-                "RelatedID": [
-                  "TuiJiao_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#00CAB0FF> \"Block\" </color> Opponent's \"[BuWei]\" acupuncture point for 4 turns"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -1951,16 +1563,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#64B200FF> \"Hardened Poison\" </color> "
                 },
-                "RelatedID": [
-                  "TuiJiao_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#00CAB0FF> \"Hardened Poison\" </color> Opponent \"[BuWei]\", poison lasts 6 turns"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -1987,14 +1593,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -2017,16 +1619,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
                 },
-                "RelatedID": [
-                  "ShouBi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -2053,14 +1649,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -2083,15 +1675,9 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
-                },
-                "WuGongType": [
-                  6
-                ]
+                }
               }
             ]
           }
@@ -2101,20 +1687,14 @@
         "DialogContent": "The [ZhaoShiName] move feature of [WuGongName] has changed from [Tese1] to [Tese2]."
       },
       {
-        "RelatedID": [],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#E24344FF> Number of \"Attack Slots\" </color> ",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#5C9BE2FF> Number of \"Defense Slots\" </color> ",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#1BDFFFFF> Number of \"Skill Slots\" </color> ",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       }
@@ -2123,77 +1703,46 @@
   {
     "GuiZe": [
       {
-        "RelatedID": [
-          "BenWuGongGongZhanDouQiangDuJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#E24344FF> \"Attacking Stance Power\" </color> ",
         "RightValueInfo": "4%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongFangZhanDouQiangDuJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#5C9BE2FF> Power of \"Defense Stance\" </color> ",
         "RightValueInfo": "4%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongJiPoPoZhanJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF7E2EFF> \"Breakdown Chance\" </color> ",
         "RightValueInfo": "2.5%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongYiJiZhiMingJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF0000FF> \"Fatal Hit Chance\" </color> ",
         "RightValueInfo": "0.4%",
         "DialogContent": "The sensual advancement is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongBuWeiShouShangJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF5344FF> \"Chance to hit\" </color> ",
         "RightValueInfo": "2.5%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongDianXueJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#00CAB0FF> \"Point Chance\" </color> ",
         "RightValueInfo": "2.5%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongCuiDuJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#64B200FF> \"Hardened Poison Chance\" </color> ",
         "RightValueInfo": "2.5%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> Character </color> \n <color=#00FFDDFF> \"Martial Arts Attributes\" </color> ",
         "RightValueInfo": "Click to view",
         "DialogContent": "Gnosis progression is complete! [PropName] has been upgraded to [Value]."
       },
       {
-        "RelatedID": [],
         "ReplaceGuiZe": [
           {
             "ReplaceTeSes": [
@@ -2201,16 +1750,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
                 },
-                "RelatedID": [
-                  "ShouBi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF5344FF> \"Hit Wound\" </color> Opponent [BuWei]"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -2233,15 +1776,9 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
-                },
-                "WuGongType": [
-                  6
-                ]
+                }
               }
             ]
           },
@@ -2251,16 +1788,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
                 },
-                "RelatedID": [
-                  "ShouBi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -2283,14 +1814,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -2317,14 +1844,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF0000FF> \"Hit to Kill\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF0000FF> \"Kill\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -2347,14 +1870,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#ACCFFFFF> \"Seize the Weapon\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#ACCFFFFF> \"Capture\" </color> Opponent \"Weapon\""
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -2381,14 +1900,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFD41BFF> \"One Hit Wins\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FFD41BFF> \"Direct Defeat\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -2415,30 +1930,18 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
-                },
-                "WuGongType": [
-                  6
-                ]
+                }
               },
               {
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
                 },
-                "RelatedID": [
-                  "ShouBi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -2465,15 +1968,9 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
-                },
-                "WuGongType": [
-                  6
-                ]
+                }
               }
             ]
           },
@@ -2483,14 +1980,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#ACCFFFFF> \"Shoot Down Weapons\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#ACCFFFFF> \"Shoot Down\" </color> Opponent \"Weapon\""
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -2517,9 +2010,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Breach Guard\" </color> "
                 },
-                "RelatedID": [
-                  "PoZhanFYZDiv_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": " <color=#FF5E4EFF> \"Breakdown\" </color> Chance -60%"
                 }
@@ -2532,9 +2022,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
                 },
-                "RelatedID": [
-                  "NeiLiXiaoHaoBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent's martial arts moves \"internal energy consumption\" +160%"
                 }
@@ -2547,7 +2034,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Tenacity\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": " <color=#FFDDBDFF> \"Losing a Match\" </color> Chance-70%"
                 }
@@ -2560,7 +2046,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Surviving the Desperate Times\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": " <color=#FF0000FF> \"Perish on the move\" </color> Chance -60%"
                 }
@@ -2573,9 +2058,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Leveraging Counterattack\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "\"Power of move\" +30%; opponent's \"Power of move\" -30%"
                 }
@@ -2588,14 +2070,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFD41BFF> \"One Hit Wins\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FFD41BFF> \"Direct Defeat\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -2622,16 +2100,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#00CAB0FF> \"Point and Seal\" </color> "
                 },
-                "RelatedID": [
-                  "TuiJiao_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#00CAB0FF> \"Block\" </color> Opponent's \"[BuWei]\" acupuncture point for 4 turns"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -2658,16 +2130,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#64B200FF> \"Hardened Poison\" </color> "
                 },
-                "RelatedID": [
-                  "TuiJiao_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#00CAB0FF> \"Hardened Poison\" </color> Opponent \"[BuWei]\", poison lasts 6 turns"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -2694,14 +2160,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -2724,16 +2186,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
                 },
-                "RelatedID": [
-                  "ShouBi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -2760,14 +2216,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -2790,15 +2242,9 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
-                },
-                "WuGongType": [
-                  6
-                ]
+                }
               }
             ]
           }
@@ -2808,20 +2254,14 @@
         "DialogContent": "The [ZhaoShiName] move feature of [WuGongName] has changed from [Tese1] to [Tese2]."
       },
       {
-        "RelatedID": [],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#E24344FF> Number of \"Attack Slots\" </color> ",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#5C9BE2FF> Number of \"Defense Slots\" </color> ",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#1BDFFFFF> Number of \"Skill Slots\" </color> ",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       }
@@ -2830,77 +2270,46 @@
   {
     "GuiZe": [
       {
-        "RelatedID": [
-          "BenWuGongGongZhanDouQiangDuJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#E24344FF> \"Attacking Stance Power\" </color> ",
         "RightValueInfo": "25%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongFangZhanDouQiangDuJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#5C9BE2FF> Power of \"Defense Stance\" </color> ",
         "RightValueInfo": "25%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongJiPoPoZhanJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF7E2EFF> \"Breakdown Chance\" </color> ",
         "RightValueInfo": "25%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongYiJiZhiMingJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF0000FF> \"Fatal Hit Chance\" </color> ",
         "RightValueInfo": "25%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongBuWeiShouShangJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF5344FF> \"Chance to hit\" </color> ",
         "RightValueInfo": "25%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongDianXueJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#00CAB0FF> \"Point Chance\" </color> ",
         "RightValueInfo": "25%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [
-          "BenWuGongCuiDuJiShu_0000000001"
-        ],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#64B200FF> \"Hardened Poison Chance\" </color> ",
         "RightValueInfo": "25%",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> Character </color> \n <color=#00FFDDFF> \"Martial Arts Attributes\" </color> ",
         "RightValueInfo": "Click to view",
         "DialogContent": "Gnosis progression is complete! [PropName] has been upgraded to [Value]."
       },
       {
-        "RelatedID": [],
         "ReplaceGuiZe": [
           {
             "ReplaceTeSes": [
@@ -2908,16 +2317,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
                 },
-                "RelatedID": [
-                  "ShouBi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -2940,15 +2343,9 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
-                },
-                "WuGongType": [
-                  6
-                ]
+                }
               }
             ]
           },
@@ -2958,16 +2355,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
                 },
-                "RelatedID": [
-                  "ShouBi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -2990,14 +2381,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -3024,14 +2411,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF0000FF> \"Hit to Kill\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF0000FF> \"Kill\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -3054,14 +2437,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#ACCFFFFF> \"Seize the Weapon\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#ACCFFFFF> \"Capture\" </color> Opponent \"Weapon\""
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -3088,14 +2467,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFD41BFF> \"One Hit Wins\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FFD41BFF> \"Direct Defeat\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -3122,30 +2497,18 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
-                },
-                "WuGongType": [
-                  6
-                ]
+                }
               },
               {
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
                 },
-                "RelatedID": [
-                  "ShouBi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -3172,15 +2535,9 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
-                },
-                "WuGongType": [
-                  6
-                ]
+                }
               }
             ]
           },
@@ -3190,14 +2547,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#ACCFFFFF> \"Shoot Down Weapons\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#ACCFFFFF> \"Shoot Down\" </color> Opponent \"Weapon\""
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -3224,9 +2577,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Breach Guard\" </color> "
                 },
-                "RelatedID": [
-                  "PoZhanFYZDiv_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": " <color=#FF5E4EFF> \"Breakdown\" </color> Chance -60%"
                 }
@@ -3239,9 +2589,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
                 },
-                "RelatedID": [
-                  "NeiLiXiaoHaoBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent's martial arts moves \"internal energy consumption\" +160%"
                 }
@@ -3254,7 +2601,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Tenacity\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": " <color=#FFDDBDFF> \"Losing a Match\" </color> Chance-70%"
                 }
@@ -3267,7 +2613,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Surviving the Desperate Times\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": " <color=#FF0000FF> \"Perish on the move\" </color> Chance -60%"
                 }
@@ -3280,9 +2625,6 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"Leveraging Counterattack\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "\"Power of move\" +30%; opponent's \"Power of move\" -30%"
                 }
@@ -3295,14 +2637,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFD41BFF> \"One Hit Wins\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FFD41BFF> \"Direct Defeat\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -3329,16 +2667,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#00CAB0FF> \"Point and Seal\" </color> "
                 },
-                "RelatedID": [
-                  "TuiJiao_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#00CAB0FF> \"Block\" </color> Opponent's \"[BuWei]\" acupuncture point for 4 turns"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -3365,16 +2697,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#64B200FF> \"Hardened Poison\" </color> "
                 },
-                "RelatedID": [
-                  "TuiJiao_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#00CAB0FF> \"Hardened Poison\" </color> Opponent \"[BuWei]\", poison lasts 6 turns"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -3401,14 +2727,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -3431,16 +2753,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
                 },
-                "RelatedID": [
-                  "ShouBi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -3467,14 +2783,10 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
                 },
-                "RelatedID": [],
                 "TeSeLeiDes": {
                   "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
                 },
                 "GaiLvGuiZe": {
-                  "RelatedID": [
-                    "GaiLvGuiZe_0000000001"
-                  ],
                   "Value": [
                     [
                       0.0,
@@ -3497,15 +2809,9 @@
                 "TeSeLeiXing": {
                   "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
                 },
-                "RelatedID": [
-                  "ZhanDouQiangDuBiLi_0000000001"
-                ],
                 "TeSeLeiDes": {
                   "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
-                },
-                "WuGongType": [
-                  6
-                ]
+                }
               }
             ]
           }
@@ -3515,20 +2821,14 @@
         "DialogContent": "The [ZhaoShiName] move feature of [WuGongName] has changed from [Tese1] to [Tese2]."
       },
       {
-        "RelatedID": [],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#E24344FF> Number of \"Attack Slots\" </color> ",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#5C9BE2FF> Number of \"Defense Slots\" </color> ",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       },
       {
-        "RelatedID": [],
-        "ReplaceGuiZe": [],
         "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#1BDFFFFF> Number of \"Skill Slots\" </color> ",
         "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
       }
