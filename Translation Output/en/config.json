@@ -19957,7 +19957,7 @@
     ],
     "ActionLoader": {
       "WaitTexts": [
-        "Remaining { 0} slots"
+        "Remaining {0} slots"
       ]
     }
   },
@@ -28446,9 +28446,9 @@
     "System": {
       "Played": {
         "Pool": [
-          "The first { 0}hours { 1}minutes { 2}seconds of breaking into the jungle",
-          "Have spent { 0}hours { 1}minutes { 2}seconds in \"Jiang Hu XI",
-          "The game has been played for { 0} hours { 1} minutes { 2} seconds"
+          "The first {0}hours {1}minutes {2}seconds of breaking into the jungle",
+          "Have spent {0}hours {1}minutes {2}seconds in \"Jiang Hu XI",
+          "The game has been played for {0} hours {1} minutes {2} seconds"
         ]
       }
     },
