@@ -3,12 +3,7 @@
     "Name": "「吉星」出身",
     "Description1": "「全武」+8",
     "Description2": "追加额外「金钱」",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
-    },
-    "ShuXing1": "天赋",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "开卷有益"
     ],
@@ -16,129 +11,28 @@
       "吉人天相"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "JianFa_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DaoFa_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "QuanZhang_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ZhiLi_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "YongQiang_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShuaGun_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ChuiFu_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiBian_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "GouFa_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CunJin_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "BiFa_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "KaiJuanYouYi_TianFu_Hu_024"
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiRenTianXiang_TianFu_Long_004"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「奇真」出身",
     "Description1": "「全武」+8",
     "Description2": "追加额外「金钱」",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
-    },
-    "ShuXing1": "天赋",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "奇经异脉"
     ],
@@ -146,129 +40,28 @@
       "真气充盈"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "JianFa_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DaoFa_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "QuanZhang_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ZhiLi_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "YongQiang_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShuaGun_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ChuiFu_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiBian_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "GouFa_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CunJin_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "BiFa_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "QiJingYiMai_TianFu_Long_010"
-        ]
-      },
-      {
-        "RelatedID": [
-          "ZhenQiChongYing_TianFu_Long_013"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「绝玄」出身",
     "Description1": "「全武」+8",
     "Description2": "追加额外「金钱」",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
-    },
-    "ShuXing1": "天赋",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "骨骼清奇"
     ],
@@ -276,129 +69,28 @@
       "练武奇才"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "JianFa_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DaoFa_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "QuanZhang_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ZhiLi_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "YongQiang_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShuaGun_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ChuiFu_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiBian_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "GouFa_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CunJin_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "BiFa_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "GuGeQingQi_TianFu_Long_012"
-        ]
-      },
-      {
-        "RelatedID": [
-          "LianWuQiCai_TianFu_Long_009"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「乐世」出身",
     "Description1": "「魅力」+10",
     "Description2": "「涵养」+10",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
-    },
-    "ShuXing1": "天赋",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "乐天喜人"
     ],
@@ -406,50 +98,19 @@
       "如沐春风"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "MeiLi_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      }
+      {},
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "LeTianXiRen_TianFu_Feng_015"
-        ]
-      },
-      {
-        "RelatedID": [
-          "RuMuChunFeng_TianFu_Feng_016"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「养天馆」出身",
     "Description1": "「医术」+15",
     "Description2": "自宅仓库追加「医书」<color=#23FF00FF>《旅舍备要方》</color>",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": [
-        "LvSheBeiYaoFang_book00001"
-      ]
-    },
-    "ShuXing1": "医术",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于80"
     ],
@@ -457,45 +118,18 @@
       "医者"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "YiShu_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "YiShu_0000000001"
-        ],
-        "Value": [
-          80.0,
-          100.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "YiZhe_TianFu_Long_001"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「黑仙洞」出身",
     "Description1": "「毒术」+15",
     "Description2": "自宅仓库追加「毒经」<color=#FF00B6FF>《牵机秋石谱》</color>",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": [
-        "QianJiQiuShiPu_EA_DuJing_Feng_001"
-      ]
-    },
-    "ShuXing1": "毒术",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于80"
     ],
@@ -503,43 +137,18 @@
       "毒师"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "DuShu_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "DuShu_0000000001"
-        ],
-        "Value": [
-          80.0,
-          100.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DuShi_TianFu_Long_002"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「奇世家」出身",
     "Description1": "「收藏」+10",
     "Description2": "「悟性」+10",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
-    },
-    "ShuXing1": "收藏",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于85"
     ],
@@ -547,64 +156,19 @@
       "奇珍异宝"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "ShouCang_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CharacterWuXing_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      }
+      {},
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShouCang_0000000001"
-        ],
-        "Value": [
-          85.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "QiZhenYiBao_TianFu_Hu_027"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「茶世家」出身",
     "Description1": "「茶道」+15",
     "Description2": "自宅仓库追加额外「茶具茶叶」",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": [
-        "LianBanChaWan_TeaCup00008",
-        "SongZhenCha_Tea00002",
-        "SongZhenCha_Tea00002",
-        "SongZhenCha_Tea00002",
-        "SongZhenCha_Tea00002",
-        "SongZhenCha_Tea00002",
-        "SongZhenCha_Tea00002",
-        "SongZhenCha_Tea00002",
-        "SongZhenCha_Tea00002",
-        "SongZhenCha_Tea00002",
-        "SongZhenCha_Tea00002"
-      ]
-    },
-    "ShuXing1": "茶道",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于85"
     ],
@@ -612,84 +176,18 @@
       "点茶高手"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "ChaDao_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "ChaDao_0000000001"
-        ],
-        "Value": [
-          85.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DianChaGaoShou_TianFu_Hu_010"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「食世家」出身",
     "Description1": "「烹饪」+15",
     "Description2": "自宅仓库追加额外「食材」",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": [
-        "ZhuRou_ShiCai00001",
-        "ZhuRou_ShiCai00001",
-        "ZhuRou_ShiCai00001",
-        "ZhuRou_ShiCai00001",
-        "ZhuRou_ShiCai00001",
-        "YangRou_ShiCai00002",
-        "YangRou_ShiCai00002",
-        "YangRou_ShiCai00002",
-        "YangRou_ShiCai00002",
-        "YangRou_ShiCai00002",
-        "NiuRou_ShiCai00003",
-        "NiuRou_ShiCai00003",
-        "NiuRou_ShiCai00003",
-        "NiuRou_ShiCai00003",
-        "NiuRou_ShiCai00003",
-        "LiYu_ShiCai00023",
-        "LiYu_ShiCai00023",
-        "LiYu_ShiCai00023",
-        "LiYu_ShiCai00023",
-        "LiYu_ShiCai00023",
-        "MianFen_ShiCai00070",
-        "MianFen_ShiCai00070",
-        "MianFen_ShiCai00070",
-        "MianFen_ShiCai00070",
-        "MianFen_ShiCai00070",
-        "MianFen_ShiCai00070",
-        "MianFen_ShiCai00070",
-        "MianFen_ShiCai00070",
-        "MianFen_ShiCai00070",
-        "MianFen_ShiCai00070",
-        "DaMi_ShiCai00071",
-        "DaMi_ShiCai00071",
-        "DaMi_ShiCai00071",
-        "DaMi_ShiCai00071",
-        "DaMi_ShiCai00071",
-        "DaMi_ShiCai00071",
-        "DaMi_ShiCai00071",
-        "DaMi_ShiCai00071",
-        "DaMi_ShiCai00071",
-        "DaMi_ShiCai00071"
-      ]
-    },
-    "ShuXing1": "烹饪",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于85"
     ],
@@ -697,55 +195,18 @@
       "炮凤烹龙"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "PengRen_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "PengRen_0000000001"
-        ],
-        "Value": [
-          85.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "PaoFengPengLong_TianFu_Hu_009"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「酒世家」出身",
     "Description1": "「饮酒」+15",
     "Description2": "自宅仓库追加额外「酒器名酒」",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": [
-        "QingCiDanPing_WineCup00005",
-        "LianQuanJiu_Wine00002",
-        "LianQuanJiu_Wine00002",
-        "LianQuanJiu_Wine00002",
-        "LianQuanJiu_Wine00002",
-        "LianQuanJiu_Wine00002",
-        "LianQuanJiu_Wine00002",
-        "LianQuanJiu_Wine00002",
-        "LianQuanJiu_Wine00002",
-        "LianQuanJiu_Wine00002",
-        "LianQuanJiu_Wine00002"
-      ]
-    },
-    "ShuXing1": "饮酒",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于85"
     ],
@@ -753,47 +214,18 @@
       "五斗先生"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "YinJiu_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "YinJiu_0000000001"
-        ],
-        "Value": [
-          85.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "WuDouXianSheng_TianFu_Hu_013"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「音世家」出身",
     "Description1": "「乐器」+15",
     "Description2": "自宅仓库追加额外「乐器乐谱」",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": [
-        "MingQuan_MusicInstrument00005",
-        "BaiXueCao_Music00001",
-        "QueChaoCao_Music00004"
-      ]
-    },
-    "ShuXing1": "乐器",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于85"
     ],
@@ -801,46 +233,18 @@
       "品竹弹丝"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "YueQi_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "YueQi_0000000001"
-        ],
-        "Value": [
-          85.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "PinZhuTanSi_TianFu_Hu_012"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「诗世家」出身",
     "Description1": "「诗词」+15",
     "Description2": "自宅仓库追加额外「书籍」",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": [
-        "LunYu_Reading00004",
-        "ShiJing_Reading00006"
-      ]
-    },
-    "ShuXing1": "诗词",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于85"
     ],
@@ -848,48 +252,18 @@
       "妙笔生花"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShiCi_0000000001"
-        ],
-        "Value": [
-          85.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "MiaoBiShengHua_TianFu_Hu_008"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「画世家」出身",
     "Description1": "「书画」+15",
     "Description2": "自宅仓库追加额外「文房四宝」",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": [
-        "ZhuZongBi_Antique_Bi_00001",
-        "BaiMaZhi_Antique_Zhi_00001",
-        "YouYanMo_Antique_Mo_00001",
-        "CuanKongYan_Antique_Yan_00001"
-      ]
-    },
-    "ShuXing1": "书画",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于85"
     ],
@@ -897,43 +271,18 @@
       "挥毫落纸"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "HuiHua_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "HuiHua_0000000001"
-        ],
-        "Value": [
-          85.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HuiHaoLuoZhi_TianFu_Hu_011"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「一灵堂」出身",
     "Description1": "「悟性」+15",
     "Description2": "追加额外「金钱」",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
-    },
-    "ShuXing1": "悟性",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于67"
     ],
@@ -941,43 +290,18 @@
       "灵心慧性"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "CharacterWuXing_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "CharacterWuXing_0000000001"
-        ],
-        "Value": [
-          67.0,
-          100.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LingXinHuiXiang_TianFu_Long_003"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「素光寺」出身",
     "Description1": "「福缘」+15",
     "Description2": "追加额外「金钱」",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
-    },
-    "ShuXing1": "福缘",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于67"
     ],
@@ -985,43 +309,18 @@
       "吉人天相"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          67.0,
-          100.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiRenTianXiang_TianFu_Long_004"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「青竹塔」出身",
     "Description1": "「魅力」+15",
     "Description2": "追加额外「金钱」",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
-    },
-    "ShuXing1": "魅力",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于67"
     ],
@@ -1029,43 +328,18 @@
       "天生丽质"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "MeiLi_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "MeiLi_0000000001"
-        ],
-        "Value": [
-          67.0,
-          100.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "TianShengLiZhi_TianFu_Long_005"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「四方庄」出身",
     "Description1": "「交涉」+15",
     "Description2": "追加额外「金钱」",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
-    },
-    "ShuXing1": "交涉",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于67"
     ],
@@ -1073,43 +347,18 @@
       "能说会道"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "CharacterJiaoShe_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "CharacterJiaoShe_0000000001"
-        ],
-        "Value": [
-          67.0,
-          100.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "NengShuoHuiDao_TianFu_Long_006"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「摘星崖」出身",
     "Description1": "「见识」+15",
     "Description2": "追加额外「金钱」",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
-    },
-    "ShuXing1": "见识",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于67"
     ],
@@ -1117,43 +366,18 @@
       "见多识广"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "CharacterJianShi_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "CharacterJianShi_0000000001"
-        ],
-        "Value": [
-          67.0,
-          100.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JianDuoShiGuang_TianFu_Long_007"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「无色坊」出身",
     "Description1": "「涵养」+15",
     "Description2": "追加额外「金钱」",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
-    },
-    "ShuXing1": "涵养",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于67"
     ],
@@ -1161,43 +385,18 @@
       "知书达礼"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "HanYang_0000000001"
-        ],
-        "Value": [
-          67.0,
-          100.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ZhiShuDaLi_TianFu_Long_008"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「血冥」出身",
     "Description1": "「杀意」+15",
     "Description2": "追加额外「金钱」",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
-    },
-    "ShuXing1": "杀意",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于70"
     ],
@@ -1205,43 +404,18 @@
       "杀气腾腾"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "ShaYi_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShaYi_0000000001"
-        ],
-        "Value": [
-          70.0,
-          100.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShaQiTengTeng_TianFu_Feng_012"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「拂云」出身",
     "Description1": "「神来」+15",
     "Description2": "追加额外「金钱」",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
-    },
-    "ShuXing1": "神来",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于70"
     ],
@@ -1249,43 +423,18 @@
       "天人和一"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "ShenLai_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShenLai_0000000001"
-        ],
-        "Value": [
-          70.0,
-          100.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "TianRenHeYi_TianFu_Hu_014"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「定风」出身",
     "Description1": "「集中」+15",
     "Description2": "追加额外「金钱」",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
-    },
-    "ShuXing1": "集中",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于70"
     ],
@@ -1293,43 +442,18 @@
       "心无旁骛"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "JiZhong_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "JiZhong_0000000001"
-        ],
-        "Value": [
-          70.0,
-          100.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "XinWuPangWu_TianFu_Hu_015"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「开弓」出身",
     "Description1": "「意志」+15",
     "Description2": "追加额外「金钱」",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
-    },
-    "ShuXing1": "意志",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于70"
     ],
@@ -1337,43 +461,18 @@
       "坚韧不拔"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "YiZhi_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "YiZhi_0000000001"
-        ],
-        "Value": [
-          70.0,
-          100.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JianRenBuBa_TianFu_Hu_016"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「千钧」出身",
     "Description1": "「决断」+15",
     "Description2": "追加额外「金钱」",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
-    },
-    "ShuXing1": "决断",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于70"
     ],
@@ -1381,43 +480,18 @@
       "当机立断"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "JueDuan_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "JueDuan_0000000001"
-        ],
-        "Value": [
-          70.0,
-          100.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DangJiLiDuan_TianFu_Hu_017"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「太始」出身",
     "Description1": "「体魄」+8",
     "Description2": "「腰马」+8",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
-    },
-    "ShuXing1": "体魄",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于70"
     ],
@@ -1425,54 +499,19 @@
       "身强体健"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "TiPo_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "YaoMa_0000000001"
-        ],
-        "Value": [
-          8.0,
-          8.0
-        ]
-      }
+      {},
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "TiPo_0000000001"
-        ],
-        "Value": [
-          70.0,
-          100.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShenQiangTiJian_TianFu_Hu_018"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「封侯」出身",
     "Description1": "「指力」+15",
     "Description2": "自宅仓库追加「内功秘籍」<color=#23FF00FF>墨阳气法</color>",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": [
-        "NeiGong0000001006"
-      ]
-    },
-    "ShuXing1": "指力",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于65"
     ],
@@ -1480,47 +519,18 @@
       "指力达人"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "ZhiLi_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "ZhiLi_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ZhiLiDaRen_TianFu_Feng_004"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「刀门」出身",
     "Description1": "「使刀」+15",
     "Description2": "自宅仓库追加「内功秘籍」<color=#23FF00FF>点苍心法</color>「兵器」<color=#23FF00FF>戒刀</color>",
-    "CangKu": {
-      "WeaponEntitys": [
-        "JieDao_Hu_Dao_Template_004"
-      ],
-      "Items": [
-        "NeiGong0000001004"
-      ]
-    },
-    "ShuXing1": "使刀",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于65"
     ],
@@ -1528,47 +538,18 @@
       "使刀好手"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "DaoFa_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "DaoFa_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiDaoHaoShou_TianFu_Feng_002"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「棍宗」出身",
     "Description1": "「耍棍」+15",
     "Description2": "自宅仓库追加「内功秘籍」<color=#23FF00FF>青狄内功</color>「兵器」<color=#23FF00FF>铜棍</color>",
-    "CangKu": {
-      "WeaponEntitys": [
-        "TongGun_Hu_Gun_Template_003"
-      ],
-      "Items": [
-        "NeiGong0000001007"
-      ]
-    },
-    "ShuXing1": "耍棍",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于65"
     ],
@@ -1576,47 +557,18 @@
       "耍棍好手"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "ShuaGun_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShuaGun_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShuaGunHaoShou_TianFu_Feng_006"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「枪阁」出身",
     "Description1": "「用枪」+15",
     "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>昆吾枪法</color>「兵器」<color=#23FF00FF>素木枪</color>",
-    "CangKu": {
-      "WeaponEntitys": [
-        "SuMuQiang_Hu_Qiang_Template_003"
-      ],
-      "Items": [
-        "QiangFaWuGong000000008"
-      ]
-    },
-    "ShuXing1": "用枪",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于65"
     ],
@@ -1624,47 +576,18 @@
       "用枪好手"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "YongQiang_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "YongQiang_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "YongQiangHaoShou_TianFu_Feng_005"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「斧寨」出身",
     "Description1": "「运斧」+15",
     "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>将军斧法</color>「兵器」<color=#23FF00FF>板斧</color>",
-    "CangKu": {
-      "WeaponEntitys": [
-        "BanFu_Hu_Fu_Template_002"
-      ],
-      "Items": [
-        "FuFaWuGong000000007"
-      ]
-    },
-    "ShuXing1": "运斧",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于65"
     ],
@@ -1672,47 +595,18 @@
       "运斧达人"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "ChuiFu_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "ChuiFu_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "YunFuDaRen_TianFu_Feng_007"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「鞭楼」出身",
     "Description1": "「鞭术」+15",
     "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>扫霞鞭法</color>「兵器」<color=#23FF00FF>柳皇鞭</color>",
-    "CangKu": {
-      "WeaponEntitys": [
-        "LiuHuangBian_Hu_Bian_Template_003"
-      ],
-      "Items": [
-        "BianFaWuGong000000009"
-      ]
-    },
-    "ShuXing1": "鞭术",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于65"
     ],
@@ -1720,47 +614,18 @@
       "鞭术好手"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "ShiBian_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "ShiBian_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "BianShuHaoShou_TianFu_Feng_008"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「钩角」出身",
     "Description1": "「钩法」+15",
     "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>小紫云钩诀</color>「兵器」<color=#23FF00FF>铁钩</color>",
-    "CangKu": {
-      "WeaponEntitys": [
-        "TieGou_Hu_Gou_Template_001"
-      ],
-      "Items": [
-        "GouFaWuGong000000006"
-      ]
-    },
-    "ShuXing1": "钩法",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于65"
     ],
@@ -1768,47 +633,18 @@
       "钩法达人"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "GouFa_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "GouFa_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "GouFaDaRen_TianFu_Feng_009"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「隐秘」出身",
     "Description1": "「暗器」+15",
     "Description2": "自宅仓库追加「内功秘籍」<color=#23FF00FF>残魂气法</color>「兵器」<color=#23FF00FF>银镖</color>",
-    "CangKu": {
-      "WeaponEntitys": [
-        "YinBiao_Hu_AnQi_Template_004"
-      ],
-      "Items": [
-        "NeiGong0000001012"
-      ]
-    },
-    "ShuXing1": "暗器",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于65"
     ],
@@ -1816,47 +652,18 @@
       "善用暗器"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "CunJin_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "CunJin_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShanYongAnQi_TianFu_Feng_010"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「笔祠」出身",
     "Description1": "「笔法」+15",
     "Description2": "自宅仓库追加「内功秘籍」<color=#23FF00FF>金字心经</color>「兵器」<color=#23FF00FF>银钩笔</color>",
-    "CangKu": {
-      "WeaponEntitys": [
-        "YinGouBi_Hu_Bi_Template_001"
-      ],
-      "Items": [
-        "NeiGong0000001008"
-      ]
-    },
-    "ShuXing1": "笔法",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于65"
     ],
@@ -1864,45 +671,18 @@
       "笔法达人"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "BiFa_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "BiFa_0000000001"
-        ],
-        "Value": [
-          65.0,
-          999.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "BiFaDaRen_TianFu_Feng_011"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「剑邸」出身",
     "Description1": "「用剑」+10",
     "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>两仪剑法</color>",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": [
-        "JianFaWuGong000000001"
-      ]
-    },
-    "ShuXing1": "用剑",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于70"
     ],
@@ -1910,45 +690,18 @@
       "用剑好手"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "JianFa_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "JianFa_0000000001"
-        ],
-        "Value": [
-          70.0,
-          100.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "YongJianHaoShou_TianFu_Feng_001"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「拳府」出身",
     "Description1": "「拳掌」+10",
     "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>乾天掌</color>",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": [
-        "QuanZhangWuGong000000009"
-      ]
-    },
-    "ShuXing1": "拳掌",
-    "ShuXing2": "天赋",
+    "CangKu": {},
     "Text1": [
       "高于70"
     ],
@@ -1956,131 +709,50 @@
       "拳掌好手"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "QuanZhang_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "RelatedID": [
-          "QuanZhang_0000000001"
-        ],
-        "Value": [
-          70.0,
-          100.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "QuanZhangHaoShou_TianFu_Feng_003"
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「武世家」出身",
     "Description1": "自宅仓库追加「轻功秘籍」<color=#23FF00FF>疾风步法</color>",
     "Description2": "自宅仓库追加额外「伤药」",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": [
-        "QingGong000000027",
-        "PXJinChuangYao00001",
-        "PXJinChuangYao00001",
-        "PXJinChuangYao00001",
-        "PXJinChuangYao00001",
-        "PXJinChuangYao00001",
-        "PXJinChuangYao00001",
-        "PXJinChuangYao00001",
-        "PXJinChuangYao00001",
-        "PXJinChuangYao00001",
-        "PXJinChuangYao00001"
-      ]
-    },
-    "ShuXing1": "武功",
-    "ShuXing2": "身体",
+    "CangKu": {},
     "Text1": [
       "不凡"
     ],
     "Text2": [
       "不凡"
     ],
-    "CharacterPropsUpgrades": [],
     "Conditions": [
-      {
-        "Value": [
-          50.0,
-          999.0
-        ]
-      },
-      {
-        "Value": [
-          50.0,
-          100.0
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「玄世家」出身",
     "Description1": "自宅仓库追加「内功秘籍」<color=#23FF00FF>丹阳心法</color>",
     "Description2": "自宅仓库追加额外「补药」",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": [
-        "NeiGong000000003",
-        "ZhiYuanNeiDan00001",
-        "ZhiYuanNeiDan00001",
-        "ZhiYuanNeiDan00001",
-        "ZhiYuanNeiDan00001",
-        "ZhiYuanNeiDan00001",
-        "ZhiYuanNeiDan00001",
-        "ZhiYuanNeiDan00001",
-        "ZhiYuanNeiDan00001",
-        "ZhiYuanNeiDan00001",
-        "ZhiYuanNeiDan00001"
-      ]
-    },
-    "ShuXing1": "内功",
-    "ShuXing2": "精神",
+    "CangKu": {},
     "Text1": [
       "不凡"
     ],
     "Text2": [
       "不凡"
     ],
-    "CharacterPropsUpgrades": [],
     "Conditions": [
-      {
-        "Value": [
-          50.0,
-          999.0
-        ]
-      },
-      {
-        "Value": [
-          50.0,
-          999.0
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
     "Name": "「无奇」出身",
     "Description1": "「福缘」+15",
     "Description2": "追加额外「金钱」",
-    "CangKu": {
-      "WeaponEntitys": [],
-      "Items": []
-    },
-    "ShuXing1": "武功",
-    "ShuXing2": "生平",
+    "CangKu": {},
     "Text1": [
       "无奇"
     ],
@@ -2088,23 +760,10 @@
       "无奇"
     ],
     "CharacterPropsUpgrades": [
-      {
-        "RelatedID": [
-          "CharacterFuYuan_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "Conditions": [
-      {
-        "Value": [
-          30.0,
-          999.0
-        ]
-      }
+      {}
     ]
   }
 ]

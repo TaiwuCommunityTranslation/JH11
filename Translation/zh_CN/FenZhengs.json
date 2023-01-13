@@ -1,36 +1,7 @@
 [
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_XiongShiTieZhangMen_0000000001"
-    ],
     "BattleName": [
       "铁掌杀手"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      80000
     ],
     "Pool": [
       {},
@@ -40,80 +11,18 @@
     "Dialog": {},
     "DialogCharacterName": "泰山派弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JianFaPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000001"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000004"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_XiongShiTieZhangMen_0000000001",
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "通辽叛贼",
       "通缉犯"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      2.0,
-      0.0,
-      2.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      30000,
-      100000
     ],
     "Pool": [
       {},
@@ -122,87 +31,18 @@
     "Dialog": {},
     "DialogCharacterName": "泰山巡铺",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JueDuanPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "YiZhiPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DaoDePoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000001"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_SongShanPai_0000000001"
-    ],
     "BattleName": [
       "嵩山叛徒"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      30000,
-      100000
     ],
     "Pool": [
       {}
@@ -210,69 +50,16 @@
     "Dialog": {},
     "DialogCharacterName": "泰山巡铺",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "YiZhiPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      }
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000001"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000015"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_LiangShanHanFei_0000000001"
-    ],
     "BattleName": [
       "梁山悍匪"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      30000,
-      100000
     ],
     "Pool": [
       {}
@@ -280,78 +67,17 @@
     "Dialog": {},
     "DialogCharacterName": "受伤泰山弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JueDuanPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000001"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      },
-      {
-        "PlaceIds": [
-          "ZeiKou000000001"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_XiongShiTieZhangMen_0000000001"
-    ],
     "BattleName": [
       "铁掌逃犯"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      180000
     ],
     "Pool": [
       {}
@@ -359,78 +85,17 @@
     "Dialog": {},
     "DialogCharacterName": "泰山受伤弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JueDuanPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000001"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000004"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "江湖踢馆侠客"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      28,
-      28
-    ],
-    "Money": [
-      50000,
-      60000
     ],
     "Pool": [
       {}
@@ -438,69 +103,16 @@
     "Dialog": {},
     "DialogCharacterName": "泰山内勤弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "QiLiangPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "QiFaPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000001"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuDuDong_0000000001"
-    ],
     "BattleName": [
       "五毒使"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      120000
     ],
     "Pool": [
       {},
@@ -509,78 +121,17 @@
     "Dialog": {},
     "DialogCharacterName": "嵩山中毒弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JianFaPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000015"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000030"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_XuanTianGe_0000000001"
-    ],
     "BattleName": [
       "玄天小偷"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      120000
     ],
     "Pool": [
       {},
@@ -590,71 +141,17 @@
     "Dialog": {},
     "DialogCharacterName": "嵩山巡铺",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      }
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000015"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000002"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_FeiXieWu_0000000001",
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "飞蝎杀手",
       "上官正秘使"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      120000
     ],
     "Pool": [
       {},
@@ -664,87 +161,18 @@
     "Dialog": {},
     "DialogCharacterName": "嵩山派弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JianShiPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000015"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000013"
-        ],
-        "RelationValueChange": [
-          -8,
-          -8
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_XiongShiTieZhangMen_0000000001"
-    ],
     "BattleName": [
       "铁掌狂徒"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      65000,
-      115000
     ],
     "Pool": [
       {}
@@ -752,87 +180,18 @@
     "Dialog": {},
     "DialogCharacterName": "被伏嵩山弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "YiZhiPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ZhenDingPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JianShiPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000015"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000004"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_TianZunJiao_0000000001"
-    ],
     "BattleName": [
       "天尊教弟子"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      28,
-      28
-    ],
-    "Money": [
-      30000,
-      50000
     ],
     "Pool": [
       {}
@@ -840,78 +199,17 @@
     "Dialog": {},
     "DialogCharacterName": "嵩山落败弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "XiaPanPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JianShiPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000015"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000023"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_LieRiJiao_0000000001"
-    ],
     "BattleName": [
       "烈日狂徒"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      120000
     ],
     "Pool": [
       {},
@@ -922,78 +220,17 @@
     "Dialog": {},
     "DialogCharacterName": "华山受伤弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "TiaoXiPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ZhenDingPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000008"
-        ],
-        "RelationValueChange": [
-          8,
-          8
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000010"
-        ],
-        "RelationValueChange": [
-          -8,
-          -8
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_FeiZei_0000000001"
-    ],
     "BattleName": [
       "飞贼"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      100000
     ],
     "Pool": [
       {},
@@ -1004,63 +241,17 @@
     "Dialog": {},
     "DialogCharacterName": "华山派弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ZhenDingPoint_0000000001"
-        ],
-        "Value": [
-          30.0,
-          30.0
-        ]
-      }
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000008"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_LieRiJiao_0000000001",
-      "TongYong_SXTemp_LieRiJiao_0000000001"
-    ],
     "BattleName": [
       "烈日狂徒",
       "烈日狂徒"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      80000,
-      150000
-    ],
     "Pool": [
       {},
       {},
@@ -1070,87 +261,18 @@
     "Dialog": {},
     "DialogCharacterName": "华山派弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "TiaoXiPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ZhenDingPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "MingShengPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000008"
-        ],
-        "RelationValueChange": [
-          8,
-          8
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000010"
-        ],
-        "RelationValueChange": [
-          -8,
-          -8
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_QuanZhenJiao_0000000001"
-    ],
     "BattleName": [
       "全真挑衅弟子"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      28,
-      28
-    ],
-    "Money": [
-      30000,
-      50000
     ],
     "Pool": [
       {}
@@ -1158,78 +280,17 @@
     "Dialog": {},
     "DialogCharacterName": "华山受伤弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ShenLaiPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "FuYuanPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000008"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000009"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_XueShouMen_0000000001"
-    ],
     "BattleName": [
       "血手凶犯"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      10000,
-      50000
     ],
     "Pool": [
       {},
@@ -1240,87 +301,18 @@
     "Dialog": {},
     "DialogCharacterName": "恒山受伤弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JianFaPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "TiPoPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000006"
-        ],
-        "RelationValueChange": [
-          8,
-          8
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000007"
-        ],
-        "RelationValueChange": [
-          -8,
-          -8
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_HeiTaiBangFei_0000000001"
-    ],
     "BattleName": [
       "黑台绑匪"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      150000,
-      320000
     ],
     "Pool": [
       {},
@@ -1331,98 +323,20 @@
     "Dialog": {},
     "DialogCharacterName": "被绑女尼",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "TiPoPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JinGuPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DaoDePoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000006"
-        ],
-        "RelationValueChange": [
-          8,
-          8
-        ]
-      },
-      {
-        "PlaceIds": [
-          "ZeiKou000000002"
-        ],
-        "RelationValueChange": [
-          -8,
-          -8
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_HeiTaiBangFei_0000000001",
-      "TongYong_SXTemp_XueShouMen_0000000001"
-    ],
     "BattleName": [
       "黑台悍匪",
       "血手杀手"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      150000
     ],
     "Pool": [
       {}
@@ -1430,114 +344,21 @@
     "Dialog": {},
     "DialogCharacterName": "米脂商队护卫",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "TiPoPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JinGuPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "MingShengPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000006"
-        ],
-        "RelationValueChange": [
-          8,
-          8
-        ]
-      },
-      {
-        "PlaceIds": [
-          "ShangHu000000004"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      },
-      {
-        "PlaceIds": [
-          "ZeiKou000000002"
-        ],
-        "RelationValueChange": [
-          -8,
-          -8
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000007"
-        ],
-        "RelationValueChange": [
-          -8,
-          -8
-        ]
-      }
+      {},
+      {},
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "在逃凶犯"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      40000,
-      80000
     ],
     "Pool": [
       {},
@@ -1546,69 +367,16 @@
     "Dialog": {},
     "DialogCharacterName": "恒山巡铺",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "TiPoPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000006"
-        ],
-        "RelationValueChange": [
-          8,
-          8
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_XiongShiTieZhangMen_0000000001"
-    ],
     "BattleName": [
       "铁掌卖国贼"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      62000,
-      85000
     ],
     "Pool": [
       {}
@@ -1616,87 +384,18 @@
     "Dialog": {},
     "DialogCharacterName": "受伤恒山剑客",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JianFaPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DaoDePoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000006"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000004"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_XueShouMen_0000000001"
-    ],
     "BattleName": [
       "血手细作"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      28,
-      28
-    ],
-    "Money": [
-      30000,
-      55000
     ],
     "Pool": [
       {}
@@ -1704,78 +403,17 @@
     "Dialog": {},
     "DialogCharacterName": "恒山中毒剑客",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "QiFaPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JinGuPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000006"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000007"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "出千浪人"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      80000,
-      130000
     ],
     "Pool": [
       {},
@@ -1785,60 +423,15 @@
     "Dialog": {},
     "DialogCharacterName": "衡山弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ShenLaiPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000025"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_SongShanPai_0000000001"
-    ],
     "BattleName": [
       "嵩山狂傲剑客"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      110000,
-      180000
     ],
     "Pool": [
       {}
@@ -1846,87 +439,18 @@
     "Dialog": {},
     "DialogCharacterName": "衡山落败弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JianFaPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShenLaiPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "MingShengPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000025"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000015"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_GaiBang_0000000001"
-    ],
     "BattleName": [
       "丐帮疯贼"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      10000,
-      30000
     ],
     "Pool": [
       {},
@@ -1936,71 +460,17 @@
     "Dialog": {},
     "DialogCharacterName": "衡山受伤弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JianShiPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000025"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000026"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_GaiBang_0000000001",
-      "TongYong_SXTemp_WuDuDong_0000000001"
-    ],
     "BattleName": [
       "丐帮叛徒",
       "五毒杀手"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      150000,
-      300000
     ],
     "Pool": [
       {},
@@ -2010,96 +480,19 @@
     "Dialog": {},
     "DialogCharacterName": "商队护卫",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ShenLaiPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JianShiPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "MingShengPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000025"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "ShangHu000000007"
-        ],
-        "RelationValueChange": [
-          25,
-          25
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000030"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_QuanZhenJiao_0000000001"
-    ],
     "BattleName": [
       "全真通辽叛徒"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      80000,
-      200000
     ],
     "Pool": [
       {},
@@ -2110,105 +503,20 @@
     "Dialog": {},
     "DialogCharacterName": "少林受伤弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "QuanZhangPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JinGuPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DaoDePoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "MingShengPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000014"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000009"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_JingYangXiongZei_0000000001"
-    ],
     "BattleName": [
       "京羊凶贼"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      180000,
-      230000
     ],
     "Pool": [
       {},
@@ -2219,89 +527,19 @@
     "Dialog": {},
     "DialogCharacterName": "商队护卫",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "QuanZhangPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "MingShengPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000014"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "ShangHu000000002"
-        ],
-        "RelationValueChange": [
-          25,
-          25
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_TianZunJiao_0000000001",
-      "TongYong_SXTemp_TianZunJiao_0000000001"
-    ],
     "BattleName": [
       "天尊杀手",
       "司放眼线"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      100000
     ],
     "Pool": [
       {},
@@ -2312,87 +550,18 @@
     "Dialog": {},
     "DialogCharacterName": "少林寺弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "QuanZhangPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JinGuPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000014"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000023"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "在逃凶犯"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      10000,
-      60000
     ],
     "Pool": [
       {},
@@ -2403,78 +572,17 @@
     "Dialog": {},
     "DialogCharacterName": "少林巡铺",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "MingShengPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DaoDePoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000014"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_GuaiMaoXie_0000000001"
-    ],
     "BattleName": [
       "怪矛邪"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      10000,
-      30000
     ],
     "Pool": [
       {},
@@ -2486,78 +594,17 @@
     "Dialog": {},
     "DialogCharacterName": "商队落难护卫",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "QuanZhangPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JinGuPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ZhenDingPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000014"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_XiongShiTieZhangMen_0000000001"
-    ],
     "BattleName": [
       "铁掌卖国贼"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      52000,
-      95000
     ],
     "Pool": [
       {},
@@ -2566,87 +613,18 @@
     "Dialog": {},
     "DialogCharacterName": "受伤少林弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "QuanZhangPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DaoDePoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000014"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000004"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_ShaoLinSi_0000000001"
-    ],
     "BattleName": [
       "少林得意弟子"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      28,
-      28
-    ],
-    "Money": [
-      30000,
-      55000
     ],
     "Pool": [
       {}
@@ -2654,69 +632,16 @@
     "Dialog": {},
     "DialogCharacterName": "少林落败弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "FuYuanPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000014"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuDuDong_0000000001"
-    ],
     "BattleName": [
       "五毒使"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      10000,
-      30000
     ],
     "Pool": [
       {},
@@ -2729,78 +654,17 @@
     "Dialog": {},
     "DialogCharacterName": "峨嵋中毒弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JianFaPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000018"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000030"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "通缉犯"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      15000,
-      50000
     ],
     "Pool": [
       {},
@@ -2810,69 +674,16 @@
     "Dialog": {},
     "DialogCharacterName": "峨嵋巡铺",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000018"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_EMeiPai_0000000001"
-    ],
     "BattleName": [
       "峨嵋叛徒"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      15000,
-      50000
     ],
     "Pool": [
       {},
@@ -2885,78 +696,17 @@
     "Dialog": {},
     "DialogCharacterName": "峨嵋受伤弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JianFaPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "FuYuanPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JianShiPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000018"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_GaiBang_0000000001"
-    ],
     "BattleName": [
       "丐帮淫徒"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      5000,
-      30000
     ],
     "Pool": [
       {},
@@ -2966,96 +716,19 @@
     "Dialog": {},
     "DialogCharacterName": "峨眉落难弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "FuYuanPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JianShiPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DaoDePoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYangPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000018"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_EMeiPai_0000000001"
-    ],
     "BattleName": [
       "峨嵋得意弟子"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      28,
-      28
-    ],
-    "Money": [
-      30000,
-      55000
     ],
     "Pool": [
       {},
@@ -3066,69 +739,16 @@
     "Dialog": {},
     "DialogCharacterName": "峨嵋落败弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ShenXingPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000018"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_XueShouMen_0000000001"
-    ],
     "BattleName": [
       "血手门杀手"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      90000,
-      230000
     ],
     "Pool": [
       {},
@@ -3140,87 +760,18 @@
     "Dialog": {},
     "DialogCharacterName": "武当落难弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "YaoMaPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "YiZhiPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000016"
-        ],
-        "RelationValueChange": [
-          8,
-          8
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000007"
-        ],
-        "RelationValueChange": [
-          -8,
-          -8
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuDuDong_0000000001"
-    ],
     "BattleName": [
       "五毒使"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      30000,
-      100000
     ],
     "Pool": [
       {},
@@ -3231,87 +782,18 @@
     "Dialog": {},
     "DialogCharacterName": "武当中毒弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "YaoMaPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "YiZhiPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DuShuPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000016"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000030"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "盗书犯"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      30000,
-      100000
     ],
     "Pool": [
       {},
@@ -3322,78 +804,17 @@
     "Dialog": {},
     "DialogCharacterName": "武当巡铺",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "YiZhiPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JianShiPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DaoDePoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000016"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_BaoFengMangKou_0000000001"
-    ],
     "BattleName": [
       "宝峰莽寇"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      280000,
-      390000
     ],
     "Pool": [
       {},
@@ -3405,105 +826,20 @@
     "Dialog": {},
     "DialogCharacterName": "商队护卫",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "YaoMaPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "YiZhiPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JueDuanPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000016"
-        ],
-        "RelationValueChange": [
-          8,
-          8
-        ]
-      },
-      {
-        "PlaceIds": [
-          "BiaoJu000000004"
-        ],
-        "RelationValueChange": [
-          25,
-          25
-        ]
-      },
-      {
-        "PlaceIds": [
-          "ZeiKou000000004"
-        ],
-        "RelationValueChange": [
-          -25,
-          -25
-        ]
-      }
+      {},
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "凶案逃犯"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      20000,
-      90000
     ],
     "Pool": [
       {},
@@ -3514,69 +850,16 @@
     "Dialog": {},
     "DialogCharacterName": "武当巡铺",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JianShiPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DaoDePoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000016"
-        ],
-        "RelationValueChange": [
-          8,
-          8
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuDangPai_0000000001"
-    ],
     "BattleName": [
       "武当得意弟子"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      28,
-      28
-    ],
-    "Money": [
-      30000,
-      55000
     ],
     "Pool": [
       {}
@@ -3584,71 +867,17 @@
     "Dialog": {},
     "DialogCharacterName": "武当落败弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "YiZhiPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYangPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000016"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_QuanZhenJiao_0000000001",
-      "TongYong_SXTemp_XiongShiTieZhangMen_0000000001"
-    ],
     "BattleName": [
       "全真叛徒",
       "雄狮秘党"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      30000,
-      110000
     ],
     "Pool": [
       {},
@@ -3659,78 +888,17 @@
     "Dialog": {},
     "DialogCharacterName": "全真教弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ZhiLiPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "QiFaPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000009"
-        ],
-        "RelationValueChange": [
-          8,
-          8
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_BaoFengZeiKou_0000000001"
-    ],
     "BattleName": [
       "宝峰贼寇"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      150000,
-      270000
     ],
     "Pool": [
       {},
@@ -3741,105 +909,20 @@
     "Dialog": {},
     "DialogCharacterName": "商队护卫",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ZhiLiPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "QiFaPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "MingShengPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000009"
-        ],
-        "RelationValueChange": [
-          8,
-          8
-        ]
-      },
-      {
-        "PlaceIds": [
-          "ShangHu000000005"
-        ],
-        "RelationValueChange": [
-          25,
-          25
-        ]
-      },
-      {
-        "PlaceIds": [
-          "ZeiKou000000004"
-        ],
-        "RelationValueChange": [
-          -25,
-          -25
-        ]
-      }
+      {},
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_LieRiJiao_0000000001"
-    ],
     "BattleName": [
       "烈日狂徒"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      90000
     ],
     "Pool": [
       {},
@@ -3849,69 +932,16 @@
     "Dialog": {},
     "DialogCharacterName": "全真教受伤弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "QiFaPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "MingShengPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000009"
-        ],
-        "RelationValueChange": [
-          8,
-          8
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_XueShouMen_0000000001"
-    ],
     "BattleName": [
       "血手庖人"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      10000,
-      40000
     ],
     "Pool": [
       {},
@@ -3921,105 +951,20 @@
     "Dialog": {},
     "DialogCharacterName": "昏迷弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "QuanZhangPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ZhiLiPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "WuXingPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "MeiLiPoint_0000000001"
-        ],
-        "Value": [
-          -25.0,
-          -25.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000009"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000007"
-        ],
-        "RelationValueChange": [
-          -8,
-          -8
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_LieRiJiao_0000000001"
-    ],
     "BattleName": [
       "烈日狂傲弟子"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      28,
-      28
-    ],
-    "Money": [
-      30000,
-      55000
     ],
     "Pool": [
       {}
@@ -4027,80 +972,18 @@
     "Dialog": {},
     "DialogCharacterName": "全真弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "QiLiangPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "WuXingPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000009"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000010"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuDangPai_0000000001",
-      "TongYong_SXTemp_ShaoLinSi_0000000001"
-    ],
     "BattleName": [
       "武当巡铺",
       "少林巡铺"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      120000
     ],
     "Pool": [
       {},
@@ -4111,115 +994,22 @@
     "Dialog": {},
     "DialogCharacterName": "天尊恶徒",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "QuanZhangPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JianFaPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JueDuanPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "YiZhiPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          -50.0,
-          -50.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000023"
-        ],
-        "RelationValueChange": [
-          8,
-          8
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000016"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000014"
-        ],
-        "RelationValueChange": [
-          -15,
-          -15
-        ]
-      }
+      {},
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuDuDong_0000000001"
-    ],
     "BattleName": [
       "五毒使"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      30000,
-      80000
-    ],
     "Pool": [
       {},
       {},
@@ -4229,79 +1019,18 @@
     "Dialog": {},
     "DialogCharacterName": "天尊教弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "QuanZhangPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JueDuanPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "YiZhiPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000023"
-        ],
-        "RelationValueChange": [
-          8,
-          8
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "荆北侠客"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      30000,
-      80000
-    ],
     "Pool": [
       {},
       {},
@@ -4311,69 +1040,16 @@
     "Dialog": {},
     "DialogCharacterName": "天尊教弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "DaoFaPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "MingShengPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000023"
-        ],
-        "RelationValueChange": [
-          8,
-          8
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuDangPai_0000000001"
-    ],
     "BattleName": [
       "樊京护卫"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      30000,
-      80000
     ],
     "Pool": [
       {},
@@ -4384,90 +1060,20 @@
     "Dialog": {},
     "DialogCharacterName": "天尊受伤劫匪",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "GouFaPoint_0000000001"
-        ],
-        "Value": [
-          50.0,
-          50.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DaoFaPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          -50.0,
-          -50.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000023"
-        ],
-        "RelationValueChange": [
-          8,
-          8
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000016"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_HengShanPaiNv_0000000001",
-      "TongYong_SXTemp_EMeiPai_0000000001"
-    ],
     "BattleName": [
       "北岳剑尼",
       "落难道姑"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      620000,
-      1200000
-    ],
     "Pool": [
       {},
       {},
@@ -4478,114 +1084,21 @@
     "Dialog": {},
     "DialogCharacterName": "天尊受伤劫匪",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JianFaPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "GouFaPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JueDuanPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DaoDePoint_0000000001"
-        ],
-        "Value": [
-          -50.0,
-          -50.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          -50.0,
-          -50.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000023"
-        ],
-        "RelationValueChange": [
-          8,
-          8
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000006"
-        ],
-        "RelationValueChange": [
-          -15,
-          -15
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000018"
-        ],
-        "RelationValueChange": [
-          -20,
-          -20
-        ]
-      }
+      {},
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_FeiXieWu_0000000001"
-    ],
     "BattleName": [
       "上官正门徒"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      20000,
-      90000
     ],
     "Pool": [
       {},
@@ -4596,89 +1109,19 @@
     "Dialog": {},
     "DialogCharacterName": "天尊受伤弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ShiBianPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "GouFaPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CunJinPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000023"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000013"
-        ],
-        "RelationValueChange": [
-          -15,
-          -15
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_TaiShanPai_0000000001",
-      "TongYong_SXTemp_ShaoLinSi_0000000001"
-    ],
     "BattleName": [
       "岱岳剑豪",
       "少林隐僧"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      250000,
-      580000
     ],
     "Pool": [
       {},
@@ -4690,105 +1133,20 @@
     "Dialog": {},
     "DialogCharacterName": "天尊秘使",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ChuiFuPoint_0000000001"
-        ],
-        "Value": [
-          50.0,
-          50.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "QuanZhangPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JianFaPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          -50.0,
-          -50.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000023"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000001"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000014"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      }
+      {},
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_TianZunJiao_0000000001"
-    ],
     "BattleName": [
       "天尊得意弟子"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      28,
-      28
-    ],
-    "Money": [
-      30000,
-      55000
     ],
     "Pool": [
       {}
@@ -4796,69 +1154,16 @@
     "Dialog": {},
     "DialogCharacterName": "天尊落败弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "WuXingPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JueDuanPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000023"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_HuaShanPai_0000000001"
-    ],
     "BattleName": [
       "华山剑客"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      180000
     ],
     "Pool": [
       {},
@@ -4867,87 +1172,18 @@
     "Dialog": {},
     "DialogCharacterName": "烈日狂徒",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "DaoFaPoint_0000000001"
-        ],
-        "Value": [
-          35.0,
-          35.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "MingShengPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          -25.0,
-          -25.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000010"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000008"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "见义侠客"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      180000
     ],
     "Pool": [
       {},
@@ -4956,87 +1192,18 @@
     "Dialog": {},
     "DialogCharacterName": "赖账刀客",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "DaoFaPoint_0000000001"
-        ],
-        "Value": [
-          35.0,
-          35.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DaoDePoint_0000000001"
-        ],
-        "Value": [
-          -50.0,
-          -50.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          -50.0,
-          -50.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000010"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000008"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_QuanZhenJiao_0000000001"
-    ],
     "BattleName": [
       "全真教弟子"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      180000
     ],
     "Pool": [
       {},
@@ -5045,87 +1212,18 @@
     "Dialog": {},
     "DialogCharacterName": "烈日凶手",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "DaoFaPoint_0000000001"
-        ],
-        "Value": [
-          35.0,
-          35.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "FuYuanPoint_0000000001"
-        ],
-        "Value": [
-          -25.0,
-          -25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          -25.0,
-          -25.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000010"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000009"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_YanFengTang_0000000001"
-    ],
     "BattleName": [
       "炎凤堂挑衅刀客"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      28,
-      28
-    ],
-    "Money": [
-      30000,
-      55000
     ],
     "Pool": [
       {}
@@ -5133,80 +1231,18 @@
     "Dialog": {},
     "DialogCharacterName": "烈日弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JueDuanPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ZhenDingPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000010"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000029"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_LieRiJiao_0000000001",
-      "TongYong_SXTemp_HengShanPaiNv_0000000001"
-    ],
     "BattleName": [
       "烈日叛徒",
       "恒山弃徒"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      180000
     ],
     "Pool": [
       {},
@@ -5217,78 +1253,17 @@
     "Dialog": {},
     "DialogCharacterName": "受伤杀手",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ShaYiPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JianShiPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000007"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "江湖侠客"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      30000,
-      100000
     ],
     "Pool": [
       {},
@@ -5299,78 +1274,17 @@
     "Dialog": {},
     "DialogCharacterName": "血手门弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ShaYiPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          -35.0,
-          -35.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000007"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_HengShanPaiNv_0000000001"
-    ],
     "BattleName": [
       "恒山剑客"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      30000,
-      100000
     ],
     "Pool": [
       {},
@@ -5382,96 +1296,19 @@
     "Dialog": {},
     "DialogCharacterName": "血手杀手",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ShaYiPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShenLaiPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          -50.0,
-          -50.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000007"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000006"
-        ],
-        "RelationValueChange": [
-          -15,
-          -15
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_HuaShanPai_0000000001"
-    ],
     "BattleName": [
       "华山剑客"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      28,
-      28
-    ],
-    "Money": [
-      30000,
-      55000
     ],
     "Pool": [
       {}
@@ -5479,78 +1316,17 @@
     "Dialog": {},
     "DialogCharacterName": "血手弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ShaYiPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "TiPoPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000007"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000008"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_SongShanPai_0000000001"
-    ],
     "BattleName": [
       "嵩山巡铺"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      40000,
-      80000
     ],
     "Pool": [
       {},
@@ -5559,96 +1335,19 @@
     "Dialog": {},
     "DialogCharacterName": "飞蝎凶犯",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ShiBianPoint_0000000001"
-        ],
-        "Value": [
-          50.0,
-          50.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShaYiPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiaoShePoint_0000000001"
-        ],
-        "Value": [
-          -20.0,
-          -20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          -30.0,
-          -30.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000013"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000015"
-        ],
-        "RelationValueChange": [
-          -15,
-          -15
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuDuDong_0000000001"
-    ],
     "BattleName": [
       "五毒使"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      40000,
-      80000
     ],
     "Pool": [
       {},
@@ -5658,80 +1357,18 @@
     "Dialog": {},
     "DialogCharacterName": "飞蝎中毒弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ShiBianPoint_0000000001"
-        ],
-        "Value": [
-          50.0,
-          50.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CunJinPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DuShuPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000013"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_YouMingPai_0000000001",
-      "FenZhengTemp_HaiMenBangZeiKou_0000000001"
-    ],
     "BattleName": [
       "幽明派弟子",
       "海门帮贼寇"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      40000,
-      80000
     ],
     "Pool": [
       {},
@@ -5741,78 +1378,17 @@
     "Dialog": {},
     "DialogCharacterName": "飞蝎凶犯",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ShiBianPoint_0000000001"
-        ],
-        "Value": [
-          35.0,
-          35.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "YaoMaPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000013"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000012"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_GaiBang_0000000001"
-    ],
     "BattleName": [
       "丐帮弟子"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      28,
-      28
-    ],
-    "Money": [
-      30000,
-      55000
     ],
     "Pool": [
       {}
@@ -5820,78 +1396,17 @@
     "Dialog": {},
     "DialogCharacterName": "飞蝎受伤弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ShaYiPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JueDuanPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000013"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000026"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "江湖侠客"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      500,
-      3000
     ],
     "Pool": [
       {}
@@ -5899,105 +1414,20 @@
     "Dialog": {},
     "DialogCharacterName": "赖账乞丐",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ShuaGunPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "YaoMaPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "TiPoPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DaoDePoint_0000000001"
-        ],
-        "Value": [
-          -20.0,
-          -20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "FuYuanPoint_0000000001"
-        ],
-        "Value": [
-          -20.0,
-          -20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          -30.0,
-          -30.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000026"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuDuDong_0000000001"
-    ],
     "BattleName": [
       "五毒使"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      500,
-      1500
     ],
     "Pool": [
       {}
@@ -6005,71 +1435,17 @@
     "Dialog": {},
     "DialogCharacterName": "中毒乞丐",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "YaoMaPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "TiPoPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000026"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_FeiXieWu_0000000001",
-      "TongYong_SXTemp_FeiXieWu_0000000001"
-    ],
     "BattleName": [
       "飞蝎魔徒",
       "失心鞭客"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      500,
-      1500
     ],
     "Pool": [
       {},
@@ -6078,105 +1454,20 @@
     "Dialog": {},
     "DialogCharacterName": "昏迷乞丐",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "YaoMaPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "TiPoPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JianShiPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "FuYuanPoint_0000000001"
-        ],
-        "Value": [
-          -35.0,
-          -35.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JueDuanPoint_0000000001"
-        ],
-        "Value": [
-          -15.0,
-          -15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000026"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_TaiShanPai_0000000001"
-    ],
     "BattleName": [
       "泰山护卫"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      800000,
-      1500000
     ],
     "Pool": [
       {}
@@ -6184,245 +1475,54 @@
     "Dialog": {},
     "DialogCharacterName": "乞丐窃贼",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JinGuPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "TiPoPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiaoShePoint_0000000001"
-        ],
-        "Value": [
-          -15.0,
-          -15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          -25.0,
-          -25.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000026"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000001"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "BiaoJu000000001"
-        ],
-        "RelationValueChange": [
-          -15,
-          -15
-        ]
-      }
+      {},
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_BaiZhangShanZhuang_0000000001"
-    ],
     "BattleName": [
       "百丈叛徒"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      500,
-      3500
-    ],
     "Pool": [
       {}
     ],
     "Dialog": {},
     "DialogCharacterName": "受伤乞丐",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "QuanZhangPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "TiPoPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000026"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "江湖浪人"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      500,
-      3500
-    ],
     "Pool": [
       {}
     ],
     "Dialog": {},
     "DialogCharacterName": "受伤乞丐",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ChuiFuPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JinGuPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000026"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_XiongShiTieZhangMen_0000000001"
-    ],
     "BattleName": [
       "铁掌细作"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      500,
-      3500
     ],
     "Pool": [
       {}
@@ -6430,123 +1530,22 @@
     "Dialog": {},
     "DialogCharacterName": "丐帮义士",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "DaoFaPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "YongQiangPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShuaGunPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ChuiFuPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiBianPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "GouFaPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          35.0,
-          35.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000026"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000004"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_YanFengTang_0000000001"
-    ],
     "BattleName": [
       "炎凤奸细"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      500,
-      3500
     ],
     "Pool": [
       {}
@@ -6554,70 +1553,17 @@
     "Dialog": {},
     "DialogCharacterName": "落难乞丐",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "YaoMaPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "FuYuanPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000026"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_GaiBang_0000000001"
-    ],
     "BattleName": [
       "丐帮逆徒"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      52000,
-      135000
-    ],
     "Pool": [
       {},
       {},
@@ -6627,70 +1573,17 @@
     "Dialog": {},
     "DialogCharacterName": "受伤丐帮弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "YiZhiPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiaoShePoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000026"
-        ],
-        "RelationValueChange": [
-          25,
-          25
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_GaiBang_0000000001"
-    ],
     "BattleName": [
       "丐帮亡命徒"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      65000,
-      115000
-    ],
     "Pool": [
       {},
       {},
@@ -6700,87 +1593,18 @@
     "Dialog": {},
     "DialogCharacterName": "受伤丐帮弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "YiZhiPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "FuYuanPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "WuXingPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000026"
-        ],
-        "RelationValueChange": [
-          25,
-          25
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "上门挑衅侠客"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      28,
-      28
-    ],
-    "Money": [
-      30000,
-      55000
     ],
     "Pool": [
       {}
@@ -6788,69 +1612,16 @@
     "Dialog": {},
     "DialogCharacterName": "丐帮留守乞丐",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JiaoShePoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ZhenDingPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000026"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuDuDong_0000000001"
-    ],
     "BattleName": [
       "五毒使"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      25000,
-      110000
     ],
     "Pool": [
       {},
@@ -6859,69 +1630,16 @@
     "Dialog": {},
     "DialogCharacterName": "青城中毒弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JianFaPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000019"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuXianKe_0000000001"
-    ],
     "BattleName": [
       "乌仙客"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      225000,
-      800000
     ],
     "Pool": [
       {},
@@ -6930,70 +1648,17 @@
     "Dialog": {},
     "DialogCharacterName": "青城落难弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JianFaPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "WuXingPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000019"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_XuanTianGe_0000000001"
-    ],
     "BattleName": [
       "玄天小偷"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      56000,
-      110000
-    ],
     "Pool": [
       {},
       {},
@@ -7004,149 +1669,35 @@
     "Dialog": {},
     "DialogCharacterName": "青城弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JianFaPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "FuYuanPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000019"
-        ],
-        "RelationValueChange": [
-          20,
-          20
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000002"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "上门挑衅侠客"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      28,
-      28
-    ],
-    "Money": [
-      30000,
-      55000
-    ],
     "Pool": [
       {}
     ],
     "Dialog": {},
     "DialogCharacterName": "青城弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "XiaPanPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "TiPoPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000019"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_GaiBang_0000000001"
-    ],
     "BattleName": [
       "丐盗"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      100000,
-      310000
-    ],
     "Pool": [
       {},
       {},
@@ -7160,70 +1711,17 @@
     "Dialog": {},
     "DialogCharacterName": "百丈山弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ShenLaiPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000022"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_TianZunJiao_0000000001"
-    ],
     "BattleName": [
       "天尊教弟子"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      300000,
-      610000
-    ],
     "Pool": [
       {},
       {},
@@ -7237,87 +1735,18 @@
     "Dialog": {},
     "DialogCharacterName": "百丈山弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ZhenDingPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "YiZhiPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000022"
-        ],
-        "RelationValueChange": [
-          25,
-          25
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000023"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_BaiZhangShanZhuang_0000000001"
-    ],
     "BattleName": [
       "百丈得意弟子"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      28,
-      28
-    ],
-    "Money": [
-      30000,
-      55000
     ],
     "Pool": [
       {}
@@ -7325,69 +1754,16 @@
     "Dialog": {},
     "DialogCharacterName": "百丈落败弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "MeiLiPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000022"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_LiuXuZei_0000000001"
-    ],
     "BattleName": [
       "六虚贼"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      1500000,
-      1900000
     ],
     "Pool": [
       {},
@@ -7399,87 +1775,18 @@
     "Dialog": {},
     "DialogCharacterName": "西畔护卫",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "QuanZhangPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "YiZhiPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000027"
-        ],
-        "RelationValueChange": [
-          25,
-          25
-        ]
-      },
-      {
-        "PlaceIds": [
-          "ShangHu000000006"
-        ],
-        "RelationValueChange": [
-          25,
-          25
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuDuDong_0000000001"
-    ],
     "BattleName": [
       "五毒洞弟子"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      90000
     ],
     "Pool": [
       {},
@@ -7490,78 +1797,17 @@
     "Dialog": {},
     "DialogCharacterName": "炎凤巡铺",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "DaoFaPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DuShuPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000029"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000030"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_LingNanEGun_0000000001"
-    ],
     "BattleName": [
       "岭南恶棍"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      150000,
-      350000
     ],
     "Pool": [
       {},
@@ -7571,114 +1817,21 @@
     "Dialog": {},
     "DialogCharacterName": "灵犀商队护卫",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "DaoFaPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ChuiFuPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShuaGunPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "TiPoPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "XiaPanPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiaoShePoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000029"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      },
-      {
-        "PlaceIds": [
-          "BiaoJu000000006"
-        ],
-        "RelationValueChange": [
-          25,
-          25
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_LieRiJiao_0000000001"
-    ],
     "BattleName": [
       "烈日刀客"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      100000
     ],
     "Pool": [
       {},
@@ -7687,87 +1840,18 @@
     "Dialog": {},
     "DialogCharacterName": "炎凤堂弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "DaoFaPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JinGuPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JueDuanPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000029"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000010"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_FeiXieWu_0000000001"
-    ],
     "BattleName": [
       "飞蝎淫徒"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      150000,
-      390000
     ],
     "Pool": [
       {},
@@ -7778,123 +1862,22 @@
     "Dialog": {},
     "DialogCharacterName": "落难白木护卫",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "CunJinPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiBianPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShenXingPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "XiaPanPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          35.0,
-          35.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000028"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      },
-      {
-        "PlaceIds": [
-          "ShangHu000000006"
-        ],
-        "RelationValueChange": [
-          25,
-          25
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000013"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      }
+      {},
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_SongShanPai_0000000001"
-    ],
     "BattleName": [
       "嵩山淫徒"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      250000,
-      390000
     ],
     "Pool": [
       {},
@@ -7905,124 +1888,23 @@
     "Dialog": {},
     "DialogCharacterName": "受伤京羊护卫",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "CunJinPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYangPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShenXingPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "XiaPanPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000028"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      },
-      {
-        "PlaceIds": [
-          "ShangHu000000002"
-        ],
-        "RelationValueChange": [
-          25,
-          25
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000015"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_GaiBang_0000000001"
-    ],
     "BattleName": [
       "丐帮弟子"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      90000
-    ],
     "Pool": [
       {},
       {},
@@ -8032,106 +1914,21 @@
     "Dialog": {},
     "DialogCharacterName": "幽鸿宫弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "CunJinPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JueDuanPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShenXingPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "XiaPanPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000028"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000026"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_TouYiGuaiDao_0000000001"
-    ],
     "BattleName": [
       "偷衣怪盗"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      60000
-    ],
     "Pool": [
       {},
       {},
@@ -8141,106 +1938,21 @@
     "Dialog": {},
     "DialogCharacterName": "幽鸿宫弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "CunJinPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "YaoMaPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JueDuanPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "FuYuanPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000028"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000026"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "寻仇侠客"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      90000
-    ],
     "Pool": [
       {},
       {},
@@ -8250,96 +1962,19 @@
     "Dialog": {},
     "DialogCharacterName": "幽鸿宫弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "CunJinPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ZhenDingPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShenXingPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "XiaPanPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000028"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_GaiBang_0000000001"
-    ],
     "BattleName": [
       "丐帮淫贼"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      52000,
-      125000
     ],
     "Pool": [
       {}
@@ -8347,87 +1982,18 @@
     "Dialog": {},
     "DialogCharacterName": "迷晕幽鸿弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "CunJinPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "MeiLiPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "HanYangPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000028"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_GaiBang_0000000001"
-    ],
     "BattleName": [
       "五毒弟子"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      28,
-      28
-    ],
-    "Money": [
-      30000,
-      55000
     ],
     "Pool": [
       {}
@@ -8435,69 +2001,16 @@
     "Dialog": {},
     "DialogCharacterName": "幽鸿宫受伤弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "MeiLiPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShenXingPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000028"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_XiongShiTieZhangMen_0000000001"
-    ],
     "BattleName": [
       "铁掌叛徒"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      90000
     ],
     "Pool": [
       {},
@@ -8506,78 +2019,17 @@
     "Dialog": {},
     "DialogCharacterName": "吉贝护卫",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ChuiFuPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "YongQiangPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000004"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      },
-      {
-        "PlaceIds": [
-          "BiaoJu000000002"
-        ],
-        "RelationValueChange": [
-          25,
-          25
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_TaiShanPai_0000000001"
-    ],
     "BattleName": [
       "泰山巡铺"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      30000,
-      70000
     ],
     "Pool": [
       {},
@@ -8586,87 +2038,18 @@
     "Dialog": {},
     "DialogCharacterName": "铁掌凶犯",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ChuiFuPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "YaoMaPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          -50.0,
-          -50.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000004"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000001"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_HengShanPaiNv_0000000001"
-    ],
     "BattleName": [
       "恒山派弟子"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      30000,
-      70000
     ],
     "Pool": [
       {},
@@ -8675,87 +2058,18 @@
     "Dialog": {},
     "DialogCharacterName": "通辽密使",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ChuiFuPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "QuanZhangPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          -100.0,
-          -100.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000004"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000006"
-        ],
-        "RelationValueChange": [
-          -25,
-          -25
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_XiongShiTieZhangMen_0000000001"
-    ],
     "BattleName": [
       "铁掌叛徒"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      65000,
-      125000
     ],
     "Pool": [
       {}
@@ -8763,78 +2077,17 @@
     "Dialog": {},
     "DialogCharacterName": "受伤铁掌弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "YiZhiPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JueDuanPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JianShiPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000004"
-        ],
-        "RelationValueChange": [
-          20,
-          20
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "上门挑衅侠客"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      28,
-      28
-    ],
-    "Money": [
-      30000,
-      50000
     ],
     "Pool": [
       {}
@@ -8842,69 +2095,16 @@
     "Dialog": {},
     "DialogCharacterName": "铁掌门弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "YiZhiPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JueDuanPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000004"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_NanYangQuanZhuang_0000000001"
-    ],
     "BattleName": [
       "南阳叛徒"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      30000,
-      80000
     ],
     "Pool": [
       {},
@@ -8914,61 +2114,16 @@
     "Dialog": {},
     "DialogCharacterName": "南阳受伤弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "QuanZhangPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      }
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000017"
-        ],
-        "RelationValueChange": [
-          25,
-          25
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_TianZunJiao_0000000001"
-    ],
     "BattleName": [
       "天尊狂徒"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      35000,
-      85000
-    ],
     "Pool": [
       {},
       {},
@@ -8977,157 +2132,35 @@
     "Dialog": {},
     "DialogCharacterName": "南阳受伤弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "QuanZhangPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JueDuanPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "MingShengPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000017"
-        ],
-        "RelationValueChange": [
-          25,
-          25
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000023"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_NanYangQuanZhuang_0000000001"
-    ],
     "BattleName": [
       "南阳叛徒"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      60000,
-      100000
-    ],
     "Pool": [
       {}
     ],
     "Dialog": {},
     "DialogCharacterName": "南阳受伤弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "QuanZhangPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000017"
-        ],
-        "RelationValueChange": [
-          25,
-          25
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_XuanTianGe_0000000001"
-    ],
     "BattleName": [
       "玄天小偷"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      80000,
-      120000
     ],
     "Pool": [
       {}
@@ -9135,69 +2168,16 @@
     "Dialog": {},
     "DialogCharacterName": "南阳被盗弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JueDuanPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000017"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000002"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_NanYangQuanZhuang_0000000001"
-    ],
     "BattleName": [
       "南阳得意弟子"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      28,
-      28
-    ],
-    "Money": [
-      30000,
-      55000
     ],
     "Pool": [
       {}
@@ -9205,69 +2185,16 @@
     "Dialog": {},
     "DialogCharacterName": "南阳落败弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JiaoShePoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "XiaPanPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000017"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "被偷侠客"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      90000
     ],
     "Pool": [
       {},
@@ -9276,96 +2203,19 @@
     "Dialog": {},
     "DialogCharacterName": "玄天阁弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JianFaPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "XiaPanPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShenXingPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          -30.0,
-          -30.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000002"
-        ],
-        "RelationValueChange": [
-          25,
-          25
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "被偷侠客"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      90000
     ],
     "Pool": [
       {},
@@ -9374,87 +2224,18 @@
     "Dialog": {},
     "DialogCharacterName": "玄天阁弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JianFaPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "XiaPanPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          -20.0,
-          -20.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000002"
-        ],
-        "RelationValueChange": [
-          25,
-          25
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "被偷侠客"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      90000
     ],
     "Pool": [
       {},
@@ -9463,87 +2244,18 @@
     "Dialog": {},
     "DialogCharacterName": "玄天阁弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "CunJinPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "XiaPanPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          -20.0,
-          -20.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000002"
-        ],
-        "RelationValueChange": [
-          25,
-          25
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "被偷侠客"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      86000,
-      160000
     ],
     "Pool": [
       {}
@@ -9551,412 +2263,91 @@
     "Dialog": {},
     "DialogCharacterName": "玄天弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ZhenDingPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DaoDePoint_0000000001"
-        ],
-        "Value": [
-          -15.0,
-          -15.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000002"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "被盗侠客"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      65000,
-      120000
-    ],
     "Pool": [
       {}
     ],
     "Dialog": {},
     "DialogCharacterName": "玄天弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JueDuanPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ZhenDingPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DaoDePoint_0000000001"
-        ],
-        "Value": [
-          -15.0,
-          -15.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000002"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_TaoTieMen_0000000001"
-    ],
     "BattleName": [
       "被盗厨师"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      60000,
-      110000
-    ],
     "Pool": [
       {}
     ],
     "Dialog": {},
     "DialogCharacterName": "玄天弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JueDuanPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ZhenDingPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DaoDePoint_0000000001"
-        ],
-        "Value": [
-          -15.0,
-          -15.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000002"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000003"
-        ],
-        "RelationValueChange": [
-          -15,
-          -15
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_TaoTieMen_0000000001"
-    ],
     "BattleName": [
       "被盗饕餮名厨"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      62000,
-      120000
-    ],
     "Pool": [
       {}
     ],
     "Dialog": {},
     "DialogCharacterName": "玄天弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JueDuanPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ZhenDingPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DaoDePoint_0000000001"
-        ],
-        "Value": [
-          -15.0,
-          -15.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000002"
-        ],
-        "RelationValueChange": [
-          15,
-          15
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000003"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "被盗侠客"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      62000,
-      125000
-    ],
     "Pool": [
       {}
     ],
     "Dialog": {},
     "DialogCharacterName": "玄天弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JiZhongPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ZhenDingPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DaoDePoint_0000000001"
-        ],
-        "Value": [
-          -15.0,
-          -15.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000002"
-        ],
-        "RelationValueChange": [
-          10,
-          10
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_XuanTianGe_0000000001"
-    ],
     "BattleName": [
       "玄天阁小偷"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      60000
     ],
     "Pool": [
       {},
@@ -9967,78 +2358,17 @@
     "Dialog": {},
     "DialogCharacterName": "被偷饕餮厨师",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JueDuanPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "PengRenPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "FuYuanPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000003"
-        ],
-        "RelationValueChange": [
-          25,
-          25
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_XiongShiTieZhangMen_0000000001"
-    ],
     "BattleName": [
       "赖账铁掌弟子"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      60000
     ],
     "Pool": [
       {},
@@ -10049,87 +2379,18 @@
     "Dialog": {},
     "DialogCharacterName": "饕餮厨子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "YaoMaPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "TiPoPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "PengRenPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000003"
-        ],
-        "RelationValueChange": [
-          25,
-          25
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000004"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_BaiZhangShanZhuang_0000000001"
-    ],
     "BattleName": [
       "百丈拳师"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      30000,
-      90000
     ],
     "Pool": [
       {},
@@ -10139,96 +2400,19 @@
     "Dialog": {},
     "DialogCharacterName": "受伤幽明弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JinGuPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "TiPoPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ZhenDingPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JianShiPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000012"
-        ],
-        "RelationValueChange": [
-          20,
-          20
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000022"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_FeiXieWu_0000000001"
-    ],
     "BattleName": [
       "飞蝎杀手"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      30000,
-      90000
     ],
     "Pool": [
       {},
@@ -10238,105 +2422,20 @@
     "Dialog": {},
     "DialogCharacterName": "受困幽明弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ShiBianPoint_0000000001"
-        ],
-        "Value": [
-          50.0,
-          50.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JinGuPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "TiPoPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ZhenDingPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JianShiPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000012"
-        ],
-        "RelationValueChange": [
-          20,
-          20
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000013"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_BaiZhangShanZhuang_0000000001"
-    ],
     "BattleName": [
       "百丈拳师"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      110000
     ],
     "Pool": [
       {},
@@ -10347,79 +2446,18 @@
     "Dialog": {},
     "DialogCharacterName": "落败白鹤弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ShuaGunPoint_0000000001"
-        ],
-        "Value": [
-          35.0,
-          35.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShenLaiPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JueDuanPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000021"
-        ],
-        "RelationValueChange": [
-          20,
-          20
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_HengShanPaiNan_0000000001"
-    ],
     "BattleName": [
       "衡山醉汉"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      110000
-    ],
     "Pool": [
       {},
       {},
@@ -10429,79 +2467,18 @@
     "Dialog": {},
     "DialogCharacterName": "受伤白鹤弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ShuaGunPoint_0000000001"
-        ],
-        "Value": [
-          35.0,
-          35.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShenLaiPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "WuXingPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000021"
-        ],
-        "RelationValueChange": [
-          20,
-          20
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_YanFengTang_0000000001"
-    ],
     "BattleName": [
       "炎凤刀客"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      50000,
-      110000
-    ],
     "Pool": [
       {},
       {},
@@ -10511,87 +2488,18 @@
     "Dialog": {},
     "DialogCharacterName": "受伤白鹤弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "ShuaGunPoint_0000000001"
-        ],
-        "Value": [
-          35.0,
-          35.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "DaoFaPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShenLaiPoint_0000000001"
-        ],
-        "Value": [
-          25.0,
-          25.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000021"
-        ],
-        "RelationValueChange": [
-          20,
-          20
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000029"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_FeiXieWu_0000000001"
-    ],
     "BattleName": [
       "飞蝎坞弟子"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      28,
-      28
-    ],
-    "Money": [
-      30000,
-      55000
     ],
     "Pool": [
       {}
@@ -10599,79 +2507,18 @@
     "Dialog": {},
     "DialogCharacterName": "白鹤受伤弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "QiFaPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JinGuPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000021"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000013"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_EMeiPai_0000000001"
-    ],
     "BattleName": [
       "峨嵋巡铺"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      150000,
-      510000
-    ],
     "Pool": [
       {},
       {},
@@ -10683,106 +2530,21 @@
     "Dialog": {},
     "DialogCharacterName": "五毒毒贩",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "DuShuPoint_0000000001"
-        ],
-        "Value": [
-          50.0,
-          50.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CunJinPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiBianPoint_0000000001"
-        ],
-        "Value": [
-          35.0,
-          35.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "GouFaPoint_0000000001"
-        ],
-        "Value": [
-          50.0,
-          50.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          -35.0,
-          -35.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000030"
-        ],
-        "RelationValueChange": [
-          30,
-          30
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000018"
-        ],
-        "RelationValueChange": [
-          -10,
-          -10
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_YanFengTang_0000000001"
-    ],
     "BattleName": [
       "炎凤巡铺"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      150000,
-      510000
-    ],
     "Pool": [
       {},
       {},
@@ -10794,106 +2556,21 @@
     "Dialog": {},
     "DialogCharacterName": "五毒毒贩",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "DuShuPoint_0000000001"
-        ],
-        "Value": [
-          50.0,
-          50.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CunJinPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiBianPoint_0000000001"
-        ],
-        "Value": [
-          35.0,
-          35.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "GouFaPoint_0000000001"
-        ],
-        "Value": [
-          50.0,
-          50.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          -35.0,
-          -35.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000030"
-        ],
-        "RelationValueChange": [
-          30,
-          30
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000029"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_TianZunJiao_0000000001"
-    ],
     "BattleName": [
       "天尊巡铺"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      150000,
-      510000
-    ],
     "Pool": [
       {},
       {},
@@ -10905,108 +2582,22 @@
     "Dialog": {},
     "DialogCharacterName": "五毒毒贩",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "DuShuPoint_0000000001"
-        ],
-        "Value": [
-          50.0,
-          50.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CunJinPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiBianPoint_0000000001"
-        ],
-        "Value": [
-          35.0,
-          35.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "GouFaPoint_0000000001"
-        ],
-        "Value": [
-          50.0,
-          50.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          -35.0,
-          -35.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000030"
-        ],
-        "RelationValueChange": [
-          30,
-          30
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000023"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_TaiShanPai_0000000001",
-      "TongYong_SXTemp_ShaoLinSi_0000000001"
-    ],
     "BattleName": [
       "泰山巡铺",
       "少林巡铺"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      150000,
-      510000
-    ],
     "Pool": [
       {},
       {},
@@ -11018,132 +2609,23 @@
     "Dialog": {},
     "DialogCharacterName": "五毒毒贩",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "DuShuPoint_0000000001"
-        ],
-        "Value": [
-          100.0,
-          100.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "QuanZhangPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "JianFaPoint_0000000001"
-        ],
-        "Value": [
-          10.0,
-          10.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "CunJinPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShiBianPoint_0000000001"
-        ],
-        "Value": [
-          35.0,
-          35.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "GouFaPoint_0000000001"
-        ],
-        "Value": [
-          50.0,
-          50.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "LiChangPoint_0000000001"
-        ],
-        "Value": [
-          -50.0,
-          -50.0
-        ]
-      }
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000030"
-        ],
-        "RelationValueChange": [
-          30,
-          30
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000001"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      },
-      {
-        "PlaceIds": [
-          "MenPai000000014"
-        ],
-        "RelationValueChange": [
-          -5,
-          -5
-        ]
-      }
+      {},
+      {},
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuDuDong_0000000001"
-    ],
     "BattleName": [
       "五毒叛徒"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      28,
-      28
-    ],
-    "Money": [
-      30000,
-      55000
     ],
     "Pool": [
       {}
@@ -11151,70 +2633,17 @@
     "Dialog": {},
     "DialogCharacterName": "五毒受伤弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "DuShuPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ShenLaiPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000030"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "医闹侠客"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      20000,
-      60000
-    ],
     "Pool": [
       {},
       {},
@@ -11226,79 +2655,18 @@
     "Dialog": {},
     "DialogCharacterName": "受伤药王弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "YiShuPoint_0000000001"
-        ],
-        "Value": [
-          100.0,
-          100.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ZhenDingPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "FuYuanPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000005"
-        ],
-        "RelationValueChange": [
-          25,
-          25
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_XiongShiTieZhangMen_0000000001"
-    ],
     "BattleName": [
       "铁掌狂徒"
     ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      120,
-      360
-    ],
-    "Money": [
-      20000,
-      60000
-    ],
     "Pool": [
       {},
       {},
@@ -11309,78 +2677,17 @@
     "Dialog": {},
     "DialogCharacterName": "受伤药王弟子",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "YiShuPoint_0000000001"
-        ],
-        "Value": [
-          100.0,
-          100.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "ZhenDingPoint_0000000001"
-        ],
-        "Value": [
-          20.0,
-          20.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "FuYuanPoint_0000000001"
-        ],
-        "Value": [
-          15.0,
-          15.0
-        ]
-      }
+      {},
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000005"
-        ],
-        "RelationValueChange": [
-          25,
-          25
-        ]
-      }
+      {}
     ]
   },
   {
-    "BattleCharacterTemplates": [
-      "FenZhengTemp_WuMenWuPai_0000000001"
-    ],
     "BattleName": [
       "偷药人"
-    ],
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      20.0
-    ],
-    "DropBag": [
-      "Bag_QA_FenZhengNormal_D"
-    ],
-    "CoolDown": [
-      28,
-      28
-    ],
-    "Money": [
-      30000,
-      55000
     ],
     "Pool": [
       {}
@@ -11388,35 +2695,11 @@
     "Dialog": {},
     "DialogCharacterName": "药王医者",
     "UpGrade": [
-      {
-        "RelatedID": [
-          "JianShiPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      },
-      {
-        "RelatedID": [
-          "FuYuanPoint_0000000001"
-        ],
-        "Value": [
-          5.0,
-          5.0
-        ]
-      }
+      {},
+      {}
     ],
     "PlaceRelationChange": [
-      {
-        "PlaceIds": [
-          "MenPai000000005"
-        ],
-        "RelationValueChange": [
-          5,
-          5
-        ]
-      }
+      {}
     ]
   }
 ]

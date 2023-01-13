@@ -12,9 +12,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/XuanTieZhongJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>玄铁重剑</color>"
     },
@@ -29,9 +26,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "防招式威力增加65%"
           },
@@ -41,10 +35,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/TH_Sword_XuanTieZhongJian00"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -59,9 +50,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/TaiShiWuFengJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>太室无锋剑</color>"
     },
@@ -76,9 +64,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "防招式威力增加10%"
           },
@@ -88,10 +73,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/TaiShiWuFengJian05"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -106,9 +88,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/TieChangJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#FFFFFFFF>铁长剑</color>"
     },
@@ -123,7 +102,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“神来一击”的几率减少5%"
           },
@@ -133,10 +111,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/Sword_TieChangJian02"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -151,9 +126,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/SuiYuJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>碎玉剑</color>"
     },
@@ -168,7 +140,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“部位击伤”的几率增加5%"
           },
@@ -178,10 +149,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/Sword_SuiYuJian04"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -196,9 +164,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/ShuNvJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>淑女剑</color>"
     },
@@ -213,9 +178,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "攻招式威力增加6%"
           },
@@ -225,7 +187,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“神来一击”的几率增加3.5%"
           },
@@ -235,10 +196,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/Sword_ShuNvJian03"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -253,9 +211,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/TuLongDao"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>屠龙刀</color>"
     },
@@ -270,9 +225,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "攻招式威力增加60%"
           },
@@ -282,7 +234,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“神来一击”的几率增加4.5%"
           },
@@ -292,10 +243,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Dao/Sword_TuLongDao01"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -310,9 +258,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/XuanYuanJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>轩辕古剑</color>"
     },
@@ -327,9 +272,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "攻招式威力增加35%"
           },
@@ -339,9 +281,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "防招式威力增加35%"
           },
@@ -351,10 +290,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/XYJ"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -369,9 +305,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/JunZiJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>君子剑</color>"
     },
@@ -386,9 +319,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "防招式威力增加13%"
           },
@@ -398,10 +328,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/JZJ"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -416,9 +343,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/JueMingFeiYu"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>飞羽剑</color>"
     },
@@ -433,7 +357,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“部位击伤”的几率增加8%"
           },
@@ -443,10 +366,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/JMFY"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -461,9 +381,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/ShiDanTieJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>是胆重剑</color>"
     },
@@ -478,9 +395,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "防招式威力增加30%"
           },
@@ -490,9 +404,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "攻招式威力降低15%"
           },
@@ -502,10 +413,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/SDTJ"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -520,9 +428,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/XuanTianJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>玄天剑</color>"
     },
@@ -537,9 +442,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "攻招式威力增加10%"
           },
@@ -549,9 +451,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "防招式威力增加10%"
           },
@@ -561,10 +460,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/XTJ"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -579,9 +475,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/ChengYingJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>承影剑</color>"
     },
@@ -596,7 +489,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“神来一击”的几率增加2.5%"
           },
@@ -606,10 +498,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/CYJ"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -624,9 +513,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/KaiShanZhongJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>开山重剑</color>"
     },
@@ -641,9 +527,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "防招式威力增加15%"
           },
@@ -653,10 +536,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/KSZJ"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -671,9 +551,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/DuanHunZhongJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>断魂重剑</color>"
     },
@@ -688,9 +565,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "防招式威力增加60%"
           },
@@ -700,7 +574,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“神来一击”的几率减少15%"
           },
@@ -710,10 +583,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/DHZJ"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -728,9 +598,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/CuiYuZiMuJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>翠玉母剑</color>"
     },
@@ -745,9 +612,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "攻招式威力增加75%"
           },
@@ -757,10 +621,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/ZMJ"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -769,9 +630,6 @@
     "HandType": {
       "ValueInfo": "单手"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/LongLinBaoJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>龙鳞剑</color>"
     },
@@ -786,7 +644,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“神来一击”的几率增加3%"
           },
@@ -796,10 +653,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/LLBJ"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -814,9 +668,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/BiHaiShanHuJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>珊瑚剑</color>"
     },
@@ -831,7 +682,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“部位击伤”的几率增加15%"
           },
@@ -841,10 +691,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/BHSH"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -859,9 +706,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/BiHaiShanHuJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>天门重剑</color>"
     },
@@ -876,9 +720,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "防招式威力增加20%"
           },
@@ -888,10 +729,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/TainMenZhongJian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -906,9 +744,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/ChiHeJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>赤鹤剑</color>"
     },
@@ -923,9 +758,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "攻招式威力增加35%"
           },
@@ -935,9 +767,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "防招式威力增加35%"
           },
@@ -947,7 +776,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“神来一击”的几率增加4.5%"
           },
@@ -957,10 +785,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Jian/ChiHeJian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -975,9 +800,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/BaiQuanDao"
-    ],
     "Name": {
       "ValueInfo": "<color=#FFFFFFFF>白泉刀</color>"
     },
@@ -992,7 +814,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“神来一击”的几率减少2%"
           },
@@ -1002,10 +823,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Dao/BQD"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1020,9 +838,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/TangLangCaoMangDao"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>螳螂草莽刀</color>"
     },
@@ -1037,7 +852,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“部位击伤”的几率增加8%"
           },
@@ -1047,10 +861,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Dao/TLZD"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1065,9 +876,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/GuHunLiuYeDao"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>柳叶刀</color>"
     },
@@ -1082,9 +890,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "攻招式威力增加28%"
           },
@@ -1094,10 +899,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Dao/LYTD"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1112,9 +914,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/HouTingDao"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>亭侯刀</color>"
     },
@@ -1129,9 +928,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "防招式威力增加30%"
           },
@@ -1141,10 +937,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Dao/HTD"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1159,9 +952,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/PoTianDao"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>破天刀</color>"
     },
@@ -1176,7 +966,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“神来一击”的几率增加3.5%"
           },
@@ -1186,10 +975,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Dao/PoTianDao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1204,9 +990,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/FengHuangDao"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>凤凰刀</color>"
     },
@@ -1221,9 +1004,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "攻招式威力增加45%"
           },
@@ -1233,10 +1013,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Dao/FengHuangDao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1251,9 +1028,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/TieChangQiang"
-    ],
     "Name": {
       "ValueInfo": "<color=#FFFFFFFF>铁长枪</color>"
     },
@@ -1268,7 +1042,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“神来一击”的几率减少2%"
           },
@@ -1278,10 +1051,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Qiang/TCQ"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1296,9 +1066,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/BaiLongQiang"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>白龙枪</color>"
     },
@@ -1313,9 +1080,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "攻招式威力增加25%"
           },
@@ -1325,10 +1089,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Qiang/BLQ"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1343,9 +1104,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/BaoYuLiLHuaQiang"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>梨花枪</color>"
     },
@@ -1360,9 +1118,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "攻招式威力增加10%"
           },
@@ -1372,7 +1127,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“部位击伤”的几率增加5%"
           },
@@ -1382,10 +1136,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Qiang/BYLHQ"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1400,9 +1151,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/LieYangChangQiang"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>烈阳长枪</color>"
     },
@@ -1417,9 +1165,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "攻招式威力增加75%"
           },
@@ -1429,10 +1174,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Qiang/LRCA"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1447,9 +1189,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/XiFengQiang"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>袭风枪</color>"
     },
@@ -1464,7 +1203,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“神来一击”的几率增加3.5%"
           },
@@ -1474,10 +1212,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Qiang/XFQ"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1492,9 +1227,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/QiMeiChangGun"
-    ],
     "Name": {
       "ValueInfo": "<color=#FFFFFFFF>齐眉长棍</color>"
     },
@@ -1509,7 +1241,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“神来一击”的几率减少2%"
           },
@@ -1519,10 +1250,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Gun/QMG"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1537,9 +1265,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/LongPanGun"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>龙蟠棍</color>"
     },
@@ -1554,7 +1279,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“神来一击”的几率增加4.5%"
           },
@@ -1564,10 +1288,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Gun/LPG"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1582,9 +1303,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/BaGuaChangGun"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>八卦长棍</color>"
     },
@@ -1599,7 +1317,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“神来一击”的几率增加5%"
           },
@@ -1609,10 +1326,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Gun/SM_Wep_BoStaff_01"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1627,9 +1341,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/QiMenLiuXingGun"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>打狗棍</color>"
     },
@@ -1644,7 +1355,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“神来一击”的几率增加5%；招式威力增加18%"
           },
@@ -1654,9 +1364,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "攻招式威力增加18%"
           },
@@ -1666,9 +1373,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "防招式威力增加18%"
           },
@@ -1678,10 +1382,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Gun/QMLXG"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1696,9 +1397,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/ShuiMoRuanBian"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>水磨软鞭</color>"
     },
@@ -1713,7 +1411,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“部位击伤”的几率增加8%"
           },
@@ -1723,10 +1420,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Bian/SMRB"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1741,9 +1435,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/QingJiaBian"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>秦家鞭</color>"
     },
@@ -1758,7 +1449,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“部位击伤”的几率增加5%"
           },
@@ -1768,9 +1458,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "攻招式威力增加5%"
           },
@@ -1780,9 +1467,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "防招式威力增加5%"
           },
@@ -1792,10 +1476,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Bian/QingJiaBian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1810,9 +1491,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/LiuHuangBian"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>柳皇鞭</color>"
     },
@@ -1827,9 +1505,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "攻招式威力增加20%"
           },
@@ -1839,10 +1514,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Bian/LiuHuangBian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1857,9 +1529,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/ChanSiChangBian"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>缠丝长鞭</color>"
     },
@@ -1874,7 +1543,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“神来一击”的几率增加5%"
           },
@@ -1884,10 +1552,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/Bian/ChanSiChangBian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1902,9 +1567,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/SuiYuJinZhen"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>碎玉金针</color>"
     },
@@ -1919,9 +1581,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "攻招式威力增加30%"
           },
@@ -1931,10 +1590,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/AnQi/SYJZUI"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1949,9 +1605,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/YuFengZhen"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>玉蜂针</color>"
     },
@@ -1966,9 +1619,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "攻招式威力增加10%"
           },
@@ -1978,7 +1628,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“部位击伤”的几率增加10%"
           },
@@ -1988,10 +1637,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/AnQi/YuFengZhen"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2006,9 +1652,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/ZiYunDing"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>紫云钉</color>"
     },
@@ -2023,7 +1666,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“部位击伤”的几率增加5%"
           },
@@ -2033,7 +1675,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“神来一击”的几率增加2.5%"
           },
@@ -2043,10 +1684,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/AnQi/ZiYunDing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2061,9 +1699,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/ShiFangTieDing"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>十方碎铁</color>"
     },
@@ -2078,7 +1713,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“神来一击”的几率增加3.5%"
           },
@@ -2088,7 +1722,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“部位击伤”的几率增加15%"
           },
@@ -2098,10 +1731,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/AnQi/ShiFangTieDing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2116,9 +1746,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/BaiGuFeiShi"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>白骨飞石</color>"
     },
@@ -2133,9 +1760,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "攻招式威力增加20%"
           },
@@ -2145,7 +1769,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“部位击伤”的几率增加15%"
           },
@@ -2155,10 +1778,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/AnQi/BaiGuFeiShi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2173,9 +1793,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/JinYingBiao"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>金银镖</color>"
     },
@@ -2190,7 +1807,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“部位击伤”的几率增加12.5%"
           },
@@ -2200,10 +1816,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/AnQi/JinYingBiao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2218,9 +1831,6 @@
     "WuQiTeSe": {
       "ValueInfo": "武器特色11111111111"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Old/CeShiBi"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>测试笔</color>"
     },
@@ -2235,7 +1845,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "“部位击伤”的几率增加12.5%"
           },
@@ -2245,10 +1854,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "3D_UI/3D_UI_Prefab/3DUI_Weapon_Camera/AnQi/JinYingBiao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2263,9 +1869,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻招式威力」增加5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/QiChiJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#FFFFFFFF>三尺剑</color>"
     },
@@ -2278,9 +1881,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加5%"
           },
@@ -2288,19 +1888,10 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Jian/QiChiJian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2315,9 +1906,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻招式威力」增加10%，「神来一击」几率减少2.5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/TieJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#FFFFFFFF>铁剑</color>"
     },
@@ -2330,9 +1918,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加10%"
           },
@@ -2340,16 +1925,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「神来一击」几率减少2.5%"
           },
@@ -2357,19 +1935,10 @@
             "ValueInfo": "减少"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Jian/TieJian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2384,9 +1953,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻防招式威力」减少15%，「神来一击」几率增加6.5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/MuJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>木剑</color>"
     },
@@ -2399,9 +1965,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」减少15%"
           },
@@ -2409,18 +1972,9 @@
             "ValueInfo": "减少"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「防招式威力」减少15%"
           },
@@ -2428,16 +1982,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「神来一击」几率增加6.5%"
           },
@@ -2445,19 +1992,10 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Jian/MuJian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2472,9 +2010,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻招式威力」增加10%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/MinJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>旻剑</color>"
     },
@@ -2487,9 +2022,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加10%"
           },
@@ -2497,19 +2029,10 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Jian/MinJian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2524,9 +2047,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「防招式威力」增加10%，出现「破绽」几率减少5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/ChuJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>楚剑</color>"
     },
@@ -2539,9 +2059,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「防招式威力」增加10%"
           },
@@ -2549,16 +2066,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "出现「破绽」几率减少5%"
           },
@@ -2566,19 +2076,10 @@
             "ValueInfo": "减少"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Jian/ChuJian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2593,9 +2094,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻防招式威力」增加10%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/YinJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>银剑</color>"
     },
@@ -2608,9 +2106,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加10%"
           },
@@ -2618,18 +2113,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「防招式威力」增加10%"
           },
@@ -2637,19 +2123,10 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Jian/YinJian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2664,9 +2141,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「击伤」对方几率增加12%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/XieJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>邪剑</color>"
     },
@@ -2679,7 +2153,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击伤」对方几率增加12%"
           },
@@ -2687,19 +2160,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Jian/XieJian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2714,9 +2178,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「防招式威力」增加10%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/ZhongJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>重剑</color>"
     },
@@ -2729,9 +2190,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「防招式威力」增加10%"
           },
@@ -2739,19 +2197,10 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Jian/ZhongJian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2766,9 +2215,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻招式威力」减少5%，「防招式威力」增加15%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/WuJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>乌剑</color>"
     },
@@ -2781,9 +2227,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」减少5%"
           },
@@ -2791,18 +2234,9 @@
             "ValueInfo": "减少"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「防招式威力」增加15%"
           },
@@ -2810,19 +2244,10 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Jian/WuJian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2837,9 +2262,6 @@
     "WuQiTeSe": {
       "ValueInfo": "出现「破绽」几率减少12%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/HeiTieJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>黑铁剑</color>"
     },
@@ -2852,7 +2274,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "出现「破绽」几率减少12%"
           },
@@ -2860,19 +2281,10 @@
             "ValueInfo": "减少"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Jian/HeiTieJian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2887,9 +2299,6 @@
     "WuQiTeSe": {
       "ValueInfo": "出现「破绽」几率减少8%，被「击伤」几率减少8%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/XuanTieJian"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>玄铁剑</color>"
     },
@@ -2902,7 +2311,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "出现「破绽」几率减少8%"
           },
@@ -2910,16 +2318,9 @@
             "ValueInfo": "减少"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "被「击伤」几率减少8%"
           },
@@ -2927,19 +2328,10 @@
             "ValueInfo": "减少"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Jian/XuanTieJian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2954,9 +2346,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「击破」几率增加5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/BaiQuanDao"
-    ],
     "Name": {
       "ValueInfo": "<color=#FFFFFFFF>白泉刀</color>"
     },
@@ -2969,7 +2358,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击破」几率增加5%"
           },
@@ -2977,19 +2365,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Dao/BaiQuanDao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3004,9 +2383,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻招式威力」增加15%，「神来一击」几率减少3.5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/CaoMangDao"
-    ],
     "Name": {
       "ValueInfo": "<color=#FFFFFFFF>草莽刀</color>"
     },
@@ -3019,9 +2395,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加15%"
           },
@@ -3029,16 +2402,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「神来一击」几率减少3.5%"
           },
@@ -3046,19 +2412,10 @@
             "ValueInfo": "减少"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Dao/CaoMangDao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3073,9 +2430,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻招式威力」增加10%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/LiuYeDao"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>柳叶刀</color>"
     },
@@ -3088,9 +2442,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加10%"
           },
@@ -3098,19 +2449,10 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Dao/LiuYeDao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3125,9 +2467,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻招式威力」增加5%，「击破」几率增加5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/JieDao"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>戒刀</color>"
     },
@@ -3140,9 +2479,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加5%"
           },
@@ -3150,16 +2486,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击破」几率增加5%"
           },
@@ -3167,19 +2496,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Dao/JieDao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3194,9 +2514,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「击破」几率增加10%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/ZhanMaDao"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>斩马刀</color>"
     },
@@ -3209,7 +2526,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击破」几率增加10%"
           },
@@ -3217,19 +2533,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Dao/ZhanMaDao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3244,9 +2551,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻招式威力」增加15%，「击破」几率增加5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/MiaoDao"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>苗刀</color>"
     },
@@ -3259,9 +2563,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加15%"
           },
@@ -3269,16 +2570,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击破」几率增加5%"
           },
@@ -3286,19 +2580,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Dao/MiaoDao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3313,9 +2598,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻防招式威力」增加5%，「击破」几率增加5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/TangDao"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>唐刀</color>"
     },
@@ -3328,9 +2610,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加5%"
           },
@@ -3338,18 +2617,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「防招式威力」增加5%"
           },
@@ -3357,16 +2627,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击破」几率增加5%"
           },
@@ -3374,19 +2637,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Dao/TangDao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3401,9 +2655,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻招式威力」增加20%，「神来一击」几率减少5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/TieChangQiang"
-    ],
     "Name": {
       "ValueInfo": "<color=#FFFFFFFF>铁长枪</color>"
     },
@@ -3416,9 +2667,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加20%"
           },
@@ -3426,16 +2674,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「神来一击」几率减少5%"
           },
@@ -3443,19 +2684,10 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Qiang/TieChangQiang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3470,9 +2702,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻招式威力」增加25%，出现「破绽」几率增加15%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/DaQiang"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>大枪</color>"
     },
@@ -3485,9 +2714,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加25%"
           },
@@ -3495,16 +2721,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "出现「破绽」几率增加15%"
           },
@@ -3512,19 +2731,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Qiang/DaQiang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3539,9 +2749,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻招式威力」增加20%，「防招式威力」减少10%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/SuMuQiang"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>素木枪</color>"
     },
@@ -3554,9 +2761,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加20%"
           },
@@ -3564,18 +2768,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「防招式威力」减少10%"
           },
@@ -3583,19 +2778,10 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Qiang/SuMuQiang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3610,9 +2796,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻招式威力」增加15%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/LiHuaQiang"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>梨花枪</color>"
     },
@@ -3625,9 +2808,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加15%"
           },
@@ -3635,19 +2815,10 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Qiang/LiHuaQiang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3662,9 +2833,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻招式威力」增加20%，「神来一击」几率减少7.5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/HuTouQiang"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>虎头枪</color>"
     },
@@ -3677,9 +2845,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加20%"
           },
@@ -3687,16 +2852,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「神来一击」几率减少7.5%"
           },
@@ -3704,19 +2862,10 @@
             "ValueInfo": "减少"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Qiang/HuTouQiang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3731,9 +2880,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻防招式威力」增加15%，出现「破绽」几率增加10%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/BaiLongQiang"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>白龙枪</color>"
     },
@@ -3746,9 +2892,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加15%"
           },
@@ -3756,18 +2899,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「防招式威力」增加15%"
           },
@@ -3775,16 +2909,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "出现「破绽」几率增加10%"
           },
@@ -3792,19 +2919,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Qiang/BaiLongQiang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3819,9 +2937,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「神来一击」几率增加2.5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/QiMeiGun"
-    ],
     "Name": {
       "ValueInfo": "<color=#FFFFFFFF>齐眉棍</color>"
     },
@@ -3834,7 +2949,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「神来一击」几率增加2.5%"
           },
@@ -3842,19 +2956,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Gun/QiMeiGun"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3869,9 +2974,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「神来一击」几率增加5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/WuMuGun"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>乌木棍</color>"
     },
@@ -3884,7 +2986,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「神来一击」几率增加5%"
           },
@@ -3892,19 +2993,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Gun/WuMuGun"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3919,9 +3011,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「击破」几率增加5%，「神来一击」几率增加2.5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/TongGun"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>铜棍</color>"
     },
@@ -3934,7 +3023,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击破」几率增加5%"
           },
@@ -3942,16 +3030,9 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「神来一击」几率增加2.5%"
           },
@@ -3959,19 +3040,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Gun/TongGun"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3986,9 +3058,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻防招式威力」增加20%，被「击伤」几率增加15%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/TieGun"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>铁棍</color>"
     },
@@ -4001,9 +3070,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加20%"
           },
@@ -4011,18 +3077,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「防招式威力」增加20%"
           },
@@ -4030,16 +3087,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "被「击伤」几率增加15%"
           },
@@ -4047,19 +3097,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Gun/TieGun"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4074,9 +3115,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「神来一击」几率增加3.5%，被「击伤」几率减少10%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/GenGun"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>根棍</color>"
     },
@@ -4089,7 +3127,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「神来一击」几率增加3.5%"
           },
@@ -4097,16 +3134,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "被「击伤」几率减少10%"
           },
@@ -4114,19 +3144,10 @@
             "ValueInfo": "减少"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Gun/GenGun"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4141,9 +3162,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「神来一击」几率增加7%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/XuanMuGun"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>玄木棍</color>"
     },
@@ -4156,7 +3174,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「神来一击」几率增加7%"
           },
@@ -4164,19 +3181,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Gun/XuanMuGun"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4191,9 +3199,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「击破」几率增加5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/ShuiMoRuanBian"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>水磨软鞭</color>"
     },
@@ -4206,7 +3211,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击破」几率增加5%"
           },
@@ -4214,19 +3218,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Bian/ShuiMoRuanBian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4241,9 +3236,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「击破」几率增加5%，「击伤」对方几率增加5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/QingJiaBian"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>秦家鞭</color>"
     },
@@ -4256,7 +3248,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击破」几率增加5%"
           },
@@ -4264,16 +3255,9 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击伤」对方几率增加5%"
           },
@@ -4281,19 +3265,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Bian/QinJiaBian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4308,9 +3283,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「击破」几率增加15%，「防招式威力」减少15%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/LiuHuangBian"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>柳皇鞭</color>"
     },
@@ -4323,7 +3295,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击破」几率增加15%"
           },
@@ -4331,18 +3302,9 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「防招式威力」减少15%"
           },
@@ -4350,19 +3312,10 @@
             "ValueInfo": "减成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Bian/LiuHuangBian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4377,9 +3330,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻防招式威力」增加10%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/CanSiBian"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>缠丝鞭</color>"
     },
@@ -4392,9 +3342,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加10%"
           },
@@ -4402,18 +3349,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「防招式威力」增加10%"
           },
@@ -4421,19 +3359,10 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Bian/ChanSiBian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4448,9 +3377,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻招式威力」增加10%，「击破」几率增加5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/RuanLinBian"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>软灵鞭</color>"
     },
@@ -4463,9 +3389,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加10%"
           },
@@ -4473,16 +3396,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击破」几率增加5%"
           },
@@ -4490,19 +3406,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Bian/RuanLingBian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4517,9 +3424,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「击伤」对方几率增加5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>飞石</color>"
     },
@@ -4532,7 +3436,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击伤」对方几率增加5%"
           },
@@ -4540,19 +3443,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/AnQi/FeiShi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4567,9 +3461,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「击破」几率增加5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>掷箭</color>"
     },
@@ -4582,7 +3473,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击破」几率增加5%"
           },
@@ -4590,19 +3480,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/AnQi/ZhiJian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4617,9 +3498,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「淬毒」几率增加5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>铁钉</color>"
     },
@@ -4632,7 +3510,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「淬毒」几率增加5%"
           },
@@ -4640,19 +3517,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/AnQi/TieDing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4667,9 +3535,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻招式威力」增加10%，「淬毒」几率增加3.5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>银镖</color>"
     },
@@ -4682,9 +3547,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加10%"
           },
@@ -4692,16 +3554,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「淬毒」几率增加3.5%"
           },
@@ -4709,19 +3564,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/AnQi/YinBiao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4736,9 +3582,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻招式威力」增加10%，「击破」几率增加3.5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>飞刀</color>"
     },
@@ -4751,9 +3594,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加10%"
           },
@@ -4761,16 +3601,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击破」几率增加3.5%"
           },
@@ -4778,19 +3611,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/AnQi/FeiDao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4805,9 +3629,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「击伤」几率增加13%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>银针</color>"
     },
@@ -4820,7 +3641,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击伤」几率增加13%"
           },
@@ -4828,19 +3648,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/AnQi/YinZhen"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4855,9 +3666,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「淬毒」几率增加13%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>金针</color>"
     },
@@ -4870,7 +3678,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「淬毒」几率增加13%"
           },
@@ -4878,19 +3685,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/AnQi/JinZhen"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4905,9 +3703,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「击伤」几率增加6%，「淬毒」几率增加6%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>如意珠</color>"
     },
@@ -4920,7 +3715,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击伤」几率增加6%"
           },
@@ -4928,16 +3722,9 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「淬毒」几率增加6%"
           },
@@ -4945,19 +3732,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/AnQi/RuYiZhu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4970,9 +3748,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻防招式威力」增加5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/YingGouBi"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>银钩笔</color>"
     },
@@ -4985,9 +3760,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加5%"
           },
@@ -4995,18 +3767,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「防招式威力」增加5%"
           },
@@ -5014,19 +3777,10 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Bi/YinGouBi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5039,9 +3793,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「神来一击」几率增加5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/MoShengBi"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>默笙笔</color>"
     },
@@ -5054,7 +3805,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「神来一击」几率增加5%"
           },
@@ -5062,19 +3812,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Bi/MoShengBi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5087,9 +3828,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻防招式威力」增加5%，「神来一击」几率增加4%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/YuJianBi"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>玉坚笔</color>"
     },
@@ -5102,9 +3840,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加5%"
           },
@@ -5112,18 +3847,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「防招式威力」增加5%"
           },
@@ -5131,16 +3857,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「神来一击」几率增加4%"
           },
@@ -5148,19 +3867,10 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Bi/YuJianBi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5173,9 +3883,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻防招式威力」增加10%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/BaiLangHao"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>白狼毫</color>"
     },
@@ -5188,9 +3895,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加10%"
           },
@@ -5198,18 +3902,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「防招式威力」增加10%"
           },
@@ -5217,19 +3912,10 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Bi/BaiLangHao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5244,9 +3930,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「击落」几率增加8%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/TieDuanFu"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>铁短斧</color>"
     },
@@ -5259,7 +3942,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击落」对方兵器几率增加8%"
           },
@@ -5267,19 +3949,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/0608 ADD/BingQi0608/Fu/TieDuanFu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5294,9 +3967,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「防招式威力」增加10%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/BanFu"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>板斧</color>"
     },
@@ -5309,9 +3979,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「防招式威力」增加10%"
           },
@@ -5319,19 +3986,10 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/0608 ADD/BingQi0608/Fu/BanFu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5346,9 +4004,6 @@
     "WuQiTeSe": {
       "ValueInfo": "出现[破绽]几率减少10%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/QingGangFu"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>青钢斧</color>"
     },
@@ -5361,7 +4016,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "出现「破绽」几率减少10%"
           },
@@ -5369,19 +4023,10 @@
             "ValueInfo": "减少"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/0608 ADD/BingQi0608/Fu/QingGangFu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5396,9 +4041,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「防招式威力」增加15%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/XuanHuaFu"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>宣花斧</color>"
     },
@@ -5411,9 +4053,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「防招式威力」增加15%"
           },
@@ -5421,19 +4060,10 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/0608 ADD/BingQi0608/Fu/XuanHuaFu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5448,9 +4078,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「击落」几率增加16%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/WuTieFu"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>乌铁斧</color>"
     },
@@ -5463,7 +4090,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击落」对方兵器几率增加16%"
           },
@@ -5471,19 +4097,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/0608 ADD/BingQi0608/Fu/WuTieFu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5498,9 +4115,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「击伤」对方几率增加10%；「神来一击」几率减少10%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/TieGou"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>铁钩</color>"
     },
@@ -5513,7 +4127,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击伤」对方几率增加10%"
           },
@@ -5521,16 +4134,9 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「神来一击」几率减少10%"
           },
@@ -5538,19 +4144,10 @@
             "ValueInfo": "减少"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/0608 ADD/BingQi0608/Gou/TieGou"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5565,9 +4162,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「击伤」对方几率增加5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/YinGou"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>银钩</color>"
     },
@@ -5580,7 +4174,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击伤」对方几率增加5%"
           },
@@ -5588,19 +4181,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/0608 ADD/BingQi0608/Gou/YinGou"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5615,9 +4199,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「攻招式威力」增加10%，「击伤」对方几率增加5%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/LuJiaoGou"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>鹿角钩</color>"
     },
@@ -5630,9 +4211,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加10%"
           },
@@ -5640,16 +4218,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击伤」对方几率增加5%"
           },
@@ -5657,19 +4228,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/0608 ADD/BingQi0608/Gou/LuJiaoGou"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5684,9 +4246,6 @@
     "WuQiTeSe": {
       "ValueInfo": "「击伤」对方几率增加15%"
     },
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/HuTouGou"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>虎头钩</color>"
     },
@@ -5699,7 +4258,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击伤」对方几率增加15%"
           },
@@ -5707,19 +4265,10 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/0608 ADD/BingQi0608/Gou/HuTouGou"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5732,9 +4281,6 @@
       "ValueInfo": "后缀"
     },
     "WuQiTeSe": {},
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
-    ],
     "Name": {
       "ValueInfo": "<color=#FFFFFFFF>玄铁重剑</color>"
     },
@@ -5747,9 +4293,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「攻招式威力」增加5%"
           },
@@ -5757,18 +4300,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「防招式威力」增加10%"
           },
@@ -5776,16 +4310,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「神来一击」几率减少3.5%"
           },
@@ -5793,16 +4320,9 @@
             "ValueInfo": "减少"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "出现「破绽」几率减少5%"
           },
@@ -5810,16 +4330,9 @@
             "ValueInfo": "减少"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击破」几率增加5%"
           },
@@ -5827,16 +4340,9 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击伤」对方几率增加12%"
           },
@@ -5844,16 +4350,9 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "被「击伤」几率增加15%"
           },
@@ -5861,16 +4360,9 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「淬毒」几率增加5%"
           },
@@ -5878,16 +4370,9 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "「击杀」对方几率增加5%"
           },
@@ -5895,16 +4380,9 @@
             "ValueInfo": "增加"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [],
           "Name": {
             "Value": "被「击杀」几率降低20%"
           },
@@ -5912,18 +4390,9 @@
             "ValueInfo": "减少"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "GongZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「阳」「攻招式威力」增加15%"
           },
@@ -5931,16 +4400,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              1
-            ]
-          }
+          "YinYangLeiXing": {}
         },
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "「阴阳」「防招式威力」增加80%"
           },
@@ -5948,17 +4410,10 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Jian/QiChiJian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5971,9 +4426,6 @@
       "ValueInfo": "后缀"
     },
     "WuQiTeSe": {},
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
-    ],
     "Name": {
       "ValueInfo": "<color=#23FF00FF>玄铁重剑</color>"
     },
@@ -5986,9 +4438,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "防招式威力增加65%"
           },
@@ -5996,19 +4445,10 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Jian/QiChiJian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6021,9 +4461,6 @@
       "ValueInfo": "后缀"
     },
     "WuQiTeSe": {},
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>玄铁重剑</color>"
     },
@@ -6036,9 +4473,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "防招式威力增加65%"
           },
@@ -6046,19 +4480,10 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Jian/QiChiJian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6071,9 +4496,6 @@
       "ValueInfo": "后缀"
     },
     "WuQiTeSe": {},
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>玄铁重剑</color>"
     },
@@ -6086,9 +4508,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "防招式威力增加65%"
           },
@@ -6096,19 +4515,10 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Jian/QiChiJian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6121,9 +4531,6 @@
       "ValueInfo": "后缀"
     },
     "WuQiTeSe": {},
-    "EquipmentPrefab": [
-      "ZhaLie/Parts/Weapon/Normal/AnQiZW"
-    ],
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>玄铁重剑</color>"
     },
@@ -6136,9 +4543,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouZhaoShiTaoLuQiangDu_0000000001"
-          ],
           "Name": {
             "Value": "防招式威力增加65%"
           },
@@ -6146,18 +4550,9 @@
             "ValueInfo": "加成"
           },
           "Value": {},
-          "YinYangLeiXing": {
-            "Value": [
-              0,
-              1,
-              2
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/BingQi/Jian/QiChiJian"
-    ]
+    }
   }
 ]

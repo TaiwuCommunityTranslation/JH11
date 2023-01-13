@@ -18,9 +18,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+5"
           },
@@ -39,9 +36,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -68,10 +62,7 @@
           "Description": "「集中」+3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/CaiCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -92,9 +83,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+5"
           },
@@ -113,9 +101,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -142,10 +127,7 @@
           "Description": "「集中」+3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/SongZhenCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -166,9 +148,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {
             "Value": "「杀意」-10"
           },
@@ -187,9 +166,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -216,10 +192,7 @@
           "Description": "「集中」+3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/TianJuCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -240,9 +213,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+5"
           },
@@ -261,9 +231,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -290,10 +257,7 @@
           "Description": "「镇定」+3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/GuiZiCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -314,9 +278,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {
             "Value": "「杀意」-10"
           },
@@ -335,9 +296,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -364,10 +322,7 @@
           "Description": "「镇定」+3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/MoLiHuaCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -388,9 +343,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+5"
           },
@@ -409,9 +361,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -438,10 +387,7 @@
           "Description": "「集中」+3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/MeiHuaCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -462,9 +408,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {
             "Value": "「杀意」-15 「涵养」+3"
           },
@@ -483,9 +426,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -502,9 +442,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -521,9 +458,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -556,10 +490,7 @@
           "Description": "「镇定」+5"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/HongQingCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -580,9 +511,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {
             "Value": "「涵养」+3 「道德」+3"
           },
@@ -601,9 +529,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -620,9 +545,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -639,9 +561,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -674,10 +593,7 @@
           "Description": "「镇定」+5"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/PuErShuCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -698,9 +614,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {
             "Value": "「涵养」+3 「交涉」+3"
           },
@@ -719,9 +632,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterJiaoShe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -738,9 +648,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -757,9 +664,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -792,10 +696,7 @@
           "Description": "「气法」+5"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/ShanQingCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -816,9 +717,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {
             "Value": "「杀意」-15 「涵养」+3"
           },
@@ -837,9 +735,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -856,9 +751,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -875,9 +767,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -910,10 +799,7 @@
           "Description": "「镇定」+5"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/DaYeQing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -934,9 +820,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {
             "Value": "「福缘」+3 「涵养」+3"
           },
@@ -955,9 +838,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -974,9 +854,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -993,9 +870,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -1028,10 +902,7 @@
           "Description": "「镇定」+5"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/HuQiuCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1052,9 +923,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhiLi_0000000001"
-          ],
           "Name": {
             "Value": "「指力」+1 「福缘」+3"
           },
@@ -1073,9 +941,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -1092,9 +957,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -1111,9 +973,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -1146,10 +1005,7 @@
           "Description": "「集中」+5"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/ZiYangCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1170,9 +1026,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DaoFa_0000000001"
-          ],
           "Name": {
             "Value": "「使刀」+1 「魅力」+3"
           },
@@ -1191,9 +1044,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -1210,9 +1060,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -1229,9 +1076,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -1264,10 +1108,7 @@
           "Description": "「镇定」+5"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/MeiShanMan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1288,9 +1129,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouCang_0000000001"
-          ],
           "Name": {
             "Value": "「收藏」+6 「福缘」+6"
           },
@@ -1309,9 +1147,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -1328,9 +1163,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -1347,9 +1179,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -1382,10 +1211,7 @@
           "Description": "「镇定」+8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/LongJingCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1406,9 +1232,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJiaoShe_0000000001"
-          ],
           "Name": {
             "Value": "「交涉」+6 「涵养」+6"
           },
@@ -1427,9 +1250,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -1446,9 +1266,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -1465,9 +1282,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -1500,10 +1314,7 @@
           "Description": "「意志」+8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/QiMenHongCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1524,9 +1335,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {
             "Value": "「福缘」+6 「涵养」+6"
           },
@@ -1545,9 +1353,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -1564,9 +1369,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -1583,9 +1385,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -1618,10 +1417,7 @@
           "Description": "「集中」+8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/JinJunMei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1642,9 +1438,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {
             "Value": "「道德」+6 「魅力」+6"
           },
@@ -1663,9 +1456,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -1682,9 +1472,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -1701,9 +1488,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -1736,10 +1520,7 @@
           "Description": "「镇定」+8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/TaiPingHouKui"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1760,9 +1541,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {
             "Value": "「杀意」-40 「笔法」+2"
           },
@@ -1781,9 +1559,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "BiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -1800,9 +1575,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -1819,9 +1591,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -1854,10 +1623,7 @@
           "Description": "「气法」+8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/JunShanYinZhen"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1878,9 +1644,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShiBian_0000000001"
-          ],
           "Name": {
             "Value": "「鞭法」+2 「魅力」+6"
           },
@@ -1899,9 +1662,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -1918,9 +1678,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -1937,9 +1694,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -1972,10 +1726,7 @@
           "Description": "「镇定」+8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/FengHongShuiXian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1996,9 +1747,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CunJin_0000000001"
-          ],
           "Name": {
             "Value": "「暗器」+2 「神来」+6"
           },
@@ -2017,9 +1765,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -2036,9 +1781,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -2055,9 +1797,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -2090,10 +1829,7 @@
           "Description": "「集中」+8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/JinSiHuangJuCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2114,9 +1850,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {
             "Value": "「悟性」+10 「福缘」+10"
           },
@@ -2135,9 +1868,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -2154,9 +1884,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -2173,9 +1900,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -2208,10 +1932,7 @@
           "Description": "「气法」+10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/NaXiMeiLing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2232,9 +1953,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {
             "Value": "「道德」+10 「涵养」+10"
           },
@@ -2253,9 +1971,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -2272,9 +1987,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -2291,9 +2003,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -2326,10 +2035,7 @@
           "Description": "「气法」+10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/YuanZhouJinPian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2350,9 +2056,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "BiFa_0000000001"
-          ],
           "Name": {
             "Value": "「笔法」+3 「神来」+10"
           },
@@ -2371,9 +2074,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -2390,9 +2090,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -2409,9 +2106,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -2444,10 +2138,7 @@
           "Description": "「决断」+10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/YaShanCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2468,9 +2159,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "「乐器」+10 「魅力」+10"
           },
@@ -2489,9 +2177,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -2508,9 +2193,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -2527,9 +2209,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -2562,10 +2241,7 @@
           "Description": "「镇定」+10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/FangShanLuYa"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2586,9 +2262,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YongQiang_0000000001"
-          ],
           "Name": {
             "Value": "「用枪」+3 「涵养」+10"
           },
@@ -2607,9 +2280,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -2626,9 +2296,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -2645,9 +2312,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -2680,10 +2344,7 @@
           "Description": "「集中」+10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/RiZhuCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2704,9 +2365,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QuanZhang_0000000001"
-          ],
           "Name": {
             "Value": "「拳掌」+3 「涵养」+10"
           },
@@ -2725,9 +2383,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -2744,9 +2399,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -2763,9 +2415,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JinGu_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -2798,10 +2447,7 @@
           "Description": "「筋骨」+10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/TianZunYanYeCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2822,9 +2468,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JianFa_0000000001"
-          ],
           "Name": {
             "Value": "「用剑」+3 「神来」+10"
           },
@@ -2843,9 +2486,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -2862,9 +2502,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -2881,9 +2518,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -2916,10 +2550,7 @@
           "Description": "「集中」+10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/EMeiBaiYaCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2940,9 +2571,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChuiFu_0000000001"
-          ],
           "Name": {
             "Value": "「运斧」+3 「福缘」+10"
           },
@@ -2961,9 +2589,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -2980,9 +2605,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -2999,9 +2621,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -3034,10 +2653,7 @@
           "Description": "「意志」+10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/TieLuoHanCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3058,9 +2674,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShuaGun_0000000001"
-          ],
           "Name": {
             "Value": "「耍棍」+3 「福缘」+10"
           },
@@ -3079,9 +2692,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -3098,9 +2708,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -3117,9 +2724,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -3152,10 +2756,7 @@
           "Description": "「镇定」+10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/BaiHaoYinZhen"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3176,9 +2777,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GouFa_0000000001"
-          ],
           "Name": {
             "Value": "「钩法」+2 「魅力」+6"
           },
@@ -3197,9 +2795,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -3216,9 +2811,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -3235,9 +2827,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -3270,10 +2859,7 @@
           "Description": "「镇定」+8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/PuBuLingCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3294,9 +2880,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhiLi_0000000001"
-          ],
           "Name": {
             "Value": "「指力」+2 「悟性」+6"
           },
@@ -3315,9 +2898,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -3334,9 +2914,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -3353,9 +2930,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -3388,10 +2962,7 @@
           "Description": "「决断」+8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/GuZhuZiSun"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3412,9 +2983,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "HuiHua_0000000001"
-          ],
           "Name": {
             "Value": "「书画」+6 「涵养」+6"
           },
@@ -3433,9 +3001,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -3452,9 +3017,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -3471,9 +3033,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -3506,10 +3065,7 @@
           "Description": "「决断」+8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/WoLongShanCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3530,9 +3086,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "PengRen_0000000001"
-          ],
           "Name": {
             "Value": "「烹饪」+6 「魅力」+6"
           },
@@ -3551,9 +3104,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -3570,9 +3120,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -3589,9 +3136,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -3624,10 +3168,7 @@
           "Description": "「镇定」+8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/ChengNanXiCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3648,9 +3189,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {
             "Value": "「杀意」-20 「福缘」+6"
           },
@@ -3669,9 +3207,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -3688,9 +3223,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -3707,9 +3239,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -3742,10 +3271,7 @@
           "Description": "「镇定」+8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/ShiJianLingCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3766,9 +3292,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {
             "Value": "「集中」+2 「镇定」+4"
           },
@@ -3787,9 +3310,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -3806,9 +3326,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -3825,9 +3342,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -3860,10 +3374,7 @@
           "Description": "「气法」+8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1215 ADD/ChaYe/ShouShenBaoCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3884,9 +3395,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {
             "Value": "「意志」+2 「决断」+4"
           },
@@ -3905,9 +3413,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -3924,9 +3429,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -3956,10 +3458,7 @@
           "Description": "「气法」+10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1215 ADD/ChaYe/ZuoWangCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3980,9 +3479,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {
             "Value": "「调息」+6 「福缘」+6"
           },
@@ -4001,9 +3497,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -4020,9 +3513,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -4052,10 +3542,7 @@
           "Description": "「神来」+12"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1215 ADD/ChaYe/SuGuangXuanCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4076,9 +3563,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {
             "Value": "「气法」+6 「镇定」+6"
           },
@@ -4097,9 +3581,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -4116,9 +3597,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -4148,10 +3626,7 @@
           "Description": "「意志」+8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1215 ADD/ChaYe/YangXinCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4172,9 +3647,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShenXing_0000000001"
-          ],
           "Name": {
             "Value": "「身形」+6 「神来」+6"
           },
@@ -4193,9 +3665,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "饮茶状态"
@@ -4212,9 +3681,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "静心状态"
@@ -4244,10 +3710,7 @@
           "Description": "「集中」+8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1215 ADD/ChaYe/QingWeiYinPian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4268,9 +3731,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "无携带效果"
           },
@@ -4283,10 +3743,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/CuZhiTaoWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4307,9 +3764,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "无携带效果"
           },
@@ -4322,10 +3776,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/CuZhiCiWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4346,9 +3797,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "无携带效果"
           },
@@ -4361,10 +3809,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/BaiCiShouHuiWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4385,9 +3830,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "无携带效果"
           },
@@ -4400,10 +3842,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/BaiNiCuTaoHu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4424,9 +3863,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "无携带效果"
           },
@@ -4439,10 +3875,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/CuZhiCiChaHu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4463,9 +3896,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "「茶道」+1"
           },
@@ -4478,10 +3908,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/FenQingYouChaHu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4502,9 +3929,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "「茶道」+1"
           },
@@ -4517,10 +3941,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/HeBanChaWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4541,9 +3962,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "「茶道」+1"
           },
@@ -4556,10 +3974,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/LianBanChaWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4580,9 +3995,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "「茶道」+1"
           },
@@ -4595,10 +4007,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/MeiBanChaWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4619,9 +4028,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "「茶道」+1"
           },
@@ -4634,10 +4040,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/GuYueChaWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4658,9 +4061,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "「茶道」+1"
           },
@@ -4673,10 +4073,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/LiuFangChaWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4697,9 +4094,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "「茶道」+2"
           },
@@ -4712,10 +4106,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/MeiGuiZiWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4736,9 +4127,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "「茶道」+1 「集中」+1"
           },
@@ -4751,9 +4139,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -4764,10 +4149,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/LongQuanDouLiZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4788,9 +4170,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {
             "Value": "「涵养」+2"
           },
@@ -4803,10 +4182,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/BaiCiYinHua"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4827,9 +4203,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "「茶道」+1 「收藏」+1"
           },
@@ -4842,9 +4215,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShouCang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -4855,10 +4225,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/JianZhiTieHuaZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4879,9 +4246,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "「茶道」+1 「福缘」+1"
           },
@@ -4894,9 +4258,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -4907,10 +4268,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/YinHuaShuangFengZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4931,9 +4289,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "「茶道」+1 「筋骨」+1"
           },
@@ -4946,9 +4301,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JinGu_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -4959,10 +4311,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/BingLieWenZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4983,9 +4332,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {
             "Value": "「涵养」+3"
           },
@@ -4998,10 +4344,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/RuYiBei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5022,9 +4365,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "「茶道」+3"
           },
@@ -5037,10 +4377,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/YueYaoQingCi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5061,9 +4398,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {
             "Value": "「魅力」+3"
           },
@@ -5076,10 +4410,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/YinXingBanWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5100,9 +4431,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "「茶道」+2 「福缘」+1"
           },
@@ -5115,9 +4443,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -5128,10 +4453,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/HeiYouTuHaoZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5152,9 +4474,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {
             "Value": "「见识」+3"
           },
@@ -5167,10 +4486,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/YaoBianTianMu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5191,9 +4507,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "「乐器」+3"
           },
@@ -5206,10 +4519,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/WenPianBingLieWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5230,9 +4540,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {
             "Value": "「悟性」+3"
           },
@@ -5245,10 +4552,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/XingXiangXuanShaChaWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5269,9 +4573,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {
             "Value": "「神来」+3"
           },
@@ -5284,10 +4585,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/KeLongFengWenZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5306,9 +4604,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "「茶道」+1 「气法」+1"
           },
@@ -5321,9 +4616,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -5334,10 +4626,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/ChunSuWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5356,9 +4645,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "「茶道」+1 「调息」+1"
           },
@@ -5371,9 +4657,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -5384,10 +4667,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/FengGuiBei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5406,9 +4686,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouCang_0000000001"
-          ],
           "Name": {
             "Value": "「收藏」+2"
           },
@@ -5421,10 +4698,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/ChaJu/XiaoLanChaShengZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5443,9 +4717,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShenXing_0000000001"
-          ],
           "Name": {
             "Value": "「身形」+1 「下盘」+1"
           },
@@ -5458,9 +4729,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XiaPan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -5471,10 +4739,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/ChaJu/HanYanWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5493,9 +4758,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {
             "Value": "「神来」+2"
           },
@@ -5508,10 +4770,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/ChaJu/QiCaiWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5530,9 +4789,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GuanPu_0000000001"
-          ],
           "Name": {
             "Value": "「关扑」+1 「收藏」+1"
           },
@@ -5545,9 +4801,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShouCang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -5558,10 +4811,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/ChaJu/XingShuZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5580,9 +4830,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {
             "Value": "「集中」+2 「镇定」+2"
           },
@@ -5595,9 +4842,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -5608,10 +4852,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/ChaJu/WenFengSuYin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5630,9 +4871,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {
             "Value": "「福缘」+3"
           },
@@ -5645,10 +4883,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/ChaJu/GuXianCi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5667,9 +4902,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "BiFa_0000000001"
-          ],
           "Name": {
             "Value": "「笔法」+3"
           },
@@ -5682,9 +4914,6 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/ChaJu/ShouLongXuanWei"
-    ]
+    }
   }
 ]

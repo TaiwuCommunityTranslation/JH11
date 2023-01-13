@@ -15,22 +15,6 @@
     "Name": {
       "ValueInfo": "<color=#53FF4EFF>吉▪得心应手</color>"
     },
-    "WuGongType": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      13,
-      14
-    ],
     "Description": "「武功」修炼速度提高50%"
   },
   {
@@ -67,27 +51,18 @@
     "Name": {
       "ValueInfo": "<color=#53FF4EFF>吉▪博古通今</color>"
     },
-    "BuffTypes": [
-      17
-    ],
     "Description": "「把玩状态」持续时间翻倍"
   },
   {
     "Name": {
       "ValueInfo": "<color=#53FF4EFF>吉▪心如止水</color>"
     },
-    "BuffTypes": [
-      18
-    ],
     "Description": "「冥想状态」持续时间翻倍"
   },
   {
     "Name": {
       "ValueInfo": "<color=#53FF4EFF>吉▪灵丹圣药</color>"
     },
-    "BuffTypes": [
-      7
-    ],
     "Description": "补药「进补状态」效果翻倍"
   },
   {
@@ -118,22 +93,6 @@
     "Name": {
       "ValueInfo": "<color=#FF5E4EFF>凶▪不知进退</color>"
     },
-    "WuGongType": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      13,
-      14
-    ],
     "Description": "「武功」修炼速度降低50%"
   },
   {

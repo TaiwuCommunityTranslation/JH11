@@ -1,26 +1,5 @@
 [
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_TaiShanPai_0000000001"
-    ],
     "BattleName": [
       "泰山护卫"
     ],
@@ -29,27 +8,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "金宗护卫"
     ],
@@ -58,27 +16,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_QingWangSi_0000000001"
-    ],
     "BattleName": [
       "青王护卫"
     ],
@@ -87,27 +24,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_TianZunJiao_0000000001"
-    ],
     "BattleName": [
       "天尊护卫"
     ],
@@ -116,27 +32,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "银宗护卫"
     ],
@@ -145,27 +40,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "银宗护卫"
     ],
@@ -174,27 +48,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "金宗护卫"
     ],
@@ -203,27 +56,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "银宗护卫"
     ],
@@ -232,27 +64,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "银宗护卫"
     ],
@@ -261,27 +72,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "金宗护卫"
     ],
@@ -290,27 +80,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_QuanZhenJiao_0000000001"
-    ],
     "BattleName": [
       "全真护卫"
     ],
@@ -319,27 +88,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "银宗护卫"
     ],
@@ -348,27 +96,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "银宗护卫"
     ],
@@ -377,27 +104,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "金宗护卫"
     ],
@@ -406,27 +112,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "银宗护卫"
     ],
@@ -435,27 +120,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "银宗护卫"
     ],
@@ -464,27 +128,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_NanYangQuanZhuang_0000000001"
-    ],
     "BattleName": [
       "南阳护卫"
     ],
@@ -493,27 +136,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "银宗护卫"
     ],
@@ -522,27 +144,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_0000000001"
-    ],
     "BattleName": [
       "铜宗护卫"
     ],
@@ -551,27 +152,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_TaiShanPai_0000000001"
-    ],
     "BattleName": [
       "泰山护卫"
     ],
@@ -580,27 +160,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "银宗护卫"
     ],
@@ -609,27 +168,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_GaiBang_0000000001"
-    ],
     "BattleName": [
       "丐帮护卫"
     ],
@@ -638,27 +176,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "金宗护卫"
     ],
@@ -667,27 +184,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      100.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "绝宗护卫"
     ],
@@ -696,27 +192,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "银宗护卫"
     ],
@@ -725,27 +200,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "金宗护卫"
     ],
@@ -754,27 +208,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "银宗护卫"
     ],
@@ -783,27 +216,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_JianHigh_0000000001"
-    ],
     "BattleName": [
       "银宗护卫"
     ],
@@ -812,27 +224,6 @@
     ]
   },
   {
-    "DangWei": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      100.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DropBag": [
-      "Bag_EA_KeDiJieDai_D"
-    ],
-    "BattleCharacterTemplates": [
-      "TongYong_SXTemp_WuMenPai_0000000001"
-    ],
     "BattleName": [
       "铜宗护卫"
     ],

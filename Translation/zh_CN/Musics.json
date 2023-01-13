@@ -18,9 +18,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JianFa_0000000001"
-          ],
           "Name": {
             "Value": "「用剑」+3 「身形」+3"
           },
@@ -39,9 +36,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -68,10 +62,7 @@
           "Description": "「身形」+3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/BaiXueCao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -92,9 +83,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShuaGun_0000000001"
-          ],
           "Name": {
             "Value": "「耍棍」+3 「气法」+3"
           },
@@ -113,9 +101,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -142,10 +127,7 @@
           "Description": "「气法」+3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/LuMingCao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -166,9 +148,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YongQiang_0000000001"
-          ],
           "Name": {
             "Value": "「用枪」+3 「体魄」+3"
           },
@@ -187,9 +166,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -216,10 +192,7 @@
           "Description": "「体魄」+3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/ZouYuCao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -240,9 +213,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QuanZhang_0000000001"
-          ],
           "Name": {
             "Value": "「拳掌」+3 「意志」+3"
           },
@@ -261,9 +231,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -290,10 +257,7 @@
           "Description": "「意志」+3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/QueChaoCao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -314,9 +278,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DaoFa_0000000001"
-          ],
           "Name": {
             "Value": "「使刀」+3 「决断」+3"
           },
@@ -335,9 +296,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -364,10 +322,7 @@
           "Description": "「决断」+3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/BoJiYin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -388,9 +343,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JianFa_0000000001"
-          ],
           "Name": {
             "Value": "「用剑」+6 「集中」+6 「魅力」+6"
           },
@@ -409,9 +361,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -428,9 +377,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -460,10 +406,7 @@
           "Description": "「魅力」+6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/WuShanShenNv"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -484,9 +427,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShiBian_0000000001"
-          ],
           "Name": {
             "Value": "「鞭法」+6 「杀意」+6 「决断」+6"
           },
@@ -505,9 +445,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -524,9 +461,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -556,10 +490,7 @@
           "Description": "「决断」+6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/LieNvYin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -580,9 +511,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CunJin_0000000001"
-          ],
           "Name": {
             "Value": "「暗器」+6 「身形」+6 「神来」+6"
           },
@@ -601,9 +529,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -620,9 +545,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -652,10 +574,7 @@
           "Description": "「神来」+6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/PiLiYin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -676,9 +595,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChuiFu_0000000001"
-          ],
           "Name": {
             "Value": "「斧法」+6 「体魄」+6 「集中」+6"
           },
@@ -697,9 +613,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -716,9 +629,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -748,10 +658,7 @@
           "Description": "「集中」+6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/ShenFengCao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -772,9 +679,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QuanZhang_0000000001"
-          ],
           "Name": {
             "Value": "「拳掌」+6 「体魄」+6 「意志」+6"
           },
@@ -793,9 +697,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -812,9 +713,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -844,10 +742,7 @@
           "Description": "「意志」+6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/BeiBiCao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -868,9 +763,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "BiFa_0000000001"
-          ],
           "Name": {
             "Value": "「笔法」+6 「集中」+6 「交涉」+6"
           },
@@ -889,9 +781,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -908,9 +797,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterJiaoShe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -940,10 +826,7 @@
           "Description": "「交涉」+6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/FengQiuhuang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -964,9 +847,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShiBian_0000000001"
-          ],
           "Name": {
             "Value": "「鞭术」+6 「调息」+6 「气法」+6"
           },
@@ -985,9 +865,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1004,9 +881,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1036,10 +910,7 @@
           "Description": "「气法」+6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/QingFengYaoYuPei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1060,9 +931,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhiLi_0000000001"
-          ],
           "Name": {
             "Value": "「指力」+6 「诗词」+6 「集中」+6"
           },
@@ -1081,9 +949,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShiCi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1100,9 +965,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1132,10 +994,7 @@
           "Description": "「集中」+6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/MoZiBeiSi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1156,9 +1015,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JianFa_0000000001"
-          ],
           "Name": {
             "Value": "「用剑」+10 「使刀」+10 「交涉」+10 「福缘」+10"
           },
@@ -1177,9 +1033,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DaoFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1196,9 +1049,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterJiaoShe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1215,9 +1065,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1250,10 +1097,7 @@
           "Description": "「福缘」+10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/BoYaYiZiQi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1274,9 +1118,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QuanZhang_0000000001"
-          ],
           "Name": {
             "Value": "「拳掌」+10 「道德」+10 「调息」+10 「气法」+10"
           },
@@ -1295,9 +1136,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1314,9 +1152,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1333,9 +1168,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1368,10 +1200,7 @@
           "Description": "「气法」+10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/WenWangCao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1392,9 +1221,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShuaGun_0000000001"
-          ],
           "Name": {
             "Value": "「耍棍」+10 「神来」+10 「决断」+10 「悟性」+10"
           },
@@ -1413,9 +1239,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1432,9 +1255,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1451,9 +1271,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1486,10 +1303,7 @@
           "Description": "「悟性」+10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/GaoShanLiuShui"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1510,9 +1324,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YongQiang_0000000001"
-          ],
           "Name": {
             "Value": "「用枪」+10 「筋骨」+10 「集中」+10 「决断」+10"
           },
@@ -1531,9 +1342,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JinGu_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1550,9 +1358,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1569,9 +1374,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1604,10 +1406,7 @@
           "Description": "「决断」+10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/CangHaiLongYin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1628,9 +1427,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CunJin_0000000001"
-          ],
           "Name": {
             "Value": "「暗器」+10 「饮酒」+10 「神来」+10 「集中」+10"
           },
@@ -1649,9 +1445,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1668,9 +1461,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1687,9 +1477,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1722,10 +1509,7 @@
           "Description": "「集中」+10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/YuHuaDengXian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1746,9 +1530,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GouFa_0000000001"
-          ],
           "Name": {
             "Value": "「钩法」+10 「气法」+10 「身形」+10 「魅力」+10"
           },
@@ -1767,9 +1548,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1786,9 +1564,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1805,9 +1580,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1840,10 +1612,7 @@
           "Description": "「魅力」+10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/QiuHong"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1864,9 +1633,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DaoFa_0000000001"
-          ],
           "Name": {
             "Value": "「使刀」+10 「体魄」+10 「意志」+10 「镇定」+10"
           },
@@ -1885,9 +1651,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1904,9 +1667,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1923,9 +1683,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1958,10 +1715,7 @@
           "Description": "「镇定」+10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/ZhiChaoFei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1982,9 +1736,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShiBian_0000000001"
-          ],
           "Name": {
             "Value": "「鞭术」+10 「身形」+10 「集中」+10 「福缘」+10"
           },
@@ -2003,9 +1754,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -2022,9 +1770,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -2041,9 +1786,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -2076,10 +1818,7 @@
           "Description": "「福缘」+10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/BiTianQiuSi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2100,9 +1839,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhiLi_0000000001"
-          ],
           "Name": {
             "Value": "「指力」+10 「诗词」+10 「气法」+10 「体魄」+10"
           },
@@ -2121,9 +1857,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShiCi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -2140,9 +1873,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -2159,9 +1889,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -2194,10 +1921,7 @@
           "Description": "「体魄」+10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/XiaoXiangShuiYun"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2218,9 +1942,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuMai_0000000001"
-          ],
           "Name": {
             "Value": "「督脉」+10 「任脉」+10 「魅力」+10 「涵养」+10"
           },
@@ -2239,9 +1960,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "RenMai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -2258,9 +1976,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -2277,9 +1992,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -2312,10 +2024,7 @@
           "Description": "「涵养」+10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/GuangLingSan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2334,9 +2043,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {
             "Value": "「魅力」+3 「福缘」+3"
           },
@@ -2355,9 +2061,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -2384,10 +2087,7 @@
           "Description": "「福缘」+3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/QianJinQing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2406,9 +2106,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouCang_0000000001"
-          ],
           "Name": {
             "Value": "「收藏」+3 「交涉」+3"
           },
@@ -2427,9 +2124,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterJiaoShe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -2456,10 +2150,7 @@
           "Description": "「交涉」+3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/XianDaoCao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2478,9 +2169,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {
             "Value": "「悟性」+3 「见识」+3"
           },
@@ -2499,9 +2187,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -2528,10 +2213,7 @@
           "Description": "「见识」+3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/ChuSaiYin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2550,9 +2232,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "「茶道」+6 「涵养」+6 「道德」+6"
           },
@@ -2571,9 +2250,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -2590,9 +2266,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -2622,10 +2295,7 @@
           "Description": "「道德」+6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/BianHeQiYu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2644,9 +2314,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShiCi_0000000001"
-          ],
           "Name": {
             "Value": "「诗词」+6 「书画」+6 「收藏」+6"
           },
@@ -2665,9 +2332,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HuiHua_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -2684,9 +2348,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShouCang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -2716,10 +2377,7 @@
           "Description": "「收藏」+6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/ZhuLinQiXian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2738,9 +2396,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {
             "Value": "「饮酒」+6 「调息」+6 「气法」+6"
           },
@@ -2759,9 +2414,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -2778,9 +2430,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -2810,10 +2459,7 @@
           "Description": "「气法」+6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/XianRenQinJiu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2832,9 +2478,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GuanPu_0000000001"
-          ],
           "Name": {
             "Value": "「关扑」+6 「福缘」+6 「镇定」+6"
           },
@@ -2853,9 +2496,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -2872,9 +2512,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -2904,10 +2541,7 @@
           "Description": "「镇定」+6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YuePu/SaoChenCao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2926,9 +2560,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GouFa_0000000001"
-          ],
           "Name": {
             "Value": "「钩法」+8 「集中」+4"
           },
@@ -2947,9 +2578,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -2976,10 +2604,7 @@
           "Description": "「集中」+4"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YuePu/LiMengYin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2998,9 +2623,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GuanPu_0000000001"
-          ],
           "Name": {
             "Value": "「关扑」+6 「收藏」+6 「决断」+6"
           },
@@ -3019,9 +2641,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShouCang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -3038,9 +2657,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -3070,10 +2686,7 @@
           "Description": "「决断」+6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YuePu/YiXingZiXuan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3092,9 +2705,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuShu_0000000001"
-          ],
           "Name": {
             "Value": "「毒术」+8 「悟性」+6"
           },
@@ -3113,9 +2723,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -3142,10 +2749,7 @@
           "Description": "「悟性」+6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YuePu/DiaoZhongHuaHong"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3164,9 +2768,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "PengRen_0000000001"
-          ],
           "Name": {
             "Value": "「烹饪」+8 「魅力」+6"
           },
@@ -3185,9 +2786,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -3214,10 +2812,7 @@
           "Description": "「魅力」+6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YuePu/TaoTieLingYu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3236,9 +2831,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChuiFu_0000000001"
-          ],
           "Name": {
             "Value": "「运斧」+8 「意志」+4"
           },
@@ -3257,9 +2849,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -3286,10 +2875,7 @@
           "Description": "「意志」+4"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YuePu/YueFengMo"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3308,9 +2894,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuShu_0000000001"
-          ],
           "Name": {
             "Value": "「毒术」+12 「医术」+12"
           },
@@ -3329,9 +2912,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiShu_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -3358,10 +2938,7 @@
           "Description": "「医术」+12"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YuePu/LingDie"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3380,9 +2957,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShenXing_0000000001"
-          ],
           "Name": {
             "Value": "「身形」+12 「下盘」+12 「集中」+12"
           },
@@ -3401,9 +2975,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XiaPan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -3420,9 +2991,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -3452,10 +3020,7 @@
           "Description": "「集中」+12"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YuePu/LiPingKongHouYin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3474,9 +3039,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {
             "Value": "「气法」+12 「调息」+12 「决断」+12"
           },
@@ -3495,9 +3057,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -3514,9 +3073,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -3546,10 +3102,7 @@
           "Description": "「决断」+12"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YuePu/HeShiDiao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3568,9 +3121,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "BiFa_0000000001"
-          ],
           "Name": {
             "Value": "「笔法」+12 「书画」+12"
           },
@@ -3589,9 +3139,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HuiHua_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -3618,10 +3165,7 @@
           "Description": "「书画」+12"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YuePu/ZengHuaQing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3642,9 +3186,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "无携带效果"
           },
@@ -3657,10 +3198,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/TieKe"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3681,9 +3219,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "无携带效果"
           },
@@ -3696,10 +3231,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/XiaoYue"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3720,9 +3252,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "无携带效果"
           },
@@ -3735,10 +3264,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/BaoXi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3759,9 +3285,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "无携带效果"
           },
@@ -3774,10 +3297,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/DuYou"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3798,9 +3318,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "「乐器」+1"
           },
@@ -3813,10 +3330,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/MingQuan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3837,9 +3351,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "「乐器」+1"
           },
@@ -3852,10 +3363,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/ZiQiong"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3876,9 +3384,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "「乐器」+1"
           },
@@ -3891,10 +3396,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/QiuLai"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3915,9 +3417,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "「乐器」+1"
           },
@@ -3930,10 +3429,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/FengMing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3954,9 +3450,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JianFa_0000000001"
-          ],
           "Name": {
             "Value": "「剑法」+1"
           },
@@ -3969,10 +3462,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/SongFeng"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3993,9 +3483,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CunJin_0000000001"
-          ],
           "Name": {
             "Value": "「暗器」+1"
           },
@@ -4008,10 +3495,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/QingLei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4032,9 +3516,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "「乐器」+1 「魅力」+1"
           },
@@ -4047,9 +3528,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -4060,10 +3538,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/YuHuBingQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4084,9 +3559,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "「乐器」+2"
           },
@@ -4099,10 +3571,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/HaiYueQingFengQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4123,9 +3592,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JianFa_0000000001"
-          ],
           "Name": {
             "Value": "「剑法」+2"
           },
@@ -4138,10 +3604,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/FeiQuanQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4162,9 +3625,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "「乐器」+1 「魅力」+1"
           },
@@ -4177,9 +3637,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -4190,10 +3647,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/YuLingLongQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4214,9 +3668,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhiLi_0000000001"
-          ],
           "Name": {
             "Value": "「指法」+2"
           },
@@ -4229,10 +3680,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/TianFengHaiTaoQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4253,9 +3701,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {
             "Value": "「神来」+2"
           },
@@ -4268,10 +3713,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/LvQi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4292,9 +3734,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "「乐器」+1 「神来」+1"
           },
@@ -4307,9 +3746,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -4320,10 +3756,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/JiaoWei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4344,9 +3777,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "「乐器」+2 「魅力」+1"
           },
@@ -4359,9 +3789,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -4372,10 +3799,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/JiuXiaoHuanPeiQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4396,9 +3820,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "「乐器」+3"
           },
@@ -4411,10 +3832,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/DaShengYiYinQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4435,9 +3853,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {
             "Value": "「魅力」+3"
           },
@@ -4450,10 +3865,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/YiWuMingQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4474,9 +3886,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {
             "Value": "「决断」+2 「神来」+1"
           },
@@ -4489,9 +3898,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -4502,10 +3908,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/RaoLiang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4526,9 +3929,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "「乐器」+1 「神来」+2"
           },
@@ -4541,9 +3941,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -4554,10 +3951,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/LingFengShenYun"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4578,9 +3972,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QuanZhang_0000000001"
-          ],
           "Name": {
             "Value": "「拳掌」+2 「剑法」+2"
           },
@@ -4593,9 +3984,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JianFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -4606,10 +3994,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/HeWuLongXiang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4628,9 +4013,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "「乐器」+1"
           },
@@ -4643,10 +4025,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/QingLaiQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4665,9 +4044,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouCang_0000000001"
-          ],
           "Name": {
             "Value": "「收藏」+1 「交涉」+1"
           },
@@ -4680,9 +4056,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterJiaoShe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -4693,10 +4066,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/ChanWen"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4715,9 +4085,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YiShu_0000000001"
-          ],
           "Name": {
             "Value": "「医术」+1 「毒术」+1"
           },
@@ -4730,9 +4097,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DuShu_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -4743,10 +4107,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/ShuangYu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4765,9 +4126,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChuiFu_0000000001"
-          ],
           "Name": {
             "Value": "「运斧」+1 「见识」+1"
           },
@@ -4780,9 +4138,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -4793,10 +4148,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/JinZhongQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4815,9 +4167,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "「乐器」+2"
           },
@@ -4830,10 +4179,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/ZhongNiShiQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4852,9 +4198,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CunJin_0000000001"
-          ],
           "Name": {
             "Value": "「暗器」+1 「魅力」+1"
           },
@@ -4867,9 +4210,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -4880,10 +4220,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/QiFeng"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4902,9 +4239,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {
             "Value": "「杀意」+3 「神来」+3"
           },
@@ -4917,9 +4251,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -4930,10 +4261,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/JiaHuGuDi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4952,9 +4280,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuMai_0000000001"
-          ],
           "Name": {
             "Value": "「督脉」+1 「任脉」+1"
           },
@@ -4967,9 +4292,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "RenMai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -4980,10 +4302,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/LongYin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5002,9 +4321,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {
             "Value": "「集中」+3 「体魄」-1"
           },
@@ -5017,9 +4333,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -5030,10 +4343,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YueQi/LuoShangDi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5052,9 +4362,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "「乐器」+1 「涵养」+2"
           },
@@ -5067,9 +4374,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -5080,10 +4384,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YueQi/ChuXiaHanShanQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5102,9 +4403,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GouFa_0000000001"
-          ],
           "Name": {
             "Value": "「钩法」+2 「魅力」+1"
           },
@@ -5117,9 +4415,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -5130,10 +4425,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YueQi/YuXiaoDi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5152,9 +4444,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "BiFa_0000000001"
-          ],
           "Name": {
             "Value": "「笔法」+2 「集中」+1"
           },
@@ -5167,9 +4456,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -5180,10 +4466,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YueQi/ShiLiuYuanFeng"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5202,9 +4485,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CunJin_0000000001"
-          ],
           "Name": {
             "Value": "「暗器」+3 「道德」-3"
           },
@@ -5217,9 +4497,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -5230,10 +4507,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YueQi/JianChouShangShi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5252,9 +4526,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {
             "Value": "「决断」+3 「集中」+3"
           },
@@ -5267,9 +4538,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -5280,9 +4548,6 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YueQi/BenLei"
-    ]
+    }
   }
 ]

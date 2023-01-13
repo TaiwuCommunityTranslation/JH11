@@ -64,9 +64,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YiShu_0000000001"
-          ],
           "Name": {
             "Value": "「医术」+2"
           },
@@ -79,10 +76,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YiShu/LvSheBeiYaoFang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -134,9 +128,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YiShu_0000000001"
-          ],
           "Name": {
             "Value": "「医术」+2 「见识」+2"
           },
@@ -149,9 +140,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -162,10 +150,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YiShu/SuShenLiangFang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -215,9 +200,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YiShu_0000000001"
-          ],
           "Name": {
             "Value": "「医术」+3"
           },
@@ -230,10 +212,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YiShu/TaiPingShengHuiFang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -284,9 +263,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {
             "Value": "「福缘」+2 「诗词」+2"
           },
@@ -299,9 +275,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShiCi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -312,10 +285,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YiShu/ShangHanZaBingLun"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -360,9 +330,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YaoMa_0000000001"
-          ],
           "Name": {
             "Value": "「腰马」+2"
           },
@@ -375,10 +342,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YiShu/HuangDiNeiJing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -416,9 +380,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YiShu_0000000001"
-          ],
           "Name": {
             "Value": "「医术」+2 「体魄」+2"
           },
@@ -431,9 +392,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -444,10 +402,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YiShu/ShenNongBenCaoJing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -485,9 +440,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YiShu_0000000001"
-          ],
           "Name": {
             "Value": "「医术」+4"
           },
@@ -500,10 +452,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YiShu/DaGuanBenCao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -549,9 +498,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YiShu_0000000001"
-          ],
           "Name": {
             "Value": "「医术」+4"
           },
@@ -564,10 +510,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YiShu/JinKuiYaoLue"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -600,9 +543,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YiShu_0000000001"
-          ],
           "Name": {
             "Value": "「医术」+2"
           },
@@ -615,10 +555,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YiShu/PuJiBenShiFang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -653,9 +590,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {
             "Value": "「福缘」+3"
           },
@@ -668,10 +602,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YiShu/BeiJiQianJinYaoFang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -713,9 +644,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {
             "Value": "「见识」+3"
           },
@@ -728,10 +656,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YiShu/ZhenJiuJiaYiJing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -776,9 +701,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuMai_0000000001"
-          ],
           "Name": {
             "Value": "「督脉」+1 「任脉」+1"
           },
@@ -791,9 +713,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "RenMai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -804,10 +723,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YiShu/MaiJing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -843,9 +759,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {
             "Value": "「悟性」+2 「饮酒」+2"
           },
@@ -858,9 +771,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -871,10 +781,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YiShu/WaiTaiMiYao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -910,9 +817,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {
             "Value": "「见识」+2 「神来」+1"
           },
@@ -925,9 +829,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -938,10 +839,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YiShu/CanHeJue"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -984,9 +882,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {
             "Value": "「悟性」+2 「神来」+2"
           },
@@ -999,9 +894,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1012,10 +904,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YiShu/ShenZhaoCanJing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1073,9 +962,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuShu_0000000001"
-          ],
           "Name": {
             "Value": "「毒术」+5"
           },
@@ -1088,10 +974,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/DuJing/WuDuMiDian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1139,9 +1022,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuShu_0000000001"
-          ],
           "Name": {
             "Value": "「毒术」+2 「杀意」+2"
           },
@@ -1154,9 +1034,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1167,10 +1044,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/DuJing/XuYinSanZhang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1215,9 +1089,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuShu_0000000001"
-          ],
           "Name": {
             "Value": "「毒术」+3"
           },
@@ -1230,10 +1101,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/DuJing/PoHuangDuJing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1283,9 +1151,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuShu_0000000001"
-          ],
           "Name": {
             "Value": "「毒术」+3 「杀意」+3"
           },
@@ -1298,9 +1163,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1311,10 +1173,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/DuJing/XingLuoShiRi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1362,9 +1221,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuShu_0000000001"
-          ],
           "Name": {
             "Value": "「毒术」+2 「医术」+1"
           },
@@ -1377,9 +1233,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiShu_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1390,10 +1243,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/DuJing/QianJiQiuShiPu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1434,9 +1284,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuShu_0000000001"
-          ],
           "Name": {
             "Value": "「毒术」+2 「暗器」+1"
           },
@@ -1449,9 +1296,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CunJin_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1462,10 +1306,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/DuJing/LuanZhuDuJing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1505,9 +1346,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuShu_0000000001"
-          ],
           "Name": {
             "Value": "「毒术」+2 「魅力」+2"
           },
@@ -1520,9 +1358,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1533,10 +1368,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/DuJing/XianNiGuJing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1572,9 +1404,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuShu_0000000001"
-          ],
           "Name": {
             "Value": "「毒术」+4"
           },
@@ -1587,10 +1416,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/DuJing/ZhenGuDuJing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1633,9 +1459,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuShu_0000000001"
-          ],
           "Name": {
             "Value": "「毒术」+10 「道德」-20"
           },
@@ -1648,9 +1471,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1661,10 +1481,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/DuJing/XieYueJinJue"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1713,9 +1530,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuShu_0000000001"
-          ],
           "Name": {
             "Value": "「毒术」+2 「笔法」+1"
           },
@@ -1728,9 +1542,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "BiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1741,10 +1552,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/DuJing/HuaMaiMoXianJing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1779,9 +1587,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {
             "Value": "「见识」+2 「气法」+1"
           },
@@ -1794,9 +1599,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -1807,9 +1609,6 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/DuJing/QiHuangJinWu"
-    ]
+    }
   }
 ]

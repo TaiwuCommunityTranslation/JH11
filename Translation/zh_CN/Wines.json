@@ -18,9 +18,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+25"
           },
@@ -39,9 +36,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -56,9 +50,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -73,9 +64,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -90,9 +78,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -107,9 +92,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -148,10 +130,7 @@
           "Description": "「涵养」-80"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/MengQuanJiu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -172,9 +151,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+25"
           },
@@ -193,9 +169,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -210,9 +183,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -227,9 +197,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -244,9 +211,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -261,9 +225,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -302,10 +263,7 @@
           "Description": "「涵养」-80"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/LianQuanJiu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -326,9 +284,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {
             "Value": "「杀意」+5"
           },
@@ -347,9 +302,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -364,9 +316,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -381,9 +330,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -398,9 +344,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -415,9 +358,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -456,10 +396,7 @@
           "Description": "「涵养」-80"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/LianMiJiu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -480,9 +417,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+25"
           },
@@ -501,9 +435,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -518,9 +449,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -535,9 +463,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -552,9 +477,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -569,9 +491,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -610,10 +529,7 @@
           "Description": "「涵养」-80"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/PengLaiJiu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -634,9 +550,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+30 「调息」+10"
           },
@@ -655,9 +568,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -674,9 +584,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -691,9 +598,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -708,9 +612,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -725,9 +626,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -766,10 +664,7 @@
           "Description": "「涵养」-50"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/XiBoJiu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -790,9 +685,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+30 「气法」+10"
           },
@@ -811,9 +703,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -830,9 +719,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -847,9 +733,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -864,9 +747,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -902,10 +782,7 @@
           "Description": "「涵养」-50"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/BaiYangJiu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -926,9 +803,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+30 「魅力」+10"
           },
@@ -947,9 +821,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -966,9 +837,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -983,9 +851,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -1000,9 +865,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -1038,10 +900,7 @@
           "Description": "「涵养」-50"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/BaiTaoJiu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1062,9 +921,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+30 「乐器」+10"
           },
@@ -1083,9 +939,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -1102,9 +955,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -1119,9 +969,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -1136,9 +983,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -1174,10 +1018,7 @@
           "Description": "「涵养」-50"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/BiXiangJiu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1198,9 +1039,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+30 「诗词」+10"
           },
@@ -1219,9 +1057,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShiCi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -1238,9 +1073,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -1255,9 +1087,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -1272,9 +1101,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -1310,10 +1136,7 @@
           "Description": "「涵养」-50"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/ZhaoXiaJiu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1334,9 +1157,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+30 「拳掌」+5"
           },
@@ -1355,9 +1175,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QuanZhang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -1374,9 +1191,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -1391,9 +1205,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -1408,9 +1219,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -1446,10 +1254,7 @@
           "Description": "「涵养」-50"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/JinQuanJiu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1470,9 +1275,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+30 「镇定」+10"
           },
@@ -1491,9 +1293,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -1510,9 +1309,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -1527,9 +1323,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -1544,9 +1337,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -1582,10 +1372,7 @@
           "Description": "「涵养」-50"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/LinYuJiu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1606,9 +1393,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+40 「涵养」+20"
           },
@@ -1627,9 +1411,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -1646,9 +1427,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -1663,9 +1441,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -1680,9 +1455,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -1718,10 +1490,7 @@
           "Description": "「涵养」-30"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/BaiYuQuan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1742,9 +1511,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+40 「指力」+10"
           },
@@ -1763,9 +1529,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -1782,9 +1545,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -1799,9 +1559,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -1816,9 +1573,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -1854,10 +1608,7 @@
           "Description": "「涵养」-30"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/BiLanTang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1878,9 +1629,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+40 「用枪」+10"
           },
@@ -1899,9 +1647,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YongQiang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -1918,9 +1663,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -1935,9 +1677,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -1952,9 +1691,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -1990,10 +1726,7 @@
           "Description": "「涵养」-30"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/ChouSiTang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2014,9 +1747,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+40 「烹饪」+20"
           },
@@ -2035,9 +1765,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "PengRen_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -2054,9 +1781,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -2071,9 +1795,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -2088,9 +1809,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -2126,10 +1844,7 @@
           "Description": "「涵养」-30"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/FengHeChun"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2150,9 +1865,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+40 「收藏」+20"
           },
@@ -2171,9 +1883,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShouCang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -2190,9 +1899,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -2207,9 +1913,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -2224,9 +1927,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -2262,10 +1962,7 @@
           "Description": "「涵养」-30"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/GuXiChun"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2286,9 +1983,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+40 「运斧」+10"
           },
@@ -2307,9 +2001,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ChuiFu_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -2326,9 +2017,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -2343,9 +2031,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -2360,9 +2045,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -2398,10 +2080,7 @@
           "Description": "「涵养」-30"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/JiangHanTang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2422,9 +2101,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+40 「用剑」+10"
           },
@@ -2443,9 +2119,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JianFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -2462,9 +2135,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -2479,9 +2149,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -2496,9 +2163,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -2534,10 +2198,7 @@
           "Description": "「涵养」-30"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/ZhuYeQing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2558,9 +2219,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+40 「暗器」+10"
           },
@@ -2579,9 +2237,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CunJin_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -2598,9 +2253,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -2615,9 +2267,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -2632,9 +2281,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -2649,9 +2295,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -2690,10 +2333,7 @@
           "Description": "「涵养」-30"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/ZiJinQuan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2714,9 +2354,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {
             "Value": "「悟性」+30 「神来」+30"
           },
@@ -2735,9 +2372,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -2754,9 +2388,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "醉酒状态"
@@ -2773,9 +2404,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShiCi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "醉酒状态"
@@ -2810,10 +2438,7 @@
           "Description": "「诗词」+20"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/WanXiangJieChun"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2834,9 +2459,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+50 「督脉」+20"
           },
@@ -2855,9 +2477,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DuMai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -2874,9 +2493,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "醉酒状态"
@@ -2908,10 +2524,7 @@
           "Description": "「心态」-40"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/ChongMiZhiXiQuan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2932,9 +2545,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "RenMai_0000000001"
-          ],
           "Name": {
             "Value": "「任脉」+20 「气法」+20"
           },
@@ -2953,9 +2563,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -2972,9 +2579,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "醉酒状态"
@@ -2991,9 +2595,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "醉酒状态"
@@ -3028,10 +2629,7 @@
           "Description": "「福缘」+20"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/YiCiBiXiang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3052,9 +2650,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+50 「诗词」+30 「书画」+30"
           },
@@ -3073,9 +2668,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShiCi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -3092,9 +2684,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HuiHua_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -3111,9 +2700,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "醉酒状态"
@@ -3148,10 +2734,7 @@
           "Description": "「心态」-40"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/QiYunQingLu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3172,9 +2755,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {
             "Value": "「集中」+30 「镇定」+30 「决断」+30"
           },
@@ -3193,9 +2773,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -3212,9 +2789,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -3231,9 +2805,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "醉酒状态"
@@ -3268,10 +2839,7 @@
           "Description": "「心态」-40"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/LanQiaoFengYue"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3292,9 +2860,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+50 「腰马」+20"
           },
@@ -3313,9 +2878,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YaoMa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -3332,9 +2894,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "醉酒状态"
@@ -3351,9 +2910,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "醉酒状态"
@@ -3388,10 +2944,7 @@
           "Description": "「杀意」+30"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/BeiFuBingChu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3412,9 +2965,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+30 「茶道」+10"
           },
@@ -3433,9 +2983,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -3452,9 +2999,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -3469,9 +3013,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -3486,9 +3027,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -3524,10 +3062,7 @@
           "Description": "「涵养」-50"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/JingZhiTang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3548,9 +3083,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+30 「悟性」+10"
           },
@@ -3569,9 +3101,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -3588,9 +3117,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -3605,9 +3131,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -3622,9 +3145,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -3660,10 +3180,7 @@
           "Description": "「涵养」-50"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/LingXiJiu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3684,9 +3201,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+30 「交涉」+10"
           },
@@ -3705,9 +3219,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterJiaoShe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -3724,9 +3235,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -3741,9 +3249,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -3758,9 +3263,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -3796,10 +3298,7 @@
           "Description": "「涵养」-50"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/LiuKeTang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3820,9 +3319,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+40 「使刀」+10"
           },
@@ -3841,9 +3337,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DaoFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -3860,9 +3353,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -3877,9 +3367,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -3894,9 +3381,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -3932,10 +3416,7 @@
           "Description": "「涵养」-30"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/JianNanShaoChun"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3956,9 +3437,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+40 「钩法」+10"
           },
@@ -3977,9 +3455,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "GouFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -3996,9 +3471,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -4013,9 +3485,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -4030,9 +3499,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -4068,10 +3534,7 @@
           "Description": "「涵养」-30"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/JinQuan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4092,9 +3555,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+40 「鞭术」+10"
           },
@@ -4113,9 +3573,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShiBian_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -4132,9 +3589,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -4149,9 +3603,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -4166,9 +3617,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -4204,10 +3652,7 @@
           "Description": "「涵养」-30"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/NanZhongYun"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4228,9 +3673,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+50 「杀意」+30 「集中」+30"
           },
@@ -4249,9 +3691,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -4268,9 +3707,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -4287,9 +3723,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "醉酒状态"
@@ -4306,9 +3739,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "醉酒状态"
@@ -4346,10 +3776,7 @@
           "Description": "「调息」-20"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/ShaBeiJinBo"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4370,9 +3797,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {
             "Value": "「神来」+30 「耍棍」+20"
           },
@@ -4391,9 +3815,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShuaGun_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -4410,9 +3831,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "醉酒状态"
@@ -4429,9 +3847,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HuiHua_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "醉酒状态"
@@ -4466,10 +3881,7 @@
           "Description": "「书画」+20"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/ShiBaXian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4490,9 +3902,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShiCi_0000000001"
-          ],
           "Name": {
             "Value": "「诗词」+30 「笔法」+20"
           },
@@ -4511,9 +3920,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "BiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -4530,9 +3936,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "醉酒状态"
@@ -4549,9 +3952,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "醉酒状态"
@@ -4586,10 +3986,7 @@
           "Description": "「决断」-20"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/BingTangShangZun"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4610,9 +4007,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {
             "Value": "「神来」+15 「用剑」+15 「集中」+30"
           },
@@ -4631,9 +4025,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JianFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -4650,9 +4041,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -4669,9 +4057,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "醉酒状态"
@@ -4688,9 +4073,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "醉酒状态"
@@ -4728,10 +4110,7 @@
           "Description": "「神来」-20"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/Jiu/JinLingChun"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4750,9 +4129,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "「心态」+30 「集中」+10"
           },
@@ -4771,9 +4147,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -4790,9 +4163,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -4807,9 +4177,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -4842,10 +4209,7 @@
           "Description": "「集中」-20"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/Jiu/ChiXiaoJiu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4864,9 +4228,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {
             "Value": "「神来」+10 「关扑」+30"
           },
@@ -4885,9 +4246,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "GuanPu_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -4904,9 +4262,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "醉酒状态"
@@ -4923,9 +4278,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "醉酒状态"
@@ -4960,10 +4312,7 @@
           "Description": "「福缘」-20"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/Jiu/ZhiLingJiu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4984,9 +4333,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QuanZhang_0000000001"
-          ],
           "Name": {
             "Value": "「拳掌」+15 「决断」+15 「集中」-15"
           },
@@ -5005,9 +4351,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -5024,9 +4367,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -5043,9 +4383,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "醉酒状态"
@@ -5062,9 +4399,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "醉酒状态"
@@ -5102,10 +4436,7 @@
           "Description": "「决断」-20"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/Jiu/QingYanMiJiu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5124,9 +4455,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DaoFa_0000000001"
-          ],
           "Name": {
             "Value": "「使刀」+5 「集中」+5"
           },
@@ -5145,9 +4473,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -5164,9 +4489,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -5181,9 +4503,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -5198,9 +4517,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -5236,10 +4552,7 @@
           "Description": "「涵养」-30"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1215 ADD/Jiu/GuangXiangTang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5258,9 +4571,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GouFa_0000000001"
-          ],
           "Name": {
             "Value": "「钩法」+5 「集中」+5"
           },
@@ -5279,9 +4589,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DaoFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -5298,9 +4605,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -5315,9 +4619,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -5332,9 +4633,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -5370,10 +4668,7 @@
           "Description": "「涵养」-30"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1215 ADD/Jiu/SuiYuTang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5392,9 +4687,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShiBian_0000000001"
-          ],
           "Name": {
             "Value": "「鞭术」+5 「意志」+5"
           },
@@ -5413,9 +4705,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -5432,9 +4721,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -5449,9 +4735,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -5466,9 +4749,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -5504,10 +4784,7 @@
           "Description": "「涵养」-30"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1215 ADD/Jiu/YuXuQing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5526,9 +4803,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YongQiang_0000000001"
-          ],
           "Name": {
             "Value": "「用枪」+5 「决断」+5"
           },
@@ -5547,9 +4821,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -5566,9 +4837,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -5583,9 +4851,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -5600,9 +4865,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -5638,10 +4900,7 @@
           "Description": "「涵养」-30"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1215 ADD/Jiu/DingFengTang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5660,9 +4919,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChuiFu_0000000001"
-          ],
           "Name": {
             "Value": "「运斧」+5 「腰马」+5"
           },
@@ -5681,9 +4937,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YaoMa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -5700,9 +4953,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -5717,9 +4967,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YaoMa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -5734,9 +4981,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -5772,10 +5016,7 @@
           "Description": "「涵养」-30"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1215 ADD/Jiu/ZhenYueJiu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5794,9 +5035,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhiLi_0000000001"
-          ],
           "Name": {
             "Value": "「指力」+5 「调息」+5"
           },
@@ -5815,9 +5053,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -5834,9 +5069,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -5851,9 +5083,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -5868,9 +5097,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -5906,10 +5132,7 @@
           "Description": "「涵养」-30"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1215 ADD/Jiu/BiGuLu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5928,9 +5151,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShuaGun_0000000001"
-          ],
           "Name": {
             "Value": "「耍棍」+5 「决断」+5"
           },
@@ -5949,9 +5169,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "美酒状态"
@@ -5968,9 +5185,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -5985,9 +5199,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -6002,9 +5213,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {},
           "ExecuteTime": {
@@ -6040,10 +5248,7 @@
           "Description": "「涵养」-30"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1215 ADD/Jiu/YiQiLingJiu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6064,9 +5269,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {
             "Value": "无携带效果"
           },
@@ -6079,10 +5281,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/HuLuPing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6103,9 +5302,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {
             "Value": "无携带效果"
           },
@@ -6118,10 +5314,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/YuHuChunPing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6142,9 +5335,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {
             "Value": "无携带效果"
           },
@@ -6157,10 +5347,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/MeiPing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6181,9 +5368,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {
             "Value": "「饮酒」+1"
           },
@@ -6196,10 +5380,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/HongYouHuLuPing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6220,9 +5401,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {
             "Value": "「饮酒」+1"
           },
@@ -6235,10 +5413,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/QingCiDanPing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6259,9 +5434,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {
             "Value": "「饮酒」+1"
           },
@@ -6274,10 +5446,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/BaiYouGuaLingPing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6298,9 +5467,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {
             "Value": "「饮酒」+1"
           },
@@ -6313,10 +5479,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/ZheGuYouMeiPing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6337,9 +5500,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {
             "Value": "「饮酒」+1"
           },
@@ -6352,10 +5512,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/BaiYouYuTaiZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6376,9 +5533,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {
             "Value": "「饮酒」+1 「魅力」+1"
           },
@@ -6391,9 +5545,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -6404,10 +5555,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/QingHuaZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6428,9 +5576,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {
             "Value": "「饮酒」+1 「交涉」+1"
           },
@@ -6443,9 +5588,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterJiaoShe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -6456,10 +5598,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/FengLeiBei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6480,9 +5619,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {
             "Value": "「魅力」+2"
           },
@@ -6495,10 +5631,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/KongQueBei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6519,9 +5652,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {
             "Value": "「魅力」+1 「涵养」+1"
           },
@@ -6534,9 +5664,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -6547,10 +5674,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/XianHuaBei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6571,9 +5695,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {
             "Value": "「饮酒」+2 「魅力」+1"
           },
@@ -6586,9 +5707,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -6599,10 +5717,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/MingYuXianZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6623,9 +5738,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {
             "Value": "「集中」+3"
           },
@@ -6638,10 +5750,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/YuLuLiuLiBei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6662,9 +5771,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {
             "Value": "「饮酒」+1 「神来」+2"
           },
@@ -6677,9 +5783,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -6690,10 +5793,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/YeGuangYuZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6714,9 +5814,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {
             "Value": "「饮酒」+2 「用剑」+1"
           },
@@ -6729,9 +5826,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JianFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -6742,10 +5836,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/YinGuangYingYeZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6766,9 +5857,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {
             "Value": "「饮酒」+1"
           },
@@ -6781,10 +5869,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/ShuangGongZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6805,9 +5890,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {
             "Value": "「福缘」+1"
           },
@@ -6820,10 +5902,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/ShuangLuBei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6844,9 +5923,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChuiFu_0000000001"
-          ],
           "Name": {
             "Value": "「运斧」+1"
           },
@@ -6859,10 +5935,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/FuJue"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6883,9 +5956,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {
             "Value": "「饮酒」+1 「交涉」+1"
           },
@@ -6898,9 +5968,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterJiaoShe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -6911,10 +5978,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/BaiYuZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6935,9 +5999,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {
             "Value": "「饮酒」+2"
           },
@@ -6950,10 +6011,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/XiShouBei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6974,9 +6032,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {
             "Value": "「杀意」+2"
           },
@@ -6989,10 +6044,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/YunLeiE"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7013,9 +6065,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {
             "Value": "「饮酒」+1 「决断」+1"
           },
@@ -7028,9 +6077,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -7041,10 +6087,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/FengWenBei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7065,9 +6108,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {
             "Value": "「饮酒」+1 「福缘」+2"
           },
@@ -7080,9 +6120,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -7093,10 +6130,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/JinKuiLongGu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7117,9 +6151,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouCang_0000000001"
-          ],
           "Name": {
             "Value": "「收藏」+1 「悟性」+2"
           },
@@ -7132,9 +6163,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -7145,10 +6173,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/JiuQi/GuYuLingXiaoBei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7167,9 +6192,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {
             "Value": "「魅力」+2"
           },
@@ -7182,10 +6204,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/JiuQi/LingLongBei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7204,9 +6223,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {
             "Value": "「福缘」+2"
           },
@@ -7219,10 +6235,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/JiuQi/ShenBaoZhi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7241,9 +6254,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {
             "Value": "「见识」+2"
           },
@@ -7256,10 +6266,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/JiuQi/KuRongZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7278,9 +6285,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {
             "Value": "「悟性」+2"
           },
@@ -7293,10 +6297,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/JiuQi/LingWuZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7315,9 +6316,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {
             "Value": "「神来」+2 「笔法」+1"
           },
@@ -7330,9 +6328,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "BiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -7343,10 +6338,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/JiuQi/TaiQingGuYuBei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7365,9 +6357,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GouFa_0000000001"
-          ],
           "Name": {
             "Value": "「钩法」+2 「毒术」+1"
           },
@@ -7380,9 +6369,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DuShu_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -7393,10 +6379,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/JiuQi/SanWeiGuiZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7415,9 +6398,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "RenMai_0000000001"
-          ],
           "Name": {
             "Value": "「任脉」+1 「集中」+2"
           },
@@ -7430,9 +6410,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -7443,10 +6420,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/JiuQi/YunYuGuPing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7465,9 +6439,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuMai_0000000001"
-          ],
           "Name": {
             "Value": "「督脉」+1 「意志」+2"
           },
@@ -7480,9 +6451,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -7493,10 +6461,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/JiuQi/JinXiaGuiYuanZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7515,9 +6480,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {
             "Value": "「意志」+1 「道德」+1"
           },
@@ -7530,9 +6492,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
@@ -7543,9 +6502,6 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/JiuQi/YiLingZhan"
-    ]
+    }
   }
 ]
