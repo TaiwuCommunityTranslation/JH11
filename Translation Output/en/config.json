@@ -5851,7 +5851,7 @@
         {}
       ],
       "WaitTexts": [
-        "There are { 0} slots left"
+        "There are {0} slots left"
       ]
     },
     "XiaChuYanQing": {
@@ -6140,7 +6140,7 @@
         {}
       ],
       "WaitTexts": [
-        "There are { 0} slots left"
+        "There are {0} slots left"
       ]
     },
     "EnDuanYiJue": {
@@ -6503,7 +6503,7 @@
     },
     "XianLiao": {
       "WaitTexts": [
-        "There are { 0} slots left"
+        "There are {0} slots left"
       ],
       "Upgrades": [
         {},
@@ -6514,7 +6514,7 @@
     "ShuangXiu": {
       "XiuLian": {
         "WaitTexts": [
-          "There are { 0} slots left"
+          "There are {0} slots left"
         ]
       },
       "ShuangXiuBuff": {
@@ -6532,7 +6532,7 @@
     "LunWu": {
       "XiuLian": {
         "WaitTexts": [
-          "There are { 0} slots left"
+          "There are {0} slots left"
         ]
       },
       "Upgrades": [
@@ -6544,7 +6544,7 @@
     },
     "ShangYue": {
       "WaitTexts": [
-        "There are { 0} slots left"
+        "There are {0} slots left"
       ],
       "Dialog": {},
       "Upgrades": [
@@ -6556,7 +6556,7 @@
     },
     "ShangHua": {
       "WaitTexts": [
-        "There are { 0} slots left"
+        "There are {0} slots left"
       ],
       "Dialog": {},
       "Upgrades": [
@@ -6579,7 +6579,7 @@
       ],
       "Dialog": {},
       "WaitTexts": [
-        "There are { 0} slots left"
+        "There are {0} slots left"
       ]
     },
     "NPCFangKeActionGuiZe": {},
@@ -6598,7 +6598,7 @@
         {}
       ],
       "WaitTexts": [
-        "There are { 0} slots left"
+        "There are {0} slots left"
       ]
     },
     "XueXiWuYi": {
@@ -6607,7 +6607,7 @@
         "Temporary cancellation"
       ],
       "WaitTexts": [
-        "There are { 0} slots left"
+        "There are {0} slots left"
       ],
       "Dialog": {}
     },
@@ -6652,7 +6652,7 @@
         ]
       },
       "WaitTexts": [
-        "There are { 0} slots left"
+        "There are {0} slots left"
       ],
       "Dialog": {}
     },
@@ -13716,10 +13716,10 @@
       }
     },
     "Color": {
-      "Gold": " <color=#FF9A00FF> { 0} </color> ",
-      "Blue": " <color=#FF00B6FF> { 0} </color> ",
-      "Green": " <color=#23FF00FF> { 0} </color> ",
-      "White": " <color=#FFFFFFFF> { 0} </color> "
+      "Gold": " <color=#FF9A00FF> {0} </color> ",
+      "Blue": " <color=#FF00B6FF> {0} </color> ",
+      "Green": " <color=#23FF00FF> {0} </color> ",
+      "White": " <color=#FFFFFFFF> {0} </color> "
     },
     "QuestConfirm": {
       "DaiBiaoChuZhan": {
@@ -13742,8 +13742,8 @@
         }
       },
       "GongFangZhaoShiToolTip": {
-        "Pos": " <color=#53FF4EFF> { 0}% </color> ",
-        "Neg": " <color=#FF5E4EFF> { 0}% </color> "
+        "Pos": " <color=#53FF4EFF> {0}% </color> ",
+        "Neg": " <color=#FF5E4EFF> {0}% </color> "
       }
     },
     "ToolTip": {},
@@ -19957,7 +19957,7 @@
     ],
     "ActionLoader": {
       "WaitTexts": [
-        "Remaining { 0} slots"
+        "Remaining {0} slots"
       ]
     }
   },
@@ -28446,9 +28446,9 @@
     "System": {
       "Played": {
         "Pool": [
-          "The first { 0}hours { 1}minutes { 2}seconds of breaking into the jungle",
-          "Have spent { 0}hours { 1}minutes { 2}seconds in \"Jiang Hu XI",
-          "The game has been played for { 0} hours { 1} minutes { 2} seconds"
+          "The first {0}hours {1}minutes {2}seconds of breaking into the jungle",
+          "Have spent {0}hours {1}minutes {2}seconds in \"Jiang Hu XI",
+          "The game has been played for {0} hours {1} minutes {2} seconds"
         ]
       }
     },
