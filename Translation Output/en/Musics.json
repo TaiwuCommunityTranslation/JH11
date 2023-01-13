@@ -18,9 +18,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JianFa_0000000001"
-          ],
           "Name": {
             "Value": "\"+3 to \"Use Sword\" +3 to \"Body Form"
           },
@@ -39,9 +36,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -68,10 +62,7 @@
           "Description": "\"Body shape\" +3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/BaiXueCao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -92,9 +83,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShuaGun_0000000001"
-          ],
           "Name": {
             "Value": "\"+3 to \"Baton Juggling\" and +3 to \"Qi Technique"
           },
@@ -113,9 +101,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -142,10 +127,7 @@
           "Description": "\"Qi Method +3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/LuMingCao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -166,9 +148,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YongQiang_0000000001"
-          ],
           "Name": {
             "Value": "\"+3 to \"Guns\" and +3 to \"Physique"
           },
@@ -187,9 +166,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -216,10 +192,7 @@
           "Description": "\"+3 to \"Physical Fitness"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/ZouYuCao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -240,9 +213,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QuanZhang_0000000001"
-          ],
           "Name": {
             "Value": "+3 to \"Fist and Palm\" +3 to \"Will\""
           },
@@ -261,9 +231,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -290,10 +257,7 @@
           "Description": "\"Will\" +3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/QueChaoCao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -314,9 +278,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DaoFa_0000000001"
-          ],
           "Name": {
             "Value": "+3 to \"Sword\" +3 to \"Decisive\""
           },
@@ -335,9 +296,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -364,10 +322,7 @@
           "Description": "\"Decision\" +3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/BoJiYin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -388,9 +343,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JianFa_0000000001"
-          ],
           "Name": {
             "Value": "\"+6 to \"Use Sword\", +6 to \"Concentration\", +6 to \"Charisma"
           },
@@ -409,9 +361,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -428,9 +377,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -460,10 +406,7 @@
           "Description": "\"Charisma\" +6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/WuShanShenNv"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -484,9 +427,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShiBian_0000000001"
-          ],
           "Name": {
             "Value": "\"+6 to \"Whip\", +6 to \"Kill\", +6 to \"Determination"
           },
@@ -505,9 +445,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -524,9 +461,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -556,10 +490,7 @@
           "Description": "\"+6 to \"Decide"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/LieNvYin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -580,9 +511,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CunJin_0000000001"
-          ],
           "Name": {
             "Value": "+6 to \"Concealed Weapon\", +6 to \"Body Form\", +6 to \"God's Coming\"."
           },
@@ -601,9 +529,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -620,9 +545,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -652,10 +574,7 @@
           "Description": "\"God Comes\" +6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/PiLiYin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -676,9 +595,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChuiFu_0000000001"
-          ],
           "Name": {
             "Value": "\"+6 to \"Axe Technique\", +6 to \"Body\", +6 to \"Concentration"
           },
@@ -697,9 +613,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -716,9 +629,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -748,10 +658,7 @@
           "Description": "\"Concentration\" +6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/ShenFengCao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -772,9 +679,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QuanZhang_0000000001"
-          ],
           "Name": {
             "Value": "\"+6 to \"Fist and Palm\", +6 to \"Body\", +6 to \"Will"
           },
@@ -793,9 +697,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -812,9 +713,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -844,10 +742,7 @@
           "Description": "\"Will\" +6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/BeiBiCao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -868,9 +763,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "BiFa_0000000001"
-          ],
           "Name": {
             "Value": "\"+6 to \"Stroke\", +6 to \"Concentration\", +6 to \"Bargaining"
           },
@@ -889,9 +781,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -908,9 +797,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterJiaoShe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -940,10 +826,7 @@
           "Description": "\"Bargaining\" +6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/FengQiuhuang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -964,9 +847,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShiBian_0000000001"
-          ],
           "Name": {
             "Value": "\"Whip Technique\" +6 \"Breath Regulation\" +6 \"Qi Technique\" +6"
           },
@@ -985,9 +865,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1004,9 +881,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1036,10 +910,7 @@
           "Description": "\"Qi Method +6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/QingFengYaoYuPei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1060,9 +931,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"Finger Power\" +6 \"Poetry\" +6 \"Concentration\" +6"
           },
@@ -1081,9 +949,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShiCi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1100,9 +965,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1132,10 +994,7 @@
           "Description": "\"Concentration\" +6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/MoZiBeiSi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1156,9 +1015,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JianFa_0000000001"
-          ],
           "Name": {
             "Value": "\"+10 to \"Use Sword\", +10 to \"Use Sword\", +10 to \"Negotiation\", +10 to \"Fortunate Fortune"
           },
@@ -1177,9 +1033,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DaoFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1196,9 +1049,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterJiaoShe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1215,9 +1065,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1250,10 +1097,7 @@
           "Description": "\"Fortunate Fate\" +10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/BoYaYiZiQi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1274,9 +1118,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QuanZhang_0000000001"
-          ],
           "Name": {
             "Value": "+10 to \"Fist and Palm\", +10 to \"Morality\", +10 to \"Breath Regulation\", +10 to \"Qigong\"."
           },
@@ -1295,9 +1136,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1314,9 +1152,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1333,9 +1168,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1368,10 +1200,7 @@
           "Description": "\"Qi Method\" +10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/WenWangCao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1392,9 +1221,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShuaGun_0000000001"
-          ],
           "Name": {
             "Value": "+10 to \"Stick Juggling\", +10 to \"Gods\", +10 to \"Determination\", +10 to \"Enlightenment\"."
           },
@@ -1413,9 +1239,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1432,9 +1255,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1451,9 +1271,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1486,10 +1303,7 @@
           "Description": "\"Perception\" +10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/GaoShanLiuShui"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1510,9 +1324,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YongQiang_0000000001"
-          ],
           "Name": {
             "Value": "\"+10 to \"Gun Use\", +10 to \"Muscle\", +10 to \"Concentration\", +10 to \"Decisiveness"
           },
@@ -1531,9 +1342,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JinGu_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1550,9 +1358,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1569,9 +1374,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1604,10 +1406,7 @@
           "Description": "\"Decisions\" +10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/CangHaiLongYin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1628,9 +1427,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CunJin_0000000001"
-          ],
           "Name": {
             "Value": "+10 to \"Concealed Weapon\", +10 to \"Drinking\", +10 to \"Gods\", +10 to \"Concentration\"."
           },
@@ -1649,9 +1445,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1668,9 +1461,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1687,9 +1477,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1722,10 +1509,7 @@
           "Description": "\"Concentration\" +10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/YuHuaDengXian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1746,9 +1530,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GouFa_0000000001"
-          ],
           "Name": {
             "Value": "\"+10 to \"Hooking\", +10 to \"Qi\", +10 to \"Body\", +10 to \"Charisma"
           },
@@ -1767,9 +1548,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1786,9 +1564,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1805,9 +1580,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1840,10 +1612,7 @@
           "Description": "\"Charisma\" +10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/QiuHong"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1864,9 +1633,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DaoFa_0000000001"
-          ],
           "Name": {
             "Value": "\"+10 to \"Blade\", +10 to \"Physique\", +10 to \"Will\", +10 to \"Composure"
           },
@@ -1885,9 +1651,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1904,9 +1667,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1923,9 +1683,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1958,10 +1715,7 @@
           "Description": "\"Calm\" +10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/ZhiChaoFei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1982,9 +1736,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShiBian_0000000001"
-          ],
           "Name": {
             "Value": "+10 to \"Whip\", +10 to \"Body\", +10 to \"Concentration\", +10 to \"Fortunate\""
           },
@@ -2003,9 +1754,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -2022,9 +1770,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -2041,9 +1786,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -2076,10 +1818,7 @@
           "Description": "\"Fortunate Fate\" +10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/BiTianQiuSi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2100,9 +1839,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"Finger Power\" +10, \"Poetry\" +10, \"Chi\" +10, \"Physique\" +10"
           },
@@ -2121,9 +1857,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShiCi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -2140,9 +1873,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -2159,9 +1889,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -2194,10 +1921,7 @@
           "Description": "\"+10 to \"Physical Fitness"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/XiaoXiangShuiYun"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2218,9 +1942,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuMai_0000000001"
-          ],
           "Name": {
             "Value": "\"+10 to \"Governor\", +10 to \"Ren\", +10 to \"Charisma\", +10 to \"Nurture"
           },
@@ -2239,9 +1960,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "RenMai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -2258,9 +1976,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -2277,9 +1992,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -2312,10 +2024,7 @@
           "Description": "\"Connotation\" +10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/GuangLingSan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2334,9 +2043,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"+3 to \"Charisma\" and +3 to \"Fortunes"
           },
@@ -2355,9 +2061,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -2384,10 +2087,7 @@
           "Description": "\"Fortunate Fate\" +3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/QianJinQing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2406,9 +2106,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouCang_0000000001"
-          ],
           "Name": {
             "Value": "\"+3 for \"Collection\" and +3 for \"Bargaining"
           },
@@ -2427,9 +2124,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterJiaoShe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -2456,10 +2150,7 @@
           "Description": "\"Bargaining\" +3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/XianDaoCao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2478,9 +2169,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {
             "Value": "\"+3 to \"Perception\" and +3 to \"Insight"
           },
@@ -2499,9 +2187,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -2528,10 +2213,7 @@
           "Description": "\"Insight\" +3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/ChuSaiYin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2550,9 +2232,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "\"+6 to \"Tea Ceremony\", +6 to \"Cultured\", +6 to \"Ethics"
           },
@@ -2571,9 +2250,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -2590,9 +2266,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -2622,10 +2295,7 @@
           "Description": "\"Ethics\" +6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/BianHeQiYu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2644,9 +2314,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShiCi_0000000001"
-          ],
           "Name": {
             "Value": "\"+6 for \"Poetry\", +6 for \"Painting and Calligraphy\" and +6 for \"Collection"
           },
@@ -2665,9 +2332,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HuiHua_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -2684,9 +2348,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShouCang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -2716,10 +2377,7 @@
           "Description": "\"Collection\" +6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/ZhuLinQiXian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2738,9 +2396,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YinJiu_0000000001"
-          ],
           "Name": {
             "Value": "+6 to \"Drinking\", +6 to \"Breathing\", +6 to \"Qi\"."
           },
@@ -2759,9 +2414,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -2778,9 +2430,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -2810,10 +2459,7 @@
           "Description": "\"Qi Method +6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YuePu/XianRenQinJiu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2832,9 +2478,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GuanPu_0000000001"
-          ],
           "Name": {
             "Value": "+6 to \"Kwan-Fu\", +6 to \"Fortunate\", +6 to \"Calm\""
           },
@@ -2853,9 +2496,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -2872,9 +2512,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -2904,10 +2541,7 @@
           "Description": "\"Calm\" +6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YuePu/SaoChenCao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2926,9 +2560,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GouFa_0000000001"
-          ],
           "Name": {
             "Value": "\"+8 for \"Hooking\" and +4 for \"Concentration"
           },
@@ -2947,9 +2578,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -2976,10 +2604,7 @@
           "Description": "\"Concentration\" +4"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YuePu/LiMengYin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2998,9 +2623,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GuanPu_0000000001"
-          ],
           "Name": {
             "Value": "\"+6 to \"Pass\", +6 to \"Collection\", +6 to \"Decision"
           },
@@ -3019,9 +2641,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShouCang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -3038,9 +2657,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -3070,10 +2686,7 @@
           "Description": "\"+6 to \"Decide"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YuePu/YiXingZiXuan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3092,9 +2705,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuShu_0000000001"
-          ],
           "Name": {
             "Value": "\"+8 to \"Poison\" and +6 to \"Enlightenment"
           },
@@ -3113,9 +2723,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -3142,10 +2749,7 @@
           "Description": "\"Perception\" +6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YuePu/DiaoZhongHuaHong"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3164,9 +2768,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "PengRen_0000000001"
-          ],
           "Name": {
             "Value": "\"Cooking\" +8 \"Charisma\" +6"
           },
@@ -3185,9 +2786,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -3214,10 +2812,7 @@
           "Description": "\"Charisma\" +6"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YuePu/TaoTieLingYu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3236,9 +2831,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChuiFu_0000000001"
-          ],
           "Name": {
             "Value": "\"+8 for \"Axe of Fortune\" and +4 for \"Will"
           },
@@ -3257,9 +2849,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -3286,10 +2875,7 @@
           "Description": "\"Will\" +4"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YuePu/YueFengMo"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3308,9 +2894,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuShu_0000000001"
-          ],
           "Name": {
             "Value": "\"+12 to \"Poison\" and +12 to \"Healing"
           },
@@ -3329,9 +2912,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiShu_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -3358,10 +2938,7 @@
           "Description": "\"Healing Art\" +12"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YuePu/LingDie"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3380,9 +2957,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShenXing_0000000001"
-          ],
           "Name": {
             "Value": "\"+12 to \"Body\", +12 to \"Down\", +12 to \"Concentration"
           },
@@ -3401,9 +2975,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XiaPan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -3420,9 +2991,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -3452,10 +3020,7 @@
           "Description": "\"Concentration\" +12"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YuePu/LiPingKongHouYin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3474,9 +3039,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {
             "Value": "\"Qigong +12, Breath Regulation +12, Determination +12"
           },
@@ -3495,9 +3057,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -3514,9 +3073,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -3546,10 +3102,7 @@
           "Description": "\"Decisions\" +12"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YuePu/HeShiDiao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3568,9 +3121,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "BiFa_0000000001"
-          ],
           "Name": {
             "Value": "+12 to \"Strokes\" +12 to \"Calligraphy\""
           },
@@ -3589,9 +3139,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HuiHua_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -3618,10 +3165,7 @@
           "Description": "\"Painting and Calligraphy\" +12"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YuePu/ZengHuaQing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3642,9 +3186,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "No carry effect"
           },
@@ -3657,10 +3198,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/TieKe"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3681,9 +3219,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "No carry effect"
           },
@@ -3696,10 +3231,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/XiaoYue"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3720,9 +3252,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "No carry effect"
           },
@@ -3735,10 +3264,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/BaoXi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3759,9 +3285,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "No carry effect"
           },
@@ -3774,10 +3297,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/DuYou"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3798,9 +3318,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "\"Musical Instrument\" +1"
           },
@@ -3813,10 +3330,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/MingQuan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3837,9 +3351,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "\"Musical Instrument\" +1"
           },
@@ -3852,10 +3363,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/ZiQiong"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3876,9 +3384,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "\"Musical Instrument\" +1"
           },
@@ -3891,10 +3396,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/QiuLai"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3915,9 +3417,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "\"Musical Instrument\" +1"
           },
@@ -3930,10 +3429,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/FengMing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3954,9 +3450,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JianFa_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Sword Technique"
           },
@@ -3969,10 +3462,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/SongFeng"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3993,9 +3483,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CunJin_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Concealed Weapon"
           },
@@ -4008,10 +3495,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/QingLei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4032,9 +3516,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Musical Instrument\" +1 to \"Charisma"
           },
@@ -4047,9 +3528,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -4060,10 +3538,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/YuHuBingQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4084,9 +3559,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "\"Musical Instrument\" +2"
           },
@@ -4099,10 +3571,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/HaiYueQingFengQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4123,9 +3592,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JianFa_0000000001"
-          ],
           "Name": {
             "Value": "\"Sword Technique\" +2"
           },
@@ -4138,10 +3604,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/FeiQuanQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4162,9 +3625,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Musical Instrument\" +1 to \"Charisma"
           },
@@ -4177,9 +3637,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -4190,10 +3647,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/YuLingLongQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4214,9 +3668,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"Fingering\" +2"
           },
@@ -4229,10 +3680,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/TianFengHaiTaoQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4253,9 +3701,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {
             "Value": "\"Gods Come\" +2"
           },
@@ -4268,10 +3713,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/LvQi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4292,9 +3734,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "+1 \"Musical Instrument\" +1 \"God Comes\""
           },
@@ -4307,9 +3746,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -4320,10 +3756,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/JiaoWei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4344,9 +3777,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "\"Instrument\" +2 \"Charisma\" +1"
           },
@@ -4359,9 +3789,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -4372,10 +3799,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/JiuXiaoHuanPeiQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4396,9 +3820,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "\"Musical Instrument\" +3"
           },
@@ -4411,10 +3832,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/DaShengYiYinQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4435,9 +3853,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"Charm\" +3"
           },
@@ -4450,10 +3865,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/YiWuMingQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4474,9 +3886,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {
             "Value": "\"+2 for \"Decision\" and +1 for \"God's Coming"
           },
@@ -4489,9 +3898,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -4502,10 +3908,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/RaoLiang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4526,9 +3929,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Musical Instrument\" +2 to \"God's Coming"
           },
@@ -4541,9 +3941,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -4554,10 +3951,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/LingFengShenYun"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4578,9 +3972,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QuanZhang_0000000001"
-          ],
           "Name": {
             "Value": "\"Fist and Palm\" +2 \"Sword Technique\" +2"
           },
@@ -4593,9 +3984,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JianFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -4606,10 +3994,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/HeWuLongXiang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4628,9 +4013,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "\"Musical Instrument\" +1"
           },
@@ -4643,10 +4025,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/QingLaiQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4665,9 +4044,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouCang_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 for \"Collection\" and +1 for \"Bargaining"
           },
@@ -4680,9 +4056,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterJiaoShe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -4693,10 +4066,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/ChanWen"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4715,9 +4085,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YiShu_0000000001"
-          ],
           "Name": {
             "Value": "+1 to \"Healing\" +1 to \"Poison\""
           },
@@ -4730,9 +4097,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DuShu_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -4743,10 +4107,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/ShuangYu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4765,9 +4126,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChuiFu_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Axe of Fortune\" +1 to \"Insight"
           },
@@ -4780,9 +4138,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -4793,10 +4148,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/JinZhongQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4815,9 +4167,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "\"Musical Instrument\" +2"
           },
@@ -4830,10 +4179,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/ZhongNiShiQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4852,9 +4198,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CunJin_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Concealed Weapon\" +1 to \"Charisma"
           },
@@ -4867,9 +4210,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -4880,10 +4220,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/QiFeng"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4902,9 +4239,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {
             "Value": "+3 to \"Killing Intent\" and +3 to \"Gods Come\""
           },
@@ -4917,9 +4251,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -4930,10 +4261,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/JiaHuGuDi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4952,9 +4280,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuMai_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Governor's Vessel\" +1 to \"Ren's Vessel"
           },
@@ -4967,9 +4292,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "RenMai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -4980,10 +4302,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/YueQi/LongYin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5002,9 +4321,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {
             "Value": "\"+3 to \"Concentration\" and -1 to \"Physique"
           },
@@ -5017,9 +4333,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -5030,10 +4343,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YueQi/LuoShangDi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5052,9 +4362,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Musical Instrument\" and +2 to \"Connotation"
           },
@@ -5067,9 +4374,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -5080,10 +4384,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YueQi/ChuXiaHanShanQin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5102,9 +4403,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GouFa_0000000001"
-          ],
           "Name": {
             "Value": "\"+2 to \"Hooking\" +1 to \"Charisma"
           },
@@ -5117,9 +4415,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -5130,10 +4425,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YueQi/YuXiaoDi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5152,9 +4444,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "BiFa_0000000001"
-          ],
           "Name": {
             "Value": "\"+2 for \"Stroke\" and +1 for \"Concentration"
           },
@@ -5167,9 +4456,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -5180,10 +4466,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YueQi/ShiLiuYuanFeng"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5202,9 +4485,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CunJin_0000000001"
-          ],
           "Name": {
             "Value": "\"Concealed Weapon\" +3 \"Morality\" -3"
           },
@@ -5217,9 +4497,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -5230,10 +4507,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YueQi/JianChouShangShi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5252,9 +4526,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {
             "Value": "+3 to \"Decide\" +3 to \"Focus\""
           },
@@ -5267,9 +4538,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -5280,9 +4548,6 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/YueQi/BenLei"
-    ]
+    }
   }
 ]
