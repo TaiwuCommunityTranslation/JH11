@@ -3,12 +3,7 @@
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#23FF00FF> Yulu Pills </color> "
     },
@@ -24,9 +19,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "TouMian_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 24 points of site status continuously"
           },
@@ -45,21 +37,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/YuLuWan"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FFFFFFFF> Foot Care Cream </color> "
     },
@@ -75,9 +59,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "TuiJiao_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing Status\" restores 16 points of site status continuously"
           },
@@ -96,21 +77,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/JianZuGao"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF00B6FF> Blood-breaking and golden sore medicine </color> "
     },
@@ -126,9 +99,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "TuiJiao_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 24 points of status value to the area"
           },
@@ -147,9 +117,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShouWan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -166,9 +133,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShouBi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -185,21 +149,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/PoXueJinChuangYao"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FFFFFFFF> Dispersing bruises and tumble dew </color> "
     },
@@ -215,9 +171,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouWan_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 16 points of status value to the area"
           },
@@ -236,21 +189,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/SanYuDieDaLu"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FFFFFFFF> Saffron Comic Wine </color> "
     },
@@ -266,9 +211,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouBi_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 16 points of status value to the area"
           },
@@ -287,21 +229,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/HongHuaManJiu"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#23FF00FF> Elderberry Ointment </color> "
     },
@@ -317,9 +251,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YaoFu_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 16 points of status value to the area"
           },
@@ -338,21 +269,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/JieGuCaoYaoGao"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#23FF00FF> Three Degrees of Frankincense Oil </color> "
     },
@@ -368,9 +291,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XiongBei_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 24 points of status value to the area"
           },
@@ -389,21 +309,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/SanDuRuXiangYou"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FFFFFFFF> Aromatherapy Xiao Yuan Er </color> "
     },
@@ -419,9 +331,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "TouMian_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 8 points of status value to the area"
           },
@@ -440,21 +349,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/XiangYaoXiaoYuanEr"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FFFFFFFF> Peng Sha Yuan </color> "
     },
@@ -470,9 +371,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XiongBei_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 8 points of status value to the area"
           },
@@ -491,22 +389,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/PengShaYuan"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF00B6FF> Purple Fire Treasure Pill </color> "
     },
@@ -522,9 +411,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YaoFu_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 16 points of status value to the area"
           },
@@ -543,22 +429,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/ZiHuoBaoWan"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF9A00FF> Bone Washing Gold Cream </color> "
     },
@@ -574,9 +451,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "TuiJiao_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 24 points of status value to the area"
           },
@@ -595,9 +469,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShouWan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -614,9 +485,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShouBi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -633,23 +501,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/XiGuJinGao"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2,
-        3
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF9A00FF> Biying Cream </color> "
     },
@@ -665,9 +523,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouWan_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 24 points of status value to the area"
           },
@@ -686,22 +541,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/BiYingGao"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF00B6FF> Mukindan </color> "
     },
@@ -717,9 +563,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "TouMian_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 24 points of status value to the area"
           },
@@ -738,23 +581,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/MuJinDan"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2,
-        3
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF9A00FF> Seven Fates Douyu Pill </color> "
     },
@@ -770,9 +603,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JinMai_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 16 points of status value to the area"
           },
@@ -791,22 +621,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/QiMingDuEWan"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF00B6FF> Shaolin Thirteen Flavors </color> "
     },
@@ -822,9 +643,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouBi_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 8 points of status value to the area"
           },
@@ -843,9 +661,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShouWan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -862,21 +677,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/ShaoLinShiSanWei"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#23FF00FF> Ambergris Cream </color> "
     },
@@ -892,9 +699,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JinMai_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 8 points of status value to the area"
           },
@@ -913,22 +717,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/LongXianGao"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF00B6FF> Green Spirit Secret Medicine </color> "
     },
@@ -944,9 +739,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JinMai_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 8 points of status value to the area"
           },
@@ -965,22 +757,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/QingLingMiYao"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF00B6FF> Easy Renewal Tendon Pill </color> "
     },
@@ -996,9 +779,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouWan_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 24 points of status value to the area"
           },
@@ -1017,23 +797,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/XiaoYaoXuJinWan"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2,
-        3
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF9A00FF> Five Elements of Kaiten Herb </color> "
     },
@@ -1049,9 +819,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XiongBei_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 16 points of status value to the area"
           },
@@ -1070,21 +837,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/WuXingHuiTianCao"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#23FF00FF> Poria Seeds </color> "
     },
@@ -1100,9 +859,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XiongBei_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 16 points of status value to the area"
           },
@@ -1121,23 +877,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/FuLingSan"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2,
-        3
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF9A00FF> Seven Turn Black Jade Cream </color> "
     },
@@ -1153,9 +899,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YaoFu_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 8 points of status value to the area"
           },
@@ -1174,23 +917,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/QiZhuanHeiYuGao"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2,
-        3
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF9A00FF> Bacopa Monniera Breaking Cream </color> "
     },
@@ -1206,9 +939,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouBi_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 16 points of status value to the area"
           },
@@ -1227,9 +957,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShouWan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1246,23 +973,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/BaiCaoDuanXuGao"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2,
-        3
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF9A00FF> Ice Elixir </color> "
     },
@@ -1278,9 +995,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "TouMian_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 24 points of status value to the area"
           },
@@ -1299,22 +1013,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/BingLingDan"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF00B6FF> Yu Heng Bone Replacement Medicine </color> "
     },
@@ -1330,9 +1035,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XiongBei_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 16 points of status value to the area"
           },
@@ -1351,23 +1053,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/YuHengHuanGuYao"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2,
-        3
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF9A00FF> Golden Marrow Herbs </color> "
     },
@@ -1383,9 +1075,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "TuiJiao_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 24 points of status value to the area"
           },
@@ -1404,22 +1093,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/JinSuiCaoYao"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF00B6FF> Star and Moon Dew </color> "
     },
@@ -1435,9 +1115,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouWan_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 24 points of status value to the area"
           },
@@ -1456,9 +1133,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShouBi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1475,22 +1149,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/XingYueLu"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF00B6FF> Nandoo Red Paste </color> "
     },
@@ -1506,9 +1171,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YaoFu_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 24 points of status value to the area"
           },
@@ -1527,9 +1189,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TuiJiao_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1546,22 +1205,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/NanDouChiGao"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF00B6FF> Seven Lives Treasure Pill </color> "
     },
@@ -1577,9 +1227,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XiongBei_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 24 points of status value to the area"
           },
@@ -1598,9 +1245,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JinMai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1617,22 +1261,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/QiMingBaoDan"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF00B6FF> Hunting Heavenly Pill </color> "
     },
@@ -1648,9 +1283,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "TouMian_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 24 points of status value to the area"
           },
@@ -1669,9 +1301,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XiongBei_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1688,23 +1317,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/HunTianDan"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2,
-        3
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF9A00FF> Tianxin Gold Pills </color> "
     },
@@ -1720,9 +1339,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "TouMian_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 20 points of status value to the area"
           },
@@ -1741,23 +1357,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/TianXinJinWan"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2,
-        3
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF9A00FF> Golden Light Clear Elixir </color> "
     },
@@ -1773,9 +1379,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XiongBei_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 20 points of status value to the area"
           },
@@ -1794,23 +1397,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/JinGuangQingLingDan"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2,
-        3
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF9A00FF> Luo Han Qi Medicine </color> "
     },
@@ -1826,9 +1419,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouWan_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 20 points of status value to the area"
           },
@@ -1847,23 +1437,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/LuoHanQiYao"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2,
-        3
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF9A00FF> Jade Clear White Bone Cream </color> "
     },
@@ -1879,9 +1459,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouBi_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 20 points of status value to the area"
           },
@@ -1900,23 +1477,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/YuQingBaiGuGao"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2,
-        3
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF9A00FF> Juyang Baodan </color> "
     },
@@ -1932,9 +1499,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YaoFu_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 20 points of status value to the area"
           },
@@ -1953,23 +1517,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/JuYangBaoDan"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2,
-        3
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF9A00FF> Taiyiling Purple Ointment </color> "
     },
@@ -1985,9 +1539,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "TuiJiao_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 20 points of status value to the area"
           },
@@ -2006,23 +1557,13 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/TaiYiLingZiGao"
-    ]
+    }
   },
   {
     "ItemType": {
       "ValueInfo": "Injury medicine"
     },
-    "Condition": {
-      "BuWeiState": [
-        0,
-        1,
-        2,
-        3
-      ]
-    },
+    "Condition": {},
     "Name": {
       "ValueInfo": " <color=#FF9A00FF> Blood Clotting Herbs </color> "
     },
@@ -2038,9 +1579,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JinMai_0000000001"
-          ],
           "Name": {
             "Value": "\"Healing status\" restores 20 points of status value to the area"
           },
@@ -2059,10 +1597,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/ShangYao/XueNingCaoYao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2083,9 +1618,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhanDouNeiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"Tonic State\" restores 3200 internal energy points continuously"
           },
@@ -2102,10 +1634,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/BuYao/WuJiFengHuangWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2126,9 +1655,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhanDouNeiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"Tonic State\" restores 7200 internal energy points continuously"
           },
@@ -2145,10 +1671,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/BuYao/ZhiYuanNeiDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2169,9 +1692,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhanDouNeiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"Tonic State\" restores 5600 internal energy points continuously"
           },
@@ -2188,10 +1708,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/BuYao/QiangHuoTongMaiWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2212,9 +1729,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhanDouNeiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"Tonic State\" continuously restores 2400 internal energy points"
           },
@@ -2231,10 +1745,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/BuYao/YangJingWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2255,9 +1766,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhanDouNeiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"Tonic State\" restores 2,400 internal energy points continuously"
           },
@@ -2274,10 +1782,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/BuYao/TaiYueYangQiWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2298,9 +1803,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhanDouNeiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"Tonic State\" restores 2480 internal energy points"
           },
@@ -2317,10 +1819,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/BuYao/BuZhongYiQiWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2341,9 +1840,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhanDouNeiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"Tonic State\" restores 1,280 internal energy points continuously"
           },
@@ -2362,10 +1858,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/BuYao/TianYiXiaoHuanDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2386,9 +1879,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhanDouNeiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"Tonic State\" restores 1440 internal energy points continuously"
           },
@@ -2407,10 +1897,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/BuYao/HuiChunTangYao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2431,9 +1918,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhanDouNeiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"Tonic State\" restores 1360 internal energy points continuously"
           },
@@ -2452,10 +1936,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/BuYao/ChenXiangWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2476,9 +1957,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhanDouNeiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"Tonic State\" continuously restores 9600 internal energy points"
           },
@@ -2495,10 +1973,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/BuYao/DaBuNeiDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2519,9 +1994,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhanDouNeiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"Tonic State\" restores 5600 internal energy points continuously"
           },
@@ -2538,10 +2010,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/BuYao/ZhenYuanDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2562,9 +2031,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhanDouNeiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"Tonic State\" continuously restores 4800 internal energy points"
           },
@@ -2581,10 +2047,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/BuYao/JiuXiaoHuanDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2605,9 +2068,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhanDouNeiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"Tonic State\" continuously restores 6400 internal energy points"
           },
@@ -2624,10 +2084,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/BuYao/QianZhuanBulingDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2648,9 +2105,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {
             "Value": "\"Qi Method\" +1 (permanent increase after taking)"
           },
@@ -2661,10 +2115,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/LingYao/TaiShangSiXiangDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2685,9 +2136,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {
             "Value": "+1 to \"Resting\" (permanent increase after taking)"
           },
@@ -2698,10 +2146,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/LingYao/YuanYiDaHuangNeiDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2722,9 +2167,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QiLiang_0000000001"
-          ],
           "Name": {
             "Value": "\"Qi\" +3 (permanently increased after consumption)"
           },
@@ -2735,10 +2177,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/LingYao/TianShanXueLian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2759,9 +2198,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QiLiang_0000000001"
-          ],
           "Name": {
             "Value": "+1 \"Qi\" (permanently increased after consumption)"
           },
@@ -2772,10 +2208,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/LingYao/LongXianDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2796,9 +2229,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "RenMai_0000000001"
-          ],
           "Name": {
             "Value": "+1 to \"Ren Chakra\" (permanent increase after taking)"
           },
@@ -2809,10 +2239,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/LingYao/JiYinDingLingTang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2833,9 +2260,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuMai_0000000001"
-          ],
           "Name": {
             "Value": "+1 to \"Governor's Vein\" (permanent increase after taking)"
           },
@@ -2846,10 +2270,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/LingYao/DaHuangShengDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2870,10 +2291,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuMai_0000000001",
-            "RenMai_0000000001"
-          ],
           "Name": {
             "Value": "+1 to \"Governor's Vessel\" +1 to \"Ren's Vessel\" (permanent increase after taking)"
           },
@@ -2884,10 +2301,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/LingYao/YiQiDaChengDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2908,9 +2322,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {
             "Value": "\"Breath Tuning\" +2 (permanent increase after taking)"
           },
@@ -2921,10 +2332,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/LingYao/XuanMenMiDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2945,9 +2353,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QiLiang_0000000001"
-          ],
           "Name": {
             "Value": "\"Qi\" +2 (permanently increased after consumption)"
           },
@@ -2958,10 +2363,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/LingYao/JuQiLingDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2982,9 +2384,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {
             "Value": "\"Qi Method\" +2 (permanent increase after taking)"
           },
@@ -2995,10 +2394,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/LingYao/NingHuoZhenDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3019,9 +2415,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuMai_0000000001"
-          ],
           "Name": {
             "Value": "+2 for \"Governor's Vein\" (permanently increased after taking)"
           },
@@ -3032,10 +2425,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/LingYao/ChunYangJuPoDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3056,9 +2446,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "RenMai_0000000001"
-          ],
           "Name": {
             "Value": "\"Ren Chakra\" +2 (permanently increased after taking)"
           },
@@ -3069,10 +2456,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/LingYao/ZiJinXianYouDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3093,7 +2477,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Progressive remission of \"mild\" cases of \"medication status\"",
             "ValueInfo": "Progressive remission of \"mild\" cases of \"medication status\""
@@ -3105,17 +2488,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              1
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/BaiDuSan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3136,7 +2512,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Progressive remission of \"mild\" cases of \"medication status\"",
             "ValueInfo": "Progressive remission of \"mild\" cases of \"medication status\""
@@ -3148,17 +2523,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              1
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/BaiHuTang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3179,7 +2547,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Progressive remission of \"mild\" cases of \"medication status\"",
             "ValueInfo": "Progressive remission of \"mild\" cases of \"medication status\""
@@ -3191,17 +2558,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              1
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/XieBaiSan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3222,7 +2582,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Progressive remission of \"mild\" cases of \"medication status\"",
             "ValueInfo": "Progressive remission of \"mild\" cases of \"medication status\""
@@ -3234,17 +2593,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              1
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/DanShaGao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3265,7 +2617,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Progressive remission of \"mild\" cases of \"medication status\"",
             "ValueInfo": "Progressive remission of \"mild\" cases of \"medication status\""
@@ -3277,17 +2628,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              1
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/XianRenYuHuWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3308,7 +2652,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Progressive remission of \"mild\" cases of \"medication status\"",
             "ValueInfo": "Progressive remission of \"mild\" cases of \"medication status\""
@@ -3320,17 +2663,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              1
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/ErDongErMuTang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3351,7 +2687,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Progressive remission of \"mild\" cases of \"medication status\"",
             "ValueInfo": "Progressive remission of \"mild\" cases of \"medication status\""
@@ -3363,17 +2698,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              1
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/ZhengChaiHuYin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3394,7 +2722,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Progressive remission of \"mild\" cases of \"medication status\"",
             "ValueInfo": "Progressive remission of \"mild\" cases of \"medication status\""
@@ -3406,17 +2733,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              1
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/ShenShuSan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3437,7 +2757,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "\"Gradual remission of \"severe\" illnesses from \"medication status",
             "ValueInfo": "\"Gradual remission of \"severe\" illnesses from \"medication status"
@@ -3449,17 +2768,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              2
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/ShiShenTang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3480,7 +2792,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "\"Gradual remission of \"severe\" illnesses from \"medication status",
             "ValueInfo": "\"Gradual remission of \"severe\" illnesses from \"medication status"
@@ -3492,17 +2803,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              2
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/LiZhiKeXueGao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3523,7 +2827,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "\"Gradual remission of \"severe\" illnesses from \"medication status",
             "ValueInfo": "\"Gradual remission of \"severe\" illnesses from \"medication status"
@@ -3535,17 +2838,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              2
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/AnHunHuPoDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3566,7 +2862,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "\"Gradual remission of \"severe\" illnesses from \"medication status",
             "ValueInfo": "\"Gradual remission of \"severe\" illnesses from \"medication status"
@@ -3578,17 +2873,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              2
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/ZiJinGao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3609,7 +2897,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "\"Gradual remission of \"severe\" illnesses from \"medication status",
             "ValueInfo": "\"Gradual remission of \"severe\" illnesses from \"medication status"
@@ -3621,17 +2908,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              2
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/DaShengBaoMingDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3652,7 +2932,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "\"Gradual remission of \"severe\" illnesses from \"medication status",
             "ValueInfo": "\"Gradual remission of \"severe\" illnesses from \"medication status"
@@ -3664,17 +2943,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              2
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/BuTianWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3695,7 +2967,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "\"Progressive remission of the \"slow-onset\" condition by \"medication status",
             "ValueInfo": "\"Progressive remission of the \"slow-onset\" condition by \"medication status"
@@ -3707,17 +2978,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              3
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/YuYuLiang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3738,7 +3002,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "\"Progressive remission of the \"slow-onset\" condition by \"medication status",
             "ValueInfo": "\"Progressive remission of the \"slow-onset\" condition by \"medication status"
@@ -3750,17 +3013,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              3
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/BaiHuoCao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3781,7 +3037,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "\"Progressive remission of the \"slow-onset\" condition by \"medication status",
             "ValueInfo": "\"Progressive remission of the \"slow-onset\" condition by \"medication status"
@@ -3793,17 +3048,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              3
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/GuiZiGuTang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3824,7 +3072,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "\"Progressive remission of the \"slow-onset\" condition by \"medication status",
             "ValueInfo": "\"Progressive remission of the \"slow-onset\" condition by \"medication status"
@@ -3836,17 +3083,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              3
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/JuPiTang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3867,7 +3107,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "\"Progressive remission of the \"slow-onset\" condition by \"medication status",
             "ValueInfo": "\"Progressive remission of the \"slow-onset\" condition by \"medication status"
@@ -3879,17 +3118,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              3
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/ShuGanDiHuangSan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3910,7 +3142,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "\"Progressive remission of the \"slow-onset\" condition by \"medication status",
             "ValueInfo": "\"Progressive remission of the \"slow-onset\" condition by \"medication status"
@@ -3922,17 +3153,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              3
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/LuXiSan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3953,7 +3177,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "\"Gradual relief of \"acute\" illnesses from \"medication status",
             "ValueInfo": "\"Gradual relief of \"acute\" illnesses from \"medication status"
@@ -3965,17 +3188,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              4
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/KuiYangSan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3996,7 +3212,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "\"Gradual relief of \"acute\" illnesses from \"medication status",
             "ValueInfo": "\"Gradual relief of \"acute\" illnesses from \"medication status"
@@ -4008,17 +3223,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              4
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/HuangQinHuangLianTang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4039,7 +3247,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "\"Gradual relief of \"acute\" illnesses from \"medication status",
             "ValueInfo": "\"Gradual relief of \"acute\" illnesses from \"medication status"
@@ -4051,17 +3258,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              4
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/HuoXiangShiGaoCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4082,7 +3282,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "\"Gradual relief of \"acute\" illnesses from \"medication status",
             "ValueInfo": "\"Gradual relief of \"acute\" illnesses from \"medication status"
@@ -4094,17 +3293,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              4
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/QiXingWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4125,7 +3317,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Release from \"drunk\" status",
             "ValueInfo": "Release from \"drunk\" status"
@@ -4137,17 +3328,10 @@
             "ValueInfo": "After a few stages"
           },
           "JieDuan": {},
-          "Cures": {
-            "Value": [
-              5
-            ]
-          }
+          "Cures": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YiYao/GeHuajieChengTang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4172,9 +3356,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QiLiang_0000000001"
-          ],
           "Name": {
             "Value": "\"Air volume\" -20",
             "ValueInfo": "\"Air volume\" -20"
@@ -4198,10 +3379,7 @@
           "Description": "\"Air volume\" -20"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/LuanFengYan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4226,9 +3404,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {
             "Value": "\"Will\"-10 \"Determination\"-10",
             "ValueInfo": "\"Will\"-10 \"Determination\"-10"
@@ -4245,9 +3420,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -4271,10 +3443,7 @@
           "Description": "\"Decision\" -10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/BeiSuQingFeng"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4299,9 +3468,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {
             "Value": "\"Body\" -20",
             "ValueInfo": "\"Body\" -20"
@@ -4325,10 +3491,7 @@
           "Description": "\"Body\" -20"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/ShiJiaoManTuo"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4353,9 +3516,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuMai_0000000001"
-          ],
           "Name": {
             "Value": "\"Governor's Vein\" -10",
             "ValueInfo": "\"Governor's Vein\" -10"
@@ -4379,10 +3539,7 @@
           "Description": "\"Governor's Vein\" -10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/JinNiuQi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4407,9 +3564,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QiLiang_0000000001"
-          ],
           "Name": {
             "Value": "\"Qi\" -10 \"Qi Method\" -10",
             "ValueInfo": "\"Qi\" -10 \"Qi Method\" -10"
@@ -4426,9 +3580,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -4452,10 +3603,7 @@
           "Description": "\"Qi Method\" -10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/JiangLiCao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4480,9 +3628,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YaoMa_0000000001"
-          ],
           "Name": {
             "Value": "\"Waist Horse\" -15 \"Physique\" -15",
             "ValueInfo": "\"Waist Horse\" -15 \"Physique\" -15"
@@ -4499,9 +3644,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -4525,10 +3667,7 @@
           "Description": "\"Body\" -15"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/XueZhuHaiTang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4553,9 +3692,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuMai_0000000001"
-          ],
           "Name": {
             "Value": "\"Vascular\" -20 \"Physical strength\" -20",
             "ValueInfo": "\"Vascular\" -20 \"Physical strength\" -20"
@@ -4572,9 +3708,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -4598,10 +3731,7 @@
           "Description": "\"Body\" -20"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/YinYunXuKong"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4626,9 +3756,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YaoMa_0000000001"
-          ],
           "Name": {
             "Value": "\"Waist Horse\" -20",
             "ValueInfo": "\"Waist Horse\" -20"
@@ -4652,10 +3779,7 @@
           "Description": "\"Waist Horse\" -20"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/QianJiYuWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4680,9 +3804,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {
             "Value": "\"Body\" -50",
             "ValueInfo": "\"Body\" -50"
@@ -4706,10 +3827,7 @@
           "Description": "\"Body\" -50"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/BiCanDuGu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4734,9 +3852,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuMai_0000000001"
-          ],
           "Name": {
             "Value": "\"Governor's Vein\"-60",
             "ValueInfo": "\"Governor's Vein\"-60"
@@ -4760,10 +3875,7 @@
           "Description": "\"Governor's Vein\"-60"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/ZhanHuaXiao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4788,9 +3900,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YaoMa_0000000001"
-          ],
           "Name": {
             "Value": "\"Waist Horse\" -30 \"Physique\" -30",
             "ValueInfo": "\"Waist Horse\" -30 \"Physique\" -30"
@@ -4807,9 +3916,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -4833,10 +3939,7 @@
           "Description": "\"Body\" -30"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/XueDingHongPi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4861,9 +3964,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JinGu_0000000001"
-          ],
           "Name": {
             "Value": "\"Muscle\" -10",
             "ValueInfo": "\"Muscle\" -10"
@@ -4887,10 +3987,7 @@
           "Description": "\"Muscle\" -10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/JinXianShe"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4915,9 +4012,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XiaPan_0000000001"
-          ],
           "Name": {
             "Value": "\"Underdog\" -20",
             "ValueInfo": "\"Underdog\" -20"
@@ -4941,10 +4035,7 @@
           "Description": "\"Underdog\" -20"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/LeiGongShuPan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4969,9 +4060,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {
             "Value": "\"Concentration\" -15 \"Calmness\" -15",
             "ValueInfo": "\"Concentration\" -15 \"Calmness\" -15"
@@ -4988,9 +4076,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -5014,10 +4099,7 @@
           "Description": "\"Calm\" -15"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/ChiXieFen"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5042,9 +4124,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "RenMai_0000000001"
-          ],
           "Name": {
             "Value": "\"Ren Chakra\"-10",
             "ValueInfo": "\"Ren Chakra\"-10"
@@ -5068,10 +4147,7 @@
           "Description": "\"Ren Chakra\"-10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/ChaoGuanFen"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5096,9 +4172,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {
             "Value": "\"Qi Method\" -10 \"Body Form\" -10",
             "ValueInfo": "\"Qi Method\" -10 \"Body Form\" -10"
@@ -5115,9 +4188,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -5141,10 +4211,7 @@
           "Description": "\"Body shape\" -10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/KuMuTang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5169,9 +4236,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "RenMai_0000000001"
-          ],
           "Name": {
             "Value": "\"Ren Chakra\"-30",
             "ValueInfo": "\"Ren Chakra\"-30"
@@ -5195,10 +4259,7 @@
           "Description": "\"Ren Chakra\"-30"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/YanYangXianMingTang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5223,9 +4284,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JinGu_0000000001"
-          ],
           "Name": {
             "Value": "\"Muscle\" -50",
             "ValueInfo": "\"Muscle\" -50"
@@ -5249,10 +4307,7 @@
           "Description": "\"Muscle\" -50"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/JinCanGu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5277,9 +4332,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {
             "Value": "\"Breathing\" -40 \"Body shape\" -40",
             "ValueInfo": "\"Breathing\" -40 \"Body shape\" -40"
@@ -5296,9 +4348,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -5322,10 +4371,7 @@
           "Description": "\"Body shape\"-40"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/HongXinGao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5350,9 +4396,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {
             "Value": "\"Concentration\"-50 \"Calmness\"-50 \"Decisiveness\"-50",
             "ValueInfo": "\"Concentration\"-50 \"Calmness\"-50 \"Decisiveness\"-50"
@@ -5369,9 +4412,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -5385,9 +4425,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -5414,10 +4451,7 @@
           "Description": "\"Decision\" -50"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/ZuiXianLing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5442,9 +4476,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "RenMai_0000000001"
-          ],
           "Name": {
             "Value": "\"Ren Chakra\"-60",
             "ValueInfo": "\"Ren Chakra\"-60"
@@ -5468,10 +4499,7 @@
           "Description": "\"Ren Chakra\"-60"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/PiLiSanGongSan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5496,9 +4524,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {
             "Value": "\"Breath Adjustment\"-60 \"Qi Method\"-60",
             "ValueInfo": "\"Breath Adjustment\"-60 \"Qi Method\"-60"
@@ -5515,9 +4540,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -5541,10 +4563,7 @@
           "Description": "\"Qi Method\"-60"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/JinWuDuDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5569,9 +4588,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XiaPan_0000000001"
-          ],
           "Name": {
             "Value": "\"Lower hand\" -40 \"Body shape\" -40",
             "ValueInfo": "\"Lower hand\" -40 \"Body shape\" -40"
@@ -5588,9 +4604,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -5614,10 +4627,7 @@
           "Description": "\"Body shape\"-40"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/FenYuanMiDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5642,9 +4652,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DuMai_0000000001"
-          ],
           "Name": {
             "Value": "\"Governor's Vein\" -35",
             "ValueInfo": "\"Governor's Vein\" -35"
@@ -5668,10 +4675,7 @@
           "Description": "\"Governor's Vein\" -35"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/FenYuanMiDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5696,9 +4700,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {
             "Value": "\"Concentration\"-30 \"Calmness\"-30",
             "ValueInfo": "\"Concentration\"-30 \"Calmness\"-30"
@@ -5715,9 +4716,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -5741,10 +4739,7 @@
           "Description": "\"Calm\" -30"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/LeiGongMiJiu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5769,9 +4764,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QiLiang_0000000001"
-          ],
           "Name": {
             "Value": "\"Air volume\" -40",
             "ValueInfo": "\"Air volume\" -40"
@@ -5795,10 +4787,7 @@
           "Description": "\"Air volume\" -40"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/XueShangYiZhiSong"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5823,9 +4812,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {
             "Value": "\"Will\"-60",
             "ValueInfo": "\"Will\"-60"
@@ -5849,10 +4835,7 @@
           "Description": "\"Will\"-60"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/GouWenWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5875,9 +4858,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"+20 to \"Charisma\" and -30 to \"Attunement",
             "ValueInfo": "\"+20 to \"Charisma\" and -30 to \"Attunement"
@@ -5894,9 +4874,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -5920,10 +4897,7 @@
           "Description": "\"Resting\" -30"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/TaoHuaLu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5946,9 +4920,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "RenMai_0000000001"
-          ],
           "Name": {
             "Value": "\"Ren Chakra\"-10",
             "ValueInfo": "\"Ren Chakra\"-10"
@@ -5972,10 +4943,7 @@
           "Description": "\"Ren Chakra\"-10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/DuanMaiCao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5998,9 +4966,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "RenMai_0000000001"
-          ],
           "Name": {
             "Value": "\"Ren Chakra\" +10 \"Du Chakra\" -10 \"Qi Capacity\" -10",
             "ValueInfo": "\"Ren Chakra\" +10 \"Du Chakra\" -10 \"Qi Capacity\" -10"
@@ -6017,9 +4982,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DuMai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -6033,9 +4995,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiLiang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -6062,10 +5021,7 @@
           "Description": "\"Air volume\" -10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/LingJiaoQiSi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6088,9 +5044,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {
             "Value": "\"Killing Intent\" +20 \"Gods Come\" -40",
             "ValueInfo": "\"Killing Intent\" +20 \"Gods Come\" -40"
@@ -6107,9 +5060,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -6133,10 +5083,7 @@
           "Description": "\"God Comes\"-40"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/ShaQiuGen"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6159,9 +5106,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {
             "Value": "\"+60 to \"killing intent\", -40 to \"will\", -40 to \"concentration",
             "ValueInfo": "\"+60 to \"killing intent\", -40 to \"will\", -40 to \"concentration"
@@ -6178,9 +5122,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -6194,9 +5135,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -6223,10 +5161,7 @@
           "Description": "\"Concentration\" -40"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/ShiXinSan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6249,9 +5184,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "RenMai_0000000001"
-          ],
           "Name": {
             "Value": "\"Ren Chakra\" +10 \"Qi\" -60",
             "ValueInfo": "\"Ren Chakra\" +10 \"Qi\" -60"
@@ -6268,9 +5200,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiLiang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -6294,10 +5223,7 @@
           "Description": "\"Air volume\" -60"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/ShaGuMeiYao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6320,9 +5246,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QuanZhang_0000000001"
-          ],
           "Name": {
             "Value": "\"Fist and Palm\" +10, \"Determination\" -40, \"Muscle\" -40",
             "ValueInfo": "\"Fist and Palm\" +10, \"Determination\" -40, \"Muscle\" -40"
@@ -6339,9 +5262,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -6355,9 +5275,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JinGu_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -6384,10 +5301,7 @@
           "Description": "\"Muscle\" -40"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/HuangLongDuDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6410,9 +5324,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {
             "Value": "\"God Comes\" -60",
             "ValueInfo": "\"God Comes\" -60"
@@ -6436,10 +5347,7 @@
           "Description": "\"God Comes\" -60"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/PoFengYou"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6462,9 +5370,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJiaoShe_0000000001"
-          ],
           "Name": {
             "Value": "\"Bargaining\"-60 \"Contentment\"-60",
             "ValueInfo": "\"Bargaining\"-60 \"Contentment\"-60"
@@ -6481,9 +5386,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -6507,10 +5409,7 @@
           "Description": "\"Connotation\"-60"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/LanHouDuoXinCao"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6533,9 +5432,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {
             "Value": "\"Fortunate\" -60 \"Charisma\" -60",
             "ValueInfo": "\"Fortunate\" -60 \"Charisma\" -60"
@@ -6552,9 +5448,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -6578,10 +5471,7 @@
           "Description": "\"Charisma\" -60"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/TianMingSiSanWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6604,9 +5494,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"+30 to \"Charisma\", +30 to \"Contentment\", -100 to \"Stamina",
             "ValueInfo": "\"+30 to \"Charisma\", +30 to \"Contentment\", -100 to \"Stamina"
@@ -6623,9 +5510,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -6639,9 +5523,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiLiang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -6668,10 +5549,7 @@
           "Description": "\"Air volume\" -100"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/JinYanXiang"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6694,9 +5572,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {
             "Value": "\"Shinra\" +15 \"Waist Horse\" -40 \"Stamina\" -40",
             "ValueInfo": "\"Shinra\" +15 \"Waist Horse\" -40 \"Stamina\" -40"
@@ -6713,9 +5588,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YaoMa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -6729,9 +5601,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiLiang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -6758,10 +5627,7 @@
           "Description": "\"Air volume\" -40"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/PiHanMiDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6784,9 +5650,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {
             "Value": "\"Killing Intent -50, Decisiveness -50, Calmness -50",
             "ValueInfo": "\"Killing Intent -50, Decisiveness -50, Calmness -50"
@@ -6803,9 +5666,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -6819,9 +5679,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -6848,10 +5705,7 @@
           "Description": "\"Calm\" -50"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/QiHuangShiLei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -6874,9 +5728,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XiaPan_0000000001"
-          ],
           "Name": {
             "Value": "\"Air volume\" -20"
           },
@@ -6892,9 +5743,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YaoFu_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -6908,9 +5756,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TouMian_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -6924,9 +5769,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShouWan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -6940,9 +5782,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShouBi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -6956,9 +5795,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XiongBei_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -6972,9 +5808,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TuiJiao_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -6988,9 +5821,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JinMai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -7004,10 +5834,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/DuYao/QiHuangShiLei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7032,7 +5859,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Remove the \"Yang\" poison from the body by \"detoxification\""
           },
@@ -7042,17 +5868,10 @@
           "ExecuteTime": {
             "ValueInfo": "Each stage"
           },
-          "YinYangLeiXing": {
-            "Value": [
-              0
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/JieYao/YuBiYouWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7077,7 +5896,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Remove the \"Yang\" poison from the body through \"detoxification\""
           },
@@ -7087,17 +5905,10 @@
           "ExecuteTime": {
             "ValueInfo": "Each stage"
           },
-          "YinYangLeiXing": {
-            "Value": [
-              0
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/JieYao/RongChunXue"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7122,7 +5933,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Remove the \"Yang\" poison from the body by \"detoxification\""
           },
@@ -7132,17 +5942,10 @@
           "ExecuteTime": {
             "ValueInfo": "Each stage"
           },
-          "YinYangLeiXing": {
-            "Value": [
-              0
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/JieYao/BingQingRongDuYe"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7167,7 +5970,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Remove the \"Yang\" poison from the body by \"detoxification\""
           },
@@ -7177,17 +5979,10 @@
           "ExecuteTime": {
             "ValueInfo": "Each stage"
           },
-          "YinYangLeiXing": {
-            "Value": [
-              0
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/JieYao/QingLianHua"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7212,7 +6007,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Remove the \"Yang\" poison from the body by \"detoxification\""
           },
@@ -7222,17 +6016,10 @@
           "ExecuteTime": {
             "ValueInfo": "Each stage"
           },
-          "YinYangLeiXing": {
-            "Value": [
-              0
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/JieYao/HuLingHuanXinDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7257,7 +6044,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Remove the \"Yang\" poison from the body through \"detoxification\""
           },
@@ -7267,17 +6053,10 @@
           "ExecuteTime": {
             "ValueInfo": "Each stage"
           },
-          "YinYangLeiXing": {
-            "Value": [
-              0
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/JieYao/LieNvSiQiWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7302,7 +6081,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Remove the \"Yin\" poison from the body by \"detoxification\""
           },
@@ -7312,17 +6090,10 @@
           "ExecuteTime": {
             "ValueInfo": "Each stage"
           },
-          "YinYangLeiXing": {
-            "Value": [
-              1
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/JieYao/YuanYangDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7347,7 +6118,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Remove the \"Yin\" poison from the body by \"detoxification\""
           },
@@ -7357,17 +6127,10 @@
           "ExecuteTime": {
             "ValueInfo": "Each stage"
           },
-          "YinYangLeiXing": {
-            "Value": [
-              1
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/JieYao/YuanYangHuaDu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7392,7 +6155,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Remove the \"Yin\" poison from the body by \"detoxification\""
           },
@@ -7402,17 +6164,10 @@
           "ExecuteTime": {
             "ValueInfo": "Each stage"
           },
-          "YinYangLeiXing": {
-            "Value": [
-              1
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/JieYao/TuShiQingXinDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7437,7 +6192,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Remove the \"Yin\" poison from the body by \"detoxification\""
           },
@@ -7447,17 +6201,10 @@
           "ExecuteTime": {
             "ValueInfo": "Each stage"
           },
-          "YinYangLeiXing": {
-            "Value": [
-              1
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/JieYao/JinYuWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7482,7 +6229,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Remove the \"Yin\" poison from the body by \"detoxification\""
           },
@@ -7492,17 +6238,10 @@
           "ExecuteTime": {
             "ValueInfo": "Each stage"
           },
-          "YinYangLeiXing": {
-            "Value": [
-              1
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/JieYao/ShenNongHuanYangDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7527,7 +6266,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [],
           "Name": {
             "Value": "Remove the \"Yin\" poison from the body by \"detoxification\""
           },
@@ -7537,17 +6275,10 @@
           "ExecuteTime": {
             "ValueInfo": "Each stage"
           },
-          "YinYangLeiXing": {
-            "Value": [
-              1
-            ]
-          }
+          "YinYangLeiXing": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/JieYao/PoZhangJinDan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7564,10 +6295,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Root and stem herbal materials for pharmaceutical use"
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YaoCai/YiYaoCao/GenJingLeiYaoCai"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7584,10 +6312,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Unusual stem and wood herbal materials for pharmaceutical use"
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YaoCai/YiYaoCao/JingMuLei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7604,10 +6329,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Leather-based herbal materials for pharmaceuticals"
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YaoCai/YiYaoCao/PiLei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7624,10 +6346,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Leather-based herbal materials for pharmaceuticals"
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YaoCai/YiYaoCao/YeLei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7644,10 +6363,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Rare floral medicinal materials for pharmaceuticals"
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YaoCai/YiYaoCao/HuaLei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7664,10 +6380,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Rare fruit medicinal materials for pharmaceuticals"
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YaoCai/YiYaoCao/GuoLei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7684,10 +6397,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Unusual whole herb materials for pharmaceutical use"
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YaoCai/YiYaoCao/QuanCaoLei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7704,10 +6414,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Common animal medicinal materials for pharmaceuticals"
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YaoCai/YiYaoCao/DongWuLei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7724,10 +6431,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Unusual insect-like herbal materials for pharmaceutical use"
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YaoCai/YiYaoCao/ChongLei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7744,10 +6448,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Precious mineral medicinal materials for pharmaceuticals"
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YaoCai/YiYaoCao/KuangWuLei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7764,10 +6465,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Root and stem poison materials used in the preparation of poisons"
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YaoCai/DuYaoCai/GenJingLei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7784,10 +6482,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Rare stem and wood poison materials used for making poisons"
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YaoCai/DuYaoCai/JingMuLei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7804,10 +6499,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Rare leather-like poison material for making poisons"
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YaoCai/DuYaoCai/PiLei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7824,10 +6516,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Rare leaf poison material used for making poisons"
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YaoCai/DuYaoCai/YeLei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7844,10 +6533,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Rare flower poison materials for making poisons"
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YaoCai/DuYaoCai/HuaLei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7864,10 +6550,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Rare fruit poison materials for making poisons"
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YaoCai/DuYaoCai/GuoLei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7884,10 +6567,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "All-herb poison materials used in the preparation of poisons"
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YaoCai/DuYaoCai/QuanCaoLei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7904,10 +6584,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Precious animal poison materials for making poisons"
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YaoCai/DuYaoCai/DongWuLei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7924,10 +6601,7 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Precious insect poison materials for making poisons"
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YaoCai/DuYaoCai/ChongLei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -7944,9 +6618,6 @@
     "SalePrice": {},
     "ItemDescription": {
       "Value": "Precious mineral-based poison materials used in the making of poisons"
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/LDMY/YaoCai/DuYaoCai/KuangWuLei"
-    ]
+    }
   }
 ]
