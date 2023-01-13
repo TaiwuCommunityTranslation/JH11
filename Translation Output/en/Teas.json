@@ -18,9 +18,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "\"Mindset\" +5"
           },
@@ -39,9 +36,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -68,10 +62,7 @@
           "Description": "\"Concentration\" +3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/CaiCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -92,9 +83,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "\"Mindset\" +5"
           },
@@ -113,9 +101,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -142,10 +127,7 @@
           "Description": "\"Concentration\" +3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/SongZhenCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -166,9 +148,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {
             "Value": "\"Killing intent\"-10"
           },
@@ -187,9 +166,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -216,10 +192,7 @@
           "Description": "\"Concentration\" +3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/TianJuCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -240,9 +213,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "\"Mindset\" +5"
           },
@@ -261,9 +231,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -290,10 +257,7 @@
           "Description": "\"Calm\" +3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/GuiZiCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -314,9 +278,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {
             "Value": "\"Killing intent\"-10"
           },
@@ -335,9 +296,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -364,10 +322,7 @@
           "Description": "\"Calm\" +3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/MoLiHuaCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -388,9 +343,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "XinTai_0000000001"
-          ],
           "Name": {
             "Value": "\"Mindset\" +5"
           },
@@ -409,9 +361,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -438,10 +387,7 @@
           "Description": "\"Concentration\" +3"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/MeiHuaCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -462,9 +408,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {
             "Value": "\"Killing intent\" -15 \"Contentment\" +3"
           },
@@ -483,9 +426,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -502,9 +442,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -521,9 +458,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -556,10 +490,7 @@
           "Description": "\"Calm\" +5"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/HongQingCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -580,9 +511,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {
             "Value": "\"+3 to \"Contentment\" and +3 to \"Morality"
           },
@@ -601,9 +529,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -620,9 +545,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -639,9 +561,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -674,10 +593,7 @@
           "Description": "\"Calm\" +5"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/PuErShuCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -698,9 +614,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {
             "Value": "\"+3 to \"Contentment\" and +3 to \"Bargaining"
           },
@@ -719,9 +632,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterJiaoShe_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -738,9 +648,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -757,9 +664,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -792,10 +696,7 @@
           "Description": "\"Qi Method +5"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/ShanQingCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -816,9 +717,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {
             "Value": "\"Killing intent\" -15 \"Contentment\" +3"
           },
@@ -837,9 +735,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -856,9 +751,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -875,9 +767,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -910,10 +799,7 @@
           "Description": "\"Calm\" +5"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/DaYeQing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -934,9 +820,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {
             "Value": "\"+3 to \"Blessing\" and +3 to \"Contentment"
           },
@@ -955,9 +838,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -974,9 +854,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -993,9 +870,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -1028,10 +902,7 @@
           "Description": "\"Calm\" +5"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/HuQiuCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1052,9 +923,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"Finger Power\" +1 \"Fortunate Edge\" +3"
           },
@@ -1073,9 +941,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -1092,9 +957,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -1111,9 +973,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -1146,10 +1005,7 @@
           "Description": "\"Concentration\" +5"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/ZiYangCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1170,9 +1026,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DaoFa_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Sword\" and +3 to \"Charisma"
           },
@@ -1191,9 +1044,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -1210,9 +1060,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -1229,9 +1076,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -1264,10 +1108,7 @@
           "Description": "\"Calm\" +5"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/MeiShanMan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1288,9 +1129,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouCang_0000000001"
-          ],
           "Name": {
             "Value": "\"+6 to \"Collection\" +6 to \"Fortunes"
           },
@@ -1309,9 +1147,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -1328,9 +1163,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -1347,9 +1179,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -1382,10 +1211,7 @@
           "Description": "\"Calm\" +8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/LongJingCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1406,9 +1232,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJiaoShe_0000000001"
-          ],
           "Name": {
             "Value": "\"+6 to \"Negotiation\" +6 to \"Contentment"
           },
@@ -1427,9 +1250,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -1446,9 +1266,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -1465,9 +1282,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -1500,10 +1314,7 @@
           "Description": "\"Will\" +8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/QiMenHongCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1524,9 +1335,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {
             "Value": "\"+6 to \"Blessing\" and +6 to \"Contentment"
           },
@@ -1545,9 +1353,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -1564,9 +1369,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -1583,9 +1385,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -1618,10 +1417,7 @@
           "Description": "\"Concentration\" +8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/JinJunMei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1642,9 +1438,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {
             "Value": "\"Morality\" +6 \"Charisma\" +6"
           },
@@ -1663,9 +1456,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -1682,9 +1472,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -1701,9 +1488,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -1736,10 +1520,7 @@
           "Description": "\"Calm\" +8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/TaiPingHouKui"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1760,9 +1541,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {
             "Value": "\"Killing Intent\" -40 \"Stroke\" +2"
           },
@@ -1781,9 +1559,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "BiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -1800,9 +1575,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -1819,9 +1591,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -1854,10 +1623,7 @@
           "Description": "\"Qi Method\" +8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/JunShanYinZhen"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1878,9 +1644,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShiBian_0000000001"
-          ],
           "Name": {
             "Value": "\"+2 to \"Whip\" and +6 to \"Charisma"
           },
@@ -1899,9 +1662,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -1918,9 +1678,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -1937,9 +1694,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -1972,10 +1726,7 @@
           "Description": "\"Calm\" +8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/FengHongShuiXian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -1996,9 +1747,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CunJin_0000000001"
-          ],
           "Name": {
             "Value": "\"+2 to \"Dark Weapon\" +6 to \"God's Coming"
           },
@@ -2017,9 +1765,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -2036,9 +1781,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -2055,9 +1797,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -2090,10 +1829,7 @@
           "Description": "\"Concentration\" +8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/JinSiHuangJuCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2114,9 +1850,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {
             "Value": "\"+10 to \"Enlightenment\" and +10 to \"Fortunate Fortune"
           },
@@ -2135,9 +1868,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -2154,9 +1884,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -2173,9 +1900,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -2208,10 +1932,7 @@
           "Description": "\"Qi Method\" +10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/NaXiMeiLing"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2232,9 +1953,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "DaoDe_0000000001"
-          ],
           "Name": {
             "Value": "\"+10 to \"Morality\" and +10 to \"Contentment"
           },
@@ -2253,9 +1971,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -2272,9 +1987,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -2291,9 +2003,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -2326,10 +2035,7 @@
           "Description": "\"Qi Method\" +10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/YuanZhouJinPian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2350,9 +2056,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "BiFa_0000000001"
-          ],
           "Name": {
             "Value": "\"+3 to \"Strokes\" and +10 to \"Gods"
           },
@@ -2371,9 +2074,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -2390,9 +2090,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -2409,9 +2106,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -2444,10 +2138,7 @@
           "Description": "\"Decisions\" +10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/YaShanCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2468,9 +2159,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "\"Instrument\" +10 \"Charisma\" +10"
           },
@@ -2489,9 +2177,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -2508,9 +2193,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -2527,9 +2209,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -2562,10 +2241,7 @@
           "Description": "\"Calm\" +10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/FangShanLuYa"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2586,9 +2262,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YongQiang_0000000001"
-          ],
           "Name": {
             "Value": "\"+3 to \"Gun Use\" +10 to \"Connotation"
           },
@@ -2607,9 +2280,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -2626,9 +2296,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -2645,9 +2312,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -2680,10 +2344,7 @@
           "Description": "\"Concentration\" +10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/RiZhuCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2704,9 +2365,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QuanZhang_0000000001"
-          ],
           "Name": {
             "Value": "\"+3 to \"Fist and Palm\" +10 to \"Connotation"
           },
@@ -2725,9 +2383,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -2744,9 +2399,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -2763,9 +2415,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JinGu_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -2798,10 +2447,7 @@
           "Description": "\"Tendon\" +10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/TianZunYanYeCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2822,9 +2468,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JianFa_0000000001"
-          ],
           "Name": {
             "Value": "+3 to \"Use Sword\" +10 to \"Gods Come\""
           },
@@ -2843,9 +2486,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -2862,9 +2502,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -2881,9 +2518,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -2916,10 +2550,7 @@
           "Description": "\"Concentration\" +10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/EMeiBaiYaCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -2940,9 +2571,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChuiFu_0000000001"
-          ],
           "Name": {
             "Value": "\"Luck Axe\" +3 \"Fortunate Fate\" +10"
           },
@@ -2961,9 +2589,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -2980,9 +2605,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiPo_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -2999,9 +2621,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -3034,10 +2653,7 @@
           "Description": "\"Will\" +10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/TieLuoHanCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3058,9 +2674,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShuaGun_0000000001"
-          ],
           "Name": {
             "Value": "\"+3 to \"Baton Juggling\" +10 to \"Fortunate Fortune"
           },
@@ -3079,9 +2692,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -3098,9 +2708,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -3117,9 +2724,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -3152,10 +2756,7 @@
           "Description": "\"Calm\" +10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/BaiHaoYinZhen"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3176,9 +2777,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GouFa_0000000001"
-          ],
           "Name": {
             "Value": "\"+2 to \"Hooking\" and +6 to \"Charisma"
           },
@@ -3197,9 +2795,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -3216,9 +2811,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -3235,9 +2827,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -3270,10 +2859,7 @@
           "Description": "\"Calm\" +8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/PuBuLingCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3294,9 +2880,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ZhiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"Finger Power\" +2 \"Perception\" +6"
           },
@@ -3315,9 +2898,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -3334,9 +2914,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -3353,9 +2930,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -3388,10 +2962,7 @@
           "Description": "\"Decisions\" +8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/GuZhuZiSun"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3412,9 +2983,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "HuiHua_0000000001"
-          ],
           "Name": {
             "Value": "\"+6 to \"Painting and Calligraphy\" and +6 to \"Cultured"
           },
@@ -3433,9 +3001,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -3452,9 +3017,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -3471,9 +3033,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -3506,10 +3065,7 @@
           "Description": "\"Decisions\" +8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/WoLongShanCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3530,9 +3086,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "PengRen_0000000001"
-          ],
           "Name": {
             "Value": "\"Cooking\" +6 \"Charisma\" +6"
           },
@@ -3551,9 +3104,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -3570,9 +3120,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -3589,9 +3136,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -3624,10 +3168,7 @@
           "Description": "\"Calm\" +8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/ChengNanXiCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3648,9 +3189,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShaYi_0000000001"
-          ],
           "Name": {
             "Value": "\"Killing Intent\" -20 \"Fortunate Edge\" +6"
           },
@@ -3669,9 +3207,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -3688,9 +3223,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -3707,9 +3239,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -3742,10 +3271,7 @@
           "Description": "\"Calm\" +8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaYe/ShiJianLingCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3766,9 +3292,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {
             "Value": "\"+2 to \"Concentration\" and +4 to \"Calmness"
           },
@@ -3787,9 +3310,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -3806,9 +3326,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -3825,9 +3342,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -3860,10 +3374,7 @@
           "Description": "\"Qi Method\" +8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1215 ADD/ChaYe/ShouShenBaoCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3884,9 +3395,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {
             "Value": "\"+2 to \"Will\" and +4 to \"Determination"
           },
@@ -3905,9 +3413,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JueDuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -3924,9 +3429,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -3956,10 +3458,7 @@
           "Description": "\"Qi Method\" +10"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1215 ADD/ChaYe/ZuoWangCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -3980,9 +3479,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {
             "Value": "+6 to \"Breath Adjustment\" +6 to \"Blessing\""
           },
@@ -4001,9 +3497,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -4020,9 +3513,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -4052,10 +3542,7 @@
           "Description": "\"Gods Come\" +12"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1215 ADD/ChaYe/SuGuangXuanCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4076,9 +3563,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {
             "Value": "+6 to \"Qi Method\" +6 to \"Calm\""
           },
@@ -4097,9 +3581,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -4116,9 +3597,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "YiZhi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -4148,10 +3626,7 @@
           "Description": "\"Will\" +8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1215 ADD/ChaYe/YangXinCha"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4172,9 +3647,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShenXing_0000000001"
-          ],
           "Name": {
             "Value": "\"+6 to \"Body Form\" +6 to \"God Come"
           },
@@ -4193,9 +3665,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -4212,9 +3681,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Meditative state"
@@ -4244,10 +3710,7 @@
           "Description": "\"Concentration\" +8"
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1215 ADD/ChaYe/QingWeiYinPian"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4268,9 +3731,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "No carry effect"
           },
@@ -4283,10 +3743,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/CuZhiTaoWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4307,9 +3764,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "No carry effect"
           },
@@ -4322,10 +3776,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/CuZhiCiWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4346,9 +3797,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "No carry effect"
           },
@@ -4361,10 +3809,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/BaiCiShouHuiWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4385,9 +3830,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "No carry effect"
           },
@@ -4400,10 +3842,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/BaiNiCuTaoHu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4424,9 +3863,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "No carry effect"
           },
@@ -4439,10 +3875,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/CuZhiCiChaHu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4463,9 +3896,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "\"Tea Ceremony\" +1"
           },
@@ -4478,10 +3908,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/FenQingYouChaHu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4502,9 +3929,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "\"Tea Ceremony\" +1"
           },
@@ -4517,10 +3941,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/HeBanChaWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4541,9 +3962,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "\"Tea Ceremony\" +1"
           },
@@ -4556,10 +3974,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/LianBanChaWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4580,9 +3995,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "\"Tea Ceremony\" +1"
           },
@@ -4595,10 +4007,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/MeiBanChaWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4619,9 +4028,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "\"Tea Ceremony\" +1"
           },
@@ -4634,10 +4040,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/GuYueChaWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4658,9 +4061,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "\"Tea Ceremony\" +1"
           },
@@ -4673,10 +4073,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/LiuFangChaWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4697,9 +4094,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "\"Tea Ceremony\" +2"
           },
@@ -4712,10 +4106,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/MeiGuiZiWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4736,9 +4127,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 for \"Tea Ceremony\" +1 for \"Concentration"
           },
@@ -4751,9 +4139,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -4764,10 +4149,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/LongQuanDouLiZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4788,9 +4170,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {
             "Value": "\"Connotation\" +2"
           },
@@ -4803,10 +4182,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/BaiCiYinHua"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4827,9 +4203,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "\"Tea Ceremony\" +1 \"Collection\" +1"
           },
@@ -4842,9 +4215,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShouCang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -4855,10 +4225,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/JianZhiTieHuaZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4879,9 +4246,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Tea Ceremony\" +1 to \"Fortunate Fortune"
           },
@@ -4894,9 +4258,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -4907,10 +4268,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/YinHuaShuangFengZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4931,9 +4289,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "+1 to \"Tea Ceremony\" +1 to \"Muscle\""
           },
@@ -4946,9 +4301,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "JinGu_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -4959,10 +4311,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/BingLieWenZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -4983,9 +4332,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "HanYang_0000000001"
-          ],
           "Name": {
             "Value": "\"Connotation\" +3"
           },
@@ -4998,10 +4344,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/RuYiBei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5022,9 +4365,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "\"Tea Ceremony\" +3"
           },
@@ -5037,10 +4377,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/YueYaoQingCi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5061,9 +4398,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "MeiLi_0000000001"
-          ],
           "Name": {
             "Value": "\"Charm\" +3"
           },
@@ -5076,10 +4410,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/YinXingBanWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5100,9 +4431,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "\"+2 to \"Tea Ceremony\" +1 to \"Fortunate Fortune"
           },
@@ -5115,9 +4443,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -5128,10 +4453,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/HeiYouTuHaoZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5152,9 +4474,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterJianShi_0000000001"
-          ],
           "Name": {
             "Value": "\"Insight\" +3"
           },
@@ -5167,10 +4486,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/YaoBianTianMu"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5191,9 +4507,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "YueQi_0000000001"
-          ],
           "Name": {
             "Value": "\"Musical Instrument\" +3"
           },
@@ -5206,10 +4519,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/WenPianBingLieWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5230,9 +4540,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterWuXing_0000000001"
-          ],
           "Name": {
             "Value": "\"Perception\" +3"
           },
@@ -5245,10 +4552,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/XingXiangXuanShaChaWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5269,9 +4573,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {
             "Value": "\"Gods Come\" +3"
           },
@@ -5284,10 +4585,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/KeLongFengWenZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5306,9 +4604,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Tea Ceremony\" +1 to \"Chi Method"
           },
@@ -5321,9 +4616,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "QiFa_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -5334,10 +4626,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/ChunSuWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5356,9 +4645,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ChaDao_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 to \"Tea Ceremony\" and +1 to \"Breath Adjustment"
           },
@@ -5371,9 +4657,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "TiaoXi_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -5384,10 +4667,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/ChaJu/FengGuiBei"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5406,9 +4686,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShouCang_0000000001"
-          ],
           "Name": {
             "Value": "\"Collection\" +2"
           },
@@ -5421,10 +4698,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/ChaJu/XiaoLanChaShengZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5443,9 +4717,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShenXing_0000000001"
-          ],
           "Name": {
             "Value": "+1 to \"body shape\" +1 to \"lower body\""
           },
@@ -5458,9 +4729,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "XiaPan_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -5471,10 +4739,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/ChaJu/HanYanWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5493,9 +4758,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "ShenLai_0000000001"
-          ],
           "Name": {
             "Value": "\"Gods Come\" +2"
           },
@@ -5508,10 +4770,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/ChaJu/QiCaiWan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5530,9 +4789,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "GuanPu_0000000001"
-          ],
           "Name": {
             "Value": "\"+1 \"Collection\" + 1"
           },
@@ -5545,9 +4801,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ShouCang_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -5558,10 +4811,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/ChaJu/XingShuZhan"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5580,9 +4830,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "JiZhong_0000000001"
-          ],
           "Name": {
             "Value": "\"Concentration\" +2 \"Calm\" +2"
           },
@@ -5595,9 +4842,6 @@
           "Value": {}
         },
         {
-          "RelatedID": [
-            "ZhenDing_0000000001"
-          ],
           "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -5608,10 +4852,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/ChaJu/WenFengSuYin"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5630,9 +4871,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "CharacterFuYuan_0000000001"
-          ],
           "Name": {
             "Value": "\"Fortunate Fate\" +3"
           },
@@ -5645,10 +4883,7 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/ChaJu/GuXianCi"
-    ]
+    }
   },
   {
     "ItemType": {
@@ -5667,9 +4902,6 @@
     "ItemTeSes": {
       "Values": [
         {
-          "RelatedID": [
-            "BiFa_0000000001"
-          ],
           "Name": {
             "Value": "\"+3 to \"Penmanship"
           },
@@ -5682,9 +4914,6 @@
           "Value": {}
         }
       ]
-    },
-    "Prefabs": [
-      "UI/_Icon_Prefab/1109 ADD/ChaJu/ShouLongXuanWei"
-    ]
+    }
   }
 ]
