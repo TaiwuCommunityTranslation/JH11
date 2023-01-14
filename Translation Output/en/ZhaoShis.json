@@ -789,8 +789,8 @@
       "Effects": [
         {}
       ],
-      "ValueInfo": "Internal Power Consumption\" -50%",
-      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Consumption\" </color> "
+      "ValueInfo": "Internal Power Cost\" -50%",
+      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Cost\" </color> "
     },
     "xZhaoShiTeSes": {
       "Values": [
@@ -799,7 +799,7 @@
             "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
           },
           "TeSeLeiDes": {
-            "Value": "Opponent's martial arts moves \"Internal Power Consumption\" +60%"
+            "Value": "Opponent's martial arts moves \"Internal Power Cost\" +60%"
           }
         }
       ]
@@ -1687,8 +1687,8 @@
       "Effects": [
         {}
       ],
-      "ValueInfo": "Internal Power Consumption\" -50%",
-      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Consumption\" </color> "
+      "ValueInfo": "Internal Power Cost\" -50%",
+      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Cost\" </color> "
     },
     "xZhaoShiTeSes": {}
   },
@@ -5242,8 +5242,8 @@
       "Effects": [
         {}
       ],
-      "ValueInfo": "Internal Power Consumption\" -80%",
-      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Consumption\" </color> "
+      "ValueInfo": "Internal Power Cost\" -80%",
+      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Cost\" </color> "
     },
     "xZhaoShiTeSes": {
       "Values": [
@@ -5347,8 +5347,8 @@
       "Effects": [
         {}
       ],
-      "ValueInfo": "Internal Power Consumption\" -80%",
-      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Consumption\" </color> "
+      "ValueInfo": "Internal Power Cost\" -80%",
+      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Cost\" </color> "
     },
     "xZhaoShiTeSes": {
       "Values": [
@@ -6737,8 +6737,8 @@
       "Effects": [
         {}
       ],
-      "ValueInfo": "Internal Power Consumption\" -80%",
-      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Consumption\" </color> "
+      "ValueInfo": "Internal Power Cost\" -80%",
+      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Cost\" </color> "
     },
     "xZhaoShiTeSes": {
       "Values": [
@@ -6801,8 +6801,8 @@
       "Effects": [
         {}
       ],
-      "ValueInfo": "Internal Power Consumption\" -80%",
-      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Consumption\" </color> "
+      "ValueInfo": "Internal Power Cost\" -80%",
+      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Cost\" </color> "
     },
     "xZhaoShiTeSes": {
       "Values": [
@@ -8749,7 +8749,7 @@
             "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
           },
           "TeSeLeiDes": {
-            "Value": "Opponent's martial arts moves \"Internal Power Consumption\" +100%"
+            "Value": "Opponent's martial arts moves \"Internal Power Cost\" +100%"
           }
         }
       ]
@@ -9510,8 +9510,8 @@
       "Effects": [
         {}
       ],
-      "ValueInfo": "Internal Power Consumption\" -50%",
-      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Consumption\" </color> "
+      "ValueInfo": "Internal Power Cost\" -50%",
+      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Cost\" </color> "
     },
     "xZhaoShiTeSes": {
       "Values": [
@@ -9578,7 +9578,7 @@
             "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
           },
           "TeSeLeiDes": {
-            "Value": "Opponent's martial arts moves \"Internal Power Consumption\" +80%"
+            "Value": "Opponent's martial arts moves \"Internal Power Cost\" +80%"
           }
         }
       ]
@@ -9615,8 +9615,8 @@
       "Effects": [
         {}
       ],
-      "ValueInfo": "Internal Power Consumption\" -80%",
-      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Consumption\" </color> "
+      "ValueInfo": "Internal Power Cost\" -80%",
+      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Cost\" </color> "
     },
     "xZhaoShiTeSes": {
       "Values": [
@@ -11261,8 +11261,8 @@
       "Effects": [
         {}
       ],
-      "ValueInfo": "Internal Power Consumption\" -50%",
-      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Consumption\" </color> "
+      "ValueInfo": "Internal Power Cost\" -50%",
+      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Cost\" </color> "
     },
     "xZhaoShiTeSes": {
       "Values": [
@@ -11325,8 +11325,8 @@
       "Effects": [
         {}
       ],
-      "ValueInfo": "Internal Power Consumption\" -50%",
-      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Consumption\" </color> "
+      "ValueInfo": "Internal Power Cost\" -50%",
+      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Cost\" </color> "
     },
     "xZhaoShiTeSes": {
       "Values": [
@@ -11389,8 +11389,8 @@
       "Effects": [
         {}
       ],
-      "ValueInfo": "Internal Power Consumption\" -50%",
-      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Consumption\" </color> "
+      "ValueInfo": "Internal Power Cost\" -50%",
+      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Cost\" </color> "
     },
     "xZhaoShiTeSes": {
       "Values": [
@@ -11453,8 +11453,8 @@
       "Effects": [
         {}
       ],
-      "ValueInfo": "Internal Power Consumption\" -50%",
-      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Consumption\" </color> "
+      "ValueInfo": "Internal Power Cost\" -50%",
+      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Cost\" </color> "
     },
     "xZhaoShiTeSes": {
       "Values": [
@@ -14228,7 +14228,7 @@
               "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
             },
             "TeSeLeiDes": {
-              "Value": "Opponent's martial arts moves \"Internal Power Consumption\" +100%"
+              "Value": "Opponent's martial arts moves \"Internal Power Cost\" +100%"
             }
           }
         ]
@@ -14241,7 +14241,7 @@
             "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
           },
           "TeSeLeiDes": {
-            "Value": "Opponent's martial arts moves \"Internal Power Consumption\" +100%"
+            "Value": "Opponent's martial arts moves \"Internal Power Cost\" +100%"
           }
         }
       ]
@@ -16567,7 +16567,7 @@
               "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
             },
             "TeSeLeiDes": {
-              "Value": "Opponent's martial arts moves \"Internal Power Consumption\" +80%"
+              "Value": "Opponent's martial arts moves \"Internal Power Cost\" +80%"
             }
           }
         ]
@@ -16580,7 +16580,7 @@
             "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
           },
           "TeSeLeiDes": {
-            "Value": "Opponent's martial arts moves \"Internal Power Consumption\" +80%"
+            "Value": "Opponent's martial arts moves \"Internal Power Cost\" +80%"
           }
         }
       ]
@@ -21267,7 +21267,7 @@
               "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
             },
             "TeSeLeiDes": {
-              "Value": "Opponent's martial arts moves \"Internal Power Consumption\" +100%"
+              "Value": "Opponent's martial arts moves \"Internal Power Cost\" +100%"
             }
           }
         ]
@@ -22217,7 +22217,7 @@
             "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
           },
           "TeSeLeiDes": {
-            "Value": "Opponent's martial arts moves \"Internal Power Consumption\" +100%"
+            "Value": "Opponent's martial arts moves \"Internal Power Cost\" +100%"
           }
         }
       ]
@@ -25144,8 +25144,8 @@
       "Effects": [
         {}
       ],
-      "ValueInfo": "Internal Power Consumption\" -80%",
-      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Consumption\" </color> "
+      "ValueInfo": "Internal Power Cost\" -80%",
+      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Cost\" </color> "
     },
     "xZhaoShiTeSes": {
       "Values": [
@@ -25154,7 +25154,7 @@
             "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
           },
           "TeSeLeiDes": {
-            "Value": "Opponent's martial arts moves \"Internal Power Consumption\" +100%"
+            "Value": "Opponent's martial arts moves \"Internal Power Cost\" +100%"
           }
         }
       ]
@@ -28231,7 +28231,7 @@
             "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
           },
           "TeSeLeiDes": {
-            "Value": "Opponent's martial arts moves \"Internal Power Consumption\" +100%"
+            "Value": "Opponent's martial arts moves \"Internal Power Cost\" +100%"
           }
         }
       ]
@@ -28693,7 +28693,7 @@
               "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
             },
             "TeSeLeiDes": {
-              "Value": "Opponent's martial arts moves \"Internal Power Consumption\" +100%"
+              "Value": "Opponent's martial arts moves \"Internal Power Cost\" +100%"
             }
           }
         ]
@@ -28706,7 +28706,7 @@
             "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
           },
           "TeSeLeiDes": {
-            "Value": "Opponent's martial arts moves \"Internal Power Consumption\" +100%"
+            "Value": "Opponent's martial arts moves \"Internal Power Cost\" +100%"
           }
         }
       ]
@@ -34920,7 +34920,7 @@
             "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
           },
           "TeSeLeiDes": {
-            "Value": "Opponent's martial arts moves \"Internal Power Consumption\" +80%"
+            "Value": "Opponent's martial arts moves \"Internal Power Cost\" +80%"
           }
         }
       ]
@@ -37712,7 +37712,7 @@
             "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
           },
           "TeSeLeiDes": {
-            "Value": "Opponent's martial arts moves \"Internal Power Consumption\" +100%"
+            "Value": "Opponent's martial arts moves \"Internal Power Cost\" +100%"
           }
         }
       ]
@@ -39124,7 +39124,7 @@
               "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
             },
             "TeSeLeiDes": {
-              "Value": "Opponent's martial arts moves \"Internal Power Consumption\" +100%"
+              "Value": "Opponent's martial arts moves \"Internal Power Cost\" +100%"
             }
           }
         ]
@@ -39443,8 +39443,8 @@
       "Effects": [
         {}
       ],
-      "ValueInfo": "Internal Power Consumption\" -90%",
-      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Consumption\" </color> "
+      "ValueInfo": "Internal Power Cost\" -90%",
+      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Cost\" </color> "
     },
     "xZhaoShiTeSes": {
       "Values": [
@@ -39569,8 +39569,8 @@
       "Effects": [
         {}
       ],
-      "ValueInfo": "Internal Power Consumption\" -90%",
-      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Consumption\" </color> "
+      "ValueInfo": "Internal Power Cost\" -90%",
+      "ZhaoShiBar_ValueInfo": " <color=#1BDFFFFF> \"Reduced Cost\" </color> "
     },
     "xZhaoShiTeSes": {
       "Values": [
