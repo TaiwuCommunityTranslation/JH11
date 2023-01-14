@@ -8202,7 +8202,7 @@
       },
       "JianFa": {
         "Name": {
-          "cn": "with a sword",
+          "cn": "Sword Skill",
           "info": "--- Strength of sword martial arts moves --- Strength of moves bonus ---"
         }
       },
@@ -8244,7 +8244,7 @@
       },
       "DaoFa": {
         "Name": {
-          "cn": "make a knife",
+          "cn": "Blade Skill",
           "info": "--- Knife martial arts stance strength --- Stance strength bonus ---"
         }
       },
@@ -8286,7 +8286,7 @@
       },
       "QuanZhang": {
         "Name": {
-          "cn": "Fist and Palm",
+          "cn": "Fist & Palm",
           "info": "--- Fist and Palm Martial Arts Move Strength --- Move Strength Bonus ---"
         }
       },
@@ -8370,44 +8370,44 @@
       },
       "YongQiang": {
         "Name": {
-          "cn": "With guns",
-          "info": "--- Gun martial arts stance strength --- Stance strength bonus ---"
+          "cn": "With spears",
+          "info": "--- Spear martial arts stance strength --- Stance strength bonus ---"
         }
       },
       "YongQiangShenFen": {
         "Name": {
-          "cn": "Status of gun use",
-          "info": "--- Description of the identity with the gun (the value is the highest attribute) ---"
+          "cn": "Status of spear use",
+          "info": "--- Description of the identity with the spear (the value is the highest attribute) ---"
         },
         "Dang1": {
-          "Desc": "Thorn Gunner"
+          "Desc": "Thorn Spearner"
         },
         "Dang2": {
-          "Desc": "Novice gun users"
+          "Desc": "Novice spear users"
         },
         "Dang3": {
-          "Desc": "Common Gunman"
+          "Desc": "Common Spearman"
         },
         "Dang4": {
-          "Desc": "Good with guns"
+          "Desc": "Good with spears"
         },
         "Dang5": {
-          "Desc": "First Class Gunner"
+          "Desc": "First Class Spearner"
         },
         "Dang6": {
-          "Desc": "Master with a gun"
+          "Desc": "Master with a spear"
         },
         "Dang7": {
-          "Desc": "Super Gunner"
+          "Desc": "Super Spearner"
         },
         "Dang8": {
-          "Desc": "Master with a gun"
+          "Desc": "Master with a spear"
         },
         "Dang9": {
           "Desc": "Master of Marksmanship"
         },
         "Dang10": {
-          "Desc": "Legendary Gunner"
+          "Desc": "Legendary Spearner"
         }
       },
       "ShuaGun": {
@@ -8845,7 +8845,7 @@
       "ShouBi": {
         "Name": {
           "cn": "Arms",
-          "info": "--- affects combat attributes (making a sword, using a gun, juggling a stick, hammering an axe, making a whip) numerical value --- number of rounds per combat normal state affects mind numerical impairment ---"
+          "info": "--- affects combat attributes (making a sword, using a spear, juggling a stick, hammering an axe, making a whip) numerical value --- number of rounds per combat normal state affects mind numerical impairment ---"
         },
         "InjuredEffects": [
           {},
@@ -10140,10 +10140,10 @@
         "Name": "None"
       },
       {
-        "Name": "Fist and Palm"
+        "Name": "Fist & Palm"
       },
       {
-        "Name": "Fist and Palm"
+        "Name": "Fist & Palm"
       },
       {
         "Name": "Fingering"
@@ -11146,8 +11146,8 @@
         "Qiang": [
           "breakthrough jab",
           "Bow Stance Sprint",
-          "Raise your gun and stab it diagonally",
-          "Hidden Gun Slanting"
+          "Raise your spear and stab it diagonally",
+          "Hidden Spear Slanting"
         ],
         "Jian": [
           "Sword thrust raid",
@@ -11255,7 +11255,7 @@
           "Dance grab sweep",
           "Swing tail transverse gear",
           "Riding the dragon against breakage",
-          "hold on with a horizontal gun"
+          "hold on with a horizontal spear"
         ],
         "Jian": [
           "Swing your sword across the file",
@@ -11352,16 +11352,16 @@
         "Qiang": {
           "Yang": [
             "fierce and unyielding",
-            "The gun is sharp",
+            "The spear is sharp",
             "Recruiting road masculine strong",
             "Rigid and severe",
             "Fierce power"
           ],
           "Yin": [
-            "Gun Road Feminine",
+            "Spear Road Feminine",
             "false soft and sinister",
-            "Stalking gun poisoning",
-            "The gun is as soft as a wrapped snake"
+            "Stalking spear poisoning",
+            "The spear is as soft as a wrapped snake"
           ],
           "YinYang": [
             "Real and imaginary",
@@ -17054,11 +17054,11 @@
       {
         "Key": "[CiKu_WuGong]",
         "Values": [
-          "Fist and Palm",
-          "with a sword",
-          "make a knife",
+          "Fist & Palm",
+          "Sword Skill",
+          "Blade Skill",
           "Finger Force",
-          "With guns",
+          "With spears",
           "play with a stick",
           "axe",
           "Whip art",
@@ -17268,7 +17268,7 @@
           "confer a title on a nobleman",
           "Knife Gate",
           "Stick Sect",
-          "Gun Cabinet",
+          "Spear Cabinet",
           "Axe Village",
           "Whip House",
           "Hook angle",
@@ -20106,7 +20106,7 @@
         "Jian": "Sword",
         "Dao": "Knife",
         "Gun": "stick",
-        "Qiang": "Gun",
+        "Qiang": "Spear",
         "Zhi": "Refers to",
         "Chui": "Hammer",
         "Bian": "whip",
@@ -20851,7 +20851,7 @@
       "None": "None",
       "ShouZhi": "Refers to",
       "Dao": "Knife",
-      "Qiang": "Gun",
+      "Qiang": "Spear",
       "Jian": "Sword",
       "Fu": "axe",
       "Chui": "Hammer",
@@ -20904,12 +20904,12 @@
       "BiZi": "Nose {0}",
       "ZuiBa": "Mouth {0}",
       "ChuShenShanChang": {
-        "QuanZhang": "Fist and Palm",
-        "YongJian": "with a sword",
-        "ShiDao": "make a knife",
+        "QuanZhang": "Fist & Palm",
+        "YongJian": "Sword Skill",
+        "ShiDao": "Blade Skill",
         "ZhiLi": "Finger Force",
         "ShuaGun": "play with a stick",
-        "YongQiang": "With guns",
+        "YongQiang": "With spears",
         "YunFu": "axe",
         "BianShu": "Whip art",
         "GouFa": "hook method",
@@ -27355,19 +27355,19 @@
     },
     "ShuXingData": {
       "用剑": {
-        "Text": "with a sword"
+        "Text": "Sword Skill"
       },
       "使刀": {
-        "Text": "make a knife"
+        "Text": "Blade Skill"
       },
       "拳掌": {
-        "Text": "Fist and Palm"
+        "Text": "Fist & Palm"
       },
       "指力": {
         "Text": "Finger Force"
       },
       "用枪": {
-        "Text": "With guns"
+        "Text": "With spears"
       },
       "耍棍": {
         "Text": "play with a stick"
