@@ -7,7 +7,6 @@
       "Name": {
         "Value": "内外合一，繁朴并济"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「内功」<color=#23FF00FF>「太祖内功」</color>招式「威猛开山」"
       },
@@ -17,7 +16,6 @@
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
       },
-      "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
         "Value": "心法口诀无限制"
       }
@@ -30,8 +28,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -39,8 +36,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -48,8 +44,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -61,8 +56,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -78,7 +72,6 @@
       "Name": {
         "Value": "四象居合，刚柔并济"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少1「阴」1「阳」武功招式"
       },
@@ -88,7 +81,6 @@
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
       },
-      "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
         "Value": "套路心法口诀无限制"
       }
@@ -101,8 +93,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -110,8 +101,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "防招式威力增加35%"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -123,8 +113,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -140,7 +129,6 @@
       "Name": {
         "Value": "掌风如花，劲如翠舞"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "为「女性」契合武功"
       },
@@ -150,7 +138,6 @@
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#5C9BE2FF>防招式</color>威力」-20%；「内力消耗」-50%"
       },
-      "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
         "Value": "心法口诀无限制"
       }
@@ -163,8 +150,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -176,8 +162,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -185,8 +170,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -202,7 +186,6 @@
       "Name": {
         "Value": "一朝一夕，星月必胜"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「早上」「晚上」时段"
       },
@@ -212,7 +195,6 @@
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
       },
-      "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
         "Value": "心法口诀无限制"
       }
@@ -225,8 +207,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -234,8 +215,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -243,8 +223,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -256,8 +235,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -273,7 +251,6 @@
       "Name": {
         "Value": "六十四卦，乾坤无敌"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「轻功」<color=#FF9A00FF>「凌波仙踪步」</color>招式「险凌破道」"
       },
@@ -283,7 +260,6 @@
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻</color><color=#5C9BE2FF>防</color>招式威力」+20%；「内力消耗」-40%"
       },
-      "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
         "Value": "心法口诀无限制"
       }
@@ -296,8 +272,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -305,8 +280,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -314,8 +288,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -327,8 +300,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -336,8 +308,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -345,8 +316,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -362,7 +332,6 @@
       "Name": {
         "Value": "意如鱼蟒，形如鹞鹱"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少2个「凶招式」"
       },
@@ -372,7 +341,6 @@
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+30%；「镇定」-40"
       },
-      "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
         "Value": "心法口诀无限制"
       }
@@ -385,8 +353,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -394,8 +361,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -407,8 +373,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -416,8 +381,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -433,7 +397,6 @@
       "Name": {
         "Value": "一守一攻，威力无穷"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配全部「本武功」招式"
       },
@@ -443,7 +406,6 @@
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
       },
-      "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
         "Value": "心法口诀无限制"
       }
@@ -456,8 +418,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -469,8 +430,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -486,7 +446,6 @@
       "Name": {
         "Value": "融火重攻，碎石化沙"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少1个「杀招式」"
       },
@@ -496,7 +455,6 @@
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
       },
-      "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
         "Value": "心法口诀无限制"
       }
@@ -509,8 +467,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -518,8 +475,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -531,8 +487,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -548,7 +503,6 @@
       "Name": {
         "Value": "五行调气，损心摧命"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "「随心所欲，终始契合」"
       },
@@ -558,7 +512,6 @@
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
       },
-      "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
         "Value": "心法口诀无限制"
       }
@@ -571,8 +524,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -580,8 +532,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -593,8 +544,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -610,7 +560,6 @@
       "Name": {
         "Value": "力阳之劲，撑提缩拧"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「本武功」招式「提字诀」"
       },
@@ -620,7 +569,6 @@
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+40%；「<color=#5C9BE2FF>防招式</color>威力」-20%"
       },
-      "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
         "Value": "心法口诀无限制"
       }
@@ -633,8 +581,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -646,8 +593,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -655,8 +601,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -672,7 +617,6 @@
       "Name": {
         "Value": "上出升达，金火乾坤"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配全部「本武功」招式"
       },
@@ -682,7 +626,6 @@
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#5C9BE2FF>防招式</color>威力」+20%"
       },
-      "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
         "Value": "心法口诀无限制"
       }
@@ -695,8 +638,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -708,8 +650,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -725,7 +666,6 @@
       "Name": {
         "Value": "猿巧中灵，弄鬼掉猴"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「醉酒」状态"
       },
@@ -735,7 +675,6 @@
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
       },
-      "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
         "Value": "心法口诀无限制"
       }
@@ -748,8 +687,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -757,8 +695,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -766,8 +703,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -779,8 +715,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -796,7 +731,6 @@
       "Name": {
         "Value": "掌心无念，尽归书卷"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「轻功」<color=#23FF00FF>「天书步法」</color>招式「殷浩书空」"
       },
@@ -806,7 +740,6 @@
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#5C9BE2FF>防招式</color>威力」+40%"
       },
-      "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
         "Value": "心法口诀无限制"
       }
@@ -819,8 +752,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -832,8 +764,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -849,7 +780,6 @@
       "Name": {
         "Value": "阴心雁爪，尖磨罗刹"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "「随心所欲，终始契合」"
       },
@@ -859,7 +789,6 @@
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
       },
-      "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
         "Value": "心法口诀无限制"
       }
@@ -872,8 +801,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -881,8 +809,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -894,8 +821,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -911,7 +837,6 @@
       "Name": {
         "Value": "盖世降龙，天下第一"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少2个「阳内功」招式"
       },
@@ -921,7 +846,6 @@
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+60%；「集中」+30；「内力消耗」+180%"
       },
-      "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
         "Value": "心法口诀无限制"
       }
@@ -934,8 +858,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -943,8 +866,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -956,8 +878,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -965,8 +886,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -974,8 +894,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -991,7 +910,6 @@
       "Name": {
         "Value": "正拳崩破，神行归宗"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配全部「本武功」招式"
       },
@@ -1001,7 +919,6 @@
       "FangZhiWeiQiHeIndi": {
         "Value": "<color=#FF5344FF>「受伤」</color>几率-10%"
       },
-      "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
         "Value": "心法口诀无限制"
       }
@@ -1014,8 +931,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1023,8 +939,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1036,8 +951,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1053,7 +967,6 @@
       "Name": {
         "Value": "百丈劲巧，绞手扭错"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「轻功」<color=#FF00B6FF>「百丈登云步」</color>招式「覆天云潮」"
       },
@@ -1063,7 +976,6 @@
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻</color><color=#5C9BE2FF>防</color>招式威力」+40%；「身形」-30；「内力消耗」+80%"
       },
-      "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
         "Value": "套路心法口诀无限制"
       }
@@ -1076,8 +988,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1085,8 +996,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1098,8 +1008,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1107,8 +1016,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1116,8 +1024,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1125,8 +1032,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1142,7 +1048,6 @@
       "Name": {
         "Value": "先天神悟，阴阳无极"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少1「阴」1「阳」内功招式"
       },
@@ -1151,9 +1056,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻</color><color=#5C9BE2FF>防</color>招式威力」+30%；<color=#FFD41BFF>「一击制胜」</color>几率+10%；「内力消耗」+120%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -1163,8 +1066,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1172,8 +1074,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1181,8 +1082,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增幅"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1194,8 +1094,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1203,8 +1102,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1212,8 +1110,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1221,8 +1118,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1238,7 +1134,6 @@
       "Name": {
         "Value": "光明赤帝，中阳焰皇"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少2个<color=#23FF00FF>「全真掌法」</color>招式"
       },
@@ -1247,9 +1142,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -1259,8 +1152,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1268,8 +1160,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1281,8 +1172,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1298,7 +1188,6 @@
       "Name": {
         "Value": "天尊神功，灭影降魔"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「内功」<color=#23FF00FF>「天尊秘法」</color>招式「秘抄玄气」"
       },
@@ -1307,9 +1196,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+50%；「内力消耗」+80%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -1319,8 +1206,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1328,8 +1214,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1341,8 +1226,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1350,8 +1234,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1367,7 +1250,6 @@
       "Name": {
         "Value": "冲虚蚀日，青王惊云"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「冥想▪寺仙」状态"
       },
@@ -1376,9 +1258,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -1388,8 +1268,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1397,8 +1276,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1406,8 +1284,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1419,8 +1296,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1436,7 +1312,6 @@
       "Name": {
         "Value": "南阳承天，拳重丹阳"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配全部「本武功」招式"
       },
@@ -1445,9 +1320,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+40%；「<color=#5C9BE2FF>防招式</color>威力」-20%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -1457,8 +1330,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1470,8 +1342,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1479,8 +1350,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1496,7 +1366,6 @@
       "Name": {
         "Value": "血蟾阴掌，寒月长生"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少2个「杀招式」"
       },
@@ -1505,9 +1374,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+30%；<color=#FF5344FF>「受伤」</color>几率+15%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -1517,8 +1384,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1526,8 +1392,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1539,8 +1404,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1548,8 +1412,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1565,7 +1428,6 @@
       "Name": {
         "Value": "五毒无名，七色鸩灭"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「中毒」状态"
       },
@@ -1574,9 +1436,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -1586,8 +1446,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1595,8 +1454,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1604,8 +1462,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1617,8 +1474,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1634,7 +1490,6 @@
       "Name": {
         "Value": "奇珍异味，炮凤烹龙"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「美食」状态"
       },
@@ -1643,9 +1498,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -1655,8 +1508,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1664,8 +1516,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1673,8 +1524,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1682,8 +1532,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1695,8 +1544,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1712,7 +1560,6 @@
       "Name": {
         "Value": "金刚如来，撼阳开金"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「冥想▪寺仙」状态"
       },
@@ -1721,9 +1568,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#5C9BE2FF>防招式</color>威力」+20%；<color=#FF5344FF>「击伤」</color>几率+20%；「神来」-30"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -1733,8 +1578,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1742,8 +1586,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1755,8 +1598,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1764,8 +1606,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1773,8 +1614,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1790,7 +1630,6 @@
       "Name": {
         "Value": "外劲棉柔，内蓄刚勇"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少1个「阳内功」招式"
       },
@@ -1799,9 +1638,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#5C9BE2FF>防招式</color>威力」+30%；「内力消耗」+40%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -1811,8 +1648,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1820,8 +1656,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1833,8 +1668,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1842,8 +1676,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1859,7 +1692,6 @@
       "Name": {
         "Value": "凝气中聚，清心静神"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「内功」<color=#23FF00FF>「全真心法」</color>招式「道法自然」"
       },
@@ -1868,9 +1700,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻</color><color=#5C9BE2FF>防</color>招式威力」+15%；「内力消耗」+30%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -1880,8 +1710,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1889,8 +1718,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1902,8 +1730,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1911,8 +1738,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1920,8 +1746,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1937,7 +1762,6 @@
       "Name": {
         "Value": "火炼乾坤，心定归元"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配全部「本武功」招式"
       },
@@ -1946,9 +1770,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "克制「刀法」武功"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -1958,8 +1780,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1967,8 +1788,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1980,8 +1800,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -1989,8 +1808,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2006,7 +1824,6 @@
       "Name": {
         "Value": "阴风血浪，阴冥鬼笑"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少2个「凶招式」"
       },
@@ -2015,9 +1832,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "<color=#FF0000FF>「击杀致命」</color>几率+8%；「内力消耗」+40%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -2027,8 +1842,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2036,8 +1850,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2049,8 +1862,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2058,8 +1870,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2075,7 +1886,6 @@
       "Name": {
         "Value": "金神白虎，雷动苍穹"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「嗜血」状态"
       },
@@ -2084,9 +1894,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+20%；「内力消耗」+50%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -2096,8 +1904,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2105,8 +1912,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2114,8 +1920,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2127,8 +1932,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2136,8 +1940,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2153,7 +1956,6 @@
       "Name": {
         "Value": "外壮阳刚，大力如牛"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少2个「<color=#FFFFFFFF>少林罗汉拳</color>」招式"
       },
@@ -2162,9 +1964,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+30%；「武功招式冷却」+1攻防回合"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -2174,8 +1974,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2187,8 +1986,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2196,8 +1994,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2213,7 +2010,6 @@
       "Name": {
         "Value": "凉霄烟霭，三五玉蟾"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "为「女性」契合武功"
       },
@@ -2222,9 +2018,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「内力消耗」-30%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -2234,8 +2028,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2247,8 +2040,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2264,7 +2056,6 @@
       "Name": {
         "Value": "临枫青劲，双桥落虹"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "「随心所欲，终始契合」"
       },
@@ -2273,9 +2064,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -2285,8 +2074,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2294,8 +2082,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2303,8 +2090,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2312,8 +2098,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2325,8 +2110,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2342,7 +2126,6 @@
       "Name": {
         "Value": "树深见鹿，不知所踪"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配4个「斗招式」"
       },
@@ -2351,9 +2134,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+25%；「内力消耗」+50%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -2363,8 +2144,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2372,8 +2152,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2381,8 +2160,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2394,8 +2172,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2403,8 +2180,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2420,7 +2196,6 @@
       "Name": {
         "Value": "熊咆怒吼，坐地圆通"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "为「男性」契合武功"
       },
@@ -2429,9 +2204,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「武功招式冷却」-1攻防回合；「内力消耗」+100%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -2441,8 +2214,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2450,8 +2222,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2459,8 +2230,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2472,8 +2242,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2481,8 +2250,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2498,7 +2266,6 @@
       "Name": {
         "Value": "根盘心量，稳如泰山"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "「随心所欲，终始契合」"
       },
@@ -2507,9 +2274,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -2519,8 +2284,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2532,8 +2296,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2549,7 +2312,6 @@
       "Name": {
         "Value": "摧心破脏，如穿腐土"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「嗜血」状态"
       },
@@ -2558,9 +2320,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -2570,8 +2330,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2579,8 +2338,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2592,8 +2350,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2609,7 +2366,6 @@
       "Name": {
         "Value": "掌出夺命，五鬼勾魂 "
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "「随心所欲，终始契合」"
       },
@@ -2618,9 +2374,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -2630,8 +2384,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2643,8 +2396,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2660,7 +2412,6 @@
       "Name": {
         "Value": "金殿压云，荡魔天尊"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少2个<color=#FFFFFFFF>「八卦掌」</color>招式"
       },
@@ -2669,9 +2420,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「决断」+20；「集中」+20；「武功招式冷却」+1攻防回合"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -2681,8 +2430,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2694,8 +2442,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2703,8 +2450,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2712,8 +2458,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2729,7 +2474,6 @@
       "Name": {
         "Value": "青焰裂神，紫阳无极"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配全部「本武功」招式"
       },
@@ -2738,9 +2482,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "<color=#FFD41BFF>「一击制胜」</color>几率+20%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -2750,8 +2492,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2763,8 +2504,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2780,7 +2520,6 @@
       "Name": {
         "Value": "天之四灵，以正四方"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "「随心所欲，终始契合」"
       },
@@ -2789,9 +2528,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -2801,8 +2538,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2810,8 +2546,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2819,8 +2554,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2832,8 +2566,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2849,7 +2582,6 @@
       "Name": {
         "Value": "心蓄化阴，天极流云"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「内功」<color=#23FF00FF>「星云心经」</color>招式「星云聚力」"
       },
@@ -2858,9 +2590,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -2870,8 +2600,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2879,8 +2608,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2892,8 +2620,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2909,7 +2636,6 @@
       "Name": {
         "Value": "尺玉玲珑，天地玄妙"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「早上」或「晚上」时段"
       },
@@ -2918,9 +2644,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#5C9BE2FF>防招式</color>威力」+30%；<color=#FFDDBDFF>「对招落败」</color>几率-20%；克制「兵器」武功"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -2930,8 +2654,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2939,8 +2662,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2948,8 +2670,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2957,8 +2678,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2970,8 +2690,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2979,8 +2698,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2988,8 +2706,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -2997,8 +2714,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3014,7 +2730,6 @@
       "Name": {
         "Value": "上延霄客，下绝嚣浮"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配全部「本武功防招式」"
       },
@@ -3039,8 +2754,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -3048,8 +2762,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3061,8 +2774,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -3070,8 +2782,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3087,7 +2798,6 @@
       "Name": {
         "Value": "如松之劲，招密如风"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少2个「凶招式」"
       },
@@ -3112,8 +2822,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3125,8 +2834,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3142,7 +2850,6 @@
       "Name": {
         "Value": "心息相通，绵密无间"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「内功」<color=#FF00B6FF>「玉女功」</color>招式「坚玉不催」"
       },
@@ -3167,8 +2874,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -3176,8 +2882,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3189,8 +2894,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3206,7 +2910,6 @@
       "Name": {
         "Value": "变化繁复，攻守两仪"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "「随心所欲，终始契合」"
       },
@@ -3231,8 +2934,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -3240,8 +2942,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3253,8 +2954,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3270,7 +2970,6 @@
       "Name": {
         "Value": "神形三千，无灭无生"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「内功」<color=#FF00B6FF>「少林金钟罩」</color>招式「金铜严门」"
       },
@@ -3295,8 +2994,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -3304,8 +3002,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3317,8 +3014,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -3326,8 +3022,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3343,7 +3038,6 @@
       "Name": {
         "Value": "破虚为实，一剑乾坤"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "「随心所欲，终始契合」"
       },
@@ -3368,8 +3062,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -3377,8 +3070,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3390,8 +3082,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3407,7 +3098,6 @@
       "Name": {
         "Value": "剑锋奇秀，险中求胜"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「内功」<color=#23FF00FF>「紫霞功」</color>招式「紫云开来」"
       },
@@ -3432,8 +3122,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -3441,8 +3130,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -3450,8 +3138,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3463,8 +3150,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -3472,8 +3158,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -3481,8 +3166,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3498,7 +3182,6 @@
       "Name": {
         "Value": "清光破刃，落日昭阳"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "为「男性」契合武功"
       },
@@ -3523,8 +3206,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -3532,8 +3214,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3545,8 +3226,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -3554,8 +3234,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3571,7 +3250,6 @@
       "Name": {
         "Value": "玉隐在石，兰枯见春"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "为「女性」契合武功"
       },
@@ -3596,8 +3274,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3609,8 +3286,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3626,7 +3302,6 @@
       "Name": {
         "Value": "重抵淤泥，芙蓉出水"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "为「女性」契合武功"
       },
@@ -3651,8 +3326,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -3660,8 +3334,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3673,8 +3346,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -3682,8 +3354,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3699,7 +3370,6 @@
       "Name": {
         "Value": "迅疾如电，雷破闭光"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「轻功」<color=#FF00B6FF>「擎雷桩」</color>招式「雷声千嶂落」"
       },
@@ -3724,8 +3394,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3737,8 +3406,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3754,7 +3422,6 @@
       "Name": {
         "Value": "剑起雪飞，鞘落风饕"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「冬」季节"
       },
@@ -3779,8 +3446,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -3788,8 +3454,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -3797,8 +3462,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3810,8 +3474,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3827,7 +3490,6 @@
       "Name": {
         "Value": "无招胜有招，尽破天下武"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配全部「本武功」招式"
       },
@@ -3852,8 +3514,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -3861,8 +3522,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3874,8 +3534,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -3883,8 +3542,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3900,7 +3558,6 @@
       "Name": {
         "Value": "剑光刹那，白影魂散"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少2个「凶招式」"
       },
@@ -3925,8 +3582,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -3934,8 +3590,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -3943,8 +3598,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3956,8 +3610,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -3965,8 +3618,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -3974,8 +3626,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3991,7 +3642,6 @@
       "Name": {
         "Value": "风惊剑绕，落雁残影"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「饮茶」状态"
       },
@@ -4016,8 +3666,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4025,8 +3674,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4034,8 +3682,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4047,8 +3694,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4056,8 +3702,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4065,8 +3710,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4082,7 +3726,6 @@
       "Name": {
         "Value": "玄法封焰，北冲南天"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「晚上」时段"
       },
@@ -4107,8 +3750,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4116,8 +3758,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4129,8 +3770,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4146,7 +3786,6 @@
       "Name": {
         "Value": "鬒黛遥妆，剑若惊鸿"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「内功」<color=#FF00B6FF>「剑南心经」</color>招式「青冥倚天开」"
       },
@@ -4155,9 +3794,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+30%；「内力消耗」+50%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -4167,8 +3804,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4176,8 +3812,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4189,8 +3824,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4198,8 +3832,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4215,7 +3848,6 @@
       "Name": {
         "Value": "形意气合，剑法俱妙"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配任意「阳内功」招式"
       },
@@ -4224,9 +3856,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "<color=#FF5E4EFF>「出现破绽」</color>几率-20%；「内力消耗」+60%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -4236,8 +3866,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4245,8 +3874,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4258,8 +3886,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4267,8 +3894,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4284,7 +3910,6 @@
       "Name": {
         "Value": "气神无极，阴阳归一"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "「随心所欲，终始契合」"
       },
@@ -4293,9 +3918,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -4305,8 +3928,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4314,8 +3936,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增幅"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4323,8 +3944,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4336,8 +3956,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4353,7 +3972,6 @@
       "Name": {
         "Value": "四子持剑，重楼天罡"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配全部「本武功」招式"
       },
@@ -4362,9 +3980,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+20%；<color=#FFD41BFF>「一击制胜」</color>几率+5%；「内力消耗」+80%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -4374,8 +3990,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4387,8 +4002,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4396,8 +4010,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4405,8 +4018,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4422,7 +4034,6 @@
       "Name": {
         "Value": "天剑祭出，鬼神灭尽"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「内功」<color=#FF00B6FF>「神王大法」</color>招式「紫剑神兵」"
       },
@@ -4447,8 +4058,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4456,8 +4066,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4469,8 +4078,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4478,8 +4086,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4495,7 +4102,6 @@
       "Name": {
         "Value": "枫落剑舞，天涯陌路"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少3个「凶招式」"
       },
@@ -4504,9 +4110,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "<color=#FF5344FF>「击伤」</color>几率+15%；<color=#FF0000FF>「击杀致命」</color>几率+8%；「镇定」-50"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -4516,8 +4120,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4525,8 +4128,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4538,8 +4140,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4547,8 +4148,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4556,8 +4156,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4573,7 +4172,6 @@
       "Name": {
         "Value": "风舞扇掩，书香剑客"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「轻功」<color=#23FF00FF>「天书步法」</color>招式「殷浩书空」"
       },
@@ -4582,9 +4180,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#5C9BE2FF>防招式</color>威力」+40%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -4594,8 +4190,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4607,8 +4202,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4624,7 +4218,6 @@
       "Name": {
         "Value": "神剑现世，天外飞仙"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「冥想▪山尊」状态"
       },
@@ -4633,9 +4226,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「决断」+20；「神来」+20"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -4645,8 +4236,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4654,8 +4244,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4663,8 +4252,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4676,8 +4264,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4685,8 +4272,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4702,7 +4288,6 @@
       "Name": {
         "Value": "剑舞疾风，刃闪骤雨"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「轻功」<color=#23FF00FF>「疾风步法」</color>招式「疾风骤雨」"
       },
@@ -4711,9 +4296,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -4723,8 +4306,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4736,8 +4318,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4753,7 +4334,6 @@
       "Name": {
         "Value": "空云四式，剑气箫心"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少3个「本武功」招式"
       },
@@ -4762,9 +4342,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻</color><color=#5C9BE2FF>防</color>招式威力」+20%；「内力消耗」+60%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -4774,8 +4352,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4783,8 +4360,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4796,8 +4372,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4805,8 +4380,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4814,8 +4388,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4831,7 +4404,6 @@
       "Name": {
         "Value": "青龙真君剑，神武怒天威"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少2个「阳内功」招式"
       },
@@ -4840,9 +4412,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻</color><color=#5C9BE2FF>防</color>招式威力」+30%；「决断」+10；「内力消耗」+80%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -4852,8 +4422,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4861,8 +4430,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4874,8 +4442,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4883,8 +4450,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4892,8 +4458,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4901,8 +4466,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4918,7 +4482,6 @@
       "Name": {
         "Value": "龙飞神剑，天地归一"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "行囊中有「已鉴定」「青铜制藏品」"
       },
@@ -4927,9 +4490,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「用剑」+15；「决断」+15"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -4939,8 +4500,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4948,8 +4508,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4957,8 +4516,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4970,8 +4528,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -4979,8 +4536,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4996,7 +4552,6 @@
       "Name": {
         "Value": "越女持剑，与神俱往"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "为「女性」契合武功"
       },
@@ -5005,9 +4560,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -5017,8 +4570,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5026,8 +4578,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5039,8 +4590,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5056,7 +4606,6 @@
       "Name": {
         "Value": "衫袖天香，流影君怀"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "行囊中有「乐器」<color=#FF00B6FF>「飞泉琴」</color>"
       },
@@ -5065,9 +4614,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -5077,8 +4624,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5086,8 +4632,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5095,8 +4640,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5108,8 +4652,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5125,7 +4668,6 @@
       "Name": {
         "Value": "东有启明，西有长庚"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「美酒」状态"
       },
@@ -5134,9 +4676,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「用剑」+20；「集中」+20；「神来」-60"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -5146,8 +4686,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5155,8 +4694,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5164,8 +4702,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5177,8 +4714,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5186,8 +4722,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5195,8 +4730,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5212,7 +4746,6 @@
       "Name": {
         "Value": "天道无亲，常与善人"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「嗜血」状态"
       },
@@ -5221,9 +4754,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻</color><color=#5C9BE2FF>防</color>招式威力」-30%；"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -5233,8 +4764,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5242,8 +4772,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5255,8 +4784,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5264,8 +4792,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5281,7 +4808,6 @@
       "Name": {
         "Value": "紫柏碧露，危峰悬绝"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少2个<color=#23FF00FF>「华山剑法」</color>招式"
       },
@@ -5290,9 +4816,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -5302,8 +4826,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5311,8 +4834,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5324,8 +4846,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5341,7 +4862,6 @@
       "Name": {
         "Value": "甲光金鳞，携剑不破"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「内功」<color=#FF00B6FF>「玉龙心法」</color>招式「甲光向日」"
       },
@@ -5350,9 +4870,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -5362,8 +4880,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5371,8 +4888,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5384,8 +4900,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5401,7 +4916,6 @@
       "Name": {
         "Value": "南岳朱鸟，秩礼百王"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少2个<color=#23FF00FF>「衡山落雁剑法」</color>招式"
       },
@@ -5410,9 +4924,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -5422,8 +4934,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5431,8 +4942,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5444,8 +4954,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5461,7 +4970,6 @@
       "Name": {
         "Value": "神灵于天，万剑归宗"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "「随心所欲，终始契合」"
       },
@@ -5470,9 +4978,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -5482,8 +4988,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5491,8 +4996,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5500,8 +5004,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5509,8 +5012,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5522,8 +5024,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5539,7 +5040,6 @@
       "Name": {
         "Value": "剑狂气傲，怒斩神魔 "
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配全部「本武功」招式"
       },
@@ -5548,9 +5048,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+50%；「内力消耗」+80%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -5560,8 +5058,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5569,8 +5066,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5582,8 +5078,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5591,8 +5086,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5608,7 +5102,6 @@
       "Name": {
         "Value": "重剑成锋，中岳无破"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "装备兵器需要名号<color=#23FF00FF>「太室无锋」</color>"
       },
@@ -5617,9 +5110,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#5C9BE2FF>防招式</color>威力」+30%；被「拳掌」武功克制"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -5629,8 +5120,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5642,8 +5132,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5651,8 +5140,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5660,8 +5148,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5677,7 +5164,6 @@
       "Name": {
         "Value": "极盛太平，阔而大之"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "「随心所欲，终始契合」"
       },
@@ -5686,9 +5172,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -5698,8 +5182,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5711,8 +5194,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5728,7 +5210,6 @@
       "Name": {
         "Value": "陨星辉赫，重剑无锋"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "装备兵器需要名号<color=#FF9A00FF>「干将」</color>"
       },
@@ -5753,8 +5234,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5762,8 +5242,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5775,8 +5254,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5784,8 +5262,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5801,7 +5278,6 @@
       "Name": {
         "Value": "重剑开天，天尊岱岳"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "装备兵器需要名号<color=#23FF00FF>「天门」</color>"
       },
@@ -5810,9 +5286,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -5822,8 +5296,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5835,8 +5308,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5852,7 +5324,6 @@
       "Name": {
         "Value": "鼎立神气，沉腰之剑"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「内功」<color=#FFFFFFFF>「少阳功」</color>招式「阳气灌臂」"
       },
@@ -5861,9 +5332,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻</color><color=#5C9BE2FF>防</color>招式威力」+20%；「武功招式冷却」+1攻防回合"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -5873,8 +5342,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5886,8 +5354,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5895,8 +5362,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5904,8 +5370,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5921,7 +5386,6 @@
       "Name": {
         "Value": "四无量心，奋迅三昧"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "为「男性」契合武功"
       },
@@ -5930,9 +5394,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#5C9BE2FF>防招式</color>威力」+50%；「内力消耗」+80%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -5942,8 +5404,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5951,8 +5412,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5964,8 +5424,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -5973,8 +5432,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5990,7 +5448,6 @@
       "Name": {
         "Value": "嵩高惟岳，峻极于天"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少2个<color=#23FF00FF>「嵩山剑法」</color>招式"
       },
@@ -5999,9 +5456,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -6011,8 +5466,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6020,8 +5474,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6033,8 +5486,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6050,7 +5502,6 @@
       "Name": {
         "Value": "仁圣天齐，碧霞元君"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少2个<color=#23FF00FF>「五岳天尊剑法」</color>招式"
       },
@@ -6059,9 +5510,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -6071,8 +5520,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6080,8 +5528,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6093,8 +5540,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6110,7 +5556,6 @@
       "Name": {
         "Value": "尺玉玲珑，天地玄妙"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「早上」或「晚上」时段"
       },
@@ -6119,9 +5564,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#5C9BE2FF>防招式</color>威力」+30%；<color=#FFDDBDFF>「对招落败」</color>几率-20%；克制「兵器」武功"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -6131,8 +5574,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6140,8 +5582,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6149,8 +5590,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6158,8 +5598,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6171,8 +5610,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6180,8 +5618,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6189,8 +5626,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6198,8 +5634,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6215,7 +5650,6 @@
       "Name": {
         "Value": "刀斩断阳，式式重攻"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少3个「本武功」招式"
       },
@@ -6224,9 +5658,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "<color=#FF7E2EFF>「击破」</color>几率+20%；「内力消耗」+80%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -6236,8 +5668,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6249,8 +5680,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6258,8 +5688,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6275,7 +5704,6 @@
       "Name": {
         "Value": "火焰重阳，混元刀山"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「内功」<color=#23FF00FF>「坚刀诀」</color>招式「坚刃不屈」"
       },
@@ -6284,9 +5712,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#5C9BE2FF>防招式</color>威力」+20%；「内力消耗」+50%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -6296,8 +5722,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6305,8 +5730,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6318,8 +5742,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6327,8 +5750,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6344,7 +5766,6 @@
       "Name": {
         "Value": "刀锋分寸，霹雳无双"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "装备兵器需要名号<color=#FF00B6FF>「绝真」</color>"
       },
@@ -6353,9 +5774,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "<color=#FF7E2EFF>「击破」</color>几率+15%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -6365,8 +5784,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6374,8 +5792,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6387,8 +5804,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6404,7 +5820,6 @@
       "Name": {
         "Value": "圣烈刀眼，天尊楼兰"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「内功」<color=#23FF00FF>「坚刀诀」</color>招式「坚刃不屈」"
       },
@@ -6413,9 +5828,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+40%；「内力消耗」+60%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -6425,8 +5838,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6434,8 +5846,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6447,8 +5858,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6456,8 +5866,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6473,7 +5882,6 @@
       "Name": {
         "Value": "赤烈火鸟，碎玉涅槃"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "装备兵器需要名号<color=#FF00B6FF>「凤凰」</color>"
       },
@@ -6482,9 +5890,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -6494,8 +5900,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6503,8 +5908,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6516,8 +5920,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6533,7 +5936,6 @@
       "Name": {
         "Value": "破云贯日，威震山河"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「内功」<color=#FF00B6FF>「赤乌顶天功」</color>招式「赤乌顶天」"
       },
@@ -6542,9 +5944,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+60%；「内力消耗」+120%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -6554,8 +5954,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6563,8 +5962,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6576,8 +5974,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6585,8 +5982,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6602,7 +5998,6 @@
       "Name": {
         "Value": "阴阳合德，日月晦明"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "「随心所欲，终始契合」"
       },
@@ -6611,9 +6006,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -6623,8 +6016,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6632,8 +6024,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6645,8 +6036,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6662,7 +6052,6 @@
       "Name": {
         "Value": "刀行运转，破天批云"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「内功」<color=#23FF00FF>「天尊秘法」</color>招式「秘抄玄气」"
       },
@@ -6671,9 +6060,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+40%；「内力消耗」+80%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -6683,8 +6070,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6696,8 +6082,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6705,8 +6090,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6722,7 +6106,6 @@
       "Name": {
         "Value": "刀锋力奋，怒臂冠角"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "装备兵器需要名号<color=#23FF00FF>「螳螂」</color>"
       },
@@ -6731,9 +6114,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -6743,8 +6124,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6752,8 +6132,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6765,8 +6144,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6782,7 +6160,6 @@
       "Name": {
         "Value": "四式妖刀 破凶残丧"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少2个「凶招式」"
       },
@@ -6791,9 +6168,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "<color=#FF7E2EFF>「击破」</color>几率+20%；<color=#FF5E4EFF>「出现破绽」</color>几率+20%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -6803,8 +6178,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6812,8 +6186,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6825,8 +6198,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6834,8 +6206,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6851,7 +6222,6 @@
       "Name": {
         "Value": "刀旋八门，转念乾坤"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少2个<color=#23FF00FF>「两仪刀法」</color>招式"
       },
@@ -6860,9 +6230,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻</color><color=#5C9BE2FF>防</color>招式威力」+60%；「武功招式冷却」+2攻防回合"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -6872,8 +6240,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6881,8 +6248,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6890,8 +6256,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6903,8 +6268,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6912,8 +6276,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6921,8 +6284,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6938,7 +6300,6 @@
       "Name": {
         "Value": "修罗万象，刀斩狂龙"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "装备兵器需要名号<color=#FF9A00FF>「屠龙」</color>"
       },
@@ -6947,9 +6308,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -6959,8 +6318,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -6968,8 +6326,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6981,8 +6338,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6998,7 +6354,6 @@
       "Name": {
         "Value": "定膝立势，左虚右实"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「轻功」<color=#FFFFFFFF>「少林步法」</color>招式「少室空云」"
       },
@@ -7007,9 +6362,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -7019,8 +6372,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7028,8 +6380,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7041,8 +6392,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7058,7 +6408,6 @@
       "Name": {
         "Value": "鹤舞溪涧，步摇泉宗"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "装备兵器需要名号<color=#FF00B6FF>「龙蟠」</color>"
       },
@@ -7067,9 +6416,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻</color><color=#5C9BE2FF>防</color>招式威力」+60%；「内力消耗」+100%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -7079,8 +6426,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7088,8 +6434,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7097,8 +6442,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7110,8 +6454,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7119,8 +6462,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7128,8 +6470,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7145,7 +6486,6 @@
       "Name": {
         "Value": "八卦两弦，似醉似醒"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「美酒」状态"
       },
@@ -7154,9 +6494,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -7166,8 +6504,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7179,8 +6516,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7196,7 +6532,6 @@
       "Name": {
         "Value": "洞庭明圣，赤棍旋扫"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「内功」<color=#23FF00FF>「天尊秘法」</color>招式「秘抄玄气」"
       },
@@ -7205,9 +6540,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+40%；「决断」-30"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -7217,8 +6550,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7226,8 +6558,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7235,8 +6566,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7248,8 +6578,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7257,8 +6586,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7274,7 +6602,6 @@
       "Name": {
         "Value": "古微生莲，灵蛇洞出"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「轻功」<color=#FFFFFFFF>「影月功」</color>招式「灵花觅月」"
       },
@@ -7283,9 +6610,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「棍法」+5；「连招威力」+15%；「武功招式冷却」+1攻防回合"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -7295,8 +6620,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7304,8 +6628,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7317,8 +6640,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7326,8 +6648,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7335,8 +6656,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7352,7 +6672,6 @@
       "Name": {
         "Value": "扫龙千川，棍撼乾坤"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "装备兵器需要名号<color=#FF00B6FF>「南斗」</color>"
       },
@@ -7361,9 +6680,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -7373,8 +6690,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7386,8 +6702,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7403,7 +6718,6 @@
       "Name": {
         "Value": "麒麟步走，流水行云"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "「随心所欲，终始契合」"
       },
@@ -7412,9 +6726,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -7424,8 +6736,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7433,8 +6744,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7442,8 +6752,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7455,8 +6764,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7472,7 +6780,6 @@
       "Name": {
         "Value": "棍行正道，棒打恶犬"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "装备兵器需要名号<color=#FF9A00FF>「打狗」</color>"
       },
@@ -7481,9 +6788,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「神来」+35；「武功招式冷却」+1攻防回合"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -7493,8 +6798,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7502,8 +6806,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7511,8 +6814,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7524,8 +6826,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7533,8 +6834,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7550,7 +6850,6 @@
       "Name": {
         "Value": "万物归尽，魔焰灭灵 "
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「嗜血」状态"
       },
@@ -7559,9 +6858,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「棍法」+20；「神来」+30；「武功招式冷却」+2攻防回合"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -7571,8 +6868,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7580,8 +6876,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7589,8 +6884,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7598,8 +6892,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7611,8 +6904,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7620,8 +6912,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7629,8 +6920,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7638,8 +6928,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7655,7 +6944,6 @@
       "Name": {
         "Value": "枪崩迅勇，断阳撩阴"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「嗜血」状态"
       },
@@ -7664,9 +6952,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -7676,8 +6962,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7685,8 +6970,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7694,8 +6978,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7707,8 +6990,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7724,7 +7006,6 @@
       "Name": {
         "Value": "神月遮日，烈焰天罡"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「晚上」时段；处于「美酒」状态"
       },
@@ -7733,9 +7014,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+40%；「决断」+15"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -7745,8 +7024,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7754,8 +7032,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7763,8 +7040,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7776,8 +7052,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7785,8 +7060,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7802,7 +7076,6 @@
       "Name": {
         "Value": "勇将现世，定军无双"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少3个「本武功」招式"
       },
@@ -7811,9 +7084,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -7823,8 +7094,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7832,8 +7102,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7845,8 +7114,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7862,7 +7130,6 @@
       "Name": {
         "Value": "常胜虎将，镇东枪王"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「内功」<color=#FF00B6FF>「子龙枪诀」</color>招式「枪出万众」"
       },
@@ -7871,9 +7138,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -7883,8 +7148,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7892,8 +7156,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7905,8 +7168,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7922,7 +7184,6 @@
       "Name": {
         "Value": "玄雷冥火，黯然一气 "
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「嗜血」状态"
       },
@@ -7931,9 +7192,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+50%；<color=#FF5344FF>「受伤」</color>几率+30%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -7943,8 +7202,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7952,8 +7210,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7965,8 +7222,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -7974,8 +7230,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7991,7 +7246,6 @@
       "Name": {
         "Value": "霸王枪出，无可匹敌"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "装备兵器需要名号<color=#FF9A00FF>「霸王」</color>"
       },
@@ -8000,9 +7254,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+50%；「内力消耗」+100%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -8012,8 +7264,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8021,8 +7272,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8034,8 +7284,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8043,8 +7292,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8060,7 +7308,6 @@
       "Name": {
         "Value": "神枪赤焰，天地无双"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少2个<color=#FF00B6FF>「霸王枪」</color>招式"
       },
@@ -8069,9 +7316,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -8081,8 +7326,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8090,8 +7334,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8103,8 +7346,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8120,7 +7362,6 @@
       "Name": {
         "Value": "铁冶融火，白虹苍炼"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少1个「阳内功」招式"
       },
@@ -8129,9 +7370,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+40%；「内力消耗」+80%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -8141,8 +7380,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8150,8 +7388,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8163,8 +7400,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8172,8 +7408,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8189,7 +7424,6 @@
       "Name": {
         "Value": "浩然纯力，破震山河"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "「随心所欲，终始契合」"
       },
@@ -8199,7 +7433,6 @@
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
       },
-      "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
         "Value": "心法口诀无限制"
       }
@@ -8212,8 +7445,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8225,8 +7457,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8242,7 +7473,6 @@
       "Name": {
         "Value": "锵金鸣玉，破碎虚空"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「轻功」<color=#FF00B6FF>「花蝶步法」</color>招式「轻飞曼舞」"
       },
@@ -8252,7 +7482,6 @@
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+40%；「内功招式冷却」+1攻防回合"
       },
-      "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
         "Value": "心法口诀无限制"
       }
@@ -8265,8 +7494,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8278,8 +7506,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8287,8 +7514,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8304,7 +7530,6 @@
       "Name": {
         "Value": "七宿四灵，赤色玄羽"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "行囊中有「乐谱」<color=#FF9A00FF>「《潇湘水云》」</color>"
       },
@@ -8314,7 +7539,6 @@
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
       },
-      "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
         "Value": "心法口诀无限制"
       }
@@ -8327,8 +7551,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8336,8 +7559,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8349,8 +7571,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8366,7 +7587,6 @@
       "Name": {
         "Value": "真气纯阳，一指贯天"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少3个「阳内功」招式"
       },
@@ -8376,7 +7596,6 @@
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻</color><color=#5C9BE2FF>防</color>招式威力」+15%；<color=#00CAB0FF>「点穴」</color>几率+10%；「内力消耗」+80%"
       },
-      "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
         "Value": "心法口诀无限制"
       }
@@ -8389,8 +7608,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8398,8 +7616,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8411,8 +7628,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8420,8 +7636,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8429,8 +7644,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8438,8 +7652,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8455,7 +7668,6 @@
       "Name": {
         "Value": "无相阳指，星宿玄元"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「内功」<color=#FF9A00FF>「洗髓功」</color>招式「吐纳长生」"
       },
@@ -8464,9 +7676,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「指力」+15；<color=#00CAB0FF>「点穴」</color>几率+15%；「武功招式冷却」+1攻防回合"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -8476,8 +7686,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8485,8 +7694,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8494,8 +7702,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8503,8 +7710,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8516,8 +7722,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8525,8 +7730,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8534,8 +7738,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8551,7 +7754,6 @@
       "Name": {
         "Value": "守心住缘，无念为宗"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「内功」<color=#23FF00FF>「罗汉铜人功」</color>招式「金刚不屈」"
       },
@@ -8560,9 +7762,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#5C9BE2FF>防招式</color>威力」+25%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -8572,8 +7772,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8585,8 +7784,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8602,7 +7800,6 @@
       "Name": {
         "Value": "心之忧矣，曷维其亡"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配3个「轻功」招式"
       },
@@ -8612,7 +7809,6 @@
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻</color><color=#5C9BE2FF>防</color>招式威力」+50%；「集中」+15；「武功招式冷却」+2攻防回合"
       },
-      "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
         "Value": "心法口诀无限制"
       }
@@ -8625,8 +7821,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8634,8 +7829,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8643,8 +7837,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8652,8 +7845,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8665,8 +7857,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8674,8 +7865,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8683,8 +7873,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8692,8 +7881,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8709,7 +7897,6 @@
       "Name": {
         "Value": "如风莲步，紫蕊恶沼"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少2个「淬毒」招式"
       },
@@ -8718,9 +7905,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+25%；「内力消耗」+70%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -8730,8 +7915,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8739,8 +7923,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8752,8 +7935,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8761,8 +7943,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8778,7 +7959,6 @@
       "Name": {
         "Value": "落樱绝情，夺魂散命"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "行囊中有「毒药」<color=#23FF00FF>「桃花露」</color>"
       },
@@ -8787,9 +7967,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -8799,8 +7977,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8808,8 +7985,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8821,8 +7997,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8838,7 +8013,6 @@
       "Name": {
         "Value": "含沙射流影，吹蛊痛行晖"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "行囊中有「毒经」<color=#FF00B6FF>《鸾蛛毒经》</color>"
       },
@@ -8847,9 +8021,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -8859,8 +8031,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8868,8 +8039,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8881,8 +8051,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8898,7 +8067,6 @@
       "Name": {
         "Value": "燕飞破九天，天鸿艳无色"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「轻功」<color=#FF00B6FF>「烟霞仙法」</color>招式「烟水喷溅」"
       },
@@ -8907,9 +8075,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "<color=#FF7E2EFF>「击伤」</color>几率+20%；「内力消耗」+80%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -8919,8 +8085,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8928,8 +8093,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8941,8 +8105,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8950,8 +8113,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -8967,7 +8129,6 @@
       "Name": {
         "Value": "漫天星落，花雨掠空"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少2个<color=#FF00B6FF>「暴雨梨花」</color>招式"
       },
@@ -8976,9 +8137,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻</color><color=#5C9BE2FF>防</color>招式威力」+35%；「内力消耗」+80%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -8988,8 +8147,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -8997,8 +8155,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9006,8 +8163,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9019,8 +8175,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9028,8 +8183,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9037,8 +8191,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9054,7 +8207,6 @@
       "Name": {
         "Value": "黑气毒阴，碎脑破体"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "装备兵器需要名号<color=#FF00B6FF>「黑布」</color>"
       },
@@ -9063,9 +8215,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -9075,8 +8225,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9088,8 +8237,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9105,7 +8253,6 @@
       "Name": {
         "Value": "招必见血，横扫八荒"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少2个<color=#FF00B6FF>「漫天花雨」</color>招式"
       },
@@ -9114,9 +8261,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻</color><color=#5C9BE2FF>防</color>招式威力」+35%；「武功招式冷却」+1攻防回合"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -9126,8 +8271,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9135,8 +8279,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9144,8 +8287,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9157,8 +8299,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9166,8 +8307,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9175,8 +8315,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9192,7 +8331,6 @@
       "Name": {
         "Value": "琴声幽然，绝命金飞"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "为「女性」契合武功"
       },
@@ -9201,9 +8339,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」-20%；「内力消耗」-40%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -9213,8 +8349,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9226,8 +8361,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9235,8 +8369,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9252,7 +8385,6 @@
       "Name": {
         "Value": "金玉婆娑，琼花吹落"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "装备兵器需要名号<color=#FF9A00FF>「点金」</color>"
       },
@@ -9261,9 +8393,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -9273,8 +8403,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9282,8 +8411,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9291,8 +8419,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9300,8 +8427,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9313,8 +8439,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9330,7 +8455,6 @@
       "Name": {
         "Value": "烟飞紫玉，断碑残阳"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配2个「轻功」招式"
       },
@@ -9339,9 +8463,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+30%；「武功招式冷却」+1攻防回合"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -9351,8 +8473,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9364,8 +8485,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9373,8 +8493,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9390,7 +8509,6 @@
       "Name": {
         "Value": "血影流矢，鬼形之气"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "装备兵器需要名号<color=#FF00B6FF>「泣血」</color>"
       },
@@ -9399,9 +8517,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+30%；<color=#FF5344FF>「受伤」</color>几率+30%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -9411,8 +8527,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9420,8 +8535,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9433,8 +8547,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9442,8 +8555,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9459,7 +8571,6 @@
       "Name": {
         "Value": "金猊怒目，万顷琉璃"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「内功」<color=#FF00B6FF>「琉璃心经」</color>招式「素手琉璃」"
       },
@@ -9468,9 +8579,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -9480,8 +8589,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9489,8 +8597,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9498,8 +8605,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9511,8 +8617,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9528,7 +8633,6 @@
       "Name": {
         "Value": "毒龙得水，狂泉云兴"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「轻功」<color=#23FF00FF>「毒煞功」</color>招式「毒雾黑风」"
       },
@@ -9537,9 +8641,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -9549,8 +8651,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9558,8 +8659,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9571,8 +8671,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9588,7 +8687,6 @@
       "Name": {
         "Value": "轻捷奋迅，蝮蝎毒风"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「内功」<color=#23FF00FF>「龙扫功」</color>招式「龙扫千军」"
       },
@@ -9597,9 +8695,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -9609,8 +8705,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9618,8 +8713,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9631,8 +8725,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9648,7 +8741,6 @@
       "Name": {
         "Value": "索命黑白，恶鬼去散"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "为「女性」「阉人」契合武功"
       },
@@ -9657,9 +8749,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+40%；<color=#FF5344FF>「受伤」</color>几率+35%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -9669,8 +8759,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9678,8 +8767,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9687,8 +8775,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9700,8 +8787,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9709,8 +8795,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9726,7 +8811,6 @@
       "Name": {
         "Value": "风卷残云，沙刺尽摧"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「轻功」<color=#FF00B6FF>「飞沙步法」</color>招式「袖舞沙起」"
       },
@@ -9735,9 +8819,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -9747,8 +8829,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9756,8 +8837,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9769,8 +8849,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9786,7 +8865,6 @@
       "Name": {
         "Value": "劲力八风，雷霆制敌"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「轻功」<color=#FFFFFFFF>「少林步法」</color>招式「少室空云」"
       },
@@ -9795,9 +8873,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -9807,8 +8883,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9816,8 +8891,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9829,8 +8903,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9846,7 +8919,6 @@
       "Name": {
         "Value": "鞭风如影，月冷无瑕"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「冬」季节的「晚上」时段"
       },
@@ -9855,9 +8927,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -9867,8 +8937,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9876,8 +8945,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9885,8 +8953,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9898,8 +8965,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9915,7 +8981,6 @@
       "Name": {
         "Value": "五行鞭阵，天影烛龙"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "行囊中有「乐谱」<color=#FF9A00FF>「《烈女引》」</color>"
       },
@@ -9924,9 +8989,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -9936,8 +8999,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9945,8 +9007,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -9954,8 +9015,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9967,8 +9027,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -9984,7 +9043,6 @@
       "Name": {
         "Value": "风停雪来，轻羽银丝"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "为「女性」契合武功"
       },
@@ -9993,9 +9051,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻</color><color=#5C9BE2FF>防</color>招式威力」+25%；<color=#FF5344FF>「受伤」</color>几率+35%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -10005,8 +9061,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10014,8 +9069,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10023,8 +9077,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10036,8 +9089,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10045,8 +9097,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10054,8 +9105,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10071,7 +9121,6 @@
       "Name": {
         "Value": "霞映衫裳，相思无垠"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "行囊中有「酒」<color=#FF00B6FF>「南中酝」</color>"
       },
@@ -10080,9 +9129,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -10092,8 +9139,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10101,8 +9147,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10114,8 +9159,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10131,7 +9175,6 @@
       "Name": {
         "Value": "邪血罗煞，断肠钩魂"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少3个「凶招式」"
       },
@@ -10140,9 +9183,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "<color=#FF7E2EFF>「击伤」</color>几率+30%；「镇定」-30；「内力消耗」+80%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -10152,8 +9193,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10161,8 +9201,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10174,8 +9213,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10183,8 +9221,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10192,8 +9229,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10209,7 +9245,6 @@
       "Name": {
         "Value": "乌头银钩，五毒献月"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「轻功」<color=#FF00B6FF>五毒云体</color>招式「毒雾劲道」"
       },
@@ -10218,9 +9253,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+25%；「集中」-30"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -10230,8 +9263,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10239,8 +9271,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10252,8 +9283,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10261,8 +9291,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10278,7 +9307,6 @@
       "Name": {
         "Value": "风流君子，情花夺命"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "装备兵器需要名号<color=#FF9A00FF>「寒髓」</color>"
       },
@@ -10287,9 +9315,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -10299,8 +9325,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10308,8 +9333,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10321,8 +9345,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10338,7 +9361,6 @@
       "Name": {
         "Value": "半壁凄凉，玉液无踪"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "为「女性」契合武功"
       },
@@ -10347,9 +9369,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#5C9BE2FF>防招式</color>威力」+20%；「神来」-60"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -10359,8 +9379,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10368,8 +9387,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10377,8 +9395,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10390,8 +9407,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10399,8 +9415,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10416,7 +9431,6 @@
       "Name": {
         "Value": "离魂缠命，暗狱玄冥"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「轻功」<color=#23FF00FF>离魂身法</color>招式「孤魂蚀泪」"
       },
@@ -10425,9 +9439,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -10437,8 +9449,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10450,8 +9461,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10467,7 +9477,6 @@
       "Name": {
         "Value": "风卷百草，云紫魂散"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配至少1个「杀招式」"
       },
@@ -10476,9 +9485,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+30%；<color=#FF5344FF>「受伤」</color>几率+10%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -10488,8 +9495,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10497,8 +9503,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10510,8 +9515,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10519,8 +9523,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10536,7 +9539,6 @@
       "Name": {
         "Value": "威风八面，二郎担山"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配1个「阳内功」招式"
       },
@@ -10545,9 +9547,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻招式</color>威力」+25%；「<color=#5C9BE2FF>防招式</color>威力」-20%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -10557,8 +9557,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10566,8 +9565,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10579,8 +9577,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10588,8 +9585,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10605,7 +9601,6 @@
       "Name": {
         "Value": "金沙沧浪，斧立重岭"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "装备兵器需要名号<color=#FF00B6FF>「开山」</color>"
       },
@@ -10614,9 +9609,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -10626,8 +9619,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10635,8 +9627,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10648,8 +9639,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10665,7 +9655,6 @@
       "Name": {
         "Value": "浮屠三千，消光劈火"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "为「男性」契合武功"
       },
@@ -10674,9 +9663,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「运斧」+10；「集中」+20；「内力消耗」+100%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -10686,8 +9673,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10695,8 +9681,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10704,8 +9689,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10717,8 +9701,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10726,8 +9709,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10735,8 +9717,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10752,7 +9733,6 @@
       "Name": {
         "Value": "起势坚厚，力劈太岳"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配「内功」<color=#FFFFFFFF>「胡家内功」</color>招式「砍木劈柴」"
       },
@@ -10761,9 +9741,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#5C9BE2FF>防招式</color>威力」+30%；<color=#FF5E4EFF>「出现破绽」</color>几率+20%；"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -10773,8 +9751,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10782,8 +9759,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10795,8 +9771,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10804,8 +9779,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10821,7 +9795,6 @@
       "Name": {
         "Value": "石高无法，地动山摇"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "行囊中有「青铜制藏品」<color=#FF9A00FF>「兽面纹大钺」</color>"
       },
@@ -10830,9 +9803,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「无功无效」"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -10842,8 +9813,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10851,8 +9821,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10860,8 +9829,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增幅"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10873,8 +9841,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10890,7 +9857,6 @@
       "Name": {
         "Value": "合金耀武，肝胆神威"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "装备兵器需要名号<color=#FF9A00FF>「钝天」</color>"
       },
@@ -10899,9 +9865,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#5C9BE2FF>防招式</color>威力」+20%；<color=#FF5344FF>「受伤」</color>几率-30%；「内力消耗」+100%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -10911,8 +9875,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10920,8 +9883,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10929,8 +9891,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减成"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10942,8 +9903,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10951,8 +9911,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -10960,8 +9919,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -10977,7 +9935,6 @@
       "Name": {
         "Value": "星月开天，山川列营"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "搭配2个「内功」招式"
       },
@@ -10986,9 +9943,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻</color><color=#5C9BE2FF>防</color>招式威力」+30%；「内力消耗」+80%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -10998,8 +9953,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -11007,8 +9961,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -11016,8 +9969,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -11029,8 +9981,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -11038,8 +9989,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -11047,8 +9997,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -11064,7 +10013,6 @@
       "Name": {
         "Value": "心慕笔追，疾书成章"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "行囊中有「墨」<color=#FF9A00FF>「徽墨」</color>"
       },
@@ -11073,9 +10021,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「决断」+10"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -11085,8 +10031,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -11094,8 +10039,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减少"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -11107,8 +10051,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -11124,7 +10067,6 @@
       "Name": {
         "Value": "天字棋布，玄字破极"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「阅读▪灵感」状态"
       },
@@ -11133,9 +10075,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「神来」+10"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -11145,8 +10085,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -11154,8 +10093,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -11167,8 +10105,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -11184,7 +10121,6 @@
       "Name": {
         "Value": "闲来无事，茶趣人妙"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「饮茶」状态"
       },
@@ -11193,9 +10129,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「神来」+10"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -11205,8 +10139,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -11214,8 +10147,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -11227,8 +10159,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -11244,7 +10175,6 @@
       "Name": {
         "Value": "气海充盈，赤阳天光"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「阅读▪自信」状态"
       },
@@ -11253,9 +10183,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「意志」+10"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -11265,8 +10193,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -11274,8 +10201,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -11287,8 +10213,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -11304,7 +10229,6 @@
       "Name": {
         "Value": "气力纵横，炉火纯青"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "装备兵器需要名号<color=#FF9A00FF>「绮罗如意」</color>"
       },
@@ -11313,9 +10237,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「连招威力」+40%；「内力消耗」+120%"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -11325,8 +10247,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -11334,8 +10255,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -11343,8 +10263,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -11356,8 +10275,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -11365,8 +10283,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -11382,7 +10299,6 @@
       "Name": {
         "Value": "庖童呼我食，饭热鱼鲜香"
       },
-      "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
         "Value": "处于「美食」状态"
       },
@@ -11391,9 +10307,7 @@
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "「<color=#E24344FF>攻</color><color=#5C9BE2FF>防</color>招式威力」+60%；「集中」-30"
-      },
-      "FangZhiWeiQiHeIndiWarn": {},
-      "FangZhiWuQiHeIndi": {}
+      }
     },
     "XinFaQiHeYingXiang": {
       "Values": [
@@ -11403,8 +10317,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -11412,8 +10325,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -11421,8 +10333,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -11434,8 +10345,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -11443,8 +10353,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加成"
-          },
-          "Value": {}
+          }
         },
         {
           "Name": {
@@ -11452,8 +10361,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "增加"
-          },
-          "Value": {}
+          }
         }
       ]
     },

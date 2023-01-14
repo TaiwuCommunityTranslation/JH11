@@ -3,16 +3,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#23FF00FF>玉露丸</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "能抑制头面不适的中成药。"
     },
@@ -33,8 +29,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -43,16 +38,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FFFFFFFF>健足膏</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种含有薄荷的膏药，敷在足底能有效缓解酸痛和疲劳。"
     },
@@ -73,8 +64,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -83,16 +73,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>破血金疮药</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "江湖闻名的万用伤药，较为难得。可使加速伤口恢复，迅速止血。伤口愈合后皮肤光洁，看不见任何疤痕。"
     },
@@ -113,11 +99,9 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
           },
@@ -129,11 +113,9 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
           },
@@ -145,8 +127,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -155,16 +136,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FFFFFFFF>散淤跌打露</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "江湖中治疗跌打损伤的普通伤药。具有活血化瘀，消炎止痛之效。"
     },
@@ -185,8 +162,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -195,16 +171,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FFFFFFFF>红花漫酒</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用藏红花泡制的药酒，用于散瘀开结、消肿止痛。"
     },
@@ -225,8 +197,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -235,16 +206,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#23FF00FF>接骨草药膏</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "治疗骨病的中膏药，敷在腰腹伤处能有效缓解疼痛。"
     },
@@ -265,8 +232,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -275,16 +241,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#23FF00FF>三度乳香油</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用桂林特有的乳香树的树叶和根的汁液提取而成。常用于调节气血，舒展胸背筋骨。"
     },
@@ -305,8 +267,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -315,16 +276,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FFFFFFFF>香药小元儿</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "江湖随处可见的提神醒脑药丸。"
     },
@@ -345,8 +302,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -355,16 +311,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FFFFFFFF>鹏沙元</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "专治胸闷气短的寻常用药。"
     },
@@ -385,8 +337,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -395,16 +346,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>紫火宝丸</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "据说烧制此药丸的火焰呈诡异的紫色，因而得名紫火宝丸。是能够治愈腰腹重伤的灵药。"
     },
@@ -425,8 +372,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -435,16 +381,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>洗骨金膏</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "取十二种珍贵动物的骨头磨成粉，再加入上好金疮药混合而成的药膏。能使伤残手脚恢复如初的神奇膏药。极其难得。"
     },
@@ -465,11 +407,9 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
           },
@@ -481,11 +421,9 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
           },
@@ -497,8 +435,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -507,16 +444,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>碧莹膏</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "五毒洞掌门自创的特效药膏，用于恢复手腕残疾。因药膏内含有珍珠、碧玺等珍贵玉石，所以膏体碧玉晶莹，便取名为：碧莹膏。"
     },
@@ -537,8 +470,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -547,16 +479,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>木金丹</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "再严重的面部伤痕，只需服用一颗便可完全恢复。还能使皮肤变得细腻光滑，除了贵没有别的缺点。相传此药除了恢复面部伤痕，还有易容的效果。"
     },
@@ -577,8 +505,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -587,16 +514,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>七命渡厄丸</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "常言道：经脉断裂，三魂七魄尽散。此药丸却能恢复断裂的经脉，实乃救命渡厄之奇药。"
     },
@@ -617,8 +540,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -627,16 +549,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>少林十三味</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "又称少林无忧散，是由十三味珍稀药材精确配比而成的少林招牌大伤药。"
     },
@@ -657,11 +575,9 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
           },
@@ -673,8 +589,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -683,16 +598,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#23FF00FF>龙涎膏</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "加入了龙涎香的膏药，隐隐散发着一股粪便的臭味。可修复经脉。"
     },
@@ -713,8 +624,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -723,16 +633,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>青灵秘药</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "青王寺秘制灵药，能快速治疗受损经脉，价格略高，不过有时会流入市场售卖，以增加门派收入。"
     },
@@ -753,8 +659,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -763,16 +668,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>逍遥续筋丸</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "逍遥派自发研制的能使残废手腕恢复如初的专用药，产量稀少，市面上也很难能购买到。"
     },
@@ -793,8 +694,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -803,16 +703,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>五行回天草</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "《黄帝内经》记载：“肺属金、肝属木、脾属土，肾属水，心属火。”唯有五行平衡，才能气血通畅，心脉平稳。药王庄研制的五行回天草是能够调节五行，有效治疗严重心脏疾病的珍贵药剂。"
     },
@@ -833,8 +729,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -843,16 +738,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#23FF00FF>茯苓散</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用于胸背处止血化瘀的常用药。"
     },
@@ -873,8 +764,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -883,16 +773,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>七转黑玉膏</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "由杜仲、当归、牛膝、鸡血藤、鹿角胶、威灵仙、土鳖虫这七种益肾壮督、祛湿活血、柔经通络的药物制成，能迅速治愈腰腹的各种疑难杂症。"
     },
@@ -913,8 +799,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -923,16 +808,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>百草断续膏</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "五毒洞掌门耗费十年时间才研制出的奇药。将断臂接好后敷上此药，不一会儿便能恢复如初。此药一出，江湖中再无断臂大侠。"
     },
@@ -953,11 +834,9 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
           },
@@ -969,8 +848,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -979,16 +857,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>冰灵丹</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用塞北雪山上长出的冰灵草为主，再加入其他治疗面部损伤的珍贵药材制成。敷上后不仅能让伤口恢复如初，还能使得面部红润有光泽，人见人爱花见花开。"
     },
@@ -1009,8 +883,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1019,16 +892,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>玉衡换骨药</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "道书记载玉衡是北斗七星中的廉贞星，主掌命门。此药为强健胸背的奇药，服用后有脱胎换骨之感。"
     },
@@ -1049,8 +918,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1059,16 +927,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>金髓草药</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "五毒洞的招牌伤药。能使已经残废的腿脚重新站立的神奇仙药。其中使用的药材和制作方法恐怕只有五毒洞掌门一人知晓。"
     },
@@ -1089,8 +953,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1099,16 +962,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>星月露</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "道书记载玉衡是北斗七星中的廉贞星，主掌命门。此药为强健胸背的奇药，服用后有脱胎换骨之感。"
     },
@@ -1129,11 +988,9 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
           },
@@ -1145,8 +1002,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1155,16 +1011,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>南斗赤膏</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "道书记载玉衡是北斗七星中的廉贞星，主掌命门。此药为强健胸背的奇药，服用后有脱胎换骨之感。"
     },
@@ -1185,11 +1037,9 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
           },
@@ -1201,8 +1051,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1211,16 +1060,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>七命宝丹</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "道书记载玉衡是北斗七星中的廉贞星，主掌命门。此药为强健胸背的奇药，服用后有脱胎换骨之感。"
     },
@@ -1241,11 +1086,9 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
           },
@@ -1257,8 +1100,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1267,16 +1109,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>浑天丹</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "道书记载玉衡是北斗七星中的廉贞星，主掌命门。此药为强健胸背的奇药，服用后有脱胎换骨之感。"
     },
@@ -1297,11 +1135,9 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位恢复"
           },
@@ -1313,8 +1149,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1323,16 +1158,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>天心金丸</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "五毒洞的招牌伤药。能使已经残废的腿脚重新站立的神奇仙药。其中使用的药材和制作方法恐怕只有五毒洞掌门一人知晓。"
     },
@@ -1353,8 +1184,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1363,16 +1193,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>金光清灵丹</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "五毒洞的招牌伤药。能使已经残废的腿脚重新站立的神奇仙药。其中使用的药材和制作方法恐怕只有五毒洞掌门一人知晓。"
     },
@@ -1393,8 +1219,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1403,16 +1228,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>罗汉奇药</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "五毒洞的招牌伤药。能使已经残废的腿脚重新站立的神奇仙药。其中使用的药材和制作方法恐怕只有五毒洞掌门一人知晓。"
     },
@@ -1433,8 +1254,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1443,16 +1263,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>玉清白骨膏</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "五毒洞的招牌伤药。能使已经残废的腿脚重新站立的神奇仙药。其中使用的药材和制作方法恐怕只有五毒洞掌门一人知晓。"
     },
@@ -1473,8 +1289,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1483,16 +1298,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>聚阳宝丹</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "五毒洞的招牌伤药。能使已经残废的腿脚重新站立的神奇仙药。其中使用的药材和制作方法恐怕只有五毒洞掌门一人知晓。"
     },
@@ -1513,8 +1324,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1523,16 +1333,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>太易灵紫膏</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "五毒洞的招牌伤药。能使已经残废的腿脚重新站立的神奇仙药。其中使用的药材和制作方法恐怕只有五毒洞掌门一人知晓。"
     },
@@ -1553,8 +1359,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1563,16 +1368,12 @@
     "ItemType": {
       "ValueInfo": "伤药"
     },
-    "Condition": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>血凝草药</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "五毒洞的招牌伤药。能使已经残废的腿脚重新站立的神奇仙药。其中使用的药材和制作方法恐怕只有五毒洞掌门一人知晓。"
     },
@@ -1593,8 +1394,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1609,9 +1409,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用乌鸡、人参，黄芪等珍贵药材制成的补气丸。"
     },
@@ -1629,9 +1426,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "JieDuan": {},
-          "Value": {}
+          }
         }
       ]
     }
@@ -1646,9 +1441,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "东晋时期早有记载：“服气调咽用内丹。”至元内丹制作工序繁琐，纯度极高，是难得的补气佳品。"
     },
@@ -1666,9 +1458,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "JieDuan": {},
-          "Value": {}
+          }
         }
       ]
     }
@@ -1683,9 +1473,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "羌活性温，多产于四川一代，主驱风邪和寒湿之邪。与独活等药材一同入药制成的羌活通脉丸可迅速补气，乃滋阴补阳的奇药。"
     },
@@ -1703,9 +1490,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "JieDuan": {},
-          "Value": {}
+          }
         }
       ]
     }
@@ -1720,9 +1505,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用枸杞、何首乌、肉桂、甘草等性温的药材熬制而成，味道甘甜，是养精蓄锐的高级补药。"
     },
@@ -1740,9 +1522,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "JieDuan": {},
-          "Value": {}
+          }
         }
       ]
     }
@@ -1757,9 +1537,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "华山派自制的养气丹，是修心养气的高级补品。"
     },
@@ -1777,9 +1554,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "JieDuan": {},
-          "Value": {}
+          }
         }
       ]
     }
@@ -1794,9 +1569,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "有病治病，无病强身。补中益气丸是寻常人家必备的高级补气药丸。"
     },
@@ -1814,9 +1586,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "JieDuan": {},
-          "Value": {}
+          }
         }
       ]
     }
@@ -1831,9 +1601,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "只能补充一点点内力的普通补药。"
     },
@@ -1854,8 +1621,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1870,9 +1636,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "有清热败火、补气养气功效的汤药。"
     },
@@ -1893,8 +1656,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1909,9 +1671,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用沉香、木香、陈橘皮等药材碾碎成末，炼蜜成丸。可有效补气。"
     },
@@ -1932,8 +1691,7 @@
           },
           "JieDuan": {
             "ValueInfo": "每阶段"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1948,9 +1706,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "又称十全大补丸，主治真元虚弱，是续气延年益寿的仙丹，能持续回复大量内力。相传帝阳天常年随身备着此药，使得它名声大震，价格也一路水涨船高。"
     },
@@ -1968,9 +1723,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "JieDuan": {},
-          "Value": {}
+          }
         }
       ]
     }
@@ -1985,9 +1738,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "东晋时期早有记载：“服气调咽用内丹。”至元内丹制作工序繁琐，纯度极高，是难得的补气佳品。"
     },
@@ -2005,9 +1755,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "JieDuan": {},
-          "Value": {}
+          }
         }
       ]
     }
@@ -2022,9 +1770,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "羌活性温，多产于四川一代，主驱风邪和寒湿之邪。与独活等药材一同入药制成的羌活通脉丸可迅速补气，乃滋阴补阳的奇药。"
     },
@@ -2042,9 +1787,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "JieDuan": {},
-          "Value": {}
+          }
         }
       ]
     }
@@ -2059,9 +1802,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "又称十全大补丸，主治真元虚弱，是续气延年益寿的仙丹，能持续回复大量内力。相传帝阳天常年随身备着此药，使得它名声大震，价格也一路水涨船高。"
     },
@@ -2079,9 +1819,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "JieDuan": {},
-          "Value": {}
+          }
         }
       ]
     }
@@ -2096,9 +1834,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "据传是太上老君留下的集天地之灵气所凝聚成的练气金丹，食用者可大幅提升内功修为。极其罕见，只在桂林一带有售。"
     },
@@ -2108,11 +1843,9 @@
           "Name": {
             "Value": "「气法」+1（服用后永久增加）"
           },
-          "TeSeLeiXing": {},
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -2127,9 +1860,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "药王庄自制的能迅速提升内功修为的丹药。一般不轻易示人，就算是有钱也未必能买得到。"
     },
@@ -2139,11 +1869,9 @@
           "Name": {
             "Value": "「调息」+1（服用后永久增加）"
           },
-          "TeSeLeiXing": {},
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -2158,9 +1886,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "《神农本草经》有载：”大寒之地积雪，春夏不散，雪间有草，类荷花独茎，婷婷雪间，其根茎有散寒除湿、强筋活血之奇效。“食用后能大幅增加气量。"
     },
@@ -2170,11 +1895,9 @@
           "Name": {
             "Value": "「气量」+3（服用后永久增加）"
           },
-          "TeSeLeiXing": {},
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -2189,9 +1912,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "九阳龙涎丹乃纯阳之物，食用后气量大增。九阳龙涎丹所用的龙涎香品质上乘，通体洁白。经过了长时间的日晒风化，已完全没有了最初的粪便气味，而是散发着一种木质烟叶般的甘甜气息。"
     },
@@ -2201,11 +1921,9 @@
           "Name": {
             "Value": "「气量」+1（服用后永久增加）"
           },
-          "TeSeLeiXing": {},
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -2220,9 +1938,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "采用恭州特有的阴性药材调制而成，能够帮助练武者调节提升阴脉之奇药。"
     },
@@ -2232,11 +1947,9 @@
           "Name": {
             "Value": "「任脉」+1（服用后永久增加）"
           },
-          "TeSeLeiXing": {},
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -2251,9 +1964,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用一千棵新鲜采摘的大黄浓缩而成的金丹，能够帮助练武者调节提升阳脉之奇药。"
     },
@@ -2263,11 +1973,9 @@
           "Name": {
             "Value": "「督脉」+1（服用后永久增加）"
           },
-          "TeSeLeiXing": {},
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -2282,9 +1990,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "世间稀有的练功奇药，市面上并无售卖，可李师师那里倒是有不少。坊间盛传李师师处的丹药均为徽宗所赠。"
     },
@@ -2294,11 +1999,9 @@
           "Name": {
             "Value": "「督脉」+1 「任脉」+1（服用后永久增加）"
           },
-          "TeSeLeiXing": {},
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -2313,9 +2016,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "五毒洞特制秘丹，制作方法不详，但据说此物的药效”玄之又玄“，食用一颗便可以使调息更为稳定，因此命名其为：玄门秘丹。"
     },
@@ -2325,11 +2025,9 @@
           "Name": {
             "Value": "「调息」+2（服用后永久增加）"
           },
-          "TeSeLeiXing": {},
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -2344,9 +2042,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用千年灵芝、人参等名贵药材炮制而成的聚气灵丹，服用此药能让运功能力大幅增加。"
     },
@@ -2356,11 +2051,9 @@
           "Name": {
             "Value": "「气量」+2（服用后永久增加）"
           },
-          "TeSeLeiXing": {},
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -2375,9 +2068,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "因刚烧制好的丹药通体散发着如同火焰般的光芒，因此被称为：凝火真丹。食用此丹可以使内功运气更上一层楼。"
     },
@@ -2387,11 +2077,9 @@
           "Name": {
             "Value": "「气法」+2（服用后永久增加）"
           },
-          "TeSeLeiXing": {},
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -2406,9 +2094,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "《左传》曰：“附形之灵为魄。“聚魄丸集至阳之药为一体，食用此丸药能使用药者精神会聚、心神稳定，是能够助人冲破督脉的奇药。"
     },
@@ -2418,11 +2103,9 @@
           "Name": {
             "Value": "「督脉」+2（服用后永久增加）"
           },
-          "TeSeLeiXing": {},
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -2437,9 +2120,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用清明至谷雨前后捕捉的帝王蝎，再加上桂林本地数十种名贵药材炮制而成。是一种服用后即可冲破任脉的奇药。"
     },
@@ -2449,11 +2129,9 @@
           "Name": {
             "Value": "「任脉」+2（服用后永久增加）"
           },
-          "TeSeLeiXing": {},
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -2468,9 +2146,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗轻症的中成药。主治气虚，外感风寒湿表症。有散寒祛湿，益气解表之效。"
     },
@@ -2486,9 +2161,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -2503,9 +2176,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗轻症的汤药。主治感染性疾病，为清热剂，具有清气分热，清热生津之功效。"
     },
@@ -2521,9 +2191,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -2538,9 +2206,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗轻症的中成药。主治肺热喘咳、气喘咳嗽，为清热剂，具有清脏腑热，清泻肺热，止咳平喘之功效。"
     },
@@ -2556,9 +2221,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -2573,9 +2236,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗轻症的膏药。主治伤寒，温毒热疾，鼻塞，耳聋，寒癖腹满坚胀。"
     },
@@ -2591,9 +2251,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -2608,9 +2266,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗轻症的药丸。《备急千金药方》有载：仙人玉壶丸主治腹痛胀满、心热气短。"
     },
@@ -2626,9 +2281,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -2643,9 +2296,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗轻症的汤药。二冬二母分别为：麦冬、天门冬；知母、川贝母。此汤用于治疗内伤燥痰，咳嗽喘逆。"
     },
@@ -2661,9 +2311,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -2678,9 +2326,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗轻症的奇效汤药。具有解表散寒之功效。主治外感风寒轻症。症见微恶风寒，头痛身痛，发热无汗。"
     },
@@ -2696,9 +2341,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -2713,9 +2356,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗轻症的奇效中成药。主治伤寒伤风，头疼身痛，腰滞腿疼，发热恶寒。"
     },
@@ -2731,9 +2371,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -2748,9 +2386,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗重症的奇效汤药。《太平惠民和剂局方》有载：十神汤主治外感风寒，内有气滞。具有疏风散寒，理气和中的功效。"
     },
@@ -2766,9 +2401,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -2783,9 +2416,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗重症的奇效药膏。用枇杷叶、鲜藕节等降气泻火的药材熬制而成。"
     },
@@ -2801,9 +2431,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -2818,9 +2446,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗重症的神药。用天麻、琥珀、麝香、珍珠等名贵药材磨成粉末，加入蜂蜜炼制成丸。安魂定魄，疏风顺气。"
     },
@@ -2836,9 +2461,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -2853,9 +2476,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗重症的神药。取芙蓉花叶、紫金皮等十余种名贵药材研磨成粉，拌入香油调制成膏状。用于治一切无名肿毒、恶疮，及风湿流火。"
     },
@@ -2871,9 +2491,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -2888,9 +2506,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗重症的神药。大圣保命丸能治一切风疾、四肢麻木、举止错乱。补气血，治体虚。是极其难得的药丸。"
     },
@@ -2906,9 +2521,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -2923,9 +2536,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗重症的神药。能迅速缓解痿症虚劳，恢复气血。具有补益肺肾之功效。是极其难得的药丸。"
     },
@@ -2941,9 +2551,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -2958,9 +2566,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗缓症的草本药。其主要成分来源于雨后出现在岩石表面的地衣。地衣具有清热明目，收敛益气的功效。"
     },
@@ -2976,9 +2581,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -2993,9 +2596,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗缓症的草本药。矮探春的叶子，夏秋两季采摘，晾晒之后可用。有清热败火之效，俗称：败火草。"
     },
@@ -3011,9 +2611,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -3028,9 +2626,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗缓症的汤药。栀子豉汤主治热郁胸膈不寐症。具有清热除烦，宣发郁热之功效。"
     },
@@ -3046,9 +2641,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -3063,9 +2656,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗缓症的汤药。橘皮性温，理气和胃，降逆止呃。煮汤可治肺脏本热。"
     },
@@ -3081,9 +2671,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -3098,9 +2686,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗缓症的中成药。主治肾虚少气，手足逆冷等症状。具有补肾温阳，益气健脾，行气止痛的功效。"
     },
@@ -3116,9 +2701,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -3133,9 +2716,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗缓症的奇效中成药。主治冷哮寒嗽，喘促痰清。具有温肺化饮，化痰平喘之功效。"
     },
@@ -3151,9 +2731,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -3168,9 +2746,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗急症的奇效中成药。采用乌贼骨、白芍和甘草等药材磨成粉后，外敷内服均可，能快速消肿止痛。"
     },
@@ -3186,9 +2761,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -3203,9 +2776,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗重症的奇效汤药。黄岑和黄连均为清里热、调气血之物。辅以甘草即可表里两解，清热止利。"
     },
@@ -3221,9 +2791,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -3238,9 +2806,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗急症的奇效药茶。藿香石膏茶是由藿香、生石膏、绿茶为主要食材的饮品。"
     },
@@ -3256,9 +2821,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -3273,9 +2836,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种用于治疗急症的奇效中成药。将红粉、大风子仁、核桃仁磨成粉末，炼蜜成丸，即可食用。"
     },
@@ -3291,9 +2851,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -3308,9 +2866,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "葛花解酲汤，具有化酒祛湿，温中和胃之功效。主治饮酒过度，湿伤脾胃。"
     },
@@ -3326,9 +2881,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "过几个阶段后"
-          },
-          "JieDuan": {},
-          "Cures": {}
+          }
         }
       ]
     }
@@ -3340,16 +2893,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#23FF00FF>鸾凤烟</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种白色的粉末，燃烧后会形成半透明的烟。闻到此烟的人会面红耳赤，行为失序。"
     },
@@ -3368,8 +2917,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3388,16 +2936,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#23FF00FF>悲酥清风</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "中毒后泪下如雨，称之为“悲”，全身不能动弹，称之为“酥”，毒气无色无臭，称之为“清风”。"
     },
@@ -3416,11 +2960,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -3429,8 +2971,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3452,16 +2993,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#23FF00FF>石椒曼佗</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用清热解毒的石椒花和祛风镇痛的曼陀罗花制成。二者本身无毒，可当混合在一起时，则会产生一种毒素，能使人的体魄受损，且不适反应极其幽微，难以察觉。"
     },
@@ -3480,8 +3017,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3500,16 +3036,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#23FF00FF>金牛七</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "一种寻常的草本植物，花的外形与白雏菊极其相似，但毒性极强。中毒者会明显感觉四肢无力，严重者会有流涎，呕吐等反应。"
     },
@@ -3528,8 +3060,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3548,16 +3079,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#23FF00FF>将离草</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "将离是芍药的别名。《诗经》有云：维士与女，伊其相谑，赠之以勺药。芍药无毒情有毒，中此毒者，若无情欲便无恙，一旦情开毒发，则会气量不足、气法紊乱。"
     },
@@ -3576,11 +3103,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -3589,8 +3114,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3612,16 +3136,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>雪珠海棠</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "雪珠是霜霰的俗称，一般指雨点遇到冷空气凝结成的冰珠。雪珠海棠是长在一种长白山的吊挂海棠，本身就含有剧毒。不小心吸食其花粉的人，会感到浑身无力，难以行动。"
     },
@@ -3640,11 +3160,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -3653,8 +3171,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3676,16 +3193,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>阴云虚空</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "此毒威力不可小觑，制作方法不祥。只是听闻中此毒者面色铁青，身体感觉异常寒冷，视线所见之物皆为虚幻，因此命名：阴云虚空。"
     },
@@ -3704,11 +3217,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -3717,8 +3228,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3740,16 +3250,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>牵机玉丸</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "”牵机“指的是人吃下此药后，肠胃剧痛，全身抽搐不已，手足蜷缩如弯弓，状似牵机。后唐主李煜是第一个服用此药的人。"
     },
@@ -3768,8 +3274,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3788,16 +3293,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>碧蚕毒蛊</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "苗族蛊毒。毒粉不经血肉之躯，则毒性不强，有法可解，一旦经血肉沾传，方得致命。人体一着毒粉，便有一层隐隐的碧绿之色。"
     },
@@ -3816,8 +3317,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3836,16 +3336,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>拈花笑</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "顾名思义，碰到此毒的人便会不合时宜地大笑不止，据说此毒形似红梅，香气幽微。虽然中毒者看着并无大碍，实则会对督脉造成严重损伤。"
     },
@@ -3864,8 +3360,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3884,16 +3379,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>血顶红砒</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "苗疆毒。用水蛭吸食中了鹤顶红的人血，再放入瓮缸中放入足量的鹤顶红，七七四十九天后，拿出毒蛭，晒干磨末制成。因毒性更纯，所以比鹤顶红还要厉害。中毒者瞬间会腰部无力，只能瘫坐在地。体魄也会严重受损，浑身软弱无力。"
     },
@@ -3912,11 +3403,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -3925,8 +3414,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3948,16 +3436,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#23FF00FF>金线蛇</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "西域的一种毒蛇，平时就喜食天狼蛛，所以其毒液毒性翻倍。误食者轻则失去嗅觉味觉，重则双目失明，七窍流血。"
     },
@@ -3976,8 +3460,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3996,16 +3479,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#23FF00FF>雷公树盘</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "雷公藤是一种草本植物，其根粗壮，形似树根。此毒取自雷公藤的根部。中毒者会感到大腿无力，下盘不受控制。"
     },
@@ -4024,8 +3503,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4044,16 +3522,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#23FF00FF>赤蝎粉</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "赤蝎比普通蝎子的体型要大两倍，毒性也同样翻倍。赤蝎晒干之后碾成粉末，只需一小点便可使人精神恍惚，无法集中。"
     },
@@ -4072,11 +3546,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -4085,8 +3557,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4108,16 +3579,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#23FF00FF>朝冠粉</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "传说是前朝宫廷的一种毒。因皇宫戒备森严，带毒进殿不易，所以便把毒藏在朝冠内，后人便称其为：朝冠粉。此毒威力一般，中毒者从表象上看与常人无异，所以很难察觉。"
     },
@@ -4136,8 +3603,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4156,16 +3622,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#23FF00FF>枯木汤</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "具体制作方式不详，据称只需一滴便可使新鲜的花朵叶片凋零、故称枯木汤。人若不小心食用，则会出现幻影、走路不稳。"
     },
@@ -4184,11 +3646,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -4197,8 +3657,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4220,16 +3679,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>炎阳衔命汤</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "制作方式不详。中毒者喜阴恶阳，只要在见着太阳便觉得有人前来索命，浑身难耐，精舍恍惚，癫狂易怒。虽然在阴凉处与常人无异，但实则任脉受损。"
     },
@@ -4248,8 +3703,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4268,16 +3722,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>金蚕蛊</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "此毒传自苗疆，将多种毒虫一起放在瓮缸中密封起来，让它们自相残杀，一年之后，最后只剩下一只形态似蚕，皮肤金黄，故称金蚕蛊。若是不小心沾染此毒，筋骨会受到极大的影响，严重者会无法动弹。"
     },
@@ -4296,8 +3746,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4316,16 +3765,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>红信膏</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "红信膏，与鹤顶红类似，均取自红信石。不同的是红信膏的纯度更高，毒性更重。但凡沾染或误食，则会呼吸紊乱，腿脚不灵。"
     },
@@ -4344,11 +3789,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -4357,8 +3800,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4380,16 +3822,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>醉仙灵</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "醉仙灵是由醉仙灵芙和奇鲮香木合制而成。醉仙灵芙是一种水仙模样的花，本身无毒，但与奇鲮香木的香气混合之后，变成了剧毒之物。不小心吸入此毒者，会神志不清、思绪紊乱。"
     },
@@ -4408,11 +3846,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -4421,11 +3857,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -4434,8 +3868,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4460,16 +3893,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>霹雳散功散</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "具体制作方法不详。中毒者虽然饮食起居皆能自理，但任脉大受影响，从而面色板钝，目光滞顿，迷妄少语，喜阴恶阳，失志痴呆。"
     },
@@ -4488,8 +3917,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4508,16 +3936,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>金乌毒丹</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "金乌乃一种神鸟，后来成为对太阳的别称。此毒制作方式不详，毒丹通体呈金色，没有任何气味。食用者会瞬间调息紊乱、气法丧尽。"
     },
@@ -4536,11 +3960,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -4549,8 +3971,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4572,16 +3993,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>分元秘丹</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "彻底打乱固本培元的分元秘丹，只需一颗便能使食用者身形迟缓、下盘不稳，再也无法正常行走。"
     },
@@ -4600,11 +4017,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -4613,8 +4028,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4636,16 +4050,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>凝魂蛊</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "苗疆毒。是用一千只蚰虫放在瓮缸中，每日只喂些许竹叶青，七七四十九天后开翁，唯一存活的蚰虫便凝集了其余的魂魄，将其晒干后碾成粉末即可。中毒者督脉受损、阳性武功的功力会大打折扣。"
     },
@@ -4664,8 +4074,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4684,16 +4093,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>雷公秘酒</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用雷公藤的花叶制成的毒酒。仔细闻会有一股非常幽微的青草味，喝起来与普通白酒无异，辛辣回甘。中毒者会无法集中精神，眼神恍惚、易受惊吓。"
     },
@@ -4712,11 +4117,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -4725,8 +4128,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4748,16 +4150,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>雪上一枝蒿</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "源于云南，是四川民间广为流传和使用的跌打、疗伤的止痛药。但其毒性很大，用之得当治病，误服或服用过量可能导致内力丧失、严重者会丧命。"
     },
@@ -4776,8 +4174,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4796,16 +4193,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>钩吻丸</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "俗称“断肠草”，形状酷似金银花，民间常有人因为认错误食而丧命。用钩吻花炼制成的毒丸会使中毒者会意志薄弱，容易动怒。"
     },
@@ -4824,8 +4217,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4844,17 +4236,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#23FF00FF>桃花露</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -4870,11 +4257,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -4883,8 +4268,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4906,17 +4290,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#23FF00FF>断脉草</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -4932,8 +4311,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4952,17 +4330,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#23FF00FF>灵角歧丝</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -4978,11 +4351,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -4991,11 +4362,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -5004,8 +4373,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5030,17 +4398,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#23FF00FF>煞秋根</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -5056,11 +4419,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -5069,8 +4430,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5092,17 +4452,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>蚀心散</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -5118,11 +4473,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -5131,11 +4484,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -5144,8 +4495,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5170,17 +4520,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>煞骨魅药</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -5196,11 +4541,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -5209,8 +4552,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5232,17 +4574,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>黄龙毒丹</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -5258,11 +4595,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -5271,11 +4606,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -5284,8 +4617,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5310,17 +4642,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>破风油</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -5336,8 +4663,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5356,17 +4682,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>烂喉夺心草</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -5382,11 +4703,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -5395,8 +4714,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5418,17 +4736,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>天命四散丸</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -5444,11 +4757,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -5457,8 +4768,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5480,17 +4790,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>金颜香</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -5506,11 +4811,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -5519,11 +4822,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -5532,8 +4833,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5558,17 +4858,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>辟寒秘丹</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -5584,11 +4879,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "加值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -5597,11 +4890,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -5610,8 +4901,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5636,17 +4926,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>凄煌蚀泪</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -5662,11 +4947,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -5675,11 +4958,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -5688,8 +4969,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5714,17 +4994,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>把你全家毒爆</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -5739,11 +5014,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -5752,11 +5025,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -5765,11 +5036,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -5778,11 +5047,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -5791,11 +5058,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -5804,11 +5069,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -5817,11 +5080,9 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "部位下毒"
           },
@@ -5830,8 +5091,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "减值"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -5843,16 +5103,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#23FF00FF>玉碧幽丸</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "通体呈碧玉翠色的一种高级药丸，可解阳毒。闻起来有清幽的兰花香气。"
     },
@@ -5867,8 +5123,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "每阶段"
-          },
-          "YinYangLeiXing": {}
+          }
         }
       ]
     }
@@ -5880,16 +5135,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>融雪春</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用栀子花、白玉兰花、梨花、白牡丹花的花蕊各十二两制成的药丸。用这四种春天盛开的白色花朵入药，有融化冬雪、万物复苏的寓意，能解阳毒。"
     },
@@ -5904,8 +5155,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "每阶段"
-          },
-          "YinYangLeiXing": {}
+          }
         }
       ]
     }
@@ -5917,16 +5167,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>冰清熔毒液</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "冰清熔毒液本身具有毒性，取自一种在苗疆不冬眠的蛇的胆汁和毒液制成。但这种阴毒可以用作解药，用以毒攻毒的方式解除一些阳毒。"
     },
@@ -5941,8 +5187,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "每阶段"
-          },
-          "YinYangLeiXing": {}
+          }
         }
       ]
     }
@@ -5954,16 +5199,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>青莲花</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "又称美人眼，相传是用文殊菩萨手中所持的青莲制成，本身具有极其浓郁的香气，尤为难得，可解阳毒。"
     },
@@ -5978,8 +5219,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "每阶段"
-          },
-          "YinYangLeiXing": {}
+          }
         }
       ]
     }
@@ -5991,16 +5231,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>护灵还心丹</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "集结了大量补血养阴药材的护灵还心丹，能有效恢复中毒者的心智和心神，让中毒者从神志不清中苏醒过来，恢复意识。通体呈红色，因丹药里有一味重镇安神的朱砂。"
     },
@@ -6015,8 +5251,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "每阶段"
-          },
-          "YinYangLeiXing": {}
+          }
         }
       ]
     }
@@ -6028,16 +5263,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阴"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>烈女四气丹</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "药物有寒、热、温、凉四种不同的药性，称为四气。烈女四气丹集四种不同药性的顶级药材为一体，使得此药不仅药性温和，还能化解百毒。"
     },
@@ -6052,8 +5283,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "每阶段"
-          },
-          "YinYangLeiXing": {}
+          }
         }
       ]
     }
@@ -6065,16 +5295,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#23FF00FF>元阳丹</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "元阳乃命门之火，是调节体内五行平衡的关键。此丹能化解一般阴毒。"
     },
@@ -6089,8 +5315,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "每阶段"
-          },
-          "YinYangLeiXing": {}
+          }
         }
       ]
     }
@@ -6102,16 +5327,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#23FF00FF>元阳化毒散</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "元阳乃命门之火，是调节体内五行平衡的关键。元阳化毒散与元阳丹制法和药效均类似，只是此药为粉末状。"
     },
@@ -6126,8 +5347,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "每阶段"
-          },
-          "YinYangLeiXing": {}
+          }
         }
       ]
     }
@@ -6139,16 +5359,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>土石清心丹</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "清心丹一般都以黄连入药，本身并不稀奇。可土石清心丹是采用长在昆仑山岩缝中的黄连制成，不仅数量稀少，岩壁陡峭，能采集到一颗已是难得。"
     },
@@ -6163,8 +5379,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "每阶段"
-          },
-          "YinYangLeiXing": {}
+          }
         }
       ]
     }
@@ -6176,16 +5391,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF00B6FF>金玉丸</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用红花、积雪草、牵牛子等药材炮制而成的金玉丸，是家喻户晓解胎毒的良药。虽然常见，但价格不菲，对解阴毒有奇效。"
     },
@@ -6200,8 +5411,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "每阶段"
-          },
-          "YinYangLeiXing": {}
+          }
         }
       ]
     }
@@ -6213,16 +5423,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>神农还阳丹</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "神农氏为了解救病人而尝遍百草，最后因尝断肠草而离世。相传此药具有能让神农起死回生的功效，因此被称为神农还阳丹。"
     },
@@ -6237,8 +5443,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "每阶段"
-          },
-          "YinYangLeiXing": {}
+          }
         }
       ]
     }
@@ -6250,16 +5455,12 @@
     "HerbYYShuXing": {
       "ValueInfo": "阳"
     },
-    "XiShu": {},
     "Name": {
       "ValueInfo": "<color=#FF9A00FF>破障金丹</color>"
     },
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "破障金丹大多时候都是武林高手用于突破自身武学极限时所食用的补药，很少有人舍得拿它来解毒。不过作为解药，破障金丹可让所有阴毒化为无形。"
     },
@@ -6274,8 +5475,7 @@
           },
           "ExecuteTime": {
             "ValueInfo": "每阶段"
-          },
-          "YinYangLeiXing": {}
+          }
         }
       ]
     }
@@ -6290,9 +5490,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用于制药的根茎类药材材料"
     }
@@ -6307,9 +5504,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用于制药的寻常茎木类药材材料"
     }
@@ -6324,9 +5518,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用于制药的皮类药材材料"
     }
@@ -6341,9 +5532,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用于制药的皮类药材材料"
     }
@@ -6358,9 +5546,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用于制药的稀有花类药材材料"
     }
@@ -6375,9 +5560,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用于制药的稀有果类药材材料"
     }
@@ -6392,9 +5574,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用于制药的寻常全草类药材材料"
     }
@@ -6409,9 +5588,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用于制药的寻常动物类药材材料"
     }
@@ -6426,9 +5602,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用于制药的寻常虫类药材材料"
     }
@@ -6443,9 +5616,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用于制药的珍贵矿物类药材材料"
     }
@@ -6460,9 +5630,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用于制炼毒药的根茎类毒物材料"
     }
@@ -6477,9 +5644,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用于制炼毒药的稀有茎木类毒物材料"
     }
@@ -6494,9 +5658,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用于制炼毒药的稀有皮类毒物材料"
     }
@@ -6511,9 +5672,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用于制炼毒药的稀有叶类毒物材料"
     }
@@ -6528,9 +5686,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用于制炼毒药的稀有花类毒物材料"
     }
@@ -6545,9 +5700,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF00B6FF>凤等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用于制炼毒药的稀有果类毒物材料"
     }
@@ -6562,9 +5714,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#23FF00FF>虎等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用于制炼毒药的全草类毒物材料"
     }
@@ -6579,9 +5728,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用于制炼毒药的珍贵动物类毒物材料"
     }
@@ -6596,9 +5742,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用于制炼毒药的珍贵虫类毒物材料"
     }
@@ -6613,9 +5756,6 @@
     "ItemPinZhi": {
       "ValueInfo": "<color=#FF9A00FF>龙等</color>"
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "用于制炼毒药的珍贵矿物类毒物材料"
     }

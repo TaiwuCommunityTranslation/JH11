@@ -1,11 +1,6 @@
 [
   {
-    "LunJianJiFen": {},
     "BasicData": {
-      "Name": {},
-      "AvatarIcon": {},
-      "Age": {},
-      "DeadAge": {},
       "Gender": {
         "ValueInfo": "男"
       },
@@ -28,158 +23,35 @@
         "ValueInfo": "指法宗师"
       },
       "MingSheng": {
-        "MingSheng": {},
         "ChengHao": {
           "ValueInfo": "重阳真人"
         }
-      },
-      "LiChang": {},
-      "WuXing": {},
-      "JianShi": {},
-      "JiaoShe": {},
-      "FuYuan": {},
-      "YiDongLi": {}
+      }
     },
     "BattleData": {
-      "JiChuShuXing": {
-        "JiChuNeiLi": {}
-      },
+      "JiChuShuXing": {},
       "ZhanDouShuXing": {
-        "ZhanDouNeiLi": {},
-        "NeiLiBase": {},
-        "NeiLiXiaoHaoBiLi": {},
-        "ZhanDouQiangDuBiLi": {},
-        "GongZhanDouQiangDuBiLi": {},
-        "FangZhanDouQiangDuBiLi": {},
-        "LianZhaoQiangDuBiLi": {},
-        "JiPoPoZhanBiLi": {},
-        "YiJiZhiShengBiLi": {},
-        "YiJiZhiMingBiLi": {},
-        "BuWeiShouShangBiLi": {},
-        "NeiLiXiaoHaoJiShu": {},
-        "JiPoPoZhanJiShu": {},
-        "YiJiZhiShengJiShu": {},
-        "YiJiZhiMingJiShu": {},
-        "BuWeiShouShangJiShu": {},
-        "DianXueJiShu": {},
-        "CuiDuJiShu": {},
-        "BeiJiPoPoZhanJiShu": {},
-        "GongZhaoShiLengqueJiShu": {},
-        "FangZhaoShiLengqueJiShu": {},
-        "JiZhaoShiLengqueJiShu": {},
-        "GongZhaoShiTaoLuQiangDu": {},
-        "ShouZhaoShiTaoLuQiangDu": {},
-        "GongZhaoShiNeiLiXiaoHaoBiLi": {},
-        "GongZhaoShiNeiLiXiaoHaoJiShu": {},
-        "FangZhaoShiNeiLiXiaoHaoBiLi": {},
-        "FangZhaoShiNeiLiXiaoHaoJiShu": {},
-        "JiZhaoShiWeiLiBiLi": {},
-        "JiZhaoShiWeiLiJiShu": {},
-        "WuGongZhaoShiLengQueJiShu": {},
-        "NeiGongZhaoShiLengQueJiShu": {},
-        "QingGongZhaoShiLengQueJiShu": {},
-        "GongZhaoShiQiangDuBuffIcon": {},
-        "ShouZhaoShiQiangDuBuffIcon": {},
-        "NeiLiBuZuIcon": {},
-        "PoZhanIcon": {},
-        "YiZhiChangeValue": {},
-        "JiZhongChangeValue": {},
-        "ZhenDingChangeValue": {},
-        "JueDuanChangeValue": {},
-        "ShenLaiChangeValue": {},
-        "JianFaChangeValue": {},
-        "DaoFaChangeValue": {},
-        "QuanZhangChangeValue": {},
-        "ZhiLiChangeValue": {},
-        "YongQiangChangeValue": {},
-        "ShuaGunChangeValue": {},
-        "ChuiFuChangeValue": {},
-        "ShiBianChangeValue": {},
-        "GouFaChangeValue": {},
-        "CunJinChangeValue": {},
-        "BiFaChangeValue": {},
-        "YaoMaChangeValue": {},
-        "XiaPanChangeValue": {},
-        "TiPoChangeValue": {},
-        "JinGuChangeValue": {},
-        "QiLiangChangeValue": {},
-        "TiaoXiChangeValue": {},
-        "QiFaChangeValue": {},
-        "ShenXingChangeValue": {},
-        "DuMaiChangeValue": {},
-        "RenMaiChangeValue": {},
-        "ShiCiChangeValue": {},
-        "ShiCiLikeChangeValue": {},
-        "PengRenChangeValue": {},
-        "PengRenLikeChangeValue": {},
-        "ChaDaoChangeValue": {},
-        "ChaDaoLikeChangeValue": {},
-        "HuiHuaChangeValue": {},
-        "HuiHuaLikeChangeValue": {},
-        "YueQiChangeValue": {},
-        "YueQiLikeChangeValue": {},
-        "YinJiuChangeValue": {},
-        "GuanPuChangeValue": {},
-        "GuanPuLikeChangeValue": {},
-        "ShouCangChangeValue": {},
-        "ShouCangLikeChangeValue": {},
-        "YiShuChangeValue": {},
-        "YiShuLikeChangeValue": {},
-        "DuShuChangeValue": {},
-        "DuShuLikeChangeValue": {},
-        "DaoDeChangeValue": {},
-        "HanYangChangeValue": {},
-        "MeiLiChangeValue": {},
-        "ShaYiChangeValue": {},
-        "WuXingChangeValue": {},
-        "JianShiChangeValue": {},
-        "JiaoSheChangeValue": {},
-        "FuYuanChangeValue": {},
         "TouMianState": {
           "ValueInfo": "残状态"
         },
-        "TouMianZhenDingInfoValue": {},
-        "TouMianTeShuInfoValue": {},
-        "TouMianXinTaiInfoValue": {},
         "ShouWanState": {
           "ValueInfo": "残状态"
         },
-        "ShouWanQuanZhangInfoValue": {},
-        "ShouWanJianFaInfoValue": {},
-        "ShouWanZhiLiInfoValue": {},
-        "ShouWanGouBiInfoValue": {},
-        "ShouWanXinTaiInfoValue": {},
         "ShouBiState": {
           "ValueInfo": "残状态"
         },
-        "ShouBiDaoFaInfoValue": {},
-        "ShouBiYongQiangInfoValue": {},
-        "ShouBiShuaGunInfoValue": {},
-        "ShouBiChuiFuInfoValue": {},
-        "ShouBiShiBianInfoValue": {},
-        "ShouBiXinTaiInfoValue": {},
         "XiongBeiState": {
           "ValueInfo": "残状态"
         },
-        "XiongBeiTiaoXiInfoValue": {},
-        "XiongBeiQiFaInfoValue": {},
-        "XiongBeiXinTaiInfoValue": {},
         "YaoFuState": {
           "ValueInfo": "残状态"
         },
-        "YaoFuYaoMaInfoValue": {},
-        "YaoFuXinTaiInfoValue": {},
         "TuiJiaoState": {
           "ValueInfo": "残状态"
         },
-        "TuiJiaoXiaPanInfoValue": {},
-        "TuiJiaoXinTaiInfoValue": {},
         "JinMaiState": {
           "ValueInfo": "残状态"
-        },
-        "JinMaiRenMaiInfoValue": {},
-        "JinMaiDuMaiInfoValue": {},
-        "JinMaiXinTaiInfoValue": {}
+        }
       },
       "ShuXingInfoList": {
         "Values": [
@@ -316,303 +188,122 @@
         ]
       },
       "JingShen": {
-        "YiZhi": {},
         "YiZhiInfoName": {
           "ValueInfo": "意志"
         },
-        "JiZhong": {},
         "JiZhongInfoName": {
           "ValueInfo": "集中"
         },
-        "ZhenDing": {},
         "ZhenDingInfoName": {
           "ValueInfo": "镇定"
         },
-        "JueDuan": {},
         "JueDuanInfoName": {
           "ValueInfo": "决断"
         },
-        "ShenLai": {},
         "ShenLaiInfoName": {
           "ValueInfo": "神来"
         }
       },
       "WaiGong": {
-        "JianFa": {},
         "JianFaInfoName": {
           "ValueInfo": "用剑"
         },
-        "DaoFa": {},
         "DaoFaInfoName": {
           "ValueInfo": "使刀"
         },
-        "QuanZhang": {},
         "QuanZhangInfoName": {
           "ValueInfo": "拳掌"
         },
-        "ZhiLi": {},
         "ZhiLiInfoName": {
           "ValueInfo": "指力"
         },
-        "YongQiang": {},
         "YongQiangInfoName": {
           "ValueInfo": "用枪"
         },
-        "ShuaGun": {},
         "ShuaGunInfoName": {
           "ValueInfo": "耍棍"
         },
-        "ChuiFu": {},
         "ChuiFuInfoName": {
           "ValueInfo": "锤斧"
         },
-        "ShiBian": {},
         "ShiBianInfoName": {
           "ValueInfo": "使鞭"
         },
-        "GouFa": {},
         "GouFaInfoName": {
           "ValueInfo": "钩法"
         },
-        "CunJin": {},
         "CunJinInfoName": {
           "ValueInfo": "寸劲"
         },
-        "BiFa": {},
         "BiFaInfoName": {
           "ValueInfo": "笔法"
         },
-        "YaoMa": {},
         "YaoMaInfoName": {
           "ValueInfo": "腰马"
         },
-        "XiaPan": {},
         "XiaPanInfoName": {
           "ValueInfo": "下盘"
         },
-        "TiPo": {},
         "TiPoInfoName": {
           "ValueInfo": "体魄"
         },
-        "JinGu": {},
         "JinGuInfoName": {
           "ValueInfo": "筋骨"
         }
       },
       "NeiGong": {
-        "QiLiang": {},
         "QiLiangInfoName": {
           "ValueInfo": "气量"
         },
-        "TiaoXi": {},
         "TiaoXiInfoName": {
           "ValueInfo": "调息"
         },
-        "QiFa": {},
         "QiFaInfoName": {
           "ValueInfo": "气法"
         },
-        "ShenXing": {},
         "ShenXingInfoName": {
           "ValueInfo": "身形"
         }
       },
       "MaiLuo": {
-        "DuMai": {},
         "DuMaiInfoName": {
           "ValueInfo": "督脉"
         },
-        "RenMai": {},
         "RenMaiInfoName": {
           "ValueInfo": "任脉"
-        },
-        "ChongDai": {},
-        "QiaoMai": {},
-        "WeiMai": {}
+        }
       },
       "BuWei": {
-        "TouMian": {},
         "TouMianInfo": {
           "ValueInfo": "头面"
         },
-        "ShouWan": {},
         "ShouWanInfo": {
           "ValueInfo": "手腕"
         },
-        "ShouBi": {},
         "ShouBiInfo": {
           "ValueInfo": "手臂"
         },
-        "XiongBei": {},
         "XiongBeiInfo": {
           "ValueInfo": "胸背"
         },
-        "YaoFu": {},
         "YaoFuInfo": {
           "ValueInfo": "腰腹"
         },
-        "TuiJiao": {},
         "TuiJiaoInfo": {
           "ValueInfo": "腿脚"
         },
-        "JinMai": {},
         "JinMaiInfo": {
           "ValueInfo": "经脉"
         }
       },
-      "Buff": {
-        "Foods": {},
-        "Wines": {},
-        "Teas": {},
-        "JingXin": {},
-        "Musics": {},
-        "LiaoShang": {},
-        "JinBu": {},
-        "YiLiao": {},
-        "Poem": {},
-        "BaWan": {},
-        "MingXiang": {},
-        "XiYv": {},
-        "ZiZhai_CiZhi": {},
-        "ZiZhai_YvZhi": {},
-        "ZiZhai_QingTongZhi": {},
-        "SuanMing": {},
-        "ShuangXiu": {},
-        "GongYv": {}
-      },
-      "Debuff": {
-        "ZhongDus": {},
-        "Wines": {},
-        "ShiXue": {}
-      },
-      "XinTai": {},
-      "WuGongList": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "NeiGongList": [
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "QingGongList": [
-        {}
-      ],
-      "ChuangZuoXinLi": {}
+      "Buff": {},
+      "Debuff": {}
     },
     "SocialData": {
-      "SocialRelation": {
-        "SongLi": {},
-        "QieCuo": {},
-        "TouQie": {},
-        "XiaDu": {},
-        "SocialXueXiJiYi": {},
-        "SocialXiaChuYanQing": {},
-        "SocialYanQing": {},
-        "SocialQingHeJiu": {},
-        "SocialDuiYin": {},
-        "SocialQingHeCha": {},
-        "SocialDianCha": {},
-        "SocialGongZou": {},
-        "SocialBaoChou": {},
-        "SocialJieBai": {},
-        "SocialGaoBai": {},
-        "SocialQiuHun": {},
-        "SocialSiDou": {},
-        "SocialNPCAction": {},
-        "SocialBaiShi": {},
-        "SocialTouShi": {},
-        "SocialTeamUp": {},
-        "SocialTaoMing": {},
-        "SocialNPCJieDu": {},
-        "SocialGanQingZhiWen": {},
-        "SocialNPCFangKeAction": {},
-        "ShiFu": {},
-        "TuDi": {},
-        "ChouDi": {},
-        "TongMen": {},
-        "JieBai": {},
-        "QingLv": {},
-        "JieFa": {},
-        "QinRen": {},
-        "ZhiYou": {},
-        "SocialZhiKaiHuWei": {},
-        "ZiZhaiFangKeAcitonCount": {},
-        "SocialXueXiJiYiPay": {}
-      },
-      "Hobby": {
-        "ShiCi": {},
-        "ShiCiLike": {},
-        "PengRen": {},
-        "PengRenLike": {},
-        "ChaDao": {},
-        "ChaDaoLike": {},
-        "HuiHua": {},
-        "HuiHuaLike": {},
-        "YueQi": {},
-        "YueQiLike": {},
-        "YinJiu": {},
-        "YinJiuLike": {},
-        "GuanPu": {},
-        "GuanPuLike": {},
-        "ShouCang": {},
-        "ShouCangLike": {},
-        "YiShu": {},
-        "YiShuLike": {},
-        "DuShu": {},
-        "DuShuLike": {}
-      },
-      "XiuWei": {
-        "DaoDe": {},
-        "HanYang": {},
-        "MeiLi": {},
-        "ShaYi": {}
-      }
+      "SocialRelation": {},
+      "Hobby": {},
+      "XiuWei": {}
     },
-    "PaperMoneyStorage": {},
-    "ZiZhai": {},
-    "YangChengData": {
-      "ZhiYaoChengGongLv": {},
-      "ZhiDuChengGongLv": {},
-      "WuGongXiuLianSuDu": {},
-      "QuanFaWuGongXiuLianSuDu": {},
-      "ZhangFaWuGongXiuLianSuDu": {},
-      "ShouZhiWuGongXiuLianSuDu": {},
-      "DaoFaWuGongXiuLianSuDu": {},
-      "QiangFaWuGongXiuLianSuDu": {},
-      "JianFaWuGongXiuLianSuDu": {},
-      "FuFaWuGongXiuLianSuDu": {},
-      "ChuiFaWuGongXiuLianSuDu": {},
-      "GouFaWuGongXiuLianSuDu": {},
-      "BiFaWuGongXiuLianSuDu": {},
-      "GunFaWuGongXiuLianSuDu": {},
-      "BianFaWuGongXiuLianSuDu": {},
-      "TeShuFaWuGongXiuLianSuDu": {},
-      "AnQiFaWuGongXiuLianSuDu": {},
-      "YangLeiXingWuGongXiuLianSuDu": {},
-      "YinLeiXingWuGongXiuLianSuDu": {},
-      "YinYangLeiXingWuGongXiuLianSuDu": {},
-      "NeiGongXiuLianSuDu": {},
-      "YinLeiXingNeiGongXiuLianSuDu": {},
-      "YangLeiXingNeiGongXiuLianSuDu": {},
-      "QingGongXiuLianSuDu": {},
-      "XiaDuChengGongLv": {},
-      "TouQieChengGongLv": {},
-      "QiTaoJinQianXiShu": {},
-      "QiTaoXinTaiXiShu": {},
-      "YinZhaoShiWeiLiZengJiaBiLi": {},
-      "YangZhaoShiWeiLiZengJiaBiLi": {},
-      "YinYangZhaoShiWeiLiZengJiaBiLi": {}
-    }
+    "YangChengData": {}
   }
 ]
