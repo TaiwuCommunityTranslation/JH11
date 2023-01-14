@@ -8724,7 +8724,7 @@
       },
       "DuMai": {
         "Name": {
-          "cn": "supervisory vein",
+          "cn": "Du Chakra",
           "info": "---Increased strength of Yang attribute martial arts moves ---Increased base internal strength value multiplier ---"
         }
       },
@@ -14522,7 +14522,7 @@
             "When \"Insufficient Internal Strength\" status, the character will only be able to use normal attack and defense moves.",
             "If you are \"provoked\" by the opponent, the \"Calm\" skill will lose all its effects.",
             "The proper use of \"Combo\" will greatly enhance the power of the battle.",
-            "Yang martial arts are suitable for those who have opened the Governor's vein. The higher the attributes of the Governor's vein, the greater the power of Yang martial arts moves.",
+            "Yang martial arts are suitable for those who have opened the Du Chakra. The higher the attributes of the Du Chakra, the greater the power of Yang martial arts moves.",
             "The power of both Yin and Yang attribute martial arts moves will increase when placed into Yin or Yang martial arts routines.",
             "\"Small traders\", also known as \"small brokers\", can often buy many exotic treasures that are not available on the market.",
             "Jiang Hu is a dangerous place, why not visit the \"Green Silk Dream House\" in Hangzhou and enjoy the \"silk, bamboo, wind and strings, beautiful songs and wonderful martial arts\".",
@@ -27400,7 +27400,7 @@
         "Text": "body shape"
       },
       "督脉": {
-        "Text": "supervisory vein"
+        "Text": "Du Chakra"
       },
       "任脉": {
         "Text": "Ren Chakra"
