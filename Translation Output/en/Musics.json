@@ -149,7 +149,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+3 to \"Guns\" and +3 to \"Physique"
+            "Value": "\"+3 to \"Spears\" and +3 to \"Physique"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -186,7 +186,7 @@
     "StateDescription": {
       "Pos": [
         {
-          "Description": "\"Gun\" +3"
+          "Description": "\"Spear\" +3"
         },
         {
           "Description": "\"+3 to \"Physical Fitness"
@@ -1325,7 +1325,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+10 to \"Gun Use\", +10 to \"Muscle\", +10 to \"Concentration\", +10 to \"Decisiveness"
+            "Value": "\"+10 to \"Spear Use\", +10 to \"Muscle\", +10 to \"Concentration\", +10 to \"Decisiveness"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1394,7 +1394,7 @@
     "StateDescription": {
       "Pos": [
         {
-          "Description": "\"Gun\" +10"
+          "Description": "\"Spear\" +10"
         },
         {
           "Description": "\"Tendon\" +10"
