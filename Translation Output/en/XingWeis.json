@@ -1,7 +1,7 @@
 [
   {
     "Name": {
-      "ValueInfo": "scold angrily"
+      "ValueInfo": "Scold"
     },
     "XingWeiType": {},
     "XingWeiIcon": {},
@@ -127,7 +127,7 @@
   },
   {
     "Name": {
-      "ValueInfo": "provoke"
+      "ValueInfo": "Provoke"
     },
     "XingWeiType": {},
     "XingWeiIcon": {},
@@ -316,7 +316,7 @@
   },
   {
     "Name": {
-      "ValueInfo": "ignore"
+      "ValueInfo": "Ignore"
     },
     "XingWeiType": {},
     "XingWeiIcon": {},
