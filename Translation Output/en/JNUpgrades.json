@@ -322,7 +322,7 @@
                   "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
                 },
                 "TeSeLeiDes": {
-                  "Value": "Opponent's martial arts moves \"internal energy consumption\" +160%"
+                  "Value": "Opponent's martial arts moves \"internal energy cost\" +160%"
                 }
               }
             ]
@@ -889,7 +889,7 @@
                   "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
                 },
                 "TeSeLeiDes": {
-                  "Value": "Opponent's martial arts moves \"internal energy consumption\" +160%"
+                  "Value": "Opponent's martial arts moves \"internal energy cost\" +160%"
                 }
               }
             ]
@@ -1456,7 +1456,7 @@
                   "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
                 },
                 "TeSeLeiDes": {
-                  "Value": "Opponent's martial arts moves \"internal energy consumption\" +160%"
+                  "Value": "Opponent's martial arts moves \"internal energy cost\" +160%"
                 }
               }
             ]
@@ -2023,7 +2023,7 @@
                   "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
                 },
                 "TeSeLeiDes": {
-                  "Value": "Opponent's martial arts moves \"internal energy consumption\" +160%"
+                  "Value": "Opponent's martial arts moves \"internal energy cost\" +160%"
                 }
               }
             ]
@@ -2590,7 +2590,7 @@
                   "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
                 },
                 "TeSeLeiDes": {
-                  "Value": "Opponent's martial arts moves \"internal energy consumption\" +160%"
+                  "Value": "Opponent's martial arts moves \"internal energy cost\" +160%"
                 }
               }
             ]
