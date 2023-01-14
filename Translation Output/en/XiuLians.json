@@ -8662,7 +8662,7 @@
       {
         "Results": [
           {
-            "LeftValueInfo": "\" <color=#5C9BE2FF> Anti-Movement </color> Power\"\n <color=#FF00B6FF>  <size=15> Uncanny Whip </size> </color> ",
+            "LeftValueInfo": "\" <color=#5C9BE2FF> Parry </color> Power\"\n <color=#FF00B6FF>  <size=15> Uncanny Whip </size> </color> ",
             "RightValueInfo": "+15%"
           }
         ]
@@ -9625,7 +9625,7 @@
       {
         "Results": [
           {
-            "LeftValueInfo": "\" <color=#5C9BE2FF> Anti-Movement </color> Power\"\n <color=#FF00B6FF>  <size=15> Uncanny Whip </size> </color> ",
+            "LeftValueInfo": "\" <color=#5C9BE2FF> Parry </color> Power\"\n <color=#FF00B6FF>  <size=15> Uncanny Whip </size> </color> ",
             "RightValueInfo": "+50%"
           }
         ]
@@ -11171,7 +11171,7 @@
       {
         "Results": [
           {
-            "LeftValueInfo": "\" <color=#5C9BE2FF> Anti-Movement </color> Power\"\n <color=#FF9A00FF>  <size=15> Dryad Axe </size> </color> ",
+            "LeftValueInfo": "\" <color=#5C9BE2FF> Parry </color> Power\"\n <color=#FF9A00FF>  <size=15> Dryad Axe </size> </color> ",
             "RightValueInfo": "+25%"
           }
         ]
@@ -11238,7 +11238,7 @@
       {
         "Results": [
           {
-            "LeftValueInfo": "\" <color=#5C9BE2FF> Anti-Movement </color> Power\"\n <color=#FF00B6FF>  <size=15> Fudo Axe Roll </size> </color> ",
+            "LeftValueInfo": "\" <color=#5C9BE2FF> Parry </color> Power\"\n <color=#FF00B6FF>  <size=15> Fudo Axe Roll </size> </color> ",
             "RightValueInfo": "+25%"
           }
         ]
@@ -18306,7 +18306,7 @@
       {
         "Results": [
           {
-            "LeftValueInfo": "\" <color=#5C9BE2FF> Anti-Movement </color> Power\"\n <color=#FF00B6FF>  <size=15> Uncanny Whip </size> </color> ",
+            "LeftValueInfo": "\" <color=#5C9BE2FF> Parry </color> Power\"\n <color=#FF00B6FF>  <size=15> Uncanny Whip </size> </color> ",
             "RightValueInfo": "+30%"
           }
         ]
