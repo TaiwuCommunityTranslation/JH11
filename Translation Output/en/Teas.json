@@ -2263,7 +2263,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+3 to \"Gun Use\" +10 to \"Connotation"
+            "Value": "\"+3 to \"Spear Use\" +10 to \"Connotation"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -2332,7 +2332,7 @@
     "StateDescription": {
       "Pos": [
         {
-          "Description": "\"Gun\" +3"
+          "Description": "\"Spear\" +3"
         },
         {
           "Description": "\"Connotation\" +10"
