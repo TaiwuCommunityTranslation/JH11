@@ -1017,7 +1017,7 @@
   },
   {
     "ItemType": {
-      "ValueInfo": "Gun"
+      "ValueInfo": "Spear"
     },
     "HandType": {
       "ValueInfo": "Both hands"
@@ -1055,7 +1055,7 @@
   },
   {
     "ItemType": {
-      "ValueInfo": "Gun"
+      "ValueInfo": "Spear"
     },
     "HandType": {
       "ValueInfo": "Both hands"
@@ -1067,7 +1067,7 @@
       "ValueInfo": "Weapon Features11111111111"
     },
     "Name": {
-      "ValueInfo": " <color=#23FF00FF> White Dragon Gun </color> "
+      "ValueInfo": " <color=#23FF00FF> White Dragon Spear </color> "
     },
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
@@ -1093,7 +1093,7 @@
   },
   {
     "ItemType": {
-      "ValueInfo": "Gun"
+      "ValueInfo": "Spear"
     },
     "HandType": {
       "ValueInfo": "Both hands"
@@ -1105,7 +1105,7 @@
       "ValueInfo": "Weapon Features11111111111"
     },
     "Name": {
-      "ValueInfo": " <color=#23FF00FF> Pearly Gun </color> "
+      "ValueInfo": " <color=#23FF00FF> Pearly Spear </color> "
     },
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
@@ -1140,7 +1140,7 @@
   },
   {
     "ItemType": {
-      "ValueInfo": "Gun"
+      "ValueInfo": "Spear"
     },
     "HandType": {
       "ValueInfo": "Both hands"
@@ -1160,7 +1160,7 @@
     "BuyPrice": {},
     "SalePrice": {},
     "ItemDescription": {
-      "Value": "A great gun that pokes the sky."
+      "Value": "A great spear that pokes the sky."
     },
     "ItemTeSes": {
       "Values": [
@@ -1178,7 +1178,7 @@
   },
   {
     "ItemType": {
-      "ValueInfo": "Gun"
+      "ValueInfo": "Spear"
     },
     "HandType": {
       "ValueInfo": "Both hands"
@@ -1190,7 +1190,7 @@
       "ValueInfo": "Weapon Features11111111111"
     },
     "Name": {
-      "ValueInfo": " <color=#23FF00FF> Attack Wind Gun </color> "
+      "ValueInfo": " <color=#23FF00FF> Attack Wind Spear </color> "
     },
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
@@ -2644,13 +2644,13 @@
   },
   {
     "ItemType": {
-      "ValueInfo": "Gun"
+      "ValueInfo": "Spear"
     },
     "HandType": {
       "ValueInfo": "Both hands"
     },
     "NameHouZhui": {
-      "ValueInfo": "Gun"
+      "ValueInfo": "Spear"
     },
     "WuQiTeSe": {
       "ValueInfo": "20% increase in \"Attack Power\" and 5% decrease in \"Divine Strike\" chance"
@@ -2691,19 +2691,19 @@
   },
   {
     "ItemType": {
-      "ValueInfo": "Gun"
+      "ValueInfo": "Spear"
     },
     "HandType": {
       "ValueInfo": "Both hands"
     },
     "NameHouZhui": {
-      "ValueInfo": "Gun"
+      "ValueInfo": "Spear"
     },
     "WuQiTeSe": {
       "ValueInfo": "25% increase in \"attacking power\" and 15% increase in the chance of \"breakage\""
     },
     "Name": {
-      "ValueInfo": " <color=#23FF00FF> Big Gun </color> "
+      "ValueInfo": " <color=#23FF00FF> Big Spear </color> "
     },
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
@@ -2738,19 +2738,19 @@
   },
   {
     "ItemType": {
-      "ValueInfo": "Gun"
+      "ValueInfo": "Spear"
     },
     "HandType": {
       "ValueInfo": "Both hands"
     },
     "NameHouZhui": {
-      "ValueInfo": "Gun"
+      "ValueInfo": "Spear"
     },
     "WuQiTeSe": {
       "ValueInfo": "Increase \"Attacking Style Power\" by 20%, decrease \"Defending Style Power\" by 10%."
     },
     "Name": {
-      "ValueInfo": " <color=#23FF00FF> Sogi Gun </color> "
+      "ValueInfo": " <color=#23FF00FF> Sogi Spear </color> "
     },
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
@@ -2785,19 +2785,19 @@
   },
   {
     "ItemType": {
-      "ValueInfo": "Gun"
+      "ValueInfo": "Spear"
     },
     "HandType": {
       "ValueInfo": "Both hands"
     },
     "NameHouZhui": {
-      "ValueInfo": "Long Gun"
+      "ValueInfo": "Long Spear"
     },
     "WuQiTeSe": {
       "ValueInfo": "15% increase in \"Attack Power\"."
     },
     "Name": {
-      "ValueInfo": " <color=#23FF00FF> Pearly Gun </color> "
+      "ValueInfo": " <color=#23FF00FF> Pearly Spear </color> "
     },
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
@@ -2822,19 +2822,19 @@
   },
   {
     "ItemType": {
-      "ValueInfo": "Gun"
+      "ValueInfo": "Spear"
     },
     "HandType": {
       "ValueInfo": "Both hands"
     },
     "NameHouZhui": {
-      "ValueInfo": "Heavy Gun"
+      "ValueInfo": "Heavy Spear"
     },
     "WuQiTeSe": {
       "ValueInfo": "Increase \"Attack Power\" by 20% and decrease \"Divine Strike\" chance by 7.5%."
     },
     "Name": {
-      "ValueInfo": " <color=#FF00B6FF> Tiger Head Gun </color> "
+      "ValueInfo": " <color=#FF00B6FF> Tiger Head Spear </color> "
     },
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
@@ -2869,7 +2869,7 @@
   },
   {
     "ItemType": {
-      "ValueInfo": "Gun"
+      "ValueInfo": "Spear"
     },
     "HandType": {
       "ValueInfo": "Both hands"
@@ -2881,7 +2881,7 @@
       "ValueInfo": "15% increase in \"offensive and defensive move power\" and 10% increase in the chance of \"breakage\""
     },
     "Name": {
-      "ValueInfo": " <color=#FF00B6FF> White Dragon Gun </color> "
+      "ValueInfo": " <color=#FF00B6FF> White Dragon Spear </color> "
     },
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
