@@ -12,7 +12,7 @@
         "Value": "With \"Nei Gong\" <color=#23FF00FF> \"Tai Zu Nei Gong\" </color> Stance \"Mighty Open Mountain"
       },
       "FangZhiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +20% to \"Power of Stance\"; +50% to \"Internal Power Consumption"
+        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +20% to \"Power of Stance\"; +50% to \"Internal Power Cost"
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "\"Invalid\""
@@ -44,7 +44,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of stances"
+            "Value": "Internal power cost of stances"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -148,7 +148,7 @@
         "Value": " <color=#FF7E2EFF> \"Breakdown\" </color> Chance +10%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#5C9BE2FF> Anti-stance </color> Power\" -20%; \"Internal Power Consumption\" -50%"
+        "Value": "\" <color=#5C9BE2FF> Anti-stance </color> Power\" -20%; \"Internal Power Cost\" -50%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
@@ -181,7 +181,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves -50%"
+            "Value": "Internal power cost of moves -50%"
           },
           "ValueOperator": {
             "ValueInfo": "Reduction"
@@ -207,7 +207,7 @@
         "Value": "In the \"morning\" and \"evening\" hours"
       },
       "FangZhiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +40% to \"Power of Stance\"; +50% to \"Internal Power Consumption"
+        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +40% to \"Power of Stance\"; +50% to \"Internal Power Cost"
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "\"Invalid\""
@@ -239,7 +239,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 50%"
+            "Value": "Internal power cost of moves increased by 50%"
           },
           "ValueOperator": {
             "ValueInfo": "Additive"
@@ -278,10 +278,10 @@
         "Value": "Matching \"Lightning Skills\" <color=#FF9A00FF> \"Ling Bo Xian Wisdom Steps\" </color> Stance \"Dangerous Ling Broken Road\""
       },
       "FangZhiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +40% to \"Power of Stance\"; +100% to \"Internal Power Consumption"
+        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +40% to \"Power of Stance\"; +100% to \"Internal Power Cost"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +20% to \"Power of Stance\"; -40% to \"Internal Power Consumption"
+        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +20% to \"Power of Stance\"; -40% to \"Internal Power Cost"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
@@ -310,7 +310,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 100%"
+            "Value": "Internal power cost of moves increased by 100%"
           },
           "ValueOperator": {
             "ValueInfo": "Additive"
@@ -341,7 +341,7 @@
         },
         {
           "Name": {
-            "Value": "30% reduction in internal power consumption of moves"
+            "Value": "30% reduction in internal power cost of moves"
           },
           "ValueOperator": {
             "ValueInfo": "Reduction into"
@@ -919,7 +919,7 @@
         "Value": "\" <color=#E24344FF> Attacking Style </color> Power\" +15%; \"Will\" +30"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack Stance </color> Power\" +60%; \"Concentration\" +30; \"Internal Power Consumption\" +180%"
+        "Value": "\" <color=#E24344FF> Attack Stance </color> Power\" +60%; \"Concentration\" +30; \"Internal Power Cost\" +180%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
@@ -970,7 +970,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 180%"
+            "Value": "Internal power cost of moves increased by 180%"
           },
           "ValueOperator": {
             "ValueInfo": "Additive"
@@ -996,7 +996,7 @@
         "Value": "Matching all the \"Honmukong\" moves"
       },
       "FangZhiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +10%; \"Internal Power Consumption\" -20%"
+        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +10%; \"Internal Power Cost\" -20%"
       },
       "FangZhiWeiQiHeIndi": {
         "Value": " <color=#FF5344FF> \"Wounded\" </color> Chance -10%"
@@ -1019,7 +1019,7 @@
         },
         {
           "Name": {
-            "Value": "20% reduction in internal power consumption of moves"
+            "Value": "20% reduction in internal power cost of moves"
           },
           "ValueOperator": {
             "ValueInfo": "Reduction into"
@@ -1061,7 +1061,7 @@
         "Value": "\"+10 to \"Body Form\"; -1 attack and defense rounds to \"Martial Arts Stance Cooldown"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +40% to \"Power of Stance\"; -30 to \"Body Form\"; +80% to \"Internal Power Consumption"
+        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +40% to \"Power of Stance\"; -30 to \"Body Form\"; +80% to \"Internal Power Cost"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
@@ -1121,7 +1121,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 80%"
+            "Value": "Internal power cost of moves increased by 80%"
           },
           "ValueOperator": {
             "ValueInfo": "Additive"
@@ -1147,10 +1147,10 @@
         "Value": "Combine at least 1 \"Yin\" and 1 \"Yang\" internal power move"
       },
       "FangZhiQiHeIndi": {
-        "Value": " <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +30% to \"Power of Stance\"; +30% to \"Internal Power Consumption of Martial Arts Stance\" of opponent"
+        "Value": " <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +30% to \"Power of Stance\"; +30% to \"Internal Power Cost of Martial Arts Stance\" of opponent"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +30% to \"Power of Stance\"; <color=#FFD41BFF> +10% to \"One Strike\" </color> Chance +10%; +120% to \"Internal Power Consumption"
+        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +30% to \"Power of Stance\"; <color=#FFD41BFF> +10% to \"One Strike\" </color> Chance +10%; +120% to \"Internal Power Cost"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -1177,7 +1177,7 @@
         },
         {
           "Name": {
-            "Value": "30% increase in internal power consumption of opponent's moves"
+            "Value": "30% increase in internal power cost of opponent's moves"
           },
           "ValueOperator": {
             "ValueInfo": "Increase"
@@ -1217,7 +1217,7 @@
         },
         {
           "Name": {
-            "Value": "120% increase in internal power consumption for moves"
+            "Value": "120% increase in internal power cost for moves"
           },
           "ValueOperator": {
             "ValueInfo": "Additive"
@@ -1303,10 +1303,10 @@
         "Value": "Matching \"Int. Force\" <color=#23FF00FF> \"Secret Technique of Heavenly Dignity\" </color> Stance \"Secret Copy of Xuan Qi"
       },
       "FangZhiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +15%; \"Internal Power Consumption\" -40%"
+        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +15%; \"Internal Power Cost\" -40%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +50%; \"Internal Power Consumption\" +80%"
+        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +50%; \"Internal Power Cost\" +80%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -1324,7 +1324,7 @@
         },
         {
           "Name": {
-            "Value": "40% reduction in internal power consumption of moves"
+            "Value": "40% reduction in internal power cost of moves"
           },
           "ValueOperator": {
             "ValueInfo": "Reduction into"
@@ -1346,7 +1346,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 80%"
+            "Value": "Internal power cost of moves increased by 80%"
           },
           "ValueOperator": {
             "ValueInfo": "Additive"
@@ -1372,7 +1372,7 @@
         "Value": "In \"Meditation ▪ Terasen\" state"
       },
       "FangZhiQiHeIndi": {
-        "Value": "\"Concentration\" +20; \"God's coming\" +20; \"Internal power consumption\" -30%"
+        "Value": "\"Concentration\" +20; \"God's coming\" +20; \"Internal power cost\" -30%"
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "\"Invalid\""
@@ -1402,7 +1402,7 @@
         },
         {
           "Name": {
-            "Value": "30% reduction in internal power consumption of moves"
+            "Value": "30% reduction in internal power cost of moves"
           },
           "ValueOperator": {
             "ValueInfo": "Reduction into"
@@ -1798,7 +1798,7 @@
         "Value": "\" <color=#5C9BE2FF> Anti-move </color> Power\" +15%; <color=#FF5344FF> \"Injury\" </color> Chance -15%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#5C9BE2FF> Anti-stance </color> Power\" +30%; \"Internal Power Consumption\" +40%"
+        "Value": "\" <color=#5C9BE2FF> Anti-stance </color> Power\" +30%; \"Internal Power Cost\" +40%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -1838,7 +1838,7 @@
         },
         {
           "Name": {
-            "Value": "40% increase in internal power consumption for moves"
+            "Value": "40% increase in internal power cost for moves"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -1864,10 +1864,10 @@
         "Value": "With \"Int. Force\" <color=#23FF00FF> \"Quan Zhen Xin Fa\" </color> Stance \"Taoist Nature"
       },
       "FangZhiQiHeIndi": {
-        "Value": " <color=#FF7E2EFF> \"Break\" </color> +10% chance; \"Internal Power Consumption\" -30%"
+        "Value": " <color=#FF7E2EFF> \"Break\" </color> +10% chance; \"Internal Power Cost\" -30%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +15% to \"Power of Stance\"; +30% to \"Internal Power Consumption"
+        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +15% to \"Power of Stance\"; +30% to \"Internal Power Cost"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -1885,7 +1885,7 @@
         },
         {
           "Name": {
-            "Value": "30% reduction in internal power consumption of moves"
+            "Value": "30% reduction in internal power cost of moves"
           },
           "ValueOperator": {
             "ValueInfo": "Reduction into"
@@ -1916,7 +1916,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of 30% of moves"
+            "Value": "Internal power cost of 30% of moves"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -2014,7 +2014,7 @@
         "Value": "\" <color=#E24344FF> Attack Style </color> Power\" +10%; <color=#FF0000FF> \"Deadly Strike\" </color> Chance +4%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": " <color=#FF0000FF> \"Fatal Hit\" </color> Chance +8%; \"Internal Power Consumption\" +40%"
+        "Value": " <color=#FF0000FF> \"Fatal Hit\" </color> Chance +8%; \"Internal Power Cost\" +40%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -2054,7 +2054,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of 40% of moves"
+            "Value": "Internal power cost of 40% of moves"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -2083,7 +2083,7 @@
         "Value": "\" <color=#E24344FF> Attack Style </color> Power\" +30%; <color=#FF7E2EFF> \"Breakdown\" </color> Chance +10%; <color=#FFD41BFF> \"One Strike Win\" </color> Chance +8%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +20%; \"Internal Power Consumption\" +50%"
+        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +20%; \"Internal Power Cost\" +50%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -2132,7 +2132,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 50%"
+            "Value": "Internal power cost of moves increased by 50%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -2221,7 +2221,7 @@
         "Value": "\"Martial Arts Stance Cooldown\" -1 attack and defense round"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\"Internal Power Consumption\" -30%"
+        "Value": "\"Internal Power Cost\" -30%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -2243,7 +2243,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "30% reduction in internal power consumption of moves"
+            "Value": "30% reduction in internal power cost of moves"
           },
           "ValueOperator": {
             "ValueInfo": "Reduction into"
@@ -2269,7 +2269,7 @@
         "Value": "\"As the heart desires, the mind is always in tune\""
       },
       "FangZhiQiHeIndi": {
-        "Value": "Counteracts \"Fist and Palm\" martial arts; <color=#FF7E2EFF> \"Breakdown\" </color> +10% chance; \"Internal Power Consumption\" +100%"
+        "Value": "Counteracts \"Fist and Palm\" martial arts; <color=#FF7E2EFF> \"Breakdown\" </color> +10% chance; \"Internal Power Cost\" +100%"
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "\"Invalid\""
@@ -2308,7 +2308,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves plus 100%"
+            "Value": "Internal power cost of moves plus 100%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -2350,7 +2350,7 @@
         "Value": " <color=#FF5E4EFF> \"Appearing broken\" </color> Chance -15%; \"God comes\" +5; \"Body shape\" +5"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +25%; \"Internal Power Consumption\" +50%"
+        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +25%; \"Internal Power Cost\" +50%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -2399,7 +2399,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 50%"
+            "Value": "Internal power cost of moves increased by 50%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -2428,7 +2428,7 @@
         "Value": " <color=#FF5344FF> \"Striking Damage\" </color> Chance +10%; \"Physical Fitness\" +30; \"Divine Coming\" -30"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\"Martial Arts Stance Cooldown\" -1 attack and defense rounds; \"Internal Power Consumption\" +100%"
+        "Value": "\"Martial Arts Stance Cooldown\" -1 attack and defense rounds; \"Internal Power Cost\" +100%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -2477,7 +2477,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 100%"
+            "Value": "Internal power cost of moves increased by 100%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -3022,7 +3022,7 @@
         "Value": "\" <color=#5C9BE2FF> Anti-move </color> Power\" +20%; <color=#FFDDBDFF> \"Defeat against move\" </color> Chance -15%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#5C9BE2FF> Anti-stance </color> Power\" +40%; \"Internal Power Consumption\" +60%"
+        "Value": "\" <color=#5C9BE2FF> Anti-stance </color> Power\" +40%; \"Internal Power Cost\" +60%"
       },
       "FangZhiWeiQiHeIndiWarn": {
         "Value": "Attention:"
@@ -3066,7 +3066,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of 60% of moves"
+            "Value": "Internal power cost of 60% of moves"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -3147,7 +3147,7 @@
         "Value": "With \"Nei Kung Fu\" <color=#FF00B6FF> \"Jade Girl Kung Fu\" </color> Stance \"Firm Jade Never Presses\""
       },
       "FangZhiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +30%; \"Internal Power Consumption\" -55%"
+        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +30%; \"Internal Power Cost\" -55%"
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "\"Invalid\""
@@ -3172,7 +3172,7 @@
         },
         {
           "Name": {
-            "Value": "55% reduction in internal power consumption for moves"
+            "Value": "55% reduction in internal power cost for moves"
           },
           "ValueOperator": {
             "ValueInfo": "Reduction into"
@@ -3278,7 +3278,7 @@
         "Value": "\" <color=#5C9BE2FF> Anti-move </color> Power\" +10%; <color=#FFD41BFF> \"One Strike Win\" </color> Chance +10%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#5C9BE2FF> Anti-stance </color> Power\" +35%; \"Internal Power Consumption\" +60%"
+        "Value": "\" <color=#5C9BE2FF> Anti-stance </color> Power\" +35%; \"Internal Power Cost\" +60%"
       },
       "FangZhiWeiQiHeIndiWarn": {
         "Value": "Attention:"
@@ -3322,7 +3322,7 @@
         },
         {
           "Name": {
-            "Value": "60% increase in internal power consumption of moves"
+            "Value": "60% increase in internal power cost of moves"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -3415,7 +3415,7 @@
         "Value": "\" <color=#E24344FF> Attack Stance </color> Power\" +15%; <color=#FF5344FF> \"Strike Damage\" </color> Chance +5%; <color=#FF0000FF> \"Kill Kill\" </color> Chance +4%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": " <color=#FF5344FF> \"Striking Wounds\" </color> +10% chance; <color=#FF0000FF> \"Fatal Strikes\" </color> +6% chance; \"Internal Power Consumption\" +80%"
+        "Value": " <color=#FF5344FF> \"Striking Wounds\" </color> +10% chance; <color=#FF0000FF> \"Fatal Strikes\" </color> +6% chance; \"Internal Power Cost\" +80%"
       },
       "FangZhiWeiQiHeIndiWarn": {
         "Value": "Attention:"
@@ -3477,7 +3477,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 80%"
+            "Value": "Internal power cost of moves increased by 80%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -3503,10 +3503,10 @@
         "Value": "Fitting martial arts for \"men"
       },
       "FangZhiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +10%; \"Internal Power Consumption\" -30%"
+        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +10%; \"Internal Power Cost\" -30%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +20%; \"Internal Power Consumption\" +30%"
+        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +20%; \"Internal Power Cost\" +30%"
       },
       "FangZhiWeiQiHeIndiWarn": {
         "Value": "Attention:"
@@ -3528,7 +3528,7 @@
         },
         {
           "Name": {
-            "Value": "30% reduction in internal power consumption of moves"
+            "Value": "30% reduction in internal power cost of moves"
           },
           "ValueOperator": {
             "ValueInfo": "Reduction into"
@@ -3550,7 +3550,7 @@
         },
         {
           "Name": {
-            "Value": "30% increase in internal power consumption for moves"
+            "Value": "30% increase in internal power cost for moves"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -3634,7 +3634,7 @@
         "Value": "\" <color=#5C9BE2FF> Anti-move </color> Power\" +10%; <color=#FF5E4EFF> \"Breakdown\" </color> Chance -10%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": " <color=#FF5E4EFF> \"Appearing broken\" </color> Chance +10%; \"Internal Power Consumption\" -50%"
+        "Value": " <color=#FF5E4EFF> \"Appearing broken\" </color> Chance +10%; \"Internal Power Cost\" -50%"
       },
       "FangZhiWeiQiHeIndiWarn": {
         "Value": "Attention:"
@@ -3678,7 +3678,7 @@
         },
         {
           "Name": {
-            "Value": "50% reduction in internal power consumption of moves"
+            "Value": "50% reduction in internal power cost of moves"
           },
           "ValueOperator": {
             "ValueInfo": "Reduction into"
@@ -3759,7 +3759,7 @@
         "Value": "In the \"winter\" season"
       },
       "FangZhiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack Stance </color> Power\" +35%; \"Concentration\" +10; \"Internal Power Consumption\" -60%"
+        "Value": "\" <color=#E24344FF> Attack Stance </color> Power\" +35%; \"Concentration\" +10; \"Internal Power Cost\" -60%"
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "\"Invalid\""
@@ -3793,7 +3793,7 @@
         },
         {
           "Name": {
-            "Value": "60% reduction in internal power consumption of moves"
+            "Value": "60% reduction in internal power cost of moves"
           },
           "ValueOperator": {
             "ValueInfo": "Reduction into"
@@ -3835,7 +3835,7 @@
         "Value": "Power of \"Combo\" +30%; \"Cooldown of martial arts moves\" -1 attack and defense round"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "Power of \"Combo\" +60%; \"Internal Power Consumption\" +160%"
+        "Value": "Power of \"Combo\" +60%; \"Internal Power Cost\" +160%"
       },
       "FangZhiWeiQiHeIndiWarn": {
         "Value": "Attention:"
@@ -3879,7 +3879,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 160%"
+            "Value": "Internal power cost of moves increased by 160%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -4154,7 +4154,7 @@
         "Value": "\"+15 for \"Use of Sword\"; +15 for \"Coming of God"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +30%; \"Internal Power Consumption\" +50%"
+        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +30%; \"Internal Power Cost\" +50%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -4194,7 +4194,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 50%"
+            "Value": "Internal power cost of moves increased by 50%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -4223,7 +4223,7 @@
         "Value": "\" <color=#5C9BE2FF> Anti-move </color> Power\" +15%; <color=#FF5E4EFF> \"Breakdown\" </color> Chance -10%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": " <color=#FF5E4EFF> \"Appearing broken\" </color> -20% chance; \"Internal power consumption\" +60%"
+        "Value": " <color=#FF5E4EFF> \"Appearing broken\" </color> -20% chance; \"Internal power cost\" +60%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -4263,7 +4263,7 @@
         },
         {
           "Name": {
-            "Value": "60% increase in internal power consumption of moves"
+            "Value": "60% increase in internal power cost of moves"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -4289,7 +4289,7 @@
         "Value": "\"As the heart desires, the mind is always in tune\""
       },
       "FangZhiQiHeIndi": {
-        "Value": "+15 to \"Use Sword\"; <color=#FFDDBDFF> \"Defeat against\" </color> -15% chance; +30% to \"Internal Power Consumption of Martial Arts Stances\" of opponent"
+        "Value": "+15 to \"Use Sword\"; <color=#FFDDBDFF> \"Defeat against\" </color> -15% chance; +30% to \"Internal Power Cost of Martial Arts Stances\" of opponent"
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "\"Invalid\""
@@ -4310,7 +4310,7 @@
         },
         {
           "Name": {
-            "Value": "30% increase in internal power consumption of opponent's moves"
+            "Value": "30% increase in internal power cost of opponent's moves"
           },
           "ValueOperator": {
             "ValueInfo": "Increase"
@@ -4361,7 +4361,7 @@
         "Value": "\"Sword\" +10"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack Stance </color> Power\" +20%; <color=#FFD41BFF> \"One Strike\" </color> Chance +5%; \"Internal Power Consumption\" +80%"
+        "Value": "\" <color=#E24344FF> Attack Stance </color> Power\" +20%; <color=#FFD41BFF> \"One Strike\" </color> Chance +5%; \"Internal Power Cost\" +80%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -4401,7 +4401,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 80%"
+            "Value": "Internal power cost of moves increased by 80%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -4761,7 +4761,7 @@
         "Value": "\" <color=#E24344FF> Attacking Style </color> Power\" +20%; <color=#FF7E2EFF> \"Breakdown\" </color> Chance +5%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +20% to \"Power of Stance\"; +60% to \"Internal Power Consumption"
+        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +20% to \"Power of Stance\"; +60% to \"Internal Power Cost"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -4810,7 +4810,7 @@
         },
         {
           "Name": {
-            "Value": "60% increase in internal power consumption for moves"
+            "Value": "60% increase in internal power cost for moves"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -4836,10 +4836,10 @@
         "Value": "With at least 2 \"Yang Nei Gong\" moves"
       },
       "FangZhiQiHeIndi": {
-        "Value": "\"Martial Arts Stance Cooldown\" -1 attack and defense rounds; \"Internal Power Consumption\" -60%"
+        "Value": "\"Martial Arts Stance Cooldown\" -1 attack and defense rounds; \"Internal Power Cost\" -60%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +30% to \"Power of Stance\"; +10 to \"Decisiveness\"; +80% to \"Internal Power Consumption"
+        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +30% to \"Power of Stance\"; +10 to \"Decisiveness\"; +80% to \"Internal Power Cost"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -4857,7 +4857,7 @@
         },
         {
           "Name": {
-            "Value": "60% reduction in internal power consumption of moves"
+            "Value": "60% reduction in internal power cost of moves"
           },
           "ValueOperator": {
             "ValueInfo": "Reduction into"
@@ -4897,7 +4897,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 80%"
+            "Value": "Internal power cost of moves increased by 80%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -5406,7 +5406,7 @@
         "Value": "Pair with at least 2 <color=#23FF00FF> \"Hengshan Falling Goose Sword Technique\" </color> Stances"
       },
       "FangZhiQiHeIndi": {
-        "Value": "\"Martial Arts Stance Cooldown\" -1 attack and defense rounds; \"Internal Power Consumption\" -50%"
+        "Value": "\"Martial Arts Stance Cooldown\" -1 attack and defense rounds; \"Internal Power Cost\" -50%"
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "\"Invalid\""
@@ -5427,7 +5427,7 @@
         },
         {
           "Name": {
-            "Value": "50% reduction in internal power consumption of moves"
+            "Value": "50% reduction in internal power cost of moves"
           },
           "ValueOperator": {
             "ValueInfo": "Reduction into"
@@ -5547,7 +5547,7 @@
         "Value": "\" <color=#E24344FF> Attack </color> Power\" +25%; \"Decisiveness\" +8"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +50%; \"Internal Power Consumption\" +80%"
+        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +50%; \"Internal Power Cost\" +80%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -5587,7 +5587,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 80%"
+            "Value": "Internal power cost of moves increased by 80%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -5736,7 +5736,7 @@
         "Value": "\" <color=#5C9BE2FF> Anti-move </color> Power\" +20%; <color=#FF5E4EFF> \"Breakdown\" </color> Chance -25%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#5C9BE2FF> Anti-stance </color> Power\" +70%; \"Internal Power Consumption\" +100%"
+        "Value": "\" <color=#5C9BE2FF> Anti-stance </color> Power\" +70%; \"Internal Power Cost\" +100%"
       },
       "FangZhiWeiQiHeIndiWarn": {
         "Value": "Attention:"
@@ -5780,7 +5780,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 100%"
+            "Value": "Internal power cost of moves increased by 100%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -5929,7 +5929,7 @@
         "Value": "\" <color=#5C9BE2FF> Anti-move </color> Power\" +25%; <color=#FF5344FF> \"Injury\" </color> Chance -20%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#5C9BE2FF> Anti-stance </color> Power\" +50%; \"Internal Power Consumption\" +80%"
+        "Value": "\" <color=#5C9BE2FF> Anti-stance </color> Power\" +50%; \"Internal Power Cost\" +80%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -5969,7 +5969,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 80%"
+            "Value": "Internal power cost of moves increased by 80%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -6223,7 +6223,7 @@
         "Value": " <color=#FF7E2EFF> \"Breakdown\" </color> Chance +10%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": " <color=#FF7E2EFF> \"Break\" </color> +20% chance; \"Internal Power Consumption\" +80%"
+        "Value": " <color=#FF7E2EFF> \"Break\" </color> +20% chance; \"Internal Power Cost\" +80%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -6254,7 +6254,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 80%"
+            "Value": "Internal power cost of moves increased by 80%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -6283,7 +6283,7 @@
         "Value": "\" <color=#5C9BE2FF> Anti-move </color> Power\" +10%; <color=#FF7E2EFF> \"Breakdown\" </color> Chance +10%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#5C9BE2FF> Anti-stance </color> Power\" +20%; \"Internal Power Consumption\" +50%"
+        "Value": "\" <color=#5C9BE2FF> Anti-stance </color> Power\" +20%; \"Internal Power Cost\" +50%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -6323,7 +6323,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 50%"
+            "Value": "Internal power cost of moves increased by 50%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -6412,7 +6412,7 @@
         "Value": "\" <color=#E24344FF> Attack </color> Power\" +10%; <color=#FF7E2EFF> \"Breakdown\" </color> Chance +10%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack Stance </color> Power\" +40%; \"Internal Power Consumption\" +60%"
+        "Value": "\" <color=#E24344FF> Attack Stance </color> Power\" +40%; \"Internal Power Cost\" +60%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -6452,7 +6452,7 @@
         },
         {
           "Name": {
-            "Value": "60% increase in internal power consumption of moves"
+            "Value": "60% increase in internal power cost of moves"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -6541,7 +6541,7 @@
         "Value": " <color=#FF7E2EFF> \"Breakdown\" </color> +20% chance; <color=#FFD41BFF> \"One Strike Win\" </color> +10% chance"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +60%; \"Internal Power Consumption\" +120%"
+        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +60%; \"Internal Power Cost\" +120%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -6581,7 +6581,7 @@
         },
         {
           "Name": {
-            "Value": "120% increase in internal power consumption for moves"
+            "Value": "120% increase in internal power cost for moves"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -6670,7 +6670,7 @@
         "Value": "\" <color=#E24344FF> Attack </color> Power\" +20%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +40%; \"Internal Power Consumption\" +80%"
+        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +40%; \"Internal Power Cost\" +80%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -6701,7 +6701,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 80%"
+            "Value": "Internal power cost of moves increased by 80%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -7066,7 +7066,7 @@
         "Value": " <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +30% to \"Power of Moves\"; +20 to \"Gods Come\""
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +60% to \"Power of Stance\"; +100% to \"Internal Power Consumption"
+        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +60% to \"Power of Stance\"; +100% to \"Internal Power Cost"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -7124,7 +7124,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 100%"
+            "Value": "Internal power cost of moves increased by 100%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -7567,7 +7567,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "Move internal power consumption increase (dark)%"
+            "Value": "Move internal power cost increase (dark)%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -7607,7 +7607,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased (dark)"
+            "Value": "Internal power cost of moves increased (dark)"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -7807,7 +7807,7 @@
         "Value": "Combine at least 3 \"Honmukong\" moves"
       },
       "FangZhiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +40%; \"Internal Power Consumption\" +80%"
+        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +40%; \"Internal Power Cost\" +80%"
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "\"Invalid\""
@@ -7828,7 +7828,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 80%"
+            "Value": "Internal power cost of moves increased by 80%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -7999,7 +7999,7 @@
         "Value": " <color=#FF7E2EFF> \"Breakdown\" </color> +10% chance; <color=#FFD41BFF> \"One Hit Wins\" </color> +10% chance"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +50%; \"Internal Power Consumption\" +100%"
+        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +50%; \"Internal Power Cost\" +100%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -8039,7 +8039,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 100%"
+            "Value": "Internal power cost of moves increased by 100%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -8125,10 +8125,10 @@
         "Value": "Combine with at least 1 \"Yang Nei Gong\" stance"
       },
       "FangZhiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +20%; \"Internal Power Consumption\" -40%"
+        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +20%; \"Internal Power Cost\" -40%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +40%; \"Internal Power Consumption\" +80%"
+        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +40%; \"Internal Power Cost\" +80%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -8146,7 +8146,7 @@
         },
         {
           "Name": {
-            "Value": "40% reduction in internal power consumption of moves"
+            "Value": "40% reduction in internal power cost of moves"
           },
           "ValueOperator": {
             "ValueInfo": "Reduction"
@@ -8168,7 +8168,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 80%"
+            "Value": "Internal power cost of moves increased by 80%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -8374,7 +8374,7 @@
         "Value": " <color=#00CAB0FF> \"Pointing\" </color> +20% chance; \"Internal Power Move Cooldown\" -3 attack and defense rounds"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": " <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +15% to \"Power of Stance\"; <color=#00CAB0FF> +10% to \"Point\" </color>; +80% to \"Internal Power Consumption\""
+        "Value": " <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +15% to \"Power of Stance\"; <color=#00CAB0FF> +10% to \"Point\" </color>; +80% to \"Internal Power Cost\""
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {
@@ -8434,7 +8434,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of stances plus 80%"
+            "Value": "Internal power cost of stances plus 80%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -8717,7 +8717,7 @@
         "Value": "\"Concentration\" +5; <color=#64B200FF> \"Hardened Poison\" </color> Chance +10%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +25%; \"Internal Power Consumption\" +70%"
+        "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +25%; \"Internal Power Cost\" +70%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -8757,7 +8757,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves plus 70%"
+            "Value": "Internal power cost of moves plus 70%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -8906,7 +8906,7 @@
         "Value": " <color=#FF7E2EFF> \"Striking Wounds\" </color> +16% chance; <color=#FF0000FF> \"Fatal Strikes\" </color> +15% chance"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": " <color=#FF7E2EFF> \"Striking Damage\" </color> +20% chance; \"Internal Power Consumption\" +80%"
+        "Value": " <color=#FF7E2EFF> \"Striking Damage\" </color> +20% chance; \"Internal Power Cost\" +80%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -8946,7 +8946,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 80%"
+            "Value": "Internal power cost of moves increased by 80%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -8975,7 +8975,7 @@
         "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +15% to \"Power of Stance\"; <color=#FF7E2EFF> \"Breakdown\" </color> +15% chance"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +35% to \"Power of Stance\"; +80% to \"Internal Power Consumption"
+        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +35% to \"Power of Stance\"; +80% to \"Internal Power Cost"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -9033,7 +9033,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 80%"
+            "Value": "Internal power cost of moves increased by 80%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -9200,7 +9200,7 @@
         "Value": "\" <color=#E24344FF> Attack </color> Power\" +20%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack Stance </color> Power\" -20%; \"Internal Power Consumption\" -40%"
+        "Value": "\" <color=#E24344FF> Attack Stance </color> Power\" -20%; \"Internal Power Cost\" -40%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -9231,7 +9231,7 @@
         },
         {
           "Name": {
-            "Value": "40% reduction in internal power consumption for moves"
+            "Value": "40% reduction in internal power cost for moves"
           },
           "ValueOperator": {
             "ValueInfo": "Reduction into"
@@ -10139,7 +10139,7 @@
         "Value": "\" <color=#E24344FF> Attack </color> Power\" +10%; <color=#FF7E2EFF> \"Damage\" </color> Chance +10%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": " <color=#FF7E2EFF> \"Striking Damage\" </color> +30% chance; \"Calming\" -30; \"Internal Power Consumption\" +80%"
+        "Value": " <color=#FF7E2EFF> \"Striking Damage\" </color> +30% chance; \"Calming\" -30; \"Internal Power Cost\" +80%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -10188,7 +10188,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of stances plus 80%"
+            "Value": "Internal power cost of stances plus 80%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -10673,7 +10673,7 @@
         "Value": "\"+10 to \"Axe of Fortune\"; +10 to \"Determination\"; +10 to \"Will"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\"+10 to \"Axe of Fortune\"; +20 to \"Concentration\"; +100% to \"Internal Power Consumption"
+        "Value": "\"+10 to \"Axe of Fortune\"; +20 to \"Concentration\"; +100% to \"Internal Power Cost"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -10731,7 +10731,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of stance plus 100%"
+            "Value": "Internal power cost of stance plus 100%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -10826,7 +10826,7 @@
         "Value": "The bag contains \"bronze collection\" <color=#FF9A00FF> \"animal-faced battle-axe\" </color> "
       },
       "FangZhiQiHeIndi": {
-        "Value": "+10 for \"Axe of Fortune\"; <color=#FF5E4EFF> -10% chance of \"appearing broken\" </color>; +15% for \"internal energy consumption of martial arts moves\" of opponent"
+        "Value": "+10 for \"Axe of Fortune\"; <color=#FF5E4EFF> -10% chance of \"appearing broken\" </color>; +15% for \"internal energy cost of martial arts moves\" of opponent"
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "\"Invalid\""
@@ -10856,7 +10856,7 @@
         },
         {
           "Name": {
-            "Value": "15% increase in internal power consumption of opponent's moves"
+            "Value": "15% increase in internal power cost of opponent's moves"
           },
           "ValueOperator": {
             "ValueInfo": "Increase"
@@ -10895,10 +10895,10 @@
         "Value": "Name required to equip weapons <color=#FF9A00FF> \"Blunt Sky\" </color> "
       },
       "FangZhiQiHeIndi": {
-        "Value": "\" <color=#5C9BE2FF> Anti-move </color> Power\" +20%; <color=#FF5E4EFF> \"Breakdown\" </color> Chance -15%; \"Internal Power Consumption\" -40%"
+        "Value": "\" <color=#5C9BE2FF> Anti-move </color> Power\" +20%; <color=#FF5E4EFF> \"Breakdown\" </color> Chance -15%; \"Internal Power Cost\" -40%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#5C9BE2FF> Anti-stance </color> Power\" +20%; <color=#FF5344FF> \"Injury\" </color> Chance -30%; \"Internal Power Consumption\" +100%"
+        "Value": "\" <color=#5C9BE2FF> Anti-stance </color> Power\" +20%; <color=#FF5344FF> \"Injury\" </color> Chance -30%; \"Internal Power Cost\" +100%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -10925,7 +10925,7 @@
         },
         {
           "Name": {
-            "Value": "40% reduction in internal power consumption of moves"
+            "Value": "40% reduction in internal power cost of moves"
           },
           "ValueOperator": {
             "ValueInfo": "Reduction into"
@@ -10956,7 +10956,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves plus 100%"
+            "Value": "Internal power cost of moves plus 100%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -10985,7 +10985,7 @@
         "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +10% to \"Power of Moves\"; <color=#FF5344FF> \"Injury\" </color> -10% chance"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +30% to \"Power of Stance\"; +80% to \"Internal Power Consumption"
+        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +30% to \"Power of Stance\"; +80% to \"Internal Power Cost"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -11043,7 +11043,7 @@
         },
         {
           "Name": {
-            "Value": "Internal power consumption of moves increased by 80%"
+            "Value": "Internal power cost of moves increased by 80%"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -11312,7 +11312,7 @@
         "Value": "+20 to \"Gods Come\"; +20% to \"Combo Power\"; <color=#00CAB0FF> \"Spot\" </color> +15% chance"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\"Combo Power\" +40%; \"Internal Power Consumption\" +120%"
+        "Value": "\"Combo Power\" +40%; \"Internal Power Cost\" +120%"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -11361,7 +11361,7 @@
         },
         {
           "Name": {
-            "Value": "120% increase in internal power consumption for moves"
+            "Value": "120% increase in internal power cost for moves"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
