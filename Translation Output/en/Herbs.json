@@ -2261,7 +2261,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "+1 to \"Governor's Vein\" (permanent increase after taking)"
+            "Value": "+1 to \"Du Chakra\" (permanent increase after taking)"
           },
           "TeSeLeiXing": {},
           "ValueOperator": {
@@ -2292,7 +2292,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "+1 to \"Governor's Vessel\" +1 to \"Ren's Vessel\" (permanent increase after taking)"
+            "Value": "+1 to \"Du Chakra\" +1 to \"Ren Chakra\" (permanent increase after taking)"
           },
           "TeSeLeiXing": {},
           "ValueOperator": {
@@ -2416,7 +2416,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "+2 for \"Governor's Vein\" (permanently increased after taking)"
+            "Value": "+2 for \"Du Chakra\" (permanently increased after taking)"
           },
           "TeSeLeiXing": {},
           "ValueOperator": {
@@ -3517,8 +3517,8 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Governor's Vein\" -10",
-            "ValueInfo": "\"Governor's Vein\" -10"
+            "Value": "\"Du Chakra\" -10",
+            "ValueInfo": "\"Du Chakra\" -10"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -3536,7 +3536,7 @@
     "StateDescription": {
       "Neg": [
         {
-          "Description": "\"Governor's Vein\" -10"
+          "Description": "\"Du Chakra\" -10"
         }
       ]
     }
@@ -3725,7 +3725,7 @@
     "StateDescription": {
       "Neg": [
         {
-          "Description": "\"Governor's Vein\" -20"
+          "Description": "\"Du Chakra\" -20"
         },
         {
           "Description": "\"Body\" -20"
@@ -3853,8 +3853,8 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Governor's Vein\"-60",
-            "ValueInfo": "\"Governor's Vein\"-60"
+            "Value": "\"Du Chakra\"-60",
+            "ValueInfo": "\"Du Chakra\"-60"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -3872,7 +3872,7 @@
     "StateDescription": {
       "Neg": [
         {
-          "Description": "\"Governor's Vein\"-60"
+          "Description": "\"Du Chakra\"-60"
         }
       ]
     }
@@ -4647,14 +4647,14 @@
     "BuyPrice": {},
     "SalePrice": {},
     "ItemDescription": {
-      "Value": "Miaojiang poison. The only surviving centipede will have condensed the rest of its soul, which will be dried and crushed into powder. The poisoned person will have a damaged Governor's vein and his Yang martial arts power will be greatly reduced."
+      "Value": "Miaojiang poison. The only surviving centipede will have condensed the rest of its soul, which will be dried and crushed into powder. The poisoned person will have a damaged Du Chakra and his Yang martial arts power will be greatly reduced."
     },
     "ItemTeSes": {
       "Values": [
         {
           "Name": {
-            "Value": "\"Governor's Vein\" -35",
-            "ValueInfo": "\"Governor's Vein\" -35"
+            "Value": "\"Du Chakra\" -35",
+            "ValueInfo": "\"Du Chakra\" -35"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -4672,7 +4672,7 @@
     "StateDescription": {
       "Neg": [
         {
-          "Description": "\"Governor's Vein\" -35"
+          "Description": "\"Du Chakra\" -35"
         }
       ]
     }
@@ -5015,7 +5015,7 @@
           "Description": "\"Ren Chakra\" +10"
         },
         {
-          "Description": "\"Governor's Vein\" -10"
+          "Description": "\"Du Chakra\" -10"
         },
         {
           "Description": "\"Air volume\" -10"
