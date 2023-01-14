@@ -290,17 +290,17 @@
           },
           {
             "InfoName": {
-              "ValueInfo": "Affects the internal energy consumption required for martial arts moves"
+              "ValueInfo": "Affects the internal energy cost required for martial arts moves"
             }
           },
           {
             "InfoName": {
-              "ValueInfo": "Affects the internal energy consumption required for internal power moves"
+              "ValueInfo": "Affects the internal energy cost required for internal power moves"
             }
           },
           {
             "InfoName": {
-              "ValueInfo": "Affects the internal energy consumption required for light kung fu moves"
+              "ValueInfo": "Affects the internal energy cost required for light kung fu moves"
             }
           },
           {
