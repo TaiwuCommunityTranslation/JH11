@@ -409,8 +409,8 @@
     "JiCaoWeiNum": {},
     "Conditions": [
       {
-        "LeftValueInfo": "\"Governor's Vessel\" above 25; \"Ren's Vessel\" above 25",
-        "RightValueInfo": "\"Governor's Vessel\" above 25; \"Ren's Vessel\" above 25"
+        "LeftValueInfo": "\"Du Chakra\" above 25; \"Ren Chakra\" above 25",
+        "RightValueInfo": "\"Du Chakra\" above 25; \"Ren Chakra\" above 25"
       },
       {}
     ],
@@ -17606,8 +17606,8 @@
     "JiCaoWeiNum": {},
     "Conditions": [
       {
-        "LeftValueInfo": "\"Governor's Vein\" above 40",
-        "RightValueInfo": "\"Governor's Vein\" above 40"
+        "LeftValueInfo": "\"Du Chakra\" above 40",
+        "RightValueInfo": "\"Du Chakra\" above 40"
       }
     ],
     "XinFaNoneYingXiang": {
@@ -36763,7 +36763,7 @@
       "ValueInfo": " <color=#23FF00FF> Top quality </color> "
     },
     "Description": {
-      "ValueInfo": "Jiang Hu superior yang gun style. The movements of the spear are strong and powerful, and the attack and defense are integrated."
+      "ValueInfo": "Jiang Hu superior yang spear style. The movements of the spear are strong and powerful, and the attack and defense are integrated."
     },
     "GongCaoWeiNum": {},
     "FangCaoWeiNum": {},
@@ -37062,7 +37062,7 @@
       "ValueInfo": " <color=#FF9A00FF> Jedi </color> "
     },
     "Description": {
-      "ValueInfo": "Jianghu absolute yang gun method, this gun method rigid and fierce exception, legendary for the western tribal god king created, but only at night, can play the real power of this martial art, the moves made as if the god of war possessed, invincible."
+      "ValueInfo": "Jianghu absolute yang spear method, this spear method rigid and fierce exception, legendary for the western tribal god king created, but only at night, can play the real power of this martial art, the moves made as if the god of war possessed, invincible."
     },
     "GongCaoWeiNum": {},
     "FangCaoWeiNum": {},
@@ -37518,7 +37518,7 @@
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#23FF00FF> Six-way door-breaker gun </color> "
+          "Value": " <color=#23FF00FF> Six-way door-breaker spear </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "First layer"
@@ -37543,7 +37543,7 @@
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#23FF00FF> Six-way door-breaker gun </color> "
+          "Value": " <color=#23FF00FF> Six-way door-breaker spear </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "First layer"
@@ -37571,7 +37571,7 @@
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#23FF00FF> Six-way door-breaker gun </color> "
+          "Value": " <color=#23FF00FF> Six-way door-breaker spear </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "First layer"
@@ -37627,7 +37627,7 @@
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#23FF00FF> Six-way door-breaker gun </color> "
+          "Value": " <color=#23FF00FF> Six-way door-breaker spear </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "First layer"
@@ -37683,7 +37683,7 @@
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#23FF00FF> Six-way door-breaker gun </color> "
+          "Value": " <color=#23FF00FF> Six-way door-breaker spear </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "Second layer"
@@ -37739,7 +37739,7 @@
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#23FF00FF> Six-way door-breaker gun </color> "
+          "Value": " <color=#23FF00FF> Six-way door-breaker spear </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "Second layer"
@@ -37788,7 +37788,7 @@
       }
     ],
     "Name": {
-      "ValueInfo": " <color=#23FF00FF> Six-way door-breaker gun </color> "
+      "ValueInfo": " <color=#23FF00FF> Six-way door-breaker spear </color> "
     }
   },
   {
@@ -37812,7 +37812,7 @@
       "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
     },
     "Description": {
-      "ValueInfo": "Jianghu subtle yang gun style, need to take the Zi Long gun skill as the foundation. This martial art is fierce and fierce, and there is no match for it. Legend has it that Chang Shan Zhao Zilong entered and left the Chang Ban slope seven times, relying on this spear technique."
+      "ValueInfo": "Jianghu subtle yang spear style, need to take the Zi Long spear skill as the foundation. This martial art is fierce and fierce, and there is no match for it. Legend has it that Chang Shan Zhao Zilong entered and left the Chang Ban slope seven times, relying on this spear technique."
     },
     "GongCaoWeiNum": {},
     "FangCaoWeiNum": {},
@@ -38190,15 +38190,15 @@
       "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
     },
     "Description": {
-      "ValueInfo": "Jianghu subtle spear technique, born from the six-way broken door gun. This martial art is flexible, swift as the wind, the moves conceal the mystery, ghosts and gods unpredictable. Fighting with people, often because of the tricky way to win."
+      "ValueInfo": "Jianghu subtle spear technique, born from the six-way broken door spear. This martial art is flexible, swift as the wind, the moves conceal the mystery, ghosts and gods unpredictable. Fighting with people, often because of the tricky way to win."
     },
     "GongCaoWeiNum": {},
     "FangCaoWeiNum": {},
     "JiCaoWeiNum": {},
     "Conditions": [
       {
-        "LeftValueInfo": "Acquire <color=#23FF00FF> six-way door-breaker gun </color> ",
-        "RightValueInfo": "Acquire <color=#23FF00FF> six-way door-breaker gun </color> "
+        "LeftValueInfo": "Acquire <color=#23FF00FF> six-way door-breaker spear </color> ",
+        "RightValueInfo": "Acquire <color=#23FF00FF> six-way door-breaker spear </color> "
       }
     ],
     "XinFaNoneYingXiang": {
@@ -38549,7 +38549,7 @@
       "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
     },
     "Description": {
-      "ValueInfo": "Jianghu subtle yang gun technique. Originally created by the King of Western Chu, and then passed down to this day. This martial art needs to be based on the close guard shot, and the gun power is as strong as ten thousand pounds, and when a move is made, it is like a tarzan pressing down on the top, and it is hard to escape and hard to defend."
+      "ValueInfo": "Jianghu subtle yang spear technique. Originally created by the King of Western Chu, and then passed down to this day. This martial art needs to be based on the close guard shot, and the spear power is as strong as ten thousand pounds, and when a move is made, it is like a tarzan pressing down on the top, and it is hard to escape and hard to defend."
     },
     "GongCaoWeiNum": {},
     "FangCaoWeiNum": {},
@@ -38781,7 +38781,7 @@
       "ValueInfo": " <color=#FF9A00FF> Jedi </color> "
     },
     "Description": {
-      "ValueInfo": "Jianghu absolute yang gun style. It is a powerful and powerful shot, which only advances but not retreats, with a killing intent, like a long burning red flame. It can only be used in conjunction with the King's Spear to maximize its power."
+      "ValueInfo": "Jianghu absolute yang spear style. It is a powerful and powerful shot, which only advances but not retreats, with a killing intent, like a long burning red flame. It can only be used in conjunction with the King's Spear to maximize its power."
     },
     "GongCaoWeiNum": {},
     "FangCaoWeiNum": {},
@@ -39172,7 +39172,7 @@
       "ValueInfo": " <color=#23FF00FF> Top quality </color> "
     },
     "Description": {
-      "ValueInfo": "Jianghu superior yang gun method, the smelting method is integrated into the stance, the practitioner needs to repeatedly practice the stance to achieve familiarity and skill, skillful and self-natured, as if the cast iron is hammered and accomplished."
+      "ValueInfo": "Jianghu superior yang spear method, the smelting method is integrated into the stance, the practitioner needs to repeatedly practice the stance to achieve familiarity and skill, skillful and self-natured, as if the cast iron is hammered and accomplished."
     },
     "GongCaoWeiNum": {},
     "FangCaoWeiNum": {},
@@ -62421,8 +62421,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Governor's Vein\" above 40",
-        "RightValueInfo": "\"Governor's Vein\" above 40"
+        "LeftValueInfo": "\"Du Chakra\" above 40",
+        "RightValueInfo": "\"Du Chakra\" above 40"
       }
     ],
     "ZhaoShis": [
@@ -63580,8 +63580,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Governor's Vein\" above 40",
-        "RightValueInfo": "\"Governor's Vein\" above 40"
+        "LeftValueInfo": "\"Du Chakra\" above 40",
+        "RightValueInfo": "\"Du Chakra\" above 40"
       }
     ],
     "ZhaoShis": [
@@ -66000,8 +66000,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Governor's Vessel\" above 55; \"Ren's Vessel\" above 75",
-        "RightValueInfo": "\"Governor's Vessel\" above 55; \"Ren's Vessel\" above 75"
+        "LeftValueInfo": "\"Du Chakra\" above 55; \"Ren Chakra\" above 75",
+        "RightValueInfo": "\"Du Chakra\" above 55; \"Ren Chakra\" above 75"
       },
       {}
     ],
@@ -67064,8 +67064,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Governor's Vein\" above 60",
-        "RightValueInfo": "\"Governor's Vein\" above 60"
+        "LeftValueInfo": "\"Du Chakra\" above 60",
+        "RightValueInfo": "\"Du Chakra\" above 60"
       }
     ],
     "ZhaoShis": [
@@ -69201,8 +69201,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Governor's Vein\" above 70",
-        "RightValueInfo": "\"Governor's Vein\" above 70"
+        "LeftValueInfo": "\"Du Chakra\" above 70",
+        "RightValueInfo": "\"Du Chakra\" above 70"
       }
     ],
     "ZhaoShis": [
@@ -69487,8 +69487,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Governor's Vein\" above 70",
-        "RightValueInfo": "\"Governor's Vein\" above 70"
+        "LeftValueInfo": "\"Du Chakra\" above 70",
+        "RightValueInfo": "\"Du Chakra\" above 70"
       }
     ],
     "ZhaoShis": [
@@ -69548,7 +69548,7 @@
       "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
     },
     "Description": {
-      "ValueInfo": "Jiang Hu's exquisite Yang internal martial arts. This technique can not only harmonize the internal breath and strengthen the body, but the secret method can also increase the attainment of the spear and stick. Once the heart method is carried out, the power of performing any gun and stick moves increases dramatically. Only to practice this internal martial art need to have a certain waist horse foundation and meridian strength."
+      "ValueInfo": "Jiang Hu's exquisite Yang internal martial arts. This technique can not only harmonize the internal breath and strengthen the body, but the secret method can also increase the attainment of the spear and stick. Once the heart method is carried out, the power of performing any spear and stick moves increases dramatically. Only to practice this internal martial art need to have a certain waist horse foundation and meridian strength."
     },
     "Conditions": [
       {
@@ -73401,7 +73401,7 @@
       "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
     },
     "Description": {
-      "ValueInfo": "Tianshu Pavilion exquisite light skill, good at gun law can only be learned, after practice can make the gun law power is superb, but also with the dodging and moving momentum, reduce the crisis of injury in combat."
+      "ValueInfo": "Tianshu Pavilion exquisite light skill, good at spear law can only be learned, after practice can make the spear law power is superb, but also with the dodging and moving momentum, reduce the crisis of injury in combat."
     },
     "Conditions": [
       {
