@@ -1,7 +1,7 @@
 [
   {
     "Name": "\"Lucky Star\" origin",
-    "Description1": "\"All Martial Arts\" +8",
+    "Description1": "\"All Martial Arts\" +5",
     "Description2": "Additional \"money\" added",
     "CangKu": {},
     "Text1": [
@@ -30,7 +30,7 @@
   },
   {
     "Name": "Origin of \"Chizen\"",
-    "Description1": "\"All Martial Arts\" +8",
+    "Description1": "\"All Martial Arts\" +5",
     "Description2": "Additional \"money\" added",
     "CangKu": {},
     "Text1": [
@@ -59,7 +59,7 @@
   },
   {
     "Name": "Origin of \"Jedi Gen\"",
-    "Description1": "\"All Martial Arts\" +8",
+    "Description1": "\"All Martial Arts\" +5",
     "Description2": "Additional \"money\" added",
     "CangKu": {},
     "Text1": [
@@ -108,7 +108,7 @@
   },
   {
     "Name": "Origin of \"Yotenkan\"",
-    "Description1": "\"Healing Art\" +15",
+    "Description1": "\"Healing Art\" +10",
     "Description2": "Additional \"medical books\" in the warehouse of the house <color=#23FF00FF> \"Hostel Prescriptions\" </color> ",
     "CangKu": {},
     "Text1": [
@@ -127,7 +127,7 @@
   },
   {
     "Name": "\"Origin of \"Black Cave",
-    "Description1": "\"Poison\" +15",
+    "Description1": "\"Poison\" +10",
     "Description2": "Adding \"Poison Sutra\" to the storage room of the house <color=#FF00B6FF> \"The Book of Qiu Shi\" </color> ",
     "CangKu": {},
     "Text1": [
@@ -413,7 +413,7 @@
   },
   {
     "Name": "\"Fuyun\" origin",
-    "Description1": "\"Gods Come\" +15",
+    "Description1": "\"Gods Come\" +20",
     "Description2": "Additional \"money\" added",
     "CangKu": {},
     "Text1": [
@@ -432,7 +432,7 @@
   },
   {
     "Name": "\"Dingfeng\" origin",
-    "Description1": "\"Concentration\" +15",
+    "Description1": "\"Concentration\" +10",
     "Description2": "Additional \"money\" added",
     "CangKu": {},
     "Text1": [
@@ -451,7 +451,7 @@
   },
   {
     "Name": "\"Open Bow\" origin",
-    "Description1": "\"Will\" +15",
+    "Description1": "\"Will\" +10",
     "Description2": "Additional \"money\" added",
     "CangKu": {},
     "Text1": [
@@ -470,7 +470,7 @@
   },
   {
     "Name": "\"Origin of \"Thousand Junes",
-    "Description1": "\"Decisions\" +15",
+    "Description1": "\"Decisions\" +10",
     "Description2": "Additional \"money\" added",
     "CangKu": {},
     "Text1": [
@@ -509,7 +509,7 @@
   },
   {
     "Name": "\"Founder\" origin",
-    "Description1": "\"Finger Power\" +15",
+    "Description1": "\"Finger Power\" +10",
     "Description2": "Adding \"Internal Energy Secrets\" to the warehouse of your house <color=#23FF00FF> Mo Yang Qi Method </color> ",
     "CangKu": {},
     "Text1": [
@@ -528,7 +528,7 @@
   },
   {
     "Name": "\"Origin of \"Knife Gate",
-    "Description1": "\"+15 to \"Use the sword",
+    "Description1": "\"+10 for \"Knife Making",
     "Description2": "Adding \"Internal Arts Secrets\" to the Warehouse <color=#23FF00FF> </color> \"Weapons\" <color=#23FF00FF> </color> ",
     "CangKu": {},
     "Text1": [
@@ -547,7 +547,7 @@
   },
   {
     "Name": "Origin of \"Stick Sect\"",
-    "Description1": "\"Baton Juggling\" +15",
+    "Description1": "\"Baton Juggling\" +10",
     "Description2": "Adding \"Internal Kung Fu Secrets\" to the Warehouse <color=#23FF00FF> Qingdi Internal Kung Fu </color> \"Weapons\" <color=#23FF00FF> Bronze Baton </color> ",
     "CangKu": {},
     "Text1": [
@@ -566,7 +566,7 @@
   },
   {
     "Name": "\"Origin of \"Gun Court",
-    "Description1": "\"Gun\" +15",
+    "Description1": "\"Gun\" +10",
     "Description2": "Adding \"Martial Arts Secrets\" to the Warehouse <color=#23FF00FF> Kunwu Gun Technique </color> \"Weapons\" <color=#23FF00FF> Suki Gun </color> ",
     "CangKu": {},
     "Text1": [
@@ -585,7 +585,7 @@
   },
   {
     "Name": "\"Origin of the \"Axe Walled City",
-    "Description1": "\"Axe of Fortune\" +15",
+    "Description1": "\"Luck Axe\" +10",
     "Description2": "Add \"Martial Arts Secrets\" to your house warehouse <color=#23FF00FF> General Axe Method </color> \"Weapons\" <color=#23FF00FF> Plate Axe </color> ",
     "CangKu": {},
     "Text1": [
@@ -604,7 +604,7 @@
   },
   {
     "Name": "\"Origin of \"Whip House",
-    "Description1": "\"Whip Art\" +15",
+    "Description1": "\"Whip Art\" +10",
     "Description2": "Adding \"Martial Arts Secrets\" to the Warehouse of the Residence <color=#23FF00FF> Swept Xia Whip Method </color> \"Weapons\" <color=#23FF00FF> Liu Huang Whip </color> ",
     "CangKu": {},
     "Text1": [
@@ -623,7 +623,7 @@
   },
   {
     "Name": "\"Hook and horn\" origin",
-    "Description1": "\"Hooking\" +15",
+    "Description1": "\"Hooking\" +10",
     "Description2": "Add \"Martial Arts Secrets\" to the Warehouse <color=#23FF00FF> Small Purple Cloud Hook </color> \"Weapons\" <color=#23FF00FF> Iron Hook </color> ",
     "CangKu": {},
     "Text1": [
@@ -642,7 +642,7 @@
   },
   {
     "Name": "\"Hidden\" origin",
-    "Description1": "\"Concealed Weapon\" +15",
+    "Description1": "\"Concealed Weapon\" +10",
     "Description2": "Adding \"Internal Kung Fu Secrets\" to the Warehouse <color=#23FF00FF> Remnants of Qi Method </color> \"Weapons\" <color=#23FF00FF> Silver Dart </color> ",
     "CangKu": {},
     "Text1": [
@@ -661,7 +661,7 @@
   },
   {
     "Name": "\"Origin of \"Pen Shrine",
-    "Description1": "\"Penmanship\" +15",
+    "Description1": "\"Strokes\" +10",
     "Description2": "Add \"Secret of Internal Power\" to your house warehouse <color=#23FF00FF> Golden Word Heart Sutra </color> \"Weapons\" <color=#23FF00FF> Silver Hook Pen </color> ",
     "CangKu": {},
     "Text1": [
@@ -680,7 +680,7 @@
   },
   {
     "Name": "\"Origin of \"Kendai",
-    "Description1": "\"Sword\" +10",
+    "Description1": "\"Sword\" +6",
     "Description2": "Add \"Martial Arts Secrets\" to your house warehouse <color=#23FF00FF> Two Yi Sword Technique </color> ",
     "CangKu": {},
     "Text1": [
@@ -699,7 +699,7 @@
   },
   {
     "Name": "\"Origin of \"Fist House",
-    "Description1": "\"Fist and Palm\" +10",
+    "Description1": "\"Fist and Palm\" +6",
     "Description2": "Add \"Martial Arts Secrets\" to your house warehouse <color=#23FF00FF> Qiantian Palm </color> ",
     "CangKu": {},
     "Text1": [
