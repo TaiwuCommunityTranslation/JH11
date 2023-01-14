@@ -2917,7 +2917,7 @@
         "Value": "\" <color=#E24344FF> Attack </color> Power\" +30%; <color=#FF7E2EFF> \"Breakdown\" </color> Chance +20%; restrains \"empty hand\" martial arts"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#5C9BE2FF> Anti-Movement </color> +30% to \"Power\"; <color=#FFDDBDFF> \"Defeat against\" </color> -20% to \"Weapon\" martial arts"
+        "Value": "\" <color=#5C9BE2FF> Parry </color> +30% to \"Power\"; <color=#FFDDBDFF> \"Defeat against\" </color> -20% to \"Weapon\" martial arts"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -6118,7 +6118,7 @@
         "Value": "\" <color=#E24344FF> Attack </color> Power\" +30%; <color=#FF7E2EFF> \"Breakdown\" </color> Chance +20%; restrains \"empty hand\" martial arts"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#5C9BE2FF> Anti-Movement </color> +30% to \"Power\"; <color=#FFDDBDFF> \"Defeat against\" </color> -20% to \"Weapon\" martial arts"
+        "Value": "\" <color=#5C9BE2FF> Parry </color> +30% to \"Power\"; <color=#FFDDBDFF> \"Defeat against\" </color> -20% to \"Weapon\" martial arts"
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
@@ -10757,10 +10757,10 @@
         "Value": "With \"Inner Kung Fu\" <color=#FFFFFFFF> \"Hu Family Inner Kung Fu\" </color> Stance \"Chopping Wood and Splitting Wood"
       },
       "FangZhiQiHeIndi": {
-        "Value": "\" <color=#5C9BE2FF> Anti-Movement </color> Power\" +15%; <color=#FF5E4EFF> \"Breakdown\" </color> Chance -10%."
+        "Value": "\" <color=#5C9BE2FF> Parry </color> Power\" +15%; <color=#FF5E4EFF> \"Breakdown\" </color> Chance -10%."
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#5C9BE2FF> Anti-Movement </color> Power\" +30%; <color=#FF5E4EFF> \"Breakdown\" </color> Chance +20%."
+        "Value": "\" <color=#5C9BE2FF> Parry </color> Power\" +30%; <color=#FF5E4EFF> \"Breakdown\" </color> Chance +20%."
       },
       "FangZhiWeiQiHeIndiWarn": {},
       "FangZhiWuQiHeIndi": {}
