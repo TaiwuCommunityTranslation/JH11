@@ -1743,7 +1743,7 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "+1 for \"Guns\""
+        "Description": "+1 for \"Spears\""
       }
     ],
     "Teses_ZhanDou": {
@@ -1760,7 +1760,7 @@
         }
       ]
     },
-    "Teses_ShuXing_ValueInfo": "+1 for \"Gun\"",
+    "Teses_ShuXing_ValueInfo": "+1 for \"Spear\"",
     "Teses_ZhanDou_ValueInfo": "15% increase in \"Attack Power\"."
   },
   {
@@ -1771,11 +1771,11 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"Gun\" +2"
+        "Description": "\"Spear\" +2"
       }
     ],
     "Teses_ZhanDou": {},
-    "Teses_ShuXing_ValueInfo": "\"Gun\" +2",
+    "Teses_ShuXing_ValueInfo": "\"Spear\" +2",
     "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
@@ -1786,7 +1786,7 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "+1 for \"Gun\""
+        "Description": "+1 for \"Spear\""
       }
     ],
     "Teses_ZhanDou": {
@@ -1803,7 +1803,7 @@
         }
       ]
     },
-    "Teses_ShuXing_ValueInfo": "+1 for \"Gun\"",
+    "Teses_ShuXing_ValueInfo": "+1 for \"Spear\"",
     "Teses_ZhanDou_ValueInfo": "10% increase in the chance of \"killing\" the opponent"
   },
   {
@@ -1847,7 +1847,7 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"Gun\" +2"
+        "Description": "\"Spear\" +2"
       }
     ],
     "Teses_ZhanDou": {
@@ -1864,7 +1864,7 @@
         }
       ]
     },
-    "Teses_ShuXing_ValueInfo": "\"Gun\" +2",
+    "Teses_ShuXing_ValueInfo": "\"Spear\" +2",
     "Teses_ZhanDou_ValueInfo": "30% increase in \"attack power\""
   },
   {
@@ -1875,7 +1875,7 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"Gun\" +2"
+        "Description": "\"Spear\" +2"
       },
       {
         "Description": "\"Will\" +2"
@@ -1885,7 +1885,7 @@
       }
     ],
     "Teses_ZhanDou": {},
-    "Teses_ShuXing_ValueInfo": "\"+2 to \"Use Gun\", +2 to \"Will\", +2 to \"Determination",
+    "Teses_ShuXing_ValueInfo": "\"+2 to \"Use Spear\", +2 to \"Will\", +2 to \"Determination",
     "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
@@ -1896,11 +1896,11 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"Gun\" +9"
+        "Description": "\"Spear\" +9"
       }
     ],
     "Teses_ZhanDou": {},
-    "Teses_ShuXing_ValueInfo": "\"Gun\" +9",
+    "Teses_ShuXing_ValueInfo": "\"Spear\" +9",
     "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
