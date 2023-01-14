@@ -10040,8 +10040,8 @@
       },
       "FangCaoWeiNum": {
         "Name": {
-          "cn": "Number of anti-movement slots",
-          "info": "--- Number of slots for anti-movement ---"
+          "cn": "Number of parry slots",
+          "info": "--- Number of slots for parry ---"
         }
       },
       "WGShuLianDengJi": {
