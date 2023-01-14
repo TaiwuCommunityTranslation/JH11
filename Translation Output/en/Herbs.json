@@ -2162,13 +2162,13 @@
     "BuyPrice": {},
     "SalePrice": {},
     "ItemDescription": {
-      "Value": "The Shen Nong Ben Cao Jing contains: \"the land of cold snow, spring and summer does not disperse, there are grasses between the snow, similar to lotus flowers alone stem, Ting Ting snow between, its rhizome has a cold dispersal and dehumidification, strengthen the tendons and activate the blood of the wonders. \"After consumption can significantly increase the amount of Qi."
+      "Value": "The Shen Nong Ben Cao Jing contains: \"the land of cold snow, spring and summer does not disperse, there are grasses between the snow, similar to lotus flowers alone stem, Ting Ting snow between, its rhizome has a cold dispersal and dehumidification, strengthen the tendons and activate the blood of the wonders. \"After cost can significantly increase the amount of Qi."
     },
     "ItemTeSes": {
       "Values": [
         {
           "Name": {
-            "Value": "\"Qi\" +3 (permanently increased after consumption)"
+            "Value": "\"Qi\" +3 (permanently increased after cost)"
           },
           "TeSeLeiXing": {},
           "ValueOperator": {
@@ -2193,13 +2193,13 @@
     "BuyPrice": {},
     "SalePrice": {},
     "ItemDescription": {
-      "Value": "Nine-Yang Ambergris Pill is a pure Yang thing, and the amount of Qi increases greatly after consumption. The ambergris used in the Nine-Yang Ambergris Pill is of the highest quality and is white in color. After a long period of sun and weathering, it has completely lost its initial fecal odor, but emits a woody, tobacco-like sweetness."
+      "Value": "Nine-Yang Ambergris Pill is a pure Yang thing, and the amount of Qi increases greatly after cost. The ambergris used in the Nine-Yang Ambergris Pill is of the highest quality and is white in color. After a long period of sun and weathering, it has completely lost its initial fecal odor, but emits a woody, tobacco-like sweetness."
     },
     "ItemTeSes": {
       "Values": [
         {
           "Name": {
-            "Value": "+1 \"Qi\" (permanently increased after consumption)"
+            "Value": "+1 \"Qi\" (permanently increased after cost)"
           },
           "TeSeLeiXing": {},
           "ValueOperator": {
@@ -2354,7 +2354,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Qi\" +2 (permanently increased after consumption)"
+            "Value": "\"Qi\" +2 (permanently increased after cost)"
           },
           "TeSeLeiXing": {},
           "ValueOperator": {
@@ -3312,7 +3312,7 @@
     "BuyPrice": {},
     "SalePrice": {},
     "ItemDescription": {
-      "Value": "Gehua Xiejie Tang is used to remove dampness, warm the middle of the body and harmonize the stomach. Treating excessive alcohol consumption and dampness injury to the spleen and stomach."
+      "Value": "Gehua Xiejie Tang is used to remove dampness, warm the middle of the body and harmonize the stomach. Treating excessive alcohol cost and dampness injury to the spleen and stomach."
     },
     "ItemTeSes": {
       "Values": [
