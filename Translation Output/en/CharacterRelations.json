@@ -2,1204 +2,766 @@
   {
     "Relations": [
       {
-        "CharacterName": "Wen Fenglin",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Wen Fenglin"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Player",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Player"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Xiahou Fujia",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Xiahou Fujia"
       },
       {
-        "CharacterName": "Ouyang Xiu",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Ouyang Xiu"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Xiangxiang Zhao",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Xiangxiang Zhao"
       },
       {
-        "CharacterName": "Zhang Hou",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Zhang Hou"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Tianlong Jade",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Tianlong Jade"
       },
       {
-        "CharacterName": "Wu Yanshu",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Wu Yanshu"
       },
       {
-        "CharacterName": "Qin Mosheng",
-        "RelationTypes": [
-          1
-        ]
+        "CharacterName": "Qin Mosheng"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "fixed consciousness",
-        "RelationTypes": [
-          1
-        ]
+        "CharacterName": "fixed consciousness"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Di Meng",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Di Meng"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Liu Huangan",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Liu Huangan"
       },
       {
-        "CharacterName": "Jane Xue",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Jane Xue"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Sword without Immortality",
-        "RelationTypes": [
-          0
-        ]
+        "CharacterName": "Sword without Immortality"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Ye Yingche",
-        "RelationTypes": [
-          1
-        ]
+        "CharacterName": "Ye Yingche"
       },
       {
-        "CharacterName": "Xu Changyu",
-        "RelationTypes": [
-          1
-        ]
+        "CharacterName": "Xu Changyu"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Diwenxuan",
-        "RelationTypes": [
-          7
-        ]
+        "CharacterName": "Diwenxuan"
       },
       {
-        "CharacterName": "Diwuhan",
-        "RelationTypes": [
-          7
-        ]
+        "CharacterName": "Diwuhan"
       },
       {
-        "CharacterName": "Szeged",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Si Fang"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Mrs. Hua Rui",
-        "RelationTypes": [
-          1
-        ]
+        "CharacterName": "Mrs. Hua Rui"
       },
       {
-        "CharacterName": "Xiangxiang Zhao",
-        "RelationTypes": [
-          1
-        ]
+        "CharacterName": "Xiangxiang Zhao"
       },
       {
-        "CharacterName": "Wang Anshi",
-        "RelationTypes": [
-          1
-        ]
+        "CharacterName": "Wang Anshi"
       },
       {
-        "CharacterName": "Sima Guang",
-        "RelationTypes": [
-          1
-        ]
+        "CharacterName": "Sima Guang"
       },
       {
-        "CharacterName": "Shakura",
-        "RelationTypes": [
-          1
-        ]
+        "CharacterName": "Shakura"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Di Yang Tian",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Di Yang Tian"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Meng Wanxian",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Meng Wanxian"
       },
       {
-        "CharacterName": "Liu Shan",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Liu Shan"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Xu 17",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Xu 17"
       },
       {
-        "CharacterName": "Huang Fei Bai",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Huang Fei Bai"
       },
       {
-        "CharacterName": "Liu Huangan",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Liu Huangan"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Quanxinuo",
-        "RelationTypes": [
-          1
-        ]
+        "CharacterName": "Quanxinuo"
       },
       {
-        "CharacterName": "Di Yang Tian",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Di Yang Tian"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Cai Cheng'an",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Cai Cheng'an"
       },
       {
-        "CharacterName": "Lee's good offices",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Lee's good offices"
       },
       {
-        "CharacterName": "Qiu Xingqiu",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Qiu Xingqiu"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Liu Zhengfeng",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Liu Zhengfeng"
       },
       {
-        "CharacterName": "Qian Yuanwu",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Qian Yuanwu"
       },
       {
-        "CharacterName": "Wu Yanshu",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Wu Yanshu"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Tianmen Zheng",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Tianmen Zheng"
       },
       {
-        "CharacterName": "Lin Bai Xiong",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Lin Bai Xiong"
       },
       {
-        "CharacterName": "Meng Wanxian",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Meng Wanxian"
       },
       {
-        "CharacterName": "Huang Fei Bai",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Huang Fei Bai"
       },
       {
-        "CharacterName": "Su Shi",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Su Shi"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Lin Wenyue",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Lin Wenyue"
       },
       {
-        "CharacterName": "Hong Zhong",
-        "RelationTypes": [
-          0
-        ]
+        "CharacterName": "Hong Zhong"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Liu Huangan",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Liu Huangan"
       },
       {
-        "CharacterName": "Zhuge Li",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Zhuge Li"
       },
       {
-        "CharacterName": "Chao Gai",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Chao Gai"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Tianmen Zheng",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Tianmen Zheng"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Leng Yang Yue",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Leng Yang Yue"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Bai Dehai",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Bai Dehai"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Nangong Ning",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Nangong Ning"
       },
       {
-        "CharacterName": "Nangong Ning",
-        "RelationTypes": [
-          1
-        ]
+        "CharacterName": "Nangong Ning"
       },
       {
-        "CharacterName": "Pei Ying",
-        "RelationTypes": [
-          1
-        ]
+        "CharacterName": "Pei Ying"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Fan Zhongyan",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Fan Zhongyan"
       },
       {
-        "CharacterName": "Zhang Hou",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Zhang Hou"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Book Holders",
-        "RelationTypes": [
-          0
-        ]
+        "CharacterName": "Book Holders"
       },
       {
-        "CharacterName": "No Name",
-        "RelationTypes": [
-          1
-        ]
+        "CharacterName": "No Name"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Diwuhan",
-        "RelationTypes": [
-          7
-        ]
+        "CharacterName": "Diwuhan"
       },
       {
-        "CharacterName": "Di Yang Tian",
-        "RelationTypes": [
-          7
-        ]
+        "CharacterName": "Di Yang Tian"
       },
       {
-        "CharacterName": "Liu Yong",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Liu Yong"
       },
       {
-        "CharacterName": "Li Niannu",
-        "RelationTypes": [
-          5
-        ]
+        "CharacterName": "Li Niannu"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Diwenxuan",
-        "RelationTypes": [
-          7
-        ]
+        "CharacterName": "Diwenxuan"
       },
       {
-        "CharacterName": "Di Yang Tian",
-        "RelationTypes": [
-          7
-        ]
+        "CharacterName": "Di Yang Tian"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Yan Mu Yi",
-        "RelationTypes": [
-          1
-        ]
+        "CharacterName": "Yan Mu Yi"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Mrs. Jaguar",
-        "RelationTypes": [
-          0
-        ]
+        "CharacterName": "Mrs. Jaguar"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Zhang Sanfeng",
-        "RelationTypes": [
-          0
-        ]
+        "CharacterName": "Zhang Sanfeng"
       },
       {
-        "CharacterName": "Qin Mosheng",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Qin Mosheng"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Leng Yang Yue",
-        "RelationTypes": [
-          0
-        ]
+        "CharacterName": "Leng Yang Yue"
       },
       {
-        "CharacterName": "Ye Yingche",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Ye Yingche"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Di Yang Tian",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Di Yang Tian"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Diwuhan",
-        "RelationTypes": [
-          1
-        ]
+        "CharacterName": "Diwuhan"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Hong Xian Ling",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Hong Xian Ling"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Shakura",
-        "RelationTypes": [
-          0
-        ]
+        "CharacterName": "Shakura"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Master Yongming",
-        "RelationTypes": [
-          0
-        ]
+        "CharacterName": "Master Yongming"
       },
       {
-        "CharacterName": "Di Yang Tian",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Di Yang Tian"
       },
       {
-        "CharacterName": "Driver's Release",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Si Fang"
       },
       {
-        "CharacterName": "Shangguan Zheng",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Shangguan Zheng"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Zhang Sanfeng",
-        "RelationTypes": [
-          0
-        ]
+        "CharacterName": "Zhang Sanfeng"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Mrs. Hua Rui",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Mrs. Hua Rui"
       },
       {
-        "CharacterName": "Xiahou Fujia",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Xiahou Fujia"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Lin Wenyue",
-        "RelationTypes": [
-          1
-        ]
+        "CharacterName": "Lin Wenyue"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Hongyu Liang",
-        "RelationTypes": [
-          1
-        ]
+        "CharacterName": "Hongyu Liang"
       },
       {
-        "CharacterName": "Wu Yanshu",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Wu Yanshu"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Pei Ying",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Pei Ying"
       },
       {
-        "CharacterName": "Yan Mu Yi",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Yan Mu Yi"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Anna Qin",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Anna Qin"
       },
       {
-        "CharacterName": "Hong Xian Ling",
-        "RelationTypes": [
-          0
-        ]
+        "CharacterName": "Hong Xian Ling"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Ling Tian Clan",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Ling Tian Clan"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Wu Yanshu",
-        "RelationTypes": [
-          0
-        ]
+        "CharacterName": "Wu Yanshu"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Yeluguozong",
-        "RelationTypes": [
-          1
-        ]
+        "CharacterName": "Yeluguozong"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Book Holders",
-        "RelationTypes": [
-          0
-        ]
+        "CharacterName": "Book Holders"
       },
       {
-        "CharacterName": "meditative",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "meditative"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Diwenxuan",
-        "RelationTypes": [
-          5
-        ]
+        "CharacterName": "Diwenxuan"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Wu Yanshu",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Wu Yanshu"
       },
       {
-        "CharacterName": "Cang Hongsheng",
-        "RelationTypes": [
-          0
-        ]
+        "CharacterName": "Cang Hongsheng"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Su Shi",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Su Shi"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Book Holders",
-        "RelationTypes": [
-          0
-        ]
+        "CharacterName": "Book Holders"
       },
       {
-        "CharacterName": "Dragon Breaks the Sky",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Dragon Breaks the Sky"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Rui Yan",
-        "RelationTypes": [
-          5
-        ]
+        "CharacterName": "Rui Yan"
       },
       {
-        "CharacterName": "Diwenxuan",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Diwenxuan"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Liu Yong",
-        "RelationTypes": [
-          5
-        ]
+        "CharacterName": "Liu Yong"
       },
       {
-        "CharacterName": "Li Shi Shi",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Li Shi Shi"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Rui Yan",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Rui Yan"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Wang Chongyang",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Wang Chongyang"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Wang Chaoyun",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Wang Chaoyun"
       },
       {
-        "CharacterName": "Liu Huangan",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Liu Huangan"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Cao Lang",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Cao Lang"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Book Holders",
-        "RelationTypes": [
-          0
-        ]
+        "CharacterName": "Book Holders"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Book Holders",
-        "RelationTypes": [
-          0
-        ]
+        "CharacterName": "Book Holders"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Lin Bai Xiong",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Lin Bai Xiong"
       },
       {
-        "CharacterName": "Lee's good offices",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Lee's good offices"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Zhang Hou",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Zhang Hou"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Xu 17",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Xu 17"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Dragon Breaks the Sky",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Dragon Breaks the Sky"
       },
       {
-        "CharacterName": "Cao Lang",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Cao Lang"
       },
       {
-        "CharacterName": "Yifang Miao",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Yifang Miao"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Munin",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Munin"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Di Baibe",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Di Baibe"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Leng Yang Yue",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Leng Yang Yue"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Wang Chongyang",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Wang Chongyang"
       },
       {
-        "CharacterName": "meditative",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "meditative"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Wang Zong",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Wang Zong"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Meng Wanxian",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Meng Wanxian"
       },
       {
-        "CharacterName": "Liu Huangan",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Liu Huangan"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Shangguan Zheng",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Shangguan Zheng"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Di Baibe",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Di Baibe"
       },
       {
-        "CharacterName": "Leng Yang Yue",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Leng Yang Yue"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Lin Bai Xiong",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Lin Bai Xiong"
       },
       {
-        "CharacterName": "Tianmen Zheng",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Tianmen Zheng"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Wu Youzi",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Wu Youzi"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Mrs. Xuan An",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Mrs. Xuan An"
       },
       {
-        "CharacterName": "Liu Zhengfeng",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Liu Zhengfeng"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Di Yang Tian",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Di Yang Tian"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Book Holders",
-        "RelationTypes": [
-          0
-        ]
+        "CharacterName": "Book Holders"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Jane Xue",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Jane Xue"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "meditative",
-        "RelationTypes": [
-          0
-        ]
+        "CharacterName": "meditative"
       },
       {
-        "CharacterName": "kindness",
-        "RelationTypes": [
-          0
-        ]
+        "CharacterName": "kindness"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Wu Youzi",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Wu Youzi"
       },
       {
-        "CharacterName": "Zhang Hou",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Zhang Hou"
       },
       {
-        "CharacterName": "Anna Qin",
-        "RelationTypes": [
-          5
-        ]
+        "CharacterName": "Anna Qin"
       },
       {
-        "CharacterName": "Xu Yingyao",
-        "RelationTypes": [
-          5
-        ]
+        "CharacterName": "Xu Yingyao"
       },
       {
-        "CharacterName": "Di Baibe",
-        "RelationTypes": [
-          3
-        ]
+        "CharacterName": "Di Baibe"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "meditative",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "meditative"
       },
       {
-        "CharacterName": "Master Qu Yong",
-        "RelationTypes": [
-          1
-        ]
+        "CharacterName": "Master Qu Yong"
       }
     ]
   },
   {
     "Relations": [
       {
-        "CharacterName": "Cang Hongsheng",
-        "RelationTypes": [
-          4
-        ]
+        "CharacterName": "Cang Hongsheng"
       }
     ]
   }
