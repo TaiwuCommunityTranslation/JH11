@@ -24472,7 +24472,7 @@
       },
       {
         "Name": {
-          "Value": "Broken Gun Type"
+          "Value": "Broken Spear Type"
         },
         "Effects": [
           {},
@@ -24507,7 +24507,7 @@
             "Values": [
               {
                 "TeSeLeiXing": {
-                  "ValueInfo": " <color=#FFDDBDFF> \"Gunnery Restraint\" </color> "
+                  "ValueInfo": " <color=#FFDDBDFF> \"Spearnery Restraint\" </color> "
                 },
                 "TeSeLeiDes": {
                   "Value": "Opponent <color=#00CAB0FF> \"Power of Marksmanship Stance\" </color> -60%"
@@ -24528,7 +24528,7 @@
           "Values": [
             {
               "TeSeLeiXing": {
-                "ValueInfo": " <color=#FFDDBDFF> \"Gunnery Restraint\" </color> "
+                "ValueInfo": " <color=#FFDDBDFF> \"Spearnery Restraint\" </color> "
               },
               "TeSeLeiDes": {
                 "Value": "Opponent <color=#00CAB0FF> \"Power of Marksmanship Stance\" </color> -60%"
@@ -36754,7 +36754,7 @@
       "ValueInfo": "Marksmanship"
     },
     "WuQiType": {
-      "ValueInfo": "Gun"
+      "ValueInfo": "Spear"
     },
     "WuGongTaoLuName": {
       "Value": "Marksmanship Routines"
@@ -36800,7 +36800,7 @@
     "BasicZhaoShis": [
       {
         "Name": {
-          "Value": "Gun Spike Assault"
+          "Value": "Spear Spike Assault"
         },
         "Effects": [
           {}
@@ -36908,7 +36908,7 @@
       },
       {
         "Name": {
-          "Value": "Gun Forest Protects the King"
+          "Value": "Spear Forest Protects the King"
         },
         "Effects": [
           {},
@@ -37053,7 +37053,7 @@
       "ValueInfo": "Marksmanship"
     },
     "WuQiType": {
-      "ValueInfo": "Gun"
+      "ValueInfo": "Spear"
     },
     "WuGongTaoLuName": {
       "Value": "Marksmanship Routines"
@@ -37100,7 +37100,7 @@
     "BasicZhaoShis": [
       {
         "Name": {
-          "Value": "Gun Spike Assault"
+          "Value": "Spear Spike Assault"
         },
         "Effects": [
           {}
@@ -37466,7 +37466,7 @@
       "ValueInfo": "Marksmanship"
     },
     "WuQiType": {
-      "ValueInfo": "Gun"
+      "ValueInfo": "Spear"
     },
     "WuGongTaoLuName": {
       "Value": "Marksmanship Routines"
@@ -37512,7 +37512,7 @@
     "BasicZhaoShis": [
       {
         "Name": {
-          "Value": "Gun Spike Assault"
+          "Value": "Spear Spike Assault"
         },
         "Effects": [
           {}
@@ -37803,7 +37803,7 @@
       "ValueInfo": "Marksmanship"
     },
     "WuQiType": {
-      "ValueInfo": "Gun"
+      "ValueInfo": "Spear"
     },
     "WuGongTaoLuName": {
       "Value": "Marksmanship Routines"
@@ -37819,8 +37819,8 @@
     "JiCaoWeiNum": {},
     "Conditions": [
       {
-        "LeftValueInfo": "Acquire <color=#FF00B6FF> Zi Long Gun Skill </color> ",
-        "RightValueInfo": "Acquire <color=#FF00B6FF> Zi Long Gun Skill </color> "
+        "LeftValueInfo": "Acquire <color=#FF00B6FF> Zi Long Spear Skill </color> ",
+        "RightValueInfo": "Acquire <color=#FF00B6FF> Zi Long Spear Skill </color> "
       }
     ],
     "XinFaNoneYingXiang": {
@@ -37849,7 +37849,7 @@
     "BasicZhaoShis": [
       {
         "Name": {
-          "Value": "Gun Spike Assault"
+          "Value": "Spear Spike Assault"
         },
         "Effects": [
           {}
@@ -37901,7 +37901,7 @@
     "ZhaoShis": [
       {
         "Name": {
-          "Value": "Silver Gun Breaker"
+          "Value": "Silver Spear Breaker"
         },
         "Effects": [
           {},
@@ -38181,7 +38181,7 @@
       "ValueInfo": "Marksmanship"
     },
     "WuQiType": {
-      "ValueInfo": "Gun"
+      "ValueInfo": "Spear"
     },
     "WuGongTaoLuName": {
       "Value": "Marksmanship Routines"
@@ -38227,13 +38227,13 @@
     "BasicZhaoShis": [
       {
         "Name": {
-          "Value": "Gun Spike Assault"
+          "Value": "Spear Spike Assault"
         },
         "Effects": [
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#FF00B6FF> Underwind Gun Skill </color> "
+          "Value": " <color=#FF00B6FF> Underwind Spear Skill </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "First layer"
@@ -38258,7 +38258,7 @@
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#FF00B6FF> Underwind Gun Skill </color> "
+          "Value": " <color=#FF00B6FF> Underwind Spear Skill </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "First layer"
@@ -38286,7 +38286,7 @@
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#FF00B6FF> Underwind Gun Skill </color> "
+          "Value": " <color=#FF00B6FF> Underwind Spear Skill </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "First layer"
@@ -38349,7 +38349,7 @@
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#FF00B6FF> Underwind Gun Skill </color> "
+          "Value": " <color=#FF00B6FF> Underwind Spear Skill </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "First layer"
@@ -38405,7 +38405,7 @@
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#FF00B6FF> Underwind Gun Skill </color> "
+          "Value": " <color=#FF00B6FF> Underwind Spear Skill </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "Second layer"
@@ -38468,7 +38468,7 @@
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#FF00B6FF> Underwind Gun Skill </color> "
+          "Value": " <color=#FF00B6FF> Underwind Spear Skill </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "Second layer"
@@ -38525,7 +38525,7 @@
       }
     ],
     "Name": {
-      "ValueInfo": " <color=#FF00B6FF> Underwind Gun Skill </color> "
+      "ValueInfo": " <color=#FF00B6FF> Underwind Spear Skill </color> "
     }
   },
   {
@@ -38540,7 +38540,7 @@
       "ValueInfo": "Marksmanship"
     },
     "WuQiType": {
-      "ValueInfo": "Gun"
+      "ValueInfo": "Spear"
     },
     "WuGongTaoLuName": {
       "Value": "Marksmanship Routines"
@@ -38586,13 +38586,13 @@
     "BasicZhaoShis": [
       {
         "Name": {
-          "Value": "Gun Spike Assault"
+          "Value": "Spear Spike Assault"
         },
         "Effects": [
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#FF00B6FF> Overlord Gun </color> "
+          "Value": " <color=#FF00B6FF> Overlord Spear </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "First layer"
@@ -38617,7 +38617,7 @@
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#FF00B6FF> Overlord Gun </color> "
+          "Value": " <color=#FF00B6FF> Overlord Spear </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "First layer"
@@ -38645,7 +38645,7 @@
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#FF00B6FF> Overlord Gun </color> "
+          "Value": " <color=#FF00B6FF> Overlord Spear </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "First layer"
@@ -38701,7 +38701,7 @@
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#FF00B6FF> Overlord Gun </color> "
+          "Value": " <color=#FF00B6FF> Overlord Spear </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "First layer"
@@ -38757,7 +38757,7 @@
       }
     ],
     "Name": {
-      "ValueInfo": " <color=#FF00B6FF> Overlord Gun </color> "
+      "ValueInfo": " <color=#FF00B6FF> Overlord Spear </color> "
     }
   },
   {
@@ -38772,7 +38772,7 @@
       "ValueInfo": "Marksmanship"
     },
     "WuQiType": {
-      "ValueInfo": "Gun"
+      "ValueInfo": "Spear"
     },
     "WuGongTaoLuName": {
       "Value": "Marksmanship Routines"
@@ -38819,13 +38819,13 @@
     "BasicZhaoShis": [
       {
         "Name": {
-          "Value": "Gun Spike Assault"
+          "Value": "Spear Spike Assault"
         },
         "Effects": [
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#FF9A00FF> Red Flame God Gun </color> "
+          "Value": " <color=#FF9A00FF> Red Flame God Spear </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "First layer"
@@ -38850,7 +38850,7 @@
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#FF9A00FF> Red Flame God Gun </color> "
+          "Value": " <color=#FF9A00FF> Red Flame God Spear </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "First layer"
@@ -38878,7 +38878,7 @@
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#FF9A00FF> Red Flame God Gun </color> "
+          "Value": " <color=#FF9A00FF> Red Flame God Spear </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "First layer"
@@ -38934,7 +38934,7 @@
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#FF9A00FF> Red Flame God Gun </color> "
+          "Value": " <color=#FF9A00FF> Red Flame God Spear </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "First layer"
@@ -38997,7 +38997,7 @@
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#FF9A00FF> Red Flame God Gun </color> "
+          "Value": " <color=#FF9A00FF> Red Flame God Spear </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "Second layer"
@@ -39061,7 +39061,7 @@
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#FF9A00FF> Red Flame God Gun </color> "
+          "Value": " <color=#FF9A00FF> Red Flame God Spear </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "Second layer"
@@ -39099,7 +39099,7 @@
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#FF9A00FF> Red Flame God Gun </color> "
+          "Value": " <color=#FF9A00FF> Red Flame God Spear </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "Second layer"
@@ -39148,7 +39148,7 @@
       }
     ],
     "Name": {
-      "ValueInfo": " <color=#FF9A00FF> Red Flame God Gun </color> "
+      "ValueInfo": " <color=#FF9A00FF> Red Flame God Spear </color> "
     }
   },
   {
@@ -39163,7 +39163,7 @@
       "ValueInfo": "Marksmanship"
     },
     "WuQiType": {
-      "ValueInfo": "Gun"
+      "ValueInfo": "Spear"
     },
     "WuGongTaoLuName": {
       "Value": "Marksmanship Routines"
@@ -39179,8 +39179,8 @@
     "JiCaoWeiNum": {},
     "Conditions": [
       {
-        "LeftValueInfo": "\"Guns\" above 40",
-        "RightValueInfo": "\"Guns\" above 40"
+        "LeftValueInfo": "\"Spears\" above 40",
+        "RightValueInfo": "\"Spears\" above 40"
       }
     ],
     "XinFaNoneYingXiang": {
@@ -39209,7 +39209,7 @@
     "BasicZhaoShis": [
       {
         "Name": {
-          "Value": "Gun Spike Assault"
+          "Value": "Spear Spike Assault"
         },
         "Effects": [
           {}
@@ -64283,20 +64283,20 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Guns for use\" above 50",
-        "RightValueInfo": "\"Guns for use\" above 50"
+        "LeftValueInfo": "\"Spears for use\" above 50",
+        "RightValueInfo": "\"Spears for use\" above 50"
       }
     ],
     "ZhaoShis": [
       {
         "Name": {
-          "Value": "Guns out of the multitude"
+          "Value": "Spears out of the multitude"
         },
         "Effects": [
           {}
         ],
         "ZhaoShiDWuGong": {
-          "Value": " <color=#FF00B6FF> Zi Long Gun Tips </color> "
+          "Value": " <color=#FF00B6FF> Zi Long Spear Tips </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "Second layer"
@@ -64310,7 +64310,7 @@
         "ZhanDouEnable": {},
         "ZhiYuanEnable": {},
         "ZhaoShiYiTu": {
-          "ValueInfo": "Gun Sage"
+          "ValueInfo": "Spear Sage"
         },
         "ZhaoShiType": {
           "ValueInfo": "Internal Power Moves"
@@ -64324,7 +64324,7 @@
                 "ValueInfo": "Increase"
               },
               "TeSeLeiDes": {
-                "Value": "\" <color=#B29D36FF> Gun Style </color> <color=#E24344FF> Attack Stance </color> Power\" +120%"
+                "Value": "\" <color=#B29D36FF> Spear Style </color> <color=#E24344FF> Attack Stance </color> Power\" +120%"
               }
             }
           ]
@@ -64332,7 +64332,7 @@
       }
     ],
     "Name": {
-      "ValueInfo": " <color=#FF00B6FF> Zi Long Gun Tips </color> "
+      "ValueInfo": " <color=#FF00B6FF> Zi Long Spear Tips </color> "
     }
   },
   {
@@ -69594,7 +69594,7 @@
                 "ValueInfo": "Increase"
               },
               "TeSeLeiDes": {
-                "Value": "\" <color=#B29D36FF> Gun and Stick Stance </color> Power\" +90%"
+                "Value": "\" <color=#B29D36FF> Spear and Stick Stance </color> Power\" +90%"
               }
             }
           ]
@@ -73405,14 +73405,14 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Guns\" above 65",
-        "RightValueInfo": "\"Guns\" above 65"
+        "LeftValueInfo": "\"Spears\" above 65",
+        "RightValueInfo": "\"Spears\" above 65"
       }
     ],
     "ZhaoShis": [
       {
         "Name": {
-          "Value": "Tsunami Iron Cold Gun"
+          "Value": "Tsunami Iron Cold Spear"
         },
         "Effects": [
           {}
@@ -73432,7 +73432,7 @@
         "ZhanDouEnable": {},
         "ZhiYuanEnable": {},
         "ZhaoShiYiTu": {
-          "ValueInfo": "Cold Gun"
+          "ValueInfo": "Cold Spear"
         },
         "ZhaoShiType": {
           "ValueInfo": "Light Power Moves"
@@ -73446,7 +73446,7 @@
                 "ValueInfo": "Increase"
               },
               "TeSeLeiDes": {
-                "Value": "\" <color=#B29D36FF> Gun Style </color> Power\" +60%"
+                "Value": "\" <color=#B29D36FF> Spear Style </color> Power\" +60%"
               }
             },
             {
