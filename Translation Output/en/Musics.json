@@ -2012,7 +2012,7 @@
     "StateDescription": {
       "Pos": [
         {
-          "Description": "\"+10 to the \"Governor's Vein"
+          "Description": "\"+10 to the \"Du Chakra"
         },
         {
           "Description": "\"Ren Chakra\" +10"
@@ -4281,7 +4281,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+1 to \"Governor's Vessel\" +1 to \"Ren's Vessel"
+            "Value": "\"+1 to \"Du Chakra\" +1 to \"Ren Chakra"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
