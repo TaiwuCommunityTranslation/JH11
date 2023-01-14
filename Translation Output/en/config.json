@@ -8701,19 +8701,19 @@
       "TiaoXi": {
         "Name": {
           "cn": "Tune your breath",
-          "info": "--- Reduce the internal energy consumption required for martial arts attack and defense moves --- Reduce the internal energy consumption of the corresponding moves --- 0.1, 0.3, 0.66, 0.85 ---"
+          "info": "--- Reduce the internal energy cost required for martial arts attack and defense moves --- Reduce the internal energy cost of the corresponding moves --- 0.1, 0.3, 0.66, 0.85 ---"
         }
       },
       "QiFa": {
         "Name": {
           "cn": "Qi Method",
-          "info": "--- Reduce the internal power consumption required for internal power moves --- Reduce the internal power consumption of the corresponding move --- 0.1, 0.3, 0.8, 1 ---"
+          "info": "--- Reduce the internal power cost required for internal power moves --- Reduce the internal power cost of the corresponding move --- 0.1, 0.3, 0.8, 1 ---"
         }
       },
       "ShenXing": {
         "Name": {
           "cn": "body shape",
-          "info": "--- Reduces the internal energy consumption required for light moves --- Reduces the internal energy consumption of the corresponding move --- 0.1, 0.3, 0.8, 1 ---"
+          "info": "--- Reduces the internal energy cost required for light moves --- Reduces the internal energy cost of the corresponding move --- 0.1, 0.3, 0.8, 1 ---"
         }
       }
     },
@@ -10262,7 +10262,7 @@
       },
       {
         "Name": "Heavy anti-unloading force",
-        "TeSeLeiDes": "Increases the internal power consumption of the opponent's stances",
+        "TeSeLeiDes": "Increases the internal power cost of the opponent's stances",
         "RelatedYiTu": {
           "Description": "fight"
         }
@@ -14508,8 +14508,8 @@
             "The \"stick juggling\" attribute affects the power of the stick martial arts moves.",
             "The \"whip\" attribute affects the power of the whip martial arts moves.",
             "The \"waist and horse\" attribute of a character represents the basic skills of a martial arts practitioner and affects the power of all martial arts moves.",
-            "The character's \"Resting\" attribute affects the internal energy consumption of martial arts moves.",
-            "The \"Ren and Du\" will not only determine the power of Yin and Yang martial arts moves, but also affect the total amount of internal energy and consumption of the character.",
+            "The character's \"Resting\" attribute affects the internal energy cost of martial arts moves.",
+            "The \"Ren and Du\" will not only determine the power of Yin and Yang martial arts moves, but also affect the total amount of internal energy and cost of the character.",
             "After breaking through the chakra attribute, you will be able to cultivate the secret martial arts manuals that crown the martial world!",
             "Injuries to the \"head and face\" affect the character's \"Calm\", \"Balance\" and \"Hook\" attributes.",
             "The degree of injury of the character parts is divided into, \"wound\" \"disability\" \"invalid\", ordinary wound medicine can not restore the state of invalidity.",
@@ -28557,7 +28557,7 @@
       "MostUseLingYao": {
         "Pool": [
           "The most consumed elixir is \"[Herb]\".",
-          "Accumulated consumption of the elixir \"[Herb]\" [Times] times"
+          "Accumulated cost of the elixir \"[Herb]\" [Times] times"
         ],
         "Pool_No": [
           "No elixir was taken"
@@ -28566,7 +28566,7 @@
       "MostUseFood": {
         "Pool": [
           "The most consumed dish is \"[Food]\" and there have been [Times] times",
-          "Cumulative consumption of \"[Food]\" up to [Times] times"
+          "Cumulative cost of \"[Food]\" up to [Times] times"
         ],
         "Pool_No": [
           "Did not enjoy the food"
@@ -28584,7 +28584,7 @@
       "MostUseJiu": {
         "Pool": [
           "The most consumed wine is \"[Wine]\" and [Times] is the second most consumed wine.",
-          "Total consumption of fine wine"
+          "Total cost of fine wine"
         ],
         "Pool_No": [
           "No wine consumed"
