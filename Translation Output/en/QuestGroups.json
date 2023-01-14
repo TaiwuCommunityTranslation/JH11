@@ -1283,7 +1283,7 @@
           {}
         ],
         "Content": "When \"Di Wu Han\" found you following, she didn't say much, but asked you to help her find an \"iron sword\".",
-        "Target": "Objective: <color=#FFA41BFF> Go to the iron store in Jiangling Province and hand over the Iron Sword to \"Di Wu Han\".\n(The Iron Sword can be found in all the iron stores in the jianghu area) </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to the iron store in Jiangling Province and deliver the Iron Sword to \"Di Wu Han\".\n(The Iron Sword can be found at all iron stores in the jungle)\n(Iron stores and guest houses will replenish goods every seven days, so if the items you need are already sold out, you can buy them again after a while) </color> ",
         "Map2DIndiValues": [
           {
             "Text": "Green frost"
@@ -2748,7 +2748,7 @@
         "Condition": [
           {}
         ],
-        "Content": "\"Di Wu Han tells you that he wants to back up his gift and visit Ye Ying Che, and asks you if you know what Ye Ying Che likes. After learning that Ye Ying Che loves tea ceremony, Di Wu Han decided to go to Jinzhou Tea House with you to buy tea.",
+        "Content": "\"The Emperor Wuhan asks you to go to Wudang School to thank him, and to buy \"Junshan Silver Needle\" from Jinzhou Tea House as a gift.",
         "Target": "Objective: <color=#FFA41BFF> Go to Golden State Tea House </color> ",
         "Map2DIndiValues": [
           {
@@ -2779,14 +2779,14 @@
         "Condition": [
           {}
         ],
-        "Content": "You came to the Wudang Sect, but Ye Ying Che insisted on closing his door. \"Xu Changyu told you that Ye Yingche has been reluctant to see people since he was injured. \"Emperor Wu Han gave the tea to Xu Changyu, who said he would try to comfort Ye Ying Che.",
+        "Content": "You came to the Wudang Sect, met Xu Changyu, and learned that Ye Yingche had been seriously injured in the battle that day, and his eyes were destroyed. You gave \"Junshan Silver Needle\" to \"Xu Changyu\" and expressed your gratitude, then left \"Wudang Sect\".",
         "End": "Some time later the story will continue to unfold"
       },
       {
         "Condition": [
           {}
         ],
-        "Content": "You were not able to complete the visit with \"Di Wu Han\". \"Di Wu Han\" told you that \"Ye Ying Che\" was not able to see him in the end because he was behind closed doors.",
+        "Content": "You were not able to go to the Wudang School with Di Wu Han. \"You were told that you sent a gift to the Wudang School to thank Zhang Sanfeng and Xu Changyu for their help that day.",
         "End": "Some time later the story will continue to unfold"
       },
       {
@@ -4049,7 +4049,7 @@
           {}
         ],
         "Content": "\"The head of the Qingcheng School, Wen Feng Lin, said he had heard a lot about Dragon Broken Heaven and was willing to help out, but he wanted to try his cooking skills first. The theme of \"Wen Feng Lin\" was bamboo shoots, and he hoped that \"Dragon Broken Sky\" could cook a different kind of bamboo shoot dish.",
-        "Target": "Objective: <color=#FFA41BFF> Pay \"grass carp\" to \"Wen Feng Lin\", the head of \"Qingcheng Sect\n(Grass carp can be bought at the vegetable market in Yibin Town) </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Pay \"grass carp\" to \"Qingcheng School\" disciples\n(\"Grass carp\" can be bought at the vegetable market in Yibin Town) </color> ",
         "Map2DIndiValues": [
           {
             "Text": "Exotic Flavors"
@@ -4080,7 +4080,7 @@
           {}
         ],
         "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Stories - Curiosities and Tastes - The main story - Dongpo Pork\" </size> </b> </color> \n\nWhen you visit the famous residence in Hangzhou, you find that \"Su Shi\" is distressed by the fact that his books have been stolen and printed.",
-        "Target": "Objective: <color=#FFA41BFF> Investigate about book piracy in Hangzhou House </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Investigate about book piracy in Hangzhou Palace\n(You can visit various facilities in Hangzhou Palace to find out information) </color> ",
         "Map2DIndiValues": [
           {
             "Text": "Exotic Flavors"
@@ -10602,8 +10602,7 @@
         },
         "LeiTaiTargetText": [
           "\"Within 18 rounds\"",
-          "\"Winning the battle\"",
-          "Played 1 time \"God\""
+          "\"Winning the battle\""
         ]
       },
       {
@@ -10644,8 +10643,7 @@
         },
         "LeiTaiTargetText": [
           "\"Within 18 rounds\"",
-          "\"Winning the battle\"",
-          "No \"breakdowns\""
+          "\"Winning the battle\""
         ]
       },
       {
@@ -10815,7 +10813,7 @@
         "LeiTaiTargetText": [
           "\"Within 18 rounds\"",
           "\"Winning the battle\"",
-          "\"Wounded\" opponent 2 times"
+          "\"Wound\" opponent 1 time"
         ]
       },
       {
@@ -11076,8 +11074,7 @@
         },
         "LeiTaiTargetText": [
           "\"Within 18 rounds\"",
-          "\"Winning the battle\"",
-          "Played 1 time \"God\""
+          "\"Winning the battle\""
         ]
       },
       {
