@@ -4,6 +4,6 @@ Files in `zh-hans` directory may contain-copyrighted text, all rights remain wit
 
 
 # English Langauge Files for the JH11
-The `Translation` folder contains the translated files for the Scroll Of Taiwu.
+The `Translation` folder contains the translated files for the JH11.
 
 * The translation project can be found on [transifex](https://www.transifex.com/taiwu-community-translation/jh11/).
