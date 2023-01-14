@@ -6314,7 +6314,7 @@
   },
   {
     "Name": {
-      "Value": " <color=#42B7C5FF> The Northwest Gunslinger\" </color> "
+      "Value": " <color=#42B7C5FF> The Northwest Spearslinger\" </color> "
     },
     "QuestType": {},
     "QuestClass": {
@@ -6325,11 +6325,11 @@
         "Condition": [
           {}
         ],
-        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Story - The Northwest Gunslinger - Part 1 - The Righteousness of the Righteous\" </size> </b> </color> \n\nInside the Zhending Mansion, a woman in military dress chased after the man and they entered the post one after the other.",
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Story - The Northwest Spearslinger - Part 1 - The Righteousness of the Righteous\" </size> </b> </color> \n\nInside the Zhending Mansion, a woman in military dress chased after the man and they entered the post one after the other.",
         "Target": "Goal: <color=#FFA41BFF> Go to the post to find out what's going on </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6345,7 +6345,7 @@
         "Target": "Objective: <color=#FFA41BFF> Go to Fengxiang Mansion Restaurant\n(If the \"side story\" is difficult to advance, you can \"interrupt the mission\" and wait for the right time to continue) </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6369,7 +6369,7 @@
         "Target": "Objective: <color=#FFA41BFF> Go to Taiyuan Mansion and talk to \"Liang Hongyu\" </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "Message": "Received a letter from \"Hongyu Liang\" ......",
@@ -6381,17 +6381,17 @@
         "Condition": [
           {}
         ],
-        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Story - Northwest Gunslinger - Part II - New Friends, Old Friends\" </size> </b> </color> \n\nWhen she arrives at Taiyuan, \"Liang Hongyu\" is discussing with her master \"Cang Hongsheng\" about her marksmanship. The other party notices that \"Liang Hongyu\" is absent-minded and punishes her to continue practicing for one hour."
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Story - Northwest Spearslinger - Part II - New Friends, Old Friends\" </size> </b> </color> \n\nWhen she arrives at Taiyuan, \"Liang Hongyu\" is discussing with her master \"Cang Hongsheng\" about her marksmanship. The other party notices that \"Liang Hongyu\" is absent-minded and punishes her to continue practicing for one hour."
       },
       {
         "Condition": [
           {}
         ],
-        "Content": "You said that one should not be slack in practicing martial arts, and advised \"Liang Hongyu\" to focus on practicing, and quietly watched \"Cang Hongsheng\" teach \"Liang Hongyu\" gunplay. After the practice, \"Liang Hongyu\" proposed to go to the restaurant of Fengxiang House to meet with \"Qin Jingjing\" as soon as possible.",
+        "Content": "You said that one should not be slack in practicing martial arts, and advised \"Liang Hongyu\" to focus on practicing, and quietly watched \"Cang Hongsheng\" teach \"Liang Hongyu\" spearplay. After the practice, \"Liang Hongyu\" proposed to go to the restaurant of Fengxiang House to meet with \"Qin Jingjing\" as soon as possible.",
         "Target": "Objective: <color=#FFA41BFF> Go to Fengxiangfu Restaurant </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6410,11 +6410,11 @@
         "Condition": [
           {}
         ],
-        "Content": "During the casual conversation, \"Shan Xingxian\" is very concerned about \"Liang Hongyu\" who is under the tutelage of \"Northwest Gun King\" \"Cang Hongsheng\", and says that he has heard a lot about \"Northwest Gun King\" and wants to be introduced to him, but \"Liang Hongyu\" politely refuses, and everyone leaves the table after a few words.",
+        "Content": "During the casual conversation, \"Shan Xingxian\" is very concerned about \"Liang Hongyu\" who is under the tutelage of \"Northwest Spear King\" \"Cang Hongsheng\", and says that he has heard a lot about \"Northwest Spear King\" and wants to be introduced to him, but \"Liang Hongyu\" politely refuses, and everyone leaves the table after a few words.",
         "Target": "Objective: <color=#FFA41BFF> Go to Taiyuan Mansion and talk to \"Liang Hongyu\" </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6429,7 +6429,7 @@
         "Target": "Objective: <color=#FFA41BFF> Go to Fengxiangfu Restaurant </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6448,11 +6448,11 @@
         "Condition": [
           {}
         ],
-        "Content": "During the casual conversation, \"Shan Xingxian\" is very concerned about \"Liang Hongyu\" who is under the tutelage of \"Northwest Gun King\" \"Cang Hongsheng\", and says that he has heard a lot about \"Northwest Gun King\" and wants to be introduced to him, but \"Liang Hongyu\" politely refuses, and everyone leaves the table after a few words.",
+        "Content": "During the casual conversation, \"Shan Xingxian\" is very concerned about \"Liang Hongyu\" who is under the tutelage of \"Northwest Spear King\" \"Cang Hongsheng\", and says that he has heard a lot about \"Northwest Spear King\" and wants to be introduced to him, but \"Liang Hongyu\" politely refuses, and everyone leaves the table after a few words.",
         "Target": "Objective: <color=#FFA41BFF> Go to Taiyuan Mansion and talk to \"Liang Hongyu\" </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6463,7 +6463,7 @@
         "Condition": [
           {}
         ],
-        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Story - Northwest Gunslinger - Part 3 - The Spectator\" </size> </b> </color> \n\n\"Liang Hongyu\" felt slightly overwhelmed by the sparring with Sifu, so she decided to watch Sifu's moves carefully from the sidelines. She asked him to fight with you so that she could see the changes in his moves clearly.",
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Story - Northwest Spearslinger - Part 3 - The Spectator\" </size> </b> </color> \n\n\"Liang Hongyu\" felt slightly overwhelmed by the sparring with Sifu, so she decided to watch Sifu's moves carefully from the sidelines. She asked him to fight with you so that she could see the changes in his moves clearly.",
         "Target": "Goal: <color=#FFA41BFF> Spar with \"Aoshihiro Katsura\" and survive 6 rounds without being \"one hit\" </color> "
       },
       {
@@ -6474,7 +6474,7 @@
         "Target": "Objective: <color=#FFA41BFF> Talk to \"Cang Hong Sheng\" </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6485,7 +6485,7 @@
         "Condition": [
           {}
         ],
-        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Story - Northwest Gunslinger - Part 3 - The Spectator\" </size> </b> </color> \n\n\"Liang Hongyu\" felt slightly overwhelmed by the sparring with Sifu, so she decided to watch Sifu's moves carefully from the sidelines. She asked him to fight with you so that she could see the changes in his moves clearly.",
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Story - Northwest Spearslinger - Part 3 - The Spectator\" </size> </b> </color> \n\n\"Liang Hongyu\" felt slightly overwhelmed by the sparring with Sifu, so she decided to watch Sifu's moves carefully from the sidelines. She asked him to fight with you so that she could see the changes in his moves clearly.",
         "Target": "Objective: <color=#FFA41BFF> Spar with \"Aoi Hong Katsura\" and make sure you don't get \"one hit\" in 6 rounds. </color> "
       },
       {
@@ -6496,7 +6496,7 @@
         "Target": "Objective: <color=#FFA41BFF> Talk to \"Cang Hong Sheng\" </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6507,11 +6507,11 @@
         "Condition": [
           {}
         ],
-        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Story - Northwest Gunslinger - Main Story - Intercom\" </size> </b> </color> \n\n\"Cang Hongsheng\" dispatched \"Liang Hongyu\" to continue to inspect the power of Tongliao, and then entrusted you to bring him back an \"Iron Lance\".",
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Story - Northwest Spearslinger - Main Story - Intercom\" </size> </b> </color> \n\n\"Cang Hongsheng\" dispatched \"Liang Hongyu\" to continue to inspect the power of Tongliao, and then entrusted you to bring him back an \"Iron Lance\".",
         "Target": "Objective: <color=#FFA41BFF> Deliver \"Iron Lance\" to \"Cang Hong Sheng\" </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6526,7 +6526,7 @@
         "Target": "Objective: <color=#FFA41BFF> After reaching \"good\" relationship with \"Hengshan School\", talk with \"Cang Hong Sheng\".\n(You can improve the relationship by resolving the corresponding power \"fights\" and completing sect-related \"tasks\") </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6541,7 +6541,7 @@
         "Target": "Objective: <color=#FFA41BFF> Go to \"Heng Shan School\" and talk to \"Master Xuan An\" </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6556,7 +6556,7 @@
         "Target": "Objective: <color=#FFA41BFF> Go to Taiyuan Mansion and talk to \"Cang Hongsheng\" </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6567,11 +6567,11 @@
         "Condition": [
           {}
         ],
-        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Story - Northwest Gunslinger - Main Story - Intercom\" </size> </b> </color> \n\n\"When Liang Hongyu returned from her trip, she received a letter from Cang Hongsheng asking Liang Hongyu to go and kill Peng Biao, a disciple of the Iron Palm Sect in Tongliao. \"Liang Hongyu wants you to go with her and proposes to go to the Iron Palm Sect to investigate first.",
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Story - Northwest Spearslinger - Main Story - Intercom\" </size> </b> </color> \n\n\"When Liang Hongyu returned from her trip, she received a letter from Cang Hongsheng asking Liang Hongyu to go and kill Peng Biao, a disciple of the Iron Palm Sect in Tongliao. \"Liang Hongyu wants you to go with her and proposes to go to the Iron Palm Sect to investigate first.",
         "Target": "Goal: <color=#FFA41BFF> Go to \"Iron Palm\" to find out what's going on </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6586,7 +6586,7 @@
         "Target": "Objective: <color=#FFA41BFF> Deliver \"Iron Lance\" to \"Cang Hong Sheng\" </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6601,7 +6601,7 @@
         "Target": "Objective: <color=#FFA41BFF> After reaching \"good\" relationship with \"Hengshan School\", talk to \"Cang Hongsheng\"\n(You can improve the relationship by resolving the corresponding power \"fights\" and completing sect-related \"tasks\") </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6616,7 +6616,7 @@
         "Target": "Objective: <color=#FFA41BFF> Go to \"Heng Shan School\" and talk to \"Master Xuan An\" </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6631,7 +6631,7 @@
         "Target": "Objective: <color=#FFA41BFF> Go to Taiyuan Mansion and talk to \"Cang Hongsheng\" </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6646,7 +6646,7 @@
         "Target": "Goal: <color=#FFA41BFF> Go to \"Iron Palm\" to find out what's going on </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6657,11 +6657,11 @@
         "Condition": [
           {}
         ],
-        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Tales - Northwest Gunslinger - Main Story Ng - Where to Go\" </size> </b> </color> \n\n\"Liang Hongyu\" wants to inquire about \"Peng Biao\", but the disciples of \"Iron Palm Sect\" do not want to tell you the whereabouts of \"Peng Biao\" for nothing.",
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Tales - Northwest Spearslinger - Main Story Ng - Where to Go\" </size> </b> </color> \n\n\"Liang Hongyu\" wants to inquire about \"Peng Biao\", but the disciples of \"Iron Palm Sect\" do not want to tell you the whereabouts of \"Peng Biao\" for nothing.",
         "Target": "Objective: <color=#FFA41BFF> Pay \"Morning Glory Wine\" to the disciples of \"Iron Palm\" </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6686,7 +6686,7 @@
         "Target": "Objective: <color=#FFA41BFF> Go to Fengxiang House Restaurant and talk to \"Qin Jingjing\" </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6698,11 +6698,11 @@
         "Condition": [
           {}
         ],
-        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Tales - Northwest Gunslinger - Main Story Ng - Where to Go\" </size> </b> </color> \n\n\"Liang Hongyu\" wants to inquire about \"Peng Biao\", but the disciples of \"Iron Palm Sect\" do not want to tell you his whereabouts for nothing.",
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Tales - Northwest Spearslinger - Main Story Ng - Where to Go\" </size> </b> </color> \n\n\"Liang Hongyu\" wants to inquire about \"Peng Biao\", but the disciples of \"Iron Palm Sect\" do not want to tell you his whereabouts for nothing.",
         "Target": "Objective: <color=#FFA41BFF> Pay \"Morning Glory Wine\" to the disciples of \"Iron Palm\" </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6727,7 +6727,7 @@
         "Target": "Objective: <color=#FFA41BFF> Go to Fengxiang House Restaurant and talk to \"Qin Jingjing\" </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6739,7 +6739,7 @@
         "Condition": [
           {}
         ],
-        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Story - Northwest Gun King - Main Story Lu - No Shame in the Heart\" </size> </b> </color> \n\n\"Liang Hongyu\" questioned Qin Jingjing if she knew that \"Shan Xingxian\" was dealing with Tongliao's forces. \"She said that she only makes friends on the basis of her eyes, not on the basis of anything else, and they were at an impasse."
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Story - Northwest Spear King - Main Story Lu - No Shame in the Heart\" </size> </b> </color> \n\n\"Liang Hongyu\" questioned Qin Jingjing if she knew that \"Shan Xingxian\" was dealing with Tongliao's forces. \"She said that she only makes friends on the basis of her eyes, not on the basis of anything else, and they were at an impasse."
       },
       {
         "Condition": [
@@ -6765,7 +6765,7 @@
         "Target": "Objective: <color=#FFA41BFF> Go to Taiyuan Mansion and talk to \"Cang Hongsheng\" </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6796,7 +6796,7 @@
         "Target": "Objective: <color=#FFA41BFF> Go to Taiyuan Mansion and talk to \"Cang Hongsheng\" </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6807,7 +6807,7 @@
         "Condition": [
           {}
         ],
-        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Story - Northwest Gun King - Main Story Lu - No Shame in the Heart\" </size> </b> </color> \n\n\"Liang Hongyu\" questioned Qin Jingjing if she knew that \"Shan Xingxian\" was dealing with Tongliao's forces. \"She said that she only makes friends on the basis of her eyes, not on the basis of anything else, and they were at an impasse."
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Story - Northwest Spear King - Main Story Lu - No Shame in the Heart\" </size> </b> </color> \n\n\"Liang Hongyu\" questioned Qin Jingjing if she knew that \"Shan Xingxian\" was dealing with Tongliao's forces. \"She said that she only makes friends on the basis of her eyes, not on the basis of anything else, and they were at an impasse."
       },
       {
         "Condition": [
@@ -6833,7 +6833,7 @@
         "Target": "Objective: <color=#FFA41BFF> Go to Taiyuan Mansion and talk to \"Cang Hongsheng\" </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6864,7 +6864,7 @@
         "Target": "Objective: <color=#FFA41BFF> Go to Taiyuan Mansion and talk to \"Cang Hongsheng\" </color> ",
         "Map2DIndiValues": [
           {
-            "Text": "Northwest Gun King"
+            "Text": "Northwest Spear King"
           }
         ],
         "MuDiDiValues": {
@@ -6875,7 +6875,7 @@
         "Condition": [
           {}
         ],
-        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Story - King of the Northwest Guns - Part 7 - The Merit of Resisting Liao\" </size> </b> </color> \n\n\"Cang Hongsheng\" heard about you from \"Liang Hongyu\" and decided to have a sparring session with you. After the sparring session, he praised you and hoped that you could protect your country with your heart for the common people in the future.",
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Story - King of the Northwest Spears - Part 7 - The Merit of Resisting Liao\" </size> </b> </color> \n\n\"Cang Hongsheng\" heard about you from \"Liang Hongyu\" and decided to have a sparring session with you. After the sparring session, he praised you and hoped that you could protect your country with your heart for the common people in the future.",
         "End": "The story is complete",
         "ShowChests": [
           {
@@ -9849,7 +9849,7 @@
         "Condition": [
           {}
         ],
-        "Content": "The \"Book Bearer\" informs you that a new challenge has been opened and allows you to perform the \"Demon Subjugation\" and \"Gun King\" ring challenges.",
+        "Content": "The \"Book Bearer\" informs you that a new challenge has been opened and allows you to perform the \"Demon Subjugation\" and \"Spear King\" ring challenges.",
         "LeiTaiRewardValues": {
           "DSText": "2 points"
         },
@@ -9858,7 +9858,7 @@
             "Text": "\"Descendants\""
           },
           {
-            "Text": "\"King of Guns"
+            "Text": "\"King of Spears"
           }
         ]
       },
@@ -9866,7 +9866,7 @@
         "Condition": [
           {}
         ],
-        "Content": "The \"Demon Subjugation\" and \"Gun King\" ring challenges have been completed. Return to the \"Heavenly Book Pavilion\" and \"Hidden Martial Arts Academy\" to find the \"Hidden Martial Arts Officer\".",
+        "Content": "The \"Demon Subjugation\" and \"Spear King\" ring challenges have been completed. Return to the \"Heavenly Book Pavilion\" and \"Hidden Martial Arts Academy\" to find the \"Hidden Martial Arts Officer\".",
         "Target": "Objective: <color=#FFA41BFF> Go to \"Tianshu Pavilion\" \"Zangmu Academy\" to find \"Zangmu Officer\" </color> ",
         "Map2DIndiValues": [
           {
@@ -11353,7 +11353,7 @@
   },
   {
     "Name": {
-      "Value": " <color=#DDBE84FF>  <b> \"King of Guns\" Ring </b> </color> "
+      "Value": " <color=#DDBE84FF>  <b> \"King of Spears\" Ring </b> </color> "
     },
     "QuestType": {},
     "QuestClass": {
@@ -11364,7 +11364,7 @@
         "Condition": [
           {}
         ],
-        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"King of Guns\" Ring </size> </b> </color> ",
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"King of Spears\" Ring </size> </b> </color> ",
         "Target": "Objective: <color=#FFA41BFF> Go to \"Henan Province\" \"Dragon Gate Grotto\" and open the ring challenge at the \"Guide\" </color> ",
         "Map2DIndiValues": [
           {
@@ -11385,7 +11385,7 @@
         "Condition": [
           {}
         ],
-        "End": "The \"King of Guns\" ring challenge was successful"
+        "End": "The \"King of Spears\" ring challenge was successful"
       }
     ],
     "ShowCondition": [
