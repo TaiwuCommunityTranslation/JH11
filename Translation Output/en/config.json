@@ -14718,7 +14718,7 @@
     "Explore": {
       "Branch": [
         "Explore [Place]",
-        "ignore"
+        "Ignore"
       ],
       "WaitTexts": [
         "There are {0} slots left"
