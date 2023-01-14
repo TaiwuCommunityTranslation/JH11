@@ -1630,7 +1630,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+40 to \"Mindset\" and +10 to \"Gun Use"
+            "Value": "\"+40 to \"Mindset\" and +10 to \"Spear Use"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Wine Status"
@@ -1712,7 +1712,7 @@
           "Description": "\"Mindset\" +40"
         },
         {
-          "Description": "\"Gun\" +10"
+          "Description": "\"Spear\" +10"
         }
       ],
       "Neg": [
@@ -4804,7 +4804,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+5 to \"Use Gun\" +5 to \"Determination"
+            "Value": "\"+5 to \"Use Spear\" +5 to \"Determination"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Wine Status"
@@ -4883,7 +4883,7 @@
     "StateDescription": {
       "Pos": [
         {
-          "Description": "\"Gun\" +5"
+          "Description": "\"Spear\" +5"
         },
         {
           "Description": "\"Decisions\" +5"
