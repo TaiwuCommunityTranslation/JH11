@@ -65,7 +65,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "10% increase in the power of anti-movement"
+            "Value": "10% increase in the power of parry"
           },
           "ValueOperator": {
             "ValueInfo": "Additive"
@@ -396,7 +396,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "30% increase in the power of anti-movement"
+            "Value": "30% increase in the power of parry"
           },
           "ValueOperator": {
             "ValueInfo": "Additive"
@@ -452,7 +452,7 @@
         },
         {
           "Name": {
-            "Value": "10% increase in the power of anti-movement"
+            "Value": "10% increase in the power of parry"
           },
           "ValueOperator": {
             "ValueInfo": "Additive"
@@ -566,7 +566,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "60% increase in the power of anti-movement"
+            "Value": "60% increase in the power of parry"
           },
           "ValueOperator": {
             "ValueInfo": "Additive"
@@ -929,7 +929,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "30% increase in the power of anti-movement"
+            "Value": "30% increase in the power of parry"
           },
           "ValueOperator": {
             "ValueInfo": "Additive"
