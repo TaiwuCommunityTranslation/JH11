@@ -7653,7 +7653,7 @@
     },
     "XinFaKouJueGuiZe": {
       "Name": {
-        "Value": "The gun is broken and swiftly brave, breaking the Yang and teasing the Yin"
+        "Value": "The spear is broken and swiftly brave, breaking the Yang and teasing the Yin"
       },
       "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
@@ -7713,7 +7713,7 @@
       ]
     },
     "Name": {
-      "ValueInfo": " <color=#23FF00FF> Six Way Broken Gate Gun Heart Method </color> "
+      "ValueInfo": " <color=#23FF00FF> Six Way Broken Gate Spear Heart Method </color> "
     }
   },
   {
@@ -7791,7 +7791,7 @@
       ]
     },
     "Name": {
-      "ValueInfo": " <color=#FF9A00FF> Shen Yue Tiangang Gun Method Heart </color> "
+      "ValueInfo": " <color=#FF9A00FF> Shen Yue Tiangang Spear Method Heart </color> "
     }
   },
   {
@@ -7860,11 +7860,11 @@
     },
     "XinFaKouJueGuiZe": {
       "Name": {
-        "Value": "The ever victorious tiger general, the king of guns in the east"
+        "Value": "The ever victorious tiger general, the king of spears in the east"
       },
       "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
-        "Value": "With \"Int. Force\" <color=#FF00B6FF> \"Zilong Gun Skill\" </color> Stance \"Gun Out of Ten Thousand\""
+        "Value": "With \"Int. Force\" <color=#FF00B6FF> \"Zilong Spear Skill\" </color> Stance \"Spear Out of Ten Thousand\""
       },
       "FangZhiQiHeIndi": {
         "Value": "\" <color=#E24344FF> Attacking Style </color> Power\" +30%; \"Concentration\" +10"
@@ -7980,7 +7980,7 @@
       ]
     },
     "Name": {
-      "ValueInfo": " <color=#FF00B6FF> Underwind Gun Skill </color> "
+      "ValueInfo": " <color=#FF00B6FF> Underwind Spear Skill </color> "
     }
   },
   {
@@ -8049,7 +8049,7 @@
       ]
     },
     "Name": {
-      "ValueInfo": " <color=#FF00B6FF> Overlord Gun </color> "
+      "ValueInfo": " <color=#FF00B6FF> Overlord Spear </color> "
     }
   },
   {
@@ -8062,7 +8062,7 @@
       },
       "FangZhiGuiDing": {},
       "FangZhiGuiDingInfo": {
-        "Value": "Pair with at least 2 <color=#FF00B6FF> \"King's Gun\" </color> Stances"
+        "Value": "Pair with at least 2 <color=#FF00B6FF> \"King's Spear\" </color> Stances"
       },
       "FangZhiQiHeIndi": {
         "Value": "\" <color=#E24344FF> Attack Stance </color> Power\" +50%; \"Martial Art Stance Cooldown\" -2 attack and defense rounds"
@@ -8109,7 +8109,7 @@
       ]
     },
     "Name": {
-      "ValueInfo": " <color=#FF9A00FF> Red Flame God Gun </color> "
+      "ValueInfo": " <color=#FF9A00FF> Red Flame God Spear </color> "
     }
   },
   {
