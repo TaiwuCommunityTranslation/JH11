@@ -230,7 +230,7 @@
           },
           {
             "InfoName": {
-              "ValueInfo": "Strength of stances that affect the martial arts of gunplay"
+              "ValueInfo": "Strength of stances that affect the martial arts of spearplay"
             }
           },
           {
@@ -340,15 +340,15 @@
       "WaiGong": {
         "JianFa": {},
         "JianFaInfoName": {
-          "ValueInfo": "with a sword"
+          "ValueInfo": "Sword Skill"
         },
         "DaoFa": {},
         "DaoFaInfoName": {
-          "ValueInfo": "make a knife"
+          "ValueInfo": "Blade Skill"
         },
         "QuanZhang": {},
         "QuanZhangInfoName": {
-          "ValueInfo": "Fist and Palm"
+          "ValueInfo": "Fist & Palm"
         },
         "ZhiLi": {},
         "ZhiLiInfoName": {
@@ -356,7 +356,7 @@
         },
         "YongQiang": {},
         "YongQiangInfoName": {
-          "ValueInfo": "With guns"
+          "ValueInfo": "With spears"
         },
         "ShuaGun": {},
         "ShuaGunInfoName": {
@@ -420,7 +420,7 @@
       "MaiLuo": {
         "DuMai": {},
         "DuMaiInfoName": {
-          "ValueInfo": "supervisory vein"
+          "ValueInfo": "Du Chakra"
         },
         "RenMai": {},
         "RenMaiInfoName": {
