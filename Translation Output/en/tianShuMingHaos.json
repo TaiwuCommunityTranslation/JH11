@@ -3230,10 +3230,10 @@
     "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
-    "Name": " <color=#FFFFFFFF> Common </color> ",
+    "Name": " <color=#FFFFFFFF>Common</color> ",
     "ToolTipName": "\"",
     "Quality": {
-      "ValueInfo": " <color=#FFFFFFFF> Common </color> "
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
     },
     "Teses_ZhanDou": {
       "Values": [
