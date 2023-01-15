@@ -4,7 +4,6 @@
       "Name": {
         "ValueInfo": "Taishan School"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Beijing East-West Road"
       },
@@ -15,7 +14,6 @@
         "ShengMing": {
           "ValueInfo": "upright"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -24,9 +22,7 @@
         },
         "MenPaiInfO": {
           "Value": "One of the five sword schools, Dongyue Taishan, is located next to Qingzhou. The Taishan school takes chivalry and righteousness as its mission, and has helped those who were oppressed by the Iron Palm Sect many times, and the two sides have formed a grudge. The Taishan sect disciples would spend their time in the Daimyo and Yingtian provinces and other places."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -117,16 +113,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Xuantian Pavilion"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Beijing East-West Road"
       },
@@ -137,7 +130,6 @@
         "ShengMing": {
           "ValueInfo": "Neutral"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -146,9 +138,7 @@
         },
         "MenPaiInfO": {
           "Value": "Xuantian Pavilion is located next to the town of Xuzhou, with the lightness of Xuantian footwork, unique in the martial arts. The disciples of the school are good at collecting exotic treasures and have no intention of fighting in the jianghu, and occasionally go to Yingtianfu and Xuzhou for recreation."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -205,16 +195,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Taotie Gate"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "East Jingdong Road"
       },
@@ -225,7 +212,6 @@
         "ShengMing": {
           "ValueInfo": "Neutral"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -234,9 +220,7 @@
         },
         "MenPaiInfO": {
           "Value": "The Taotie Gate is not far from Qingzhou and is a big restaurant famous in the Jianghu. The Taotie Gate rarely participates in Jianghu disputes, and its disciples occasionally purchase ingredients in places like Qingzhou and Penglai Town."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -276,16 +260,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Iron Palm"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "East Hebei Road"
       },
@@ -296,7 +277,6 @@
         "ShengMing": {
           "ValueInfo": "Cultists"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -305,9 +285,7 @@
         },
         "MenPaiInfO": {
           "Value": "The Iron Palm Sect is located in the area of the mouth of the Yellow River, colluding with the Liang Mountain with the intention of plotting rebellion, and therefore has a grudge with the Taishan Sect. The disciples of the school acted badly, and usually appear in the Daimyo Province, Zhending Province and other places to do evil."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -347,16 +325,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Yakwang Village"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "East Hebei Road"
       },
@@ -367,7 +342,6 @@
         "ShengMing": {
           "ValueInfo": "Neutral"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -376,9 +350,7 @@
         },
         "MenPaiInfO": {
           "Value": "Pill King Village is located on the banks of the Yellow River, the owner of the Village Cao Lang eccentric nature, medical skills are unparalleled. The disciples of the estate study the art of medicine and live in seclusion, occasionally going to Daimyo Province and Qingzhou and other places to purchase medicinal materials."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -418,16 +390,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Hengshan School"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "East River Road"
       },
@@ -438,7 +407,6 @@
         "ShengMing": {
           "ValueInfo": "upright"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -447,9 +415,7 @@
         },
         "MenPaiInfO": {
           "Value": "The Northern Mount Heng Shan, the first of the Five Sword Schools, is located at the border of Song and Liao, and is a stone's throw away from the Black Terrace Gang, the power of Liao. It has fought against Liao in the battle of Yanmen Pass, and has made a great contribution to protect the mountains of Song Dynasty. Because Xuanzhen was brutalized by Liu Zhengfeng, the Heng Shan Sect is in the same situation as the Blood Hand Sect. The disciples of Hengshan sect occasionally went to Taiyuan and Zhending provinces to buy supplies."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -523,16 +489,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Blood Hand Gate"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "East River Road"
       },
@@ -543,7 +506,6 @@
         "ShengMing": {
           "ValueInfo": "Cultists"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -552,9 +514,7 @@
         },
         "MenPaiInfO": {
           "Value": "The Blood Hand Sect is located in the Taihang Mountains, private links to Liao, is the most disgraceful evil sect in the jianghu. Because the head of Liu Zhengfeng designed to brutalize Mrs. Xuanzhen, and Heng Shan faction is in the same fire. The disciples often in Xingzhou, Taiyuan Province and Zhending Province and other places to do evil."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -594,16 +554,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Huashan School"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Yongxingjun Road"
       },
@@ -614,7 +571,6 @@
         "ShengMing": {
           "ValueInfo": "upright"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -623,9 +579,7 @@
         },
         "MenPaiInfO": {
           "Value": "One of the five sword sects of the Western Mount Huashan, located next to the capital. The school's masterpiece, Purple Haze Kung Fu, is famous in the jianghu. Huashan sect disciples will stop at places like Jingzhao Prefecture and Hezhong Prefecture."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -699,16 +653,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Quanzhen Sect"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Yongxingjun Road"
       },
@@ -719,7 +670,6 @@
         "ShengMing": {
           "ValueInfo": "upright"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -728,9 +678,7 @@
         },
         "MenPaiInfO": {
           "Value": "Quanzhen religion is located next to the capital, sword and palm martial arts double, famous under the sky. Quanzhen religion practice martial arts and ask the way, is the world famous martial arts school. Disciples will do good deeds in places such as Jingzhao Province and Hezhong Province."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -787,16 +735,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Blazing Sun Teaching"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Qinfeng Road"
       },
@@ -807,7 +752,6 @@
         "ShengMing": {
           "ValueInfo": "Cultists"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -816,9 +760,7 @@
         },
         "MenPaiInfO": {
           "Value": "The Fiery Sun Church is located in the border area of Western Xia, is a notorious evil sect in the jianghu, and the Huashan School has a deep blood feud, the two opposing forces. Disciples mostly in Lanzhou, Fengxiang Province and Ganquan Town and other places to do evil."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -892,16 +834,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Kongdong Sect"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Qinfeng Road"
       },
@@ -912,7 +851,6 @@
         "ShengMing": {
           "ValueInfo": "Neutral"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -921,9 +859,7 @@
         },
         "MenPaiInfO": {
           "Value": "Kongdong School is located next to Lanzhou, the school many changes under the gradual decline, now only the head of Ling Tianzong one."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -980,16 +916,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Phantom School"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Huainan East Road"
       },
@@ -1000,7 +933,6 @@
         "ShengMing": {
           "ValueInfo": "Neutral"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -1009,9 +941,7 @@
         },
         "MenPaiInfO": {
           "Value": "Youming sect is adjacent to Haizhou, rumored to collude with the Haimen gang, ransacking merchant ships and scraping money. Youming sect disciples often roam in the sea state and Yangzhou and other places to do evil."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -1051,16 +981,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Flying Scorpion Dock"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Huainan West Road"
       },
@@ -1071,7 +998,6 @@
         "ShengMing": {
           "ValueInfo": "Cultists"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -1080,9 +1006,7 @@
         },
         "MenPaiInfO": {
           "Value": "Flying scorpion dock is located next to the town of Kaisun, is the Jianghu on the few good whip school, the school's mastery of impermanent life whip, so that the martial arts people scared. Flying scorpion dock disciples do nothing but evil, often in Luzhou, Jiangxia and Shouzhou and other places to oppress the people."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -1139,16 +1063,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Shaolin Temple"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "North Jingxi Road"
       },
@@ -1159,7 +1080,6 @@
         "ShengMing": {
           "ValueInfo": "upright"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -1168,9 +1088,7 @@
         },
         "MenPaiInfO": {
           "Value": "Shaolin Temple is located between Henan Province and Xiangzhou, martial arts are all-embracing, fist and palm is famous. Most of the Shaolin disciples are out in the world, traveling the world and promoting Buddhism. Temple disciples sometimes will also come down from the mountain, to Henan Province to make money."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -1278,16 +1196,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Songshan School"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "North Jingxi Road"
       },
@@ -1298,7 +1213,6 @@
         "ShengMing": {
           "ValueInfo": "upright"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -1307,9 +1221,7 @@
         },
         "MenPaiInfO": {
           "Value": "One of the five sword schools, Zhongyue Songshan, has been fighting with evil schools for many years and is the backbone of the righteous martial arts today. The disciples will do good deeds in places like Tokyo Bianliang and Yingchang Province."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -1400,16 +1312,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Wudang School"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "South Jingxi Road"
       },
@@ -1420,7 +1329,6 @@
         "ShengMing": {
           "ValueInfo": "upright"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -1429,9 +1337,7 @@
         },
         "MenPaiInfO": {
           "Value": "Wudang school is located next to Jinzhou. The school's mastery of Taijiquan and Taiji Sword Technique, powerful martial arts forest. Wudang disciples usually practice martial arts, and occasionally save lives in Xiangzhou and Jiangling Province."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -1556,16 +1462,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Nanyang Quanzhuang"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "South Jingxi Road"
       },
@@ -1576,7 +1479,6 @@
         "ShengMing": {
           "ValueInfo": "Neutral"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -1585,9 +1487,7 @@
         },
         "MenPaiInfO": {
           "Value": "The Nanyang Boxing Villa is located near Xiangzhou, and usually opens its doors wide to provide convenience for martial artists. Nanyang Quanzhuang has good friendships with both black and white, and its disciples usually spend their time in Xiangzhou and Jinzhou."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -1644,16 +1544,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Emei Sect"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Chengdu Fu Road"
       },
@@ -1664,7 +1561,6 @@
         "ShengMing": {
           "ValueInfo": "upright"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -1673,9 +1569,7 @@
         },
         "MenPaiInfO": {
           "Value": "The Omei School is located next to the Chengdu Prefecture and is proficient in swordplay. The Omei sect lives in Western Sichuan and rarely interacts with the Central Plains sects. Omei disciples usually purchase supplies in Chengdu and Gongzhou."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -1783,16 +1677,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Qingcheng School"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Chengdu Fu Road"
       },
@@ -1803,7 +1694,6 @@
         "ShengMing": {
           "ValueInfo": "Neutral"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -1812,9 +1702,7 @@
         },
         "MenPaiInfO": {
           "Value": "Known for its Songfeng Sword Technique, the Qingcheng Sect is a neutral sect that acts in a low profile. The disciples of the Qingcheng Sect have no intention of participating in Jianghu strife and occasionally spend time in Chengdu Prefecture, Zizhou and other places."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -1888,16 +1776,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Heavenly Book Pavilion"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Liangzhe Road"
       },
@@ -1908,7 +1793,6 @@
         "ShengMing": {
           "ValueInfo": "Neutral"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -1917,9 +1801,7 @@
         },
         "MenPaiInfO": {
           "Value": "Located next to the Hangzhou Palace, the Heavenly Book Pavilion is a \"hidden book\" in the hearts of martial artists, with countless secret books. The disciples are distributed all over the world to collect information, and then the \"list writers\" write the various lists of the Heavenly Book Pavilion."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -1993,16 +1875,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "White Crane Valley"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Jiangnan West Road"
       },
@@ -2013,7 +1892,6 @@
         "ShengMing": {
           "ValueInfo": "Neutral"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -2022,9 +1900,7 @@
         },
         "MenPaiInfO": {
           "Value": "The White Crane Valley is located in the Wuyi Mountains, the school's mastery of the White Crane Baton Technique, famous in the martial arts. White Crane Valley seldom participates in martial arts strife, and the disciples mostly spend their time in Fuzhou and Hangzhou."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -2081,16 +1957,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Hakujo Mountain Resort"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Jiangnan West Road"
       },
@@ -2101,7 +1974,6 @@
         "ShengMing": {
           "ValueInfo": "Neutral"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -2110,9 +1982,7 @@
         },
         "MenPaiInfO": {
           "Value": "Hundred zhang Mountain Villa is located in the middle of Wuyi Mountain, and the sect's mastery, Hundred zhang Deng Yun Steps, is famous in Jianghu. Hundred zhang Mountain Villa rarely participates in martial arts fights, and the disciples sometimes go to Fuzhou, Hangzhou and Tanzhou to buy supplies."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -2152,16 +2022,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Tianzun Cult"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Jinghu North Road"
       },
@@ -2172,7 +2039,6 @@
         "ShengMing": {
           "ValueInfo": "Cultists"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -2181,9 +2047,7 @@
         },
         "MenPaiInfO": {
           "Value": "The Heavenly Dignity Cult is the number one demonic religion in Jianghu, the number one enemy of the martial arts. The two great skills of the sect, the Heavenly Sword Skill and the Soul Sucking Technique, have scared the whole martial arts world and made them fearful. The disciples of the Heavenly Dignity Sect will be in Xiangzhou, Jiangling Province and Jiangxia and other places to do evil."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -2291,16 +2155,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Ling Tian Yi Yi Pavilion"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Jinghu North Road"
       },
@@ -2311,7 +2172,6 @@
         "ShengMing": {
           "ValueInfo": "Neutral"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -2320,9 +2180,7 @@
         },
         "MenPaiInfO": {
           "Value": "Ling Tian Yi Yao Pavilion is located in the north of the public security ferry, the sect martial arts Ling Tian Yi Yao palm, Yin and Yang, is one of the world's best. Ling Tian Yi Yao Pavilion is sparsely populated, only the master Shala and dumb disciple Wu Ming two."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -2396,16 +2254,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Hengshan School"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Jing Hunan Road"
       },
@@ -2416,7 +2271,6 @@
         "ShengMing": {
           "ValueInfo": "upright"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -2425,9 +2279,7 @@
         },
         "MenPaiInfO": {
           "Value": "One of the five sword schools, Mount Hengshan, is located next to Tanzhou. Alone in the south, there is little interaction with the other four mountains. Hengshan disciples occasionally go to Tanzhou and Chenzhou and other places to spend time."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -2501,16 +2353,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Beggars' Association"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Jing Hunan Road"
       },
@@ -2521,7 +2370,6 @@
         "ShengMing": {
           "ValueInfo": "Neutral"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -2530,9 +2378,7 @@
         },
         "MenPaiInfO": {
           "Value": "Beggar's gang is near Guilin, the disciples are distributed around, well-informed. Because the former gang master died in the cave of five poisons, and its grudge. Although the beggar gang is a neutral gang, but most of the disciples are chivalrous, hold the injustice."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -2623,16 +2469,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Green King Temple"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Fujian Road"
       },
@@ -2643,7 +2486,6 @@
         "ShengMing": {
           "ValueInfo": "Neutral"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -2652,9 +2494,7 @@
         },
         "MenPaiInfO": {
           "Value": "Green King Temple is located near Zhangzhou, because of the prestige of the two venerable Green Dragon and White Tiger, good and evil always treat each other with courtesy. Most of the disciples in the temple act low-key, occasionally in Fuzhou, Zhangzhou and other places to make money."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -2711,16 +2551,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Youhong Palace"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Guangnan East Road"
       },
@@ -2731,7 +2568,6 @@
         "ShengMing": {
           "ValueInfo": "Neutral"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -2740,9 +2576,7 @@
         },
         "MenPaiInfO": {
           "Value": "Youhong Palace is proficient in concealed weapons and has compassion for women. If a woman comes for help, she will be admitted to the sect and given shelter. The disciples of Youhong Palace grow medicinal herbs in the medicinal garden of the sect and sell them to Chaozhou and Guangzhou to maintain the sect's expenses."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -2833,16 +2667,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Yan Feng Tang"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Guangnan West Road"
       },
@@ -2853,7 +2684,6 @@
         "ShengMing": {
           "ValueInfo": "Neutral"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -2862,9 +2692,7 @@
         },
         "MenPaiInfO": {
           "Value": "Yanfeng Hall is adjacent to Yongzhou and is famous for its swordsmanship. Because it is located in a remote place, few people from Jianghu come to visit. The disciples of Yanfeng Hall would spend their time in Guilin and Yongzhou."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -2955,16 +2783,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Five Poison Cave"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Kui Zhou Road"
       },
@@ -2975,7 +2800,6 @@
         "ShengMing": {
           "ValueInfo": "Cultists"
         },
-        "ZhangMen": {},
         "BaoWu": {
           "Value": [
             "The treasure of the Zhen faction"
@@ -2984,9 +2808,7 @@
         },
         "MenPaiInfO": {
           "Value": "Five Poison Cave is surrounded by mountains and located in the southwest corner. The cave's disciples are good at making poison, and everyone in the jianghu fears them like a tiger. Five Poison Cave disciples often go out and do evil in Yibin Town and Chengdu Province."
-        },
-        "MPDDSL_TEMPLATE": {},
-        "MPDDSL": {}
+        }
       }
     },
     "IconColor": "#00AD73FF",
@@ -3043,16 +2865,13 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Red Maple Village"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Kui Zhou Road"
       },
@@ -3114,9 +2933,7 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
@@ -3371,7 +3188,7 @@
           "Value": "Fu Xi Ge"
         },
         "SheShiType": {
-          "ValueInfo": "self-occupied"
+          "ValueInfo": "Build"
         }
       },
       {
@@ -3782,7 +3599,7 @@
           "Value": "Linhai Residence"
         },
         "SheShiType": {
-          "ValueInfo": "self-occupied"
+          "ValueInfo": "Build"
         }
       },
       {
@@ -4829,7 +4646,7 @@
           "Value": "Star Lanju"
         },
         "SheShiType": {
-          "ValueInfo": "self-occupied"
+          "ValueInfo": "Build"
         }
       },
       {
@@ -5465,13 +5282,6 @@
         "Value": "North Jingxi Road"
       },
       "ShiZhenData": {
-        "CharacterCount": {},
-        "ShiZhengMinSheng": {},
-        "ShiZhengTeChan": {},
-        "ShiZhengShangJia": {},
-        "ShiZhenTouZi": {},
-        "ShiZhenYongDai": {},
-        "ShiZhenYanWu": {},
         "ShiZhenInfo": {
           "Value": "Henan Province is one of the four capitals of the \"Western Capital\", located south of the Yellow River, is the hinterland of the Central Plains martial arts. The local famous Longmen Grottoes, with more than 97,000 statues of all sizes, are spectacular. In the local calligraphy and painting store, talented people can occasionally find a good literary treasures."
         }
@@ -5641,7 +5451,7 @@
           "Value": "Chaiyangju"
         },
         "SheShiType": {
-          "ValueInfo": "self-occupied"
+          "ValueInfo": "Build"
         }
       },
       {
@@ -5776,7 +5586,7 @@
           "Value": "Jinpai Residence"
         },
         "SheShiType": {
-          "ValueInfo": "self-occupied"
+          "ValueInfo": "Build"
         }
       },
       {
@@ -6153,7 +5963,7 @@
           "Value": "Orchid and Bamboo Falling Plum"
         },
         "SheShiType": {
-          "ValueInfo": "self-occupied"
+          "ValueInfo": "Build"
         }
       },
       {
@@ -6424,7 +6234,7 @@
           "Value": "Gargoyle Small Building"
         },
         "SheShiType": {
-          "ValueInfo": "self-occupied"
+          "ValueInfo": "Build"
         }
       },
       {
@@ -6780,7 +6590,7 @@
           "Value": "Know the Painting Hall"
         },
         "SheShiType": {
-          "ValueInfo": "self-occupied"
+          "ValueInfo": "Build"
         }
       },
       {
@@ -7403,7 +7213,7 @@
           "Value": "Qingyinju"
         },
         "SheShiType": {
-          "ValueInfo": "self-occupied"
+          "ValueInfo": "Build"
         }
       },
       {
@@ -7763,7 +7573,7 @@
           "Value": "Hundred Flowers Hall"
         },
         "SheShiType": {
-          "ValueInfo": "self-occupied"
+          "ValueInfo": "Build"
         }
       },
       {
@@ -7945,7 +7755,7 @@
           "Value": "Peppercorn Waterfront"
         },
         "SheShiType": {
-          "ValueInfo": "self-occupied"
+          "ValueInfo": "Build"
         }
       },
       {
@@ -8433,7 +8243,6 @@
         "Value": "Beijing East-West Road"
       },
       "ShangHuData": {
-        "DaShangJia": {},
         "ShangHuMinSheng": {
           "ValueInfo": "Strong financial resources"
         },
@@ -8499,9 +8308,7 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
@@ -8515,7 +8322,6 @@
         "Value": "Gyeonggi Road"
       },
       "ShangHuData": {
-        "DaShangJia": {},
         "ShangHuMinSheng": {
           "ValueInfo": "wealthy and powerful"
         },
@@ -8581,9 +8387,7 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
@@ -8665,9 +8469,7 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
@@ -8681,7 +8483,6 @@
         "Value": "Yongxingjun Road"
       },
       "ShangHuData": {
-        "DaShangJia": {},
         "ShangHuMinSheng": {
           "ValueInfo": "Balance of income and expenditure"
         },
@@ -8747,9 +8548,7 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
@@ -8763,7 +8562,6 @@
         "Value": "Lizhou Road"
       },
       "ShangHuData": {
-        "DaShangJia": {},
         "ShangHuMinSheng": {
           "ValueInfo": "Strong financial resources"
         },
@@ -8829,9 +8627,7 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
@@ -8845,7 +8641,6 @@
         "Value": "Liangzhe Road"
       },
       "ShangHuData": {
-        "DaShangJia": {},
         "ShangHuMinSheng": {
           "ValueInfo": "Strong financial resources"
         },
@@ -8911,9 +8706,7 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
@@ -8927,7 +8720,6 @@
         "Value": "Jinghu North Road"
       },
       "ShangHuData": {
-        "DaShangJia": {},
         "ShangHuMinSheng": {
           "ValueInfo": "Balance of income and expenditure"
         },
@@ -8993,9 +8785,7 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
@@ -9009,7 +8799,6 @@
         "Value": "East Jingdong Road"
       },
       "ShangHuData": {
-        "DaShangJia": {},
         "ShangHuMinSheng": {
           "ValueInfo": "Balance of income and expenditure"
         },
@@ -9092,9 +8881,7 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
@@ -9176,9 +8963,7 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
@@ -9192,7 +8977,6 @@
         "Value": "Yongxingjun Road"
       },
       "ShangHuData": {
-        "DaShangJia": {},
         "ShangHuMinSheng": {
           "ValueInfo": "Mismanagement"
         },
@@ -9258,9 +9042,7 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
@@ -9274,7 +9056,6 @@
         "Value": "South Jingxi Road"
       },
       "ShangHuData": {
-        "DaShangJia": {},
         "ShangHuMinSheng": {
           "ValueInfo": "Mismanagement"
         },
@@ -9340,9 +9121,7 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
@@ -9356,7 +9135,6 @@
         "Value": "Jiangnan East Road"
       },
       "ShangHuData": {
-        "DaShangJia": {},
         "ShangHuMinSheng": {
           "ValueInfo": "Balance of income and expenditure"
         },
@@ -9422,9 +9200,7 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
@@ -9438,7 +9214,6 @@
         "Value": "Guangnan West Road"
       },
       "ShangHuData": {
-        "DaShangJia": {},
         "ShangHuMinSheng": {
           "ValueInfo": "Balance of income and expenditure"
         },
@@ -9504,9 +9279,7 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
@@ -9520,7 +9293,6 @@
         "Value": "Beijing East-West Road"
       },
       "ZeiKouData": {
-        "TouMu": {},
         "ZeiKouMinSheng": {
           "ValueInfo": "hear the wind and lose their nerve"
         },
@@ -9586,9 +9358,7 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
@@ -9602,7 +9372,6 @@
         "Value": "East River Road"
       },
       "ZeiKouData": {
-        "TouMu": {},
         "ZeiKouMinSheng": {
           "ValueInfo": "known to women and children"
         },
@@ -9668,9 +9437,7 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
@@ -9684,7 +9451,6 @@
         "Value": "Huainan East Road"
       },
       "ZeiKouData": {
-        "TouMu": {},
         "ZeiKouMinSheng": {
           "ValueInfo": "known to women and children"
         },
@@ -9750,9 +9516,7 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
@@ -9834,9 +9598,7 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
@@ -9850,7 +9612,6 @@
         "Value": "Jiangnan West Road"
       },
       "ZeiKouData": {
-        "TouMu": {},
         "ZeiKouMinSheng": {
           "ValueInfo": "Notorious"
         },
@@ -9916,9 +9677,7 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
@@ -10000,9 +9759,7 @@
         }
       }
     ],
-    "SocialData": {
-      "Storage": {}
-    }
+    "SocialData": {}
   },
   {
     "BasicData": {
@@ -10011,18 +9768,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10032,18 +9784,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10053,18 +9800,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10074,18 +9816,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10095,18 +9832,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10116,18 +9848,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10137,18 +9864,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10158,18 +9880,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10179,18 +9896,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10200,18 +9912,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10221,18 +9928,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10242,18 +9944,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10263,18 +9960,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10284,18 +9976,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10305,18 +9992,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10326,18 +10008,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10347,18 +10024,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10368,18 +10040,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10389,18 +10056,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10410,18 +10072,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10431,18 +10088,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10452,18 +10104,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10473,18 +10120,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10494,18 +10136,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10515,18 +10152,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10536,18 +10168,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10557,18 +10184,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10578,18 +10200,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10599,18 +10216,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10620,18 +10232,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10641,18 +10248,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10662,18 +10264,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10683,18 +10280,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10704,18 +10296,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10725,19 +10312,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10747,19 +10328,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10769,19 +10344,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10791,19 +10360,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10813,19 +10376,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10835,19 +10392,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10857,19 +10408,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10879,19 +10424,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10901,19 +10440,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10923,19 +10456,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10945,19 +10472,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10967,19 +10488,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -10989,19 +10504,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11011,19 +10520,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11033,19 +10536,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11055,19 +10552,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11077,19 +10568,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11099,19 +10584,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11121,19 +10600,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11143,19 +10616,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11165,19 +10632,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11187,19 +10648,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11209,19 +10664,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11231,19 +10680,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11253,19 +10696,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11275,19 +10712,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11297,19 +10728,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11319,19 +10744,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11341,19 +10760,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11363,19 +10776,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11385,19 +10792,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11407,19 +10808,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11429,19 +10824,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11451,19 +10840,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11473,19 +10856,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11495,19 +10872,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11517,19 +10888,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11539,19 +10904,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11561,19 +10920,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11583,19 +10936,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11605,19 +10952,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11627,19 +10968,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11649,19 +10984,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11671,19 +11000,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11693,19 +11016,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11715,19 +11032,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11737,19 +11048,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11759,19 +11064,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11781,19 +11080,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11803,19 +11096,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11825,19 +11112,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11847,19 +11128,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11869,19 +11144,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11891,19 +11160,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11913,19 +11176,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11935,19 +11192,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11957,19 +11208,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -11979,19 +11224,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12001,19 +11240,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12023,19 +11256,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12045,19 +11272,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12067,19 +11288,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12089,19 +11304,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12111,19 +11320,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12133,19 +11336,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12155,19 +11352,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12177,19 +11368,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12199,19 +11384,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12221,19 +11400,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {},
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12249,14 +11422,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12272,14 +11441,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12295,14 +11460,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12318,14 +11479,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12341,14 +11498,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12364,14 +11517,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12387,14 +11536,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12410,14 +11555,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12433,14 +11574,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12456,14 +11593,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12479,14 +11612,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12502,14 +11631,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12525,14 +11650,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12548,14 +11669,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12571,14 +11688,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12594,14 +11707,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12617,14 +11726,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12640,14 +11745,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12663,14 +11764,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12686,14 +11783,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12709,14 +11802,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12732,14 +11821,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12755,14 +11840,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12778,14 +11859,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12801,14 +11878,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12824,14 +11897,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12847,14 +11916,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12870,14 +11935,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12893,14 +11954,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12916,14 +11973,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12939,14 +11992,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12962,14 +12011,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -12985,14 +12030,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13008,14 +12049,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13031,14 +12068,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13054,14 +12087,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13077,14 +12106,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13100,14 +12125,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13123,14 +12144,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13146,14 +12163,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13169,14 +12182,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13192,14 +12201,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13215,14 +12220,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13238,14 +12239,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13261,14 +12258,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13284,14 +12277,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13307,14 +12296,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13330,14 +12315,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13353,14 +12334,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13376,14 +12353,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13399,14 +12372,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13422,14 +12391,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13445,14 +12410,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13468,14 +12429,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13491,14 +12448,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13514,14 +12467,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13537,14 +12486,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13560,14 +12505,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13583,14 +12524,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13606,14 +12543,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13629,14 +12562,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13652,14 +12581,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13675,14 +12600,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13698,14 +12619,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13721,14 +12638,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13744,14 +12657,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13767,14 +12676,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13790,14 +12695,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13813,14 +12714,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13836,14 +12733,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13859,14 +12752,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13882,14 +12771,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13905,14 +12790,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13928,14 +12809,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13951,14 +12828,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13977,8 +12850,7 @@
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -13994,14 +12866,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14017,14 +12885,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14040,14 +12904,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14063,14 +12923,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14086,14 +12942,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14109,14 +12961,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14132,14 +12980,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14155,14 +12999,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14178,14 +13018,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14201,14 +13037,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14224,14 +13056,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14247,14 +13075,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14270,14 +13094,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14293,14 +13113,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14316,14 +13132,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14339,14 +13151,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14362,14 +13170,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14385,14 +13189,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14408,14 +13208,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14431,14 +13227,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14454,14 +13246,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14477,14 +13265,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14500,14 +13284,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14523,14 +13303,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14546,14 +13322,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14569,14 +13341,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14592,14 +13360,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14615,14 +13379,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14638,14 +13398,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14661,14 +13417,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14684,14 +13436,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14707,14 +13455,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14730,14 +13474,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14753,14 +13493,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14776,14 +13512,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14799,14 +13531,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14822,14 +13550,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14845,14 +13569,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14868,14 +13588,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14891,14 +13607,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14914,14 +13626,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14937,14 +13645,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14960,14 +13664,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -14983,14 +13683,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15006,14 +13702,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15029,14 +13721,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15052,14 +13740,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15075,14 +13759,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15098,14 +13778,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15121,14 +13797,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15144,14 +13816,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15167,14 +13835,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15190,14 +13854,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15213,14 +13873,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15236,14 +13892,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15259,14 +13911,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15282,14 +13930,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15305,14 +13949,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15328,14 +13968,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15351,14 +13987,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15374,14 +14006,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15397,14 +14025,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15420,9 +14044,6 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
@@ -15447,14 +14068,10 @@
       }
     },
     "ExploreData": {
-      "EnterConditions": [
-        {}
-      ],
       "Branch": [
         "Go to Explore",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15482,16 +14099,10 @@
           "9999-12-30-1"
         ]
       ],
-      "EnterConditions": [
-        {},
-        {},
-        {}
-      ],
       "Branch": [
         "Explore [Place]",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15501,15 +14112,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
       "Branch": [
         "Warning!",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15519,15 +14128,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
       "Branch": [
         "Warning!",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15537,15 +14144,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
       "Branch": [
         "Warning!",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15555,15 +14160,13 @@
       },
       "PlaceType": {
         "ValueInfo": "Explore the land"
-      },
-      "DiLi": {}
+      }
     },
     "ExploreData": {
       "Branch": [
         "Warning!",
         "Ignore"
-      ],
-      "Dialog": {}
+      ]
     }
   },
   {
@@ -15571,7 +14174,6 @@
       "Name": {
         "ValueInfo": "Chaiyangju"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "North Jingxi Road"
       }
@@ -15594,17 +14196,13 @@
         }
       }
     ],
-    "ZiZhaiData": {
-      "Dialog": {},
-      "CangPin": {}
-    }
+    "ZiZhaiData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Fu Xi Ge"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Gyeonggi Road"
       }
@@ -15659,17 +14257,13 @@
         }
       }
     ],
-    "ZiZhaiData": {
-      "Dialog": {},
-      "CangPin": {}
-    }
+    "ZiZhaiData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Linhai Residence"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "East Jingdong Road"
       }
@@ -15700,17 +14294,13 @@
         }
       }
     ],
-    "ZiZhaiData": {
-      "Dialog": {},
-      "CangPin": {}
-    }
+    "ZiZhaiData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Jinpai Residence"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Jingxi South Road"
       }
@@ -15741,17 +14331,13 @@
         }
       }
     ],
-    "ZiZhaiData": {
-      "Dialog": {},
-      "CangPin": {}
-    }
+    "ZiZhaiData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Orchid and Bamboo Falling Plum"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Chengdu Fu Road"
       }
@@ -15798,17 +14384,13 @@
         }
       }
     ],
-    "ZiZhaiData": {
-      "Dialog": {},
-      "CangPin": {}
-    }
+    "ZiZhaiData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Gargoyle Small Building"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Liangzhe Road"
       }
@@ -15863,17 +14445,13 @@
         }
       }
     ],
-    "ZiZhaiData": {
-      "Dialog": {},
-      "CangPin": {}
-    }
+    "ZiZhaiData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Know the Painting Hall"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Jiangnan West Road"
       }
@@ -15904,17 +14482,13 @@
         }
       }
     ],
-    "ZiZhaiData": {
-      "Dialog": {},
-      "CangPin": {}
-    }
+    "ZiZhaiData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Qingyinju"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Fujian Road"
       }
@@ -15945,17 +14519,13 @@
         }
       }
     ],
-    "ZiZhaiData": {
-      "Dialog": {},
-      "CangPin": {}
-    }
+    "ZiZhaiData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Hundred Flowers Hall"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Guangnan East Road"
       }
@@ -15994,17 +14564,13 @@
         }
       }
     ],
-    "ZiZhaiData": {
-      "Dialog": {},
-      "CangPin": {}
-    }
+    "ZiZhaiData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Peppercorn Waterfront"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Guangnan West Road"
       }
@@ -16035,17 +14601,13 @@
         }
       }
     ],
-    "ZiZhaiData": {
-      "Dialog": {},
-      "CangPin": {}
-    }
+    "ZiZhaiData": {}
   },
   {
     "BasicData": {
       "Name": {
         "ValueInfo": "Star Lanju"
       },
-      "PlaceType": {},
       "DiLi": {
         "Value": "Qinfeng Road"
       }
@@ -16076,9 +14638,6 @@
         }
       }
     ],
-    "ZiZhaiData": {
-      "Dialog": {},
-      "CangPin": {}
-    }
+    "ZiZhaiData": {}
   }
 ]
