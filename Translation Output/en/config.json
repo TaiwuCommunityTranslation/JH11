@@ -8266,8 +8266,8 @@
           "Finger Skill",
           "Spear Skill",
           "Staff Skill",
-          "axe",
-          "Whip art",
+          "Axe Skill",
+          "Whip Skill",
           "hook method",
           "Concealed weapons",
           "Penmanship"
@@ -9609,8 +9609,8 @@
         "ZhiLi": "Finger Skill",
         "ShuaGun": "Staff Skill",
         "YongQiang": "Spear Skill",
-        "YunFu": "axe",
-        "BianShu": "Whip art",
+        "YunFu": "Axe Skill",
+        "BianShu": "Whip Skill",
         "GouFa": "hook method",
         "AnQi": "Concealed weapons",
         "BiFa": "Penmanship"
@@ -15963,10 +15963,10 @@
         "Text": "Staff Skill"
       },
       "运斧": {
-        "Text": "axe"
+        "Text": "Axe Skill"
       },
       "鞭术": {
-        "Text": "Whip art"
+        "Text": "Whip Skill"
       },
       "钩法": {
         "Text": "hook method"
