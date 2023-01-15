@@ -8766,7 +8766,7 @@
         "Yan": "castration"
       },
       "Date": {
-        "NianYueRi": "{0} year {1} month {2} day",
+        "NianYueRi": "{0}Y {1}M {2}D",
         "YueRi": "{0} month {1} day",
         "Nian": "Year",
         "Yue": "Month",
