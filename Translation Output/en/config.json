@@ -8819,7 +8819,7 @@
       },
       "Money": {
         "Wen": "Wen",
-        "Guan": "pass through",
+        "Guan": "$",
         "NoMoney_MainDH": " <color=#FF5E4EFF> Penniless </color> "
       }
     },
