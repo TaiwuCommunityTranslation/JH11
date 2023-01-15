@@ -7,11 +7,8 @@
       "ValueInfo": " <color=#FFFFFFFF> Pig bristle pen </color> "
     },
     "ItemPinZhi": {
-      "ValueInfo": " <color=#FFFFFFFF> Wolves, etc. </color> "
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "Processed and steamed from pig bristles and used for writing large plaques."
     }
@@ -24,11 +21,8 @@
       "ValueInfo": " <color=#FFFFFFFF> Chicken Feather Pen </color> "
     },
     "ItemPinZhi": {
-      "ValueInfo": " <color=#FFFFFFFF> Wolves, etc. </color> "
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "It is usually made from the breast hair of a rooster and is very soft. Not easy to grasp."
     }
@@ -43,9 +37,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "It needs to be made from the hair inside the ears of yellow cows, and is rare and complicated to make."
     }
@@ -60,9 +51,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "It is written in the Four Spectra of the Wenfang: \"Today's flying white book, mostly with bamboo pen, is particularly poor.\""
     }
@@ -77,9 +65,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "The Cave of the Sky: \"In the ancient times, the book was written with bamboo stile and lacquer.\""
     }
@@ -94,9 +79,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "A kind of sheep's hair brush, soft and durable. The surface is covered with brown spots, which is why it is called \"Zebra\"."
     }
@@ -111,9 +93,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "The pen is said to have been created by Meng Tian in the Qin Dynasty, using fresh purple bamboo and the finest brush material, making it the \"best pen for writing\"."
     }
@@ -128,9 +107,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "The wolf-hair pen is made from the tail hair of the weasel, and has a soft yellow surface, a bright hair peak, and a strong, stiff brush, making it suitable for calligraphy and painting. It is the best of the wolf-hair pens."
     }
@@ -145,9 +121,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "According to the Book of Liang: Ji Shaoyu, a young Shih, had a dream in which he was given a bunch of green skeleton pens by Lu Chenglu, saying, \"I can still use this, so you can choose the best one.\" His writing was thus advanced."
     }
@@ -162,9 +135,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragons, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "Today's flying white book, most of the bamboo pen, especially bad. It is appropriate to use acacia bark, beams its end and lacquer its handle, can follow the size of the word, as five or seven wonderful. Often a book a word, full of an eight-foot screen."
     }
@@ -177,11 +147,8 @@
       "ValueInfo": " <color=#FFFFFFFF> White linen paper </color> "
     },
     "ItemPinZhi": {
-      "ValueInfo": " <color=#FFFFFFFF> Wolves, etc. </color> "
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "The paper made from ramie and fire hemp is white and smooth on the front and rough on the back. The texture is tough."
     }
@@ -194,11 +161,8 @@
       "ValueInfo": " <color=#FFFFFFFF> Burlap paper </color> "
     },
     "ItemPinZhi": {
-      "ValueInfo": " <color=#FFFFFFFF> Wolves, etc. </color> "
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "The color is beige, so it is also referred to as yellow paper. The front side is light, the back side is slightly astringent, the texture is slightly brittle, and the toughness is slightly poor."
     }
@@ -213,9 +177,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "Because of the production from Sichuan, so called Sichuan Lian, slightly yellow, slightly tough, thin and thick is not very uniform."
     }
@@ -230,9 +191,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "Zuo Bo was another paper maker after Cai Lun, whose paper was of uniform thickness, fine texture, and vivid color."
     }
@@ -247,9 +205,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "The color is white and the texture is thin and soft. It is called ribbed paper because it has significant horizontal lines and looks the same as the silk ribbon."
     }
@@ -264,9 +219,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "Cocoon paper has two colors, one white as jade, one is milky white. Fine and thin, lustrous, from the surface seems to be quite similar to silk wool, toughness is very strong."
     }
@@ -281,9 +233,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "Toyo Leather Paper. This paper is produced in Japan and is available in yellow and white, with strong cotton, tough and strong."
     }
@@ -298,9 +247,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragons, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "Made of gold and silver foil evenly sprinkled on rice paper. The color remains unchanged over the years. Very expensive."
     }
@@ -315,9 +261,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "Prepared by musk, ice chips and other herbs, the color is black and oily."
     }
@@ -332,9 +275,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "Made from soot burnt out of pine wood as raw material. It is characterized by thick ink without light and melts easily in water."
     }
@@ -349,9 +289,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "This ink is beautifully engraved on the back with the words \"Mr. Chun Zaitang wrote the ink\", which was the residence of a scholar of the previous dynasty."
     }
@@ -366,9 +303,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "It originated in the late Tang Dynasty during the war, when a large number of good craftsmen went south for refuge, and Xi Chao and his son, who were skilled ink makers, settled in Shezhou. Using the raw materials of the pine tree, which is a specialty of southern Anhui, they improved the process and finally made good ink."
     }
@@ -383,9 +317,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "The ebony block itself is an herbal medicine and can be made into ink by adding pine smoke, spices and other materials. This ink is more expensive because of the high price of the ebony itself."
     }
@@ -400,9 +331,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "Xuan Xiang is a rare herb, the noblemen love to put it and gold foil, sulforaphane and other spices together into the self-boiling gel to make ink for their own use."
     }
@@ -417,9 +345,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "The shell of a tortoise with a life span of 100 years is taken, sun-dried for seventy-nine days, and then ground into fine powder. The ink is then mixed with high grade ink, musk and other high grade materials to make ink blocks. This ink has a greenish-purple luster after grinding and is very special and rare."
     }
@@ -434,9 +359,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "The name of the inkstone is due to the fact that there is an obvious circular perforation on the back of the inkstone. The bottom of the inkstone is concave in shape, with simple and elegant decoration."
     }
@@ -451,9 +373,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "Tao ink stone is produced in Taozhou, Gansu Province, hence the name. It is characterized by turquoise stone, neat and clean like jade, streaks like clouds, ink storage without deterioration, and does not dry up for more than ten days. Because of its fine stone quality, texture like silk, colorful and moist, fine and fast ink development, heat preservation and sharp pen."
     }
@@ -468,9 +387,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "Pottery inkstone. Made of clay, it has a solid structure and is easy to develop ink without leaking."
     },
@@ -488,9 +404,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "It is made of fine clay that has been washed and burned as raw material. It is as delicate as a baby's skin and has the characteristics of not drying up when storing water, not freezing when experiencing cold, not damaging the ink, and comparable to stone inkstone in terms of nourishment and water."
     }
@@ -505,9 +418,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "The purple color is deep and the stone is delicate. The body of the inkstone is heavy and oval-shaped, with a carving around it of a dragon playing with a pearl. The pond below the dragon's head is concave, and there are stone pillar eyes on the pond. The back of the inkstone is carved with a dazzling array of clouds and dragons."
     }
@@ -522,9 +432,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "It has the characteristics of quiet and tough, warm and moist like jade, contains Jin Jin benefit ink, sound like gold and stone, the touch of the hand produces a halo, the development of ink like oil, does not stain water, does not damage the brush, etc."
     }
@@ -539,9 +446,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "The stone is lustrous and moist, the color is light purple, and the surface is hidden with the texture of blue flowers, fire press, and white stone of jiao leaves."
     }
@@ -556,9 +460,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragons, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "Smoke table made of precious glaze. The color is more lustrous and pale blue, the texture is tough, astringent does not leave the brush, slippery does not reject the ink, the melon skin and the valley reason, gold sound and jade virtue."
     }
@@ -572,11 +473,7 @@
     },
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
-    },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {}
+    }
   },
   {
     "ItemType": {
@@ -587,11 +484,7 @@
     },
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
-    },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {}
+    }
   },
   {
     "ItemType": {
@@ -602,11 +495,7 @@
     },
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
-    },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {}
+    }
   },
   {
     "ItemType": {
@@ -617,11 +506,7 @@
     },
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
-    },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {}
+    }
   },
   {
     "ItemType": {
@@ -632,11 +517,7 @@
     },
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
-    },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {}
+    }
   },
   {
     "ItemType": {
@@ -647,11 +528,7 @@
     },
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
-    },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {}
+    }
   },
   {
     "ItemType": {
@@ -663,9 +540,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "It is a token that can unite all five schools of the Five Mountains. It is made of birch wood unique to Mount Heng, and is exquisitely crafted, with the words \"Five Yue Sword Sects, One Spirit\" engraved on the back."
     }
@@ -717,8 +591,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -728,15 +601,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Extreme </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "A famous bronze vessel of the Western Zhou period, made by Yu during the reign of King Li. It is said that Yu used gold from all over the Kyushu region to cast a tripod. The shape is solemn and the casting is exquisite."
     },
@@ -757,8 +621,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -810,8 +673,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -821,15 +683,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Extreme </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "A late Warring States period jade pendant carved from green jade with a dragon looking up at both ends. It is a rare piece of jade with elaborate craftsmanship."
     },
@@ -850,8 +703,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -903,8 +755,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -914,15 +765,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Extreme </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "Jun kiln system, inside and outside the moon white glaze, the outer wall decorated with large purple-red patches, rather like the brilliant clouds in the sky, giving people an endless sense of beauty."
     },
@@ -943,8 +785,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -996,8 +837,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1007,15 +847,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "A banded hook made of white nephrite with a reddish-brown seeping heart. The phoenix-headed body and tiger-headed tail, with delicate and exquisite decoration and strong and firm lines."
     },
@@ -1036,8 +867,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1089,8 +919,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1100,15 +929,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "The Shang Dynasty bronze wine vessel with a man in the open mouth of a tiger is a peculiar and rare shape."
     },
@@ -1129,8 +949,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1182,8 +1001,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1193,15 +1011,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "A Western Zhou musical instrument, each side of the spade is decorated with two tigers, with realistic images and exquisite patterns. The ornamentation and shape are very delicate and rare."
     },
@@ -1222,8 +1031,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1275,8 +1083,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1286,15 +1093,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "An ampule from the Warring States period, usually used to hold wine or sauce. The lid, shoulders and lower part of the belly are decorated with a diamond pattern, and the belly with a dragon pattern, all decorated with red copper inlay."
     },
@@ -1315,8 +1113,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1368,8 +1165,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1379,15 +1175,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "The tortoiseshell glaze unique to the Jizhou kiln is so varied that it is a delight to behold."
     },
@@ -1408,8 +1195,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1461,8 +1247,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1472,15 +1257,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "A small pot from the Xing kiln of the Tang Dynasty. The shape is small and the glaze is white, very delicate."
     },
@@ -1501,8 +1277,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1554,8 +1329,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1565,15 +1339,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Second Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "The icy blue jade penannular jade is warm, polished and transparent. One side is decorated with a shallow fishtail dragon pattern."
     },
@@ -1594,8 +1359,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1647,8 +1411,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1658,15 +1421,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Second Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "Official kiln system, the whole body with pink and blue glaze, glaze layer fat, as beautiful as ancient jade, glaze surface open with ice crack-like pattern of flakes."
     },
@@ -1687,8 +1441,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1740,8 +1493,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1751,15 +1503,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Second Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "In the late Warring States period, it was recorded that the smelter of the foreign side - \"casters\" made this bean for the six rooms of the Queen. Beans are specially prepared to hold pickles, meat sauce, etc. and condiments vessels, a kind of ceremonial vessels."
     },
@@ -1780,8 +1523,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1833,8 +1575,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1844,15 +1585,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FFFFFFFF> Third Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "A percussion instrument of the Spring and Autumn and Warring States period, decorated with coiled chi dragons. The craftsmanship is exquisite and the style is full of charm."
     },
@@ -1873,8 +1605,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1926,8 +1657,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -1937,15 +1667,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FFFFFFFF> Third Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "Official kiln system, full glaze inside and out, lustrous glaze, open with ice crackle flakes."
     },
@@ -1966,8 +1687,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -2019,8 +1739,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2030,15 +1749,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FFFFFFFF> Third Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "Made at Jun kiln, the pot holder is in the form of a six-petaled sunflower, with a sky blue glaze inside and a rose-purple glaze on the outer wall, the colors are gorgeous and bright."
     },
@@ -2059,8 +1769,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -2112,8 +1821,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2123,15 +1831,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Extreme </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "A bronze vessel from the Shang and Zhou dynasties, the body of the tripod is decorated with three sets of animal-face motifs and the foot with a banana leaf motif. The maker made this vessel for his dead father, who was named \"Father B\"."
     },
@@ -2152,8 +1851,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -2205,8 +1903,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2216,15 +1913,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Extreme </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "Western Zhou Dynasty bronze ware. The shape is majestic, and it is an important ritual vessel, implying the meaning of eternal treasure for all generations of descendants. It is extremely solemn with its huge beast-shaped pattern, suggesting movement and stillness."
     },
@@ -2245,8 +1933,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -2298,8 +1985,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2309,15 +1995,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Extreme </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "It is said to have been made by Venerable Dongxuan Lingbao. It is carved from flawless red jade to form a crown, with the intention of picking lotus flowers out of the mud. The circumference is made up of four petals with two holes in the direction of the meridian."
     },
@@ -2338,8 +2015,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -2391,8 +2067,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2402,15 +2077,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Extreme </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "A jade pendant carved from Hetian white jade in the form of a \"phoenix chirping in the sunrise\". It is a metaphor for the rare and auspicious omen of the rising sun, when the phoenix cries at the beginning of the sun."
     },
@@ -2431,8 +2097,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -2484,8 +2149,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2495,15 +2159,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Extreme </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "The mouth of the pot is in the shape of a phoenix head, and the whole body is glazed with green, brown and white. This is a cleverly shaped pot, and the plastic paste technique gives the picture a shallow relief effect, with distinct and prominent objects, smooth lines, and vivid and gorgeous colors, making it an excellent product."
     },
@@ -2524,8 +2179,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -2577,8 +2231,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2588,15 +2241,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Extreme </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "The fine texture and smooth glaze like a mirror make it a rare gem in black glazed porcelain."
     },
@@ -2617,8 +2261,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -2670,8 +2313,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2681,15 +2323,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "The pot is in the form of a four-petaled begonia flower, with a grayish-blue glaze, which is relatively rare."
     },
@@ -2710,8 +2343,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -2763,8 +2395,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2774,15 +2405,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "Jun kiln system, flower pots in a hexagonal shape, inside and outside the sky blue glaze, exquisite workmanship, dignified shape, beautiful and practical."
     },
@@ -2803,8 +2425,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -2856,8 +2477,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2867,15 +2487,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "Made in Jun kiln, the flower pot is in the form of a slag bucket. The entire body is glazed with grayish purple, the shape is dignified and antique, and the glaze is pure and elegant."
     },
@@ -2896,8 +2507,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -2949,8 +2559,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -2960,15 +2569,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "Jun kiln, six-petal sunflower style. It is a beautiful and dignified shape with undulating curves, and the gray-blue glaze reflects the rose-purple glaze on the exterior, just like a blooming sunflower, which is evocative."
     },
@@ -2989,8 +2589,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -3042,8 +2641,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3053,15 +2651,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "Made in the Ru kiln, the entire body is covered with a light azure glaze, and the glaze is open with fine flakes. Fine workmanship, glaze purity, open ice cracked flakes, is the best of the Ru kiln porcelain."
     },
@@ -3082,8 +2671,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -3135,8 +2723,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3146,15 +2733,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "Origin is unknown, inside and outside full of black glaze, glaze black shiny, glaze covered with silver-white oil droplet-shaped crystals, as if the size of different oil flowers, so called \"oil drop glaze\". The shape of \"oil drops\" is also like the night sky stars flashing, dazzling."
     },
@@ -3175,8 +2753,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -3228,8 +2805,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3239,15 +2815,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "The Shang taotie pattern is solemn, structured, grave and mysterious."
     },
@@ -3268,8 +2835,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -3321,8 +2887,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3332,15 +2897,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "A Shang ceremonial vessel, with a neck decorated with a bestial design composed of kuihas and a belly decorated with a deformed triangular kuih design. The upper part of the three legs is decorated with a large animal-face pattern with horns, and the lower part with three string patterns. The pattern is fine and the shape is tall, which makes it a rare product."
     },
@@ -3361,8 +2917,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -3414,8 +2969,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3425,15 +2979,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "A percussion instrument of the late Warring States period. The chime is made up of several chimes arranged in a group, and each chime emits a different high and low sound to play a musical piece."
     },
@@ -3454,8 +2999,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -3507,8 +3051,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3518,15 +3061,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "The battle-axe carved with animal-face pattern is a Shang Dynasty ritual vessel with magnificent grandeur, chic and harmonious shape and ornamentation, and delicate and gorgeous carving."
     },
@@ -3547,8 +3081,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -3600,8 +3133,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3611,15 +3143,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "This is a bronze vessel from the Shang dynasty, with a fine cloud and thunder pattern as the ground pattern, all decorated with animal-face patterns. The abdomen of the wine container is of an ingenious form, with the exterior of the container connected on all sides and the interior of the container zigzagging together, serving both a wine storage purpose and an ornamental effect."
     },
@@ -3640,8 +3163,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -3693,8 +3215,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3704,15 +3225,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "A pot from the Warring States period. The two sides are set opposite to each other with animal-faced, articulated, double-ringed ears. The body of the jug is decorated with silver, and the whole body is decorated with a cloud and water pattern and a scrolling cloud pattern. The footrim is decorated with inlaid silver water waves."
     },
@@ -3733,8 +3245,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -3786,8 +3297,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3797,15 +3307,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "The fish is mainly carved in the round, with a lotus in its mouth and a curved body, in an elegant and vivid posture, mostly small and delicate."
     },
@@ -3826,8 +3327,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -3879,8 +3379,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3890,15 +3389,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "A funerary jade bi from the Warring States period, carved with a valley pattern on both sides, one side carved in negative and the other in relief. The material is exquisitely selected and the workmanship is meticulous."
     },
@@ -3919,8 +3409,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -3972,8 +3461,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -3983,15 +3471,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "Han Dynasty jade treasury money, carved with the words \"Changle Wannian\". It means good fortune, prosperity and wealth."
     },
@@ -4012,8 +3491,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -4065,8 +3543,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4076,15 +3553,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Second Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "The jade penannular jade pendulum carved in the shape of a butterfly is exquisitely shaped."
     },
@@ -4105,8 +3573,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -4158,8 +3625,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4169,15 +3635,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Second Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "Carved with two jade penannular jade pendants with the heads and tails of chi dragons joining together."
     },
@@ -4198,8 +3655,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -4251,8 +3707,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4262,15 +3717,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Second Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "A recumbent sheep carved in blue jade during the Han Dynasty, with a fat body and a full back. This type of jade sheep was used as a jade town or as a display piece."
     },
@@ -4291,8 +3737,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -4344,8 +3789,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4355,15 +3799,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Second Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "Carved in white jade, the dog is reclining, with a thin, bony body, a curled tail, a collar, and a bell hanging from it. The transition is smooth, round and lovely."
     },
@@ -4384,8 +3819,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -4437,8 +3871,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4448,15 +3881,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Second Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "A pot from the Warring States period. It is in the form of a standing fish, with the mouth of the fish upwards as the mouth of the pot and the tail of the fish downwards as the foot. The shape is taken from an auspicious object and is exquisite and unique, with smooth lines and a realistic image."
     },
@@ -4477,8 +3901,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -4530,8 +3953,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4541,15 +3963,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Second Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "A Warring States period pot. The pot is shallowly carved with a bird motif and spaced with string motifs."
     },
@@ -4570,8 +3983,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -4623,8 +4035,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4634,15 +4045,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Second Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "Bronze lamps from the Western Han period are carved in the form of a standing-horn sheep with a round body, upright limbs, head held high and eyes gazing. \"Sheep\" and \"Xiang\" are commonly used to symbolize good luck."
     },
@@ -4663,8 +4065,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -4716,8 +4117,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4727,15 +4127,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Second Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "Ming ware used for burial during the Warring States period. The shape is chic and lifelike."
     },
@@ -4756,8 +4147,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -4809,8 +4199,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4820,15 +4209,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Second Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "Jizhou kiln system, the whole body with black glaze, the interior rabbit hair pattern for the ground, bowl heart with a paper-cut plum blossoms, the outer wall with tortoiseshell pattern for decoration, simple and generous, simple and chic."
     },
@@ -4849,8 +4229,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -4902,8 +4281,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -4913,15 +4291,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Second Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "YAOZHOU kiln system, glazed with green inside and out, the bowl is carved with a lotus flower pattern, with a naive attitude. The engraving is fine and lively."
     },
@@ -4942,8 +4311,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -4995,8 +4363,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5006,15 +4373,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Second Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "Made at Ding kiln, with white glaze inside and out. Regularly made, with a solid and dense body."
     },
@@ -5035,8 +4393,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -5088,8 +4445,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5099,15 +4455,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#23FF00FF> Second Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "Ding kiln system, the whole body with sauce-colored glaze, bowl rim and foot ring without glaze, white at the exposed tire. The small number of firings makes it even more precious."
     },
@@ -5128,8 +4475,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -5181,8 +4527,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5192,15 +4537,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FFFFFFFF> Third Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "A bronze plate from the Warring States period, used to serve food."
     },
@@ -5221,8 +4557,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -5274,8 +4609,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5285,15 +4619,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FFFFFFFF> Third Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "A copper pot from the Warring States period, used to hold wine syrup or grain."
     },
@@ -5314,8 +4639,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -5367,8 +4691,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5378,15 +4701,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FFFFFFFF> Third Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "Carved in the round with white jade, the details are carved in shaded lines, and the mouths of the two fish are pierced and tied with gold chains. The double fish is one of the eight Buddhist auspicious objects."
     },
@@ -5407,8 +4721,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -5460,8 +4773,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5471,15 +4783,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FFFFFFFF> Third Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "A jade pendant carved with a luan bird. Auspicious symbolism."
     },
@@ -5500,8 +4803,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -5553,8 +4855,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5564,15 +4865,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FFFFFFFF> Third Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "Official kiln system, with a pinkish-green glaze over the entire body. The shape is neat and the glaze is green."
     },
@@ -5593,8 +4885,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -5646,8 +4937,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5657,15 +4947,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FFFFFFFF> Third Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "Made in Longquan kiln, the entire body is glazed with green, the shape is regular and the glaze is green and moist."
     },
@@ -5686,8 +4967,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -5739,8 +5019,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5750,15 +5029,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FFFFFFFF> Third Class </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
     "ItemDescription": {
       "Value": "A small pot made at Yaozhou kilns, carved with a lotus petal design, with two sets of strings above and below the lotus petal. The entire body is glazed with a greenish-yellow glaze. The decoration is simple and clear, with sharp knives and a rugged style."
     },
@@ -5779,8 +5049,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -5832,8 +5101,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5843,16 +5111,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Extreme </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -5870,8 +5128,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -5923,8 +5180,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -5934,16 +5190,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Extreme </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -5961,8 +5207,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -6014,8 +5259,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6025,16 +5269,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Extreme </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -6052,8 +5286,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -6105,8 +5338,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6116,16 +5348,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Extreme </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -6143,8 +5365,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -6196,8 +5417,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6207,16 +5427,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Extreme </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -6234,8 +5444,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -6287,8 +5496,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6298,16 +5506,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Extreme </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -6325,8 +5523,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -6378,8 +5575,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6389,16 +5585,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Extreme </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -6416,8 +5602,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -6469,8 +5654,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6480,16 +5664,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Extreme </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -6507,8 +5681,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -6560,8 +5733,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6571,16 +5743,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Extreme </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -6598,8 +5760,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -6651,8 +5812,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6662,16 +5822,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -6689,8 +5839,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -6742,8 +5891,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6753,16 +5901,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -6780,8 +5918,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -6833,8 +5970,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6844,16 +5980,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -6871,8 +5997,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -6924,8 +6049,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -6935,16 +6059,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -6962,8 +6076,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -7015,8 +6128,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7026,16 +6138,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -7053,8 +6155,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -7106,8 +6207,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7117,16 +6217,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -7144,8 +6234,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -7197,8 +6286,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7208,16 +6296,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -7235,8 +6313,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -7288,8 +6365,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7299,16 +6375,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -7326,8 +6392,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -7379,8 +6444,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7390,16 +6454,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -7417,8 +6471,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -7470,8 +6523,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7481,16 +6533,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -7508,8 +6550,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -7561,8 +6602,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7572,16 +6612,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -7599,8 +6629,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -7652,8 +6681,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     },
@@ -7663,16 +6691,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> One Piece </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "Conditions": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -7690,8 +6708,7 @@
           },
           "JieDuan": {
             "ValueInfo": "Ongoing phase"
-          },
-          "Value": {}
+          }
         }
       ]
     }
