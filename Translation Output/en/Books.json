@@ -5,47 +5,24 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {}
-        ],
         "Description": "Defeat Poison San Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "White Tiger Soup Recipe"
       },
       {
-        "YaoCaiGroup": [
-          {}
-        ],
         "Description": "Rain Remains Cool Recipe"
       },
       {
-        "YaoCaiGroup": [
-          {}
-        ],
         "Description": "Foot Care Cream Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Aromatic small yuan'er formula"
       },
       {
-        "YaoCaiGroup": [
-          {}
-        ],
         "Description": "Three degrees of frankincense oil formula"
       },
       {
-        "YaoCaiGroup": [
-          {}
-        ],
         "Description": "Shen Xiang Pills Formula"
       }
     ],
@@ -53,11 +30,8 @@
       "ValueInfo": " <color=#23FF00FF> Hostel Prescription </color> "
     },
     "ItemPinZhi": {
-      "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "Dong Ji's \"Hostel Prescriptions\" contains some of the common symptoms of diseases and remedies, which are simple, convenient and effective. It is a good medical book for people's hands."
     },
@@ -72,8 +46,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -84,32 +57,15 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Zheng Chai Hu Drink Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Ulcer Powder Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {},
-          {}
-        ],
         "Description": "Recipe for Supreme Inner Elixir"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Mukin Dan Formula"
       }
     ],
@@ -119,9 +75,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "A medical book written by Su Shi and Shen Kuo. The contents are complicated, containing simple treatments for various diseases, and also mentioning the taboos for the regulation of daily life, which is a medical book of high quality."
     },
@@ -136,18 +89,15 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -158,30 +108,15 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {}
-        ],
         "Description": "Immortal Jade Pot Pill Recipe"
       },
       {
-        "YaoCaiGroup": [
-          {}
-        ],
         "Description": "Rutabagasan Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Ice Clear Molten Venom Recipe"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {},
-          {}
-        ],
         "Description": "Blood-breaking golden sore medicine formula"
       }
     ],
@@ -191,9 +126,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "Taizong paid attention to medicine in his daily life and received more than a thousand prescriptions. Later, he ordered Hanlin medical officials to collect prescriptions from various schools and started to proofread the official prescription book in the third year of Taiping Xingguo."
     },
@@ -208,8 +140,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -220,31 +151,15 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Tansy cream formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Ten Gods Soup Recipe"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Patchouli plaster tea recipe"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Qiang Wu Tong Wei Wan Formula"
       }
     ],
@@ -254,9 +169,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "The Treatise on Typhoid and Miscellaneous Diseases is a medical masterpiece written by Zhang Zhongjing of the Eastern Han Dynasty, who has collected many books and prescriptions and has devoted his life to it."
     },
@@ -271,18 +183,15 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -293,25 +202,12 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Scutellaria Baicalensis and Huang Lian Tang Recipe"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Purple Fire Treasure Pill Recipe"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {},
-          {}
-        ],
         "Description": "Great Tonic Inner Elixir Formula"
       }
     ],
@@ -321,9 +217,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragons, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "It is the oldest medical text on Chinese medicine, and numerous later prescriptions have referred to and drawn from it. The contents include regimen, yin and yang, organs and signs, meridians and theories of treatment."
     },
@@ -338,8 +231,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -350,18 +242,9 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Seven Star Pills Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {},
-          {}
-        ],
         "Description": "Shennong Returning Yang Pill Formula"
       }
     ],
@@ -371,9 +254,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "One of the four classics of medicine, the Shennong Ben Cao Jing systematically summarizes the experience of ancient healers and other aspects of medicine, and provides a comprehensive and systematic organization of the already acquired knowledge of medicine."
     },
@@ -388,18 +268,15 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -410,18 +287,9 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Tonic Pill Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {},
-          {}
-        ],
         "Description": "Dragon's Saliva Cream Recipe"
       }
     ],
@@ -431,9 +299,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "The \"Da Guan Ben Cao\" not only contains information about the herbs of previous generations, sorted by year, but also adds theoretical knowledge about the herbs from various regions and Buddhist books and Taoist collections."
     },
@@ -448,8 +313,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -460,26 +324,12 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {},
-          {},
-          {}
-        ],
         "Description": "Five elements back to the sky herb formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Golden marrow herbal formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {},
-          {}
-        ],
         "Description": "Protector of the spirit to restore the heart recipe"
       }
     ],
@@ -489,9 +339,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragons, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "One of the four classics of medicine, \"Jin Kui\" is the place where the holy sermons and actual records of the ancient emperors were stored, meaning the preciousness of the contents of this book. The medical evidence described in this book is mainly internal miscellaneous diseases, as well as surgical diseases, first aid for stroke and death, and dietary contraindications. It is known as \"the ancestor of prescription books\"."
     },
@@ -506,8 +353,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -518,15 +364,9 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {}
-        ],
         "Description": "Tian Xiaoyuan Dan Recipe"
       },
       {
-        "YaoCaiGroup": [
-          {}
-        ],
         "Description": "Wuji Phoenix Pill Recipe"
       }
     ],
@@ -534,12 +374,8 @@
       "ValueInfo": " <color=#23FF00FF> Puji Cao Fang </color> "
     },
     "ItemPinZhi": {
-      "ValueInfo": " <color=#23FF00FF> Tiger, etc. </color> "
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -551,8 +387,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -563,17 +398,9 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Star and Moon Dew Recipe"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Bone Washing Gold Ointment Formula"
       }
     ],
@@ -583,10 +410,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -598,8 +421,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -610,24 +432,12 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Tonic Zhong Yi Qi Pill Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Zenith Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Recipe for Hunting Heavenly Pill"
       }
     ],
@@ -637,10 +447,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -652,8 +458,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -664,27 +469,12 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Ninth Heavenly Returning Pill Recipe"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {},
-          {},
-          {}
-        ],
         "Description": "Seven Fate Pill Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {},
-          {}
-        ],
         "Description": "Blood clotting herbal formula"
       }
     ],
@@ -694,10 +484,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -709,18 +495,15 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -731,18 +514,9 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Cough and Blood Cream Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {},
-          {}
-        ],
         "Description": "Kudzuhua decongestant soup recipe"
       }
     ],
@@ -752,10 +526,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -767,18 +537,15 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -789,18 +556,9 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {},
-          {},
-          {}
-        ],
         "Description": "Yu Heng Bone Replacement Medicine Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Nandoo Red Paste Recipe"
       }
     ],
@@ -810,10 +568,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -825,18 +579,15 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -847,25 +598,12 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Thousand Turn Tonic Elixir Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Tai Yi Ling Purple Ointment Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {},
-          {}
-        ],
         "Description": "Jade Clear White Bone Cream Formula"
       }
     ],
@@ -875,10 +613,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -890,18 +624,15 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -912,38 +643,18 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Shoujiyuwan Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Yan Yang Articulated Life Soup Recipe"
       },
       {
-        "YaoCaiGroup": [
-          {}
-        ],
         "Description": "Bijou poison recipe"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {},
-          {}
-        ],
         "Description": "Drunken Spirit Recipe"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Barrier Breaking Golden Pill Formula"
       }
     ],
@@ -953,9 +664,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "Five Poison Cave generations of master research and writing the holy scriptures of poison. Recorded poison formulas are first-class poison, it is said that in order to write this secret code, I do not know how many innocent lives died in the Five Poison Cave because of poison testing ......"
     },
@@ -970,8 +678,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -982,28 +689,15 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {}
-        ],
         "Description": "Luanfeng Smoke Recipe"
       },
       {
-        "YaoCaiGroup": [
-          {}
-        ],
         "Description": "Red Scorpion Powder Recipe"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Cloudy Void Recipe"
       },
       {
-        "YaoCaiGroup": [
-          {}
-        ],
         "Description": "Lei Gong Secret Wine Recipe"
       }
     ],
@@ -1013,9 +707,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "It is said that the author of this poison scripture is a Taoist priest of the former dynasty, usually do not care to cultivate immortality, only love to study the preparation of poison. Before he died, he lamented that he had wasted his time and became addicted to making poisons, so he named the poison sutra, which he had devoted his life to, \"Three Chapters of Void Addiction\"."
     },
@@ -1030,18 +721,15 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1052,25 +740,12 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Spiritual Compulsion Recipe"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {},
-          {}
-        ],
         "Description": "Golden Jade Pill Recipe"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Earthen Stone Heart Clearing Pill Recipe"
       }
     ],
@@ -1080,9 +755,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "People often use the term \"phoenix in flight\" to refer to two lovers in love. It is said that this poison scripture is written by a woman in Miaojiang, because her beloved husband unfortunately died of compulsion, from then on to study insect compulsion, spent her life writing down the production of a variety of insect compulsion poison and the antidote prescription, and named \"broken phoenix poison scripture\"."
     },
@@ -1097,8 +769,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1109,30 +780,15 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {}
-        ],
         "Description": "Artemisia on Snow Recipe"
       },
       {
-        "YaoCaiGroup": [
-          {}
-        ],
         "Description": "Snowdrop Begonia Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Red Letter Paste Recipe"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {},
-          {}
-        ],
         "Description": "Thunderbolt Dispersion Formula"
       }
     ],
@@ -1142,9 +798,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
     "ItemDescription": {
       "Value": "It is said that the power of the poison made according to this formula is enough to make the stars and the moon swallow the sun and turn the world upside down."
     },
@@ -1159,18 +812,15 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1181,30 +831,15 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Yuan Yang Hua Poison San Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Green Lotus Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Shoujiyuwan Formula"
       },
       {
-        "YaoCaiGroup": [
-          {}
-        ],
         "Description": "Broken Vein Herb Formula"
       }
     ],
@@ -1214,10 +849,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -1229,18 +860,15 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1251,23 +879,12 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Golden Thread Snake Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Hookah Pills Recipe"
       },
       {
-        "YaoCaiGroup": [
-          {}
-        ],
         "Description": "Sachiu Root Formula"
       }
     ],
@@ -1277,10 +894,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -1292,18 +905,15 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1314,22 +924,12 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {}
-        ],
         "Description": "Peach Blossom Lotion Recipe"
       },
       {
-        "YaoCaiGroup": [
-          {}
-        ],
         "Description": "Heart Eating Powder Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Bone charming medicine recipe"
       }
     ],
@@ -1339,10 +939,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -1354,18 +950,15 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1376,18 +969,9 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Golden Face Fragrance Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {},
-          {}
-        ],
         "Description": "Tianzheng Si San Pills Formula"
       }
     ],
@@ -1397,10 +981,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -1412,8 +992,7 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1424,25 +1003,12 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Flickering Smile Recipe"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Wind-breaking oil formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {},
-          {}
-        ],
         "Description": "Ragged Throat Heartworm Formula"
       }
     ],
@@ -1452,10 +1018,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -1467,18 +1029,15 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1489,31 +1048,15 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Yellow Dragon Poison Pill Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Spiritual Horn Manifold Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Golden Silkworm Compulsion Recipe"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Recipe for Secret Pill of Separate Elements"
       }
     ],
@@ -1523,10 +1066,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF00B6FF> Feng et al. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -1538,18 +1077,15 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
@@ -1560,17 +1096,9 @@
     },
     "PeiFangs": [
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Jin Wu Poison Pill Formula"
       },
       {
-        "YaoCaiGroup": [
-          {},
-          {}
-        ],
         "Description": "Recipe for Mournful Erosion of Tears"
       }
     ],
@@ -1580,10 +1108,6 @@
     "ItemPinZhi": {
       "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
     },
-    "ItemZhiMingDu": {},
-    "BuyPrice": {},
-    "SalePrice": {},
-    "ItemDescription": {},
     "ItemTeSes": {
       "Values": [
         {
@@ -1595,18 +1119,15 @@
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         },
         {
-          "Name": {},
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
           },
           "ValueOperator": {
             "ValueInfo": "Value added"
-          },
-          "Value": {}
+          }
         }
       ]
     }
