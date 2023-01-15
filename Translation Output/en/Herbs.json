@@ -42,7 +42,7 @@
       "ValueInfo": " <color=#FFFFFFFF> Foot Care Cream </color> "
     },
     "ItemPinZhi": {
-      "ValueInfo": " <color=#FFFFFFFF> Common </color> "
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
     },
     "ItemDescription": {
       "Value": "A poultice containing peppermint, applied to the soles of the feet can effectively relieve soreness and fatigue."
@@ -140,7 +140,7 @@
       "ValueInfo": " <color=#FFFFFFFF> Dispersing bruises and tumble dew </color> "
     },
     "ItemPinZhi": {
-      "ValueInfo": " <color=#FFFFFFFF> Common </color> "
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
     },
     "ItemDescription": {
       "Value": "A common wound remedy for bruises and injuries in the jungle. It has the effect of activating blood circulation and removing blood stasis, reducing inflammation and relieving pain."
@@ -175,7 +175,7 @@
       "ValueInfo": " <color=#FFFFFFFF> Saffron Comic Wine </color> "
     },
     "ItemPinZhi": {
-      "ValueInfo": " <color=#FFFFFFFF> Common </color> "
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
     },
     "ItemDescription": {
       "Value": "A medicinal wine made with saffron is used to disperse blood stasis, open knots, reduce swelling and relieve pain."
@@ -280,7 +280,7 @@
       "ValueInfo": " <color=#FFFFFFFF> Aromatherapy Xiao Yuan Er </color> "
     },
     "ItemPinZhi": {
-      "ValueInfo": " <color=#FFFFFFFF> Common </color> "
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
     },
     "ItemDescription": {
       "Value": "Jianghu can be found everywhere refreshing pills."
@@ -315,7 +315,7 @@
       "ValueInfo": " <color=#FFFFFFFF> Peng Sha Yuan </color> "
     },
     "ItemPinZhi": {
-      "ValueInfo": " <color=#FFFFFFFF> Common </color> "
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
     },
     "ItemDescription": {
       "Value": "An unusual medication specifically for chest tightness and shortness of breath."
@@ -1599,7 +1599,7 @@
       "ValueInfo": " <color=#FFFFFFFF> Tian Xiao Hui Dan </color> "
     },
     "ItemPinZhi": {
-      "ValueInfo": " <color=#FFFFFFFF> Common </color> "
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
     },
     "ItemDescription": {
       "Value": "Ordinary tonic that can only replenish a little bit of internal strength."
@@ -1634,7 +1634,7 @@
       "ValueInfo": " <color=#FFFFFFFF> Rejuvenation Tonics </color> "
     },
     "ItemPinZhi": {
-      "ValueInfo": " <color=#FFFFFFFF> Common </color> "
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
     },
     "ItemDescription": {
       "Value": "A soup with the effect of clearing heat and defeating fire, tonifying and nourishing qi."
@@ -1669,7 +1669,7 @@
       "ValueInfo": " <color=#FFFFFFFF> Sedum Pills </color> "
     },
     "ItemPinZhi": {
-      "ValueInfo": " <color=#FFFFFFFF> Common </color> "
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
     },
     "ItemDescription": {
       "Value": "Herbs such as sedum, mullein and orange peel are crushed into powder and refined into pills with honey. It can effectively replenish Qi."
@@ -2144,7 +2144,7 @@
       "ValueInfo": " <color=#FFFFFFFF> Defeat Poison San </color> "
     },
     "ItemPinZhi": {
-      "ValueInfo": " <color=#FFFFFFFF> Common </color> "
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
     },
     "ItemDescription": {
       "Value": "A proprietary Chinese medicine used for the treatment of mild symptoms. It is mainly used for treating Qi deficiency and external wind-cold-dampness symptoms. It has the effect of dispersing cold and dispelling dampness, benefiting qi and relieving symptoms."
@@ -2174,7 +2174,7 @@
       "ValueInfo": " <color=#FFFFFFFF> Bai Hu Tang </color> "
     },
     "ItemPinZhi": {
-      "ValueInfo": " <color=#FFFFFFFF> Common </color> "
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
     },
     "ItemDescription": {
       "Value": "A kind of tonics used for the treatment of mild illnesses. It is mainly used for treating infectious diseases. It is a heat-clearing agent with the effect of clearing heat from qi and clearing heat to produce body fluid."
@@ -5488,7 +5488,7 @@
       "ValueInfo": " <color=#FFFFFFFF> Root and stem herbs </color> "
     },
     "ItemPinZhi": {
-      "ValueInfo": " <color=#FFFFFFFF> Common </color> "
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
     },
     "ItemDescription": {
       "Value": "Root and stem herbal materials for pharmaceutical use"
@@ -5572,7 +5572,7 @@
       "ValueInfo": " <color=#FFFFFFFF> Whole herbs </color> "
     },
     "ItemPinZhi": {
-      "ValueInfo": " <color=#FFFFFFFF> Common </color> "
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
     },
     "ItemDescription": {
       "Value": "Unusual whole herb materials for pharmaceutical use"
