@@ -1836,7 +1836,7 @@
       },
       "ZhiLi": {
         "Name": {
-          "cn": "Finger Force",
+          "cn": "Finger Skill",
           "info": "--- Refers to the strength of martial arts stances --- Stance strength bonus ---"
         }
       },
@@ -1878,7 +1878,7 @@
       },
       "YongQiang": {
         "Name": {
-          "cn": "With spears",
+          "cn": "Spear Skill",
           "info": "--- Spear martial arts stance strength --- Stance strength bonus ---"
         }
       },
@@ -1920,7 +1920,7 @@
       },
       "ShuaGun": {
         "Name": {
-          "cn": "play with a stick",
+          "cn": "Staff Skill",
           "info": "---Stick martial arts stance strength ---Stance strength bonus ---"
         }
       },
@@ -2724,7 +2724,7 @@
           "Desc": "Sixth grade \"Diocesan\""
         },
         "Dang7": {
-          "Desc": "Seventh gear \"through\""
+          "Desc": "Seventh gear \"$\""
         },
         "Dang8": {
           "Desc": "Eight files \"pure\""
@@ -4790,7 +4790,7 @@
             "Thick Finger Power",
             "Strong finger wind",
             "Brave and powerful",
-            "Finger Force Masculine",
+            "Finger Skill Masculine",
             "Mighty power"
           ],
           "Yin": [
@@ -8263,9 +8263,9 @@
           "Fist & Palm",
           "Sword Skill",
           "Blade Skill",
-          "Finger Force",
-          "With spears",
-          "play with a stick",
+          "Finger Skill",
+          "Spear Skill",
+          "Staff Skill",
           "axe",
           "Whip art",
           "hook method",
@@ -9606,9 +9606,9 @@
         "QuanZhang": "Fist & Palm",
         "YongJian": "Sword Skill",
         "ShiDao": "Blade Skill",
-        "ZhiLi": "Finger Force",
-        "ShuaGun": "play with a stick",
-        "YongQiang": "With spears",
+        "ZhiLi": "Finger Skill",
+        "ShuaGun": "Staff Skill",
+        "YongQiang": "Spear Skill",
         "YunFu": "axe",
         "BianShu": "Whip art",
         "GouFa": "hook method",
@@ -9653,7 +9653,7 @@
     },
     "ShiLiPiao": {
       "SLP_Trade_Panel_Juan": "{0} volume",
-      "SLP_Trade_Panel_DuiHuanJuan": "1 volume to {0} $",
+      "SLP_Trade_Panel_DuiHuanJuan": "1 volume to {0}$",
       "SLP_Trade_Panel_ConfirmJuan": "Sure you want to redeem {0} rolls of merchant tickets?"
     },
     "FightStory": {
@@ -15954,13 +15954,13 @@
         "Text": "Fist & Palm"
       },
       "指力": {
-        "Text": "Finger Force"
+        "Text": "Finger Skill"
       },
       "用枪": {
-        "Text": "With spears"
+        "Text": "Spear Skill"
       },
       "耍棍": {
-        "Text": "play with a stick"
+        "Text": "Staff Skill"
       },
       "运斧": {
         "Text": "axe"
