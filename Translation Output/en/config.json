@@ -5709,7 +5709,7 @@
     "FightCenterPointEffects": {}
   },
   "Map": {
-    "Mouse_CoText": "{ 0},{ 1}"
+    "Mouse_CoText": "{0},{1}"
   },
   "UIBattle": {
     "Character": {
