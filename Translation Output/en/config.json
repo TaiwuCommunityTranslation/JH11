@@ -8955,6 +8955,41 @@
           "WenWanShouCang": {
             "Info1": "Are you sure you want to take out all of your collection?"
           }
+        },
+        "CunRuAll": {
+          "BingQiRongJu": {
+            "Info1": "Are you sure you want to deposit all the weapons and armaments?"
+          },
+          "MiJiBaoDian": {
+            "Info1": "Sure you want to deposit all the secret treasures?"
+          },
+          "LingDanMiaoYao": {
+            "Info1": "Sure you want to deposit all the elixirs?"
+          },
+          "ShiCaiJiaYao": {
+            "Info1": "Are you sure you want to deposit all the ingredients for the delicacies?"
+          },
+          "ChaJvChaYe": {
+            "Info1": "Sure you want to deposit all your tea sets and tea leaves?"
+          },
+          "JiuQiMingJiu": {
+            "Info1": "Are you sure you want to deposit all the wine vessels and famous wines?"
+          },
+          "ShiCiShuKan": {
+            "Info1": "Sure you want to deposit all your poetry books?"
+          },
+          "YiShuDuJing": {
+            "Info1": "Are you sure you want to deposit all the healing and poison scriptures?"
+          },
+          "ShuFaHuiHua": {
+            "Info1": "Sure you want to deposit all calligraphy paintings?"
+          },
+          "YueQiYuePu": {
+            "Info1": "Are you sure you want to deposit all instrument scores?"
+          },
+          "WenWanShouCang": {
+            "Info1": "Sure you want to deposit all of your Wenhua collection?"
+          }
         }
       },
       "DaZuo": {
@@ -9545,6 +9580,10 @@
       "GuanPu_Dice_Small": "{0} small",
       "GuanPuRuleInfo_Special_Big": "Special <color=#DDBE84FF> * </color> \"3 dice totaling {0} to {1} points\" can be drawn again <color=#5CCAA6FF> 1 time blind </color> <color=#DDBE84FF> \n* </color> \"1 point on all 3 dice\" will get 3 prizes directly from <color=#5CCAA6FF> </color> <color=#DDBE84FF> \n* </color> \"3 dice with 6 points\" directly to <color=#5CCAA6FF> 6 prizes </color> ",
       "GuanPuRuleInfo_Special_Small": "Special <color=#DDBE84FF> * </color> \"3 dice totaling {0} to {1} points\" can be drawn again <color=#5CCAA6FF> 1 time blind </color> <color=#DDBE84FF> \n* </color> \"1 point on all 3 dice\" will get 3 prizes directly from <color=#5CCAA6FF> </color> <color=#DDBE84FF> \n* </color> \"3 dice with 6 points\" directly to <color=#5CCAA6FF> 6 prizes </color> ",
+      "GongFaHuiShouAll": {
+        "Info1": "Are you sure you want to recall all the gong methods?",
+        "Info2": "(A total of { 0} points of enlightenment will be gained)"
+      },
       "ChaoZhuanGongFaPanelName": "Copying Kung Fu",
       "GongFaJiHuiPanelName": "Kung Fu sent back",
       "GongFaJiHui_XiuLianCengJi": "Kung Fu Levels"
@@ -15760,7 +15799,7 @@
         "PlaceName": "Wu Gorge"
       },
       {
-        "PlaceName": "Seaside"
+        "PlaceName": "Seaside Cottage"
       },
       {
         "PlaceName": "Liuyun Cliff"
