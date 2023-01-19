@@ -8955,6 +8955,41 @@
           "WenWanShouCang": {
             "Info1": "确定要取出所有文玩收藏吗？"
           }
+        },
+        "CunRuAll": {
+          "BingQiRongJu": {
+            "Info1": "确定要存入所有兵器戎具吗？"
+          },
+          "MiJiBaoDian": {
+            "Info1": "确定要存入所有秘籍宝典吗？"
+          },
+          "LingDanMiaoYao": {
+            "Info1": "确定要存入所有灵丹妙药吗？"
+          },
+          "ShiCaiJiaYao": {
+            "Info1": "确定要存入所有食材佳肴吗？"
+          },
+          "ChaJvChaYe": {
+            "Info1": "确定要存入所有茶具茶叶吗？"
+          },
+          "JiuQiMingJiu": {
+            "Info1": "确定要存入所有酒器名酒吗？"
+          },
+          "ShiCiShuKan": {
+            "Info1": "确定要存入所有诗词书刊吗？"
+          },
+          "YiShuDuJing": {
+            "Info1": "确定要存入所有医术毒经吗？"
+          },
+          "ShuFaHuiHua": {
+            "Info1": "确定要存入所有书法绘画吗？"
+          },
+          "YueQiYuePu": {
+            "Info1": "确定要存入所有乐器乐谱吗？"
+          },
+          "WenWanShouCang": {
+            "Info1": "确定要存入所有文玩收藏吗？"
+          }
         }
       },
       "DaZuo": {
@@ -9545,6 +9580,10 @@
       "GuanPu_Dice_Small": "{0}小",
       "GuanPuRuleInfo_Special_Big": "特殊<color=#DDBE84FF>*</color>「3骰共计{0}至{1}点」可再<color=#5CCAA6FF> 盲抽1次</color><color=#DDBE84FF>\n*</color>「3骰都为1点」直接获得<color=#5CCAA6FF>3个奖品</color><color=#DDBE84FF>\n*</color>「3骰都为6点」直接获得<color=#5CCAA6FF>6个奖品</color>",
       "GuanPuRuleInfo_Special_Small": "特殊<color=#DDBE84FF>*</color>「3骰共计{0}至{1}点」可再<color=#5CCAA6FF> 盲抽1次</color><color=#DDBE84FF>\n*</color>「3骰都为1点」直接获得<color=#5CCAA6FF>3个奖品</color><color=#DDBE84FF>\n*</color>「3骰都为6点」直接获得<color=#5CCAA6FF>6个奖品</color>",
+      "GongFaHuiShouAll": {
+        "Info1": "确定要回收所有功法吗？",
+        "Info2": "（总共将获得{0}点参悟）"
+      },
       "ChaoZhuanGongFaPanelName": "抄撰功法",
       "GongFaJiHuiPanelName": "功法寄回",
       "GongFaJiHui_XiuLianCengJi": "功法层级"
@@ -15760,7 +15799,7 @@
         "PlaceName": "巫峡"
       },
       {
-        "PlaceName": "海边"
+        "PlaceName": "海边小屋"
       },
       {
         "PlaceName": "流云崖"
