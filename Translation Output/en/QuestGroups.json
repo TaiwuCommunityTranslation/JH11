@@ -2436,7 +2436,7 @@
       },
       {
         "Content": "\"The Ling Tian Clan has not been able to find Di Meng recently, no matter what. He hopes you can find Di Meng and confirm that she is safe.",
-        "Target": "Objective: <color=#FFA41BFF> Go to the capital to inquire about the trace of \"Di Meng\" </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to the capital to find \"Di Meng\" </color> ",
         "Map2DIndiValues": [
           {
             "Text": "The End of the World"
@@ -3345,19 +3345,20 @@
         }
       },
       {
-        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Tales - Five Poisons - Main Story Wu - Breaking the Phoenix Compulsion\" </size> </b> </color> \n\n\"Qiu Xing Qiu\" thinks that you have some talent in the art of poison, if you want him to teach you, you must find yourself a copy of \"Broken Phoenix Poison Sutra\".",
-        "Target": "Objective: <color=#FFA41BFF> Get the \"Broken Phoenix Poison Sutra\" and talk to \"Qiu Xing Qiu\", the head of \"Five Poisons Cave\" </color> ",
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Tales - Five Poisons - Main Story Wu - Breaking the Phoenix Compulsion\" </size> </b> </color> \n\n\"Qiu Xing Qiu\" thinks you have some talent in poisoning, if you want him to teach you, you must first find a copy of \"Luan Spider Poison Sutra\" for him.",
+        "Target": "Objective: <color=#FFA41BFF> Get \"Luan Spider Poison Scripture\" and talk to \"Five Poison Cave\" master \"Qiu Xing Qiu\"\n(You can go to Guilin to find \"Luan Spider Poison Scripture\") </color> ",
         "Map2DIndiValues": [
           {
             "Text": "Five Poison Cave"
           }
         ],
         "MuDiDiValues": {
-          "DDText": "Five Poison Cave"
+          "DDText": "Five Poison Cave",
+          "SSText": "Medicine Garden"
         }
       },
       {
-        "Content": "\"Qiu Xing Qiu taught you the key points of poison making and asked you to follow the recipe in the \"Broken Phoenix Poison Sutra\" to make the \"Soul Condensing Compulsion\".",
+        "Content": "\"He then asks you to follow the recipe in the \"Broken Phoenix Poison Sutra\" to make the \"Soul Condensation Compulsion\".",
         "Target": "Objective: <color=#FFA41BFF> Deliver the \"Soul Conjuring Compulsion\" to \"Qiu Xing Qiu\" </color> ",
         "Map2DIndiValues": [
           {
@@ -3365,7 +3366,8 @@
           }
         ],
         "MuDiDiValues": {
-          "DDText": "Five Poison Cave"
+          "DDText": "Five Poison Cave",
+          "SSText": "Medicine Garden"
         }
       },
       {
@@ -4774,7 +4776,7 @@
         "End": "The story is complete",
         "ShowChests": [
           {
-            "TEXT1": "Rumors of a secret treasure in the \"sea\"",
+            "TEXT1": "Rumors of a secret treasure in the \"beach house",
             "TEXT2": "-121, -21"
           }
         ]
@@ -6812,11 +6814,6 @@
       },
       {
         "Content": "After you met the Book Bearer, you found that the Snow Cat had returned to him. \"The Book Bearer expressed his gratitude to you for helping him find the Snow Cat.",
-        "Map2DIndiValues": [
-          {
-            "Text": "Snow Cat Search"
-          }
-        ],
         "End": "The story is complete",
         "ShowChests": [
           {
@@ -9567,7 +9564,7 @@
       },
       {
         "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Hengshan School\" </size> </b> </color> ",
-        "Target": "Challenge \"3\": <color=#FFA41BFF> After unlocking and collecting 10 \"paintings\" from the \"Jianghu Record\", go to \"Hengshan School\" and complete the challenge at the \"Guide\" </color> ",
+        "Target": "Challenge \"3\": <color=#FFA41BFF> After collecting 10 pieces of \"Calligraphy\" from the \"Jianghu Record\", go to \"Hengshan School\" and complete the challenge at the \"Guide\" </color> ",
         "Map2DIndiValues": [
           {
             "Text": "Sect Challenge"
