@@ -87,7 +87,7 @@
     "Quality": {
       "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
     },
-    "Description": "\"+5 to \"Concentration\" and +5 to \"Divine"
+    "Description": "\"+5 to \"Focus\" and +5 to \"Divine"
   },
   {
     "Name": {
@@ -150,7 +150,7 @@
     "Quality": {
       "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
     },
-    "Description": "\"Concentration\" +8 \"Determination\" +8 \"Will\" -10"
+    "Description": "\"Focus\" +8 \"Determination\" +8 \"Will\" -10"
   },
   {
     "Name": {
@@ -357,7 +357,7 @@
     "Quality": {
       "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
     },
-    "Description": "\"+5 to \"Concentration\" and +5 to \"Calmness"
+    "Description": "\"+5 to \"Focus\" and +5 to \"Calmness"
   },
   {
     "Name": {
