@@ -3667,7 +3667,7 @@
           "Description": "\"Qi Method\" -10"
         },
         {
-          "Description": "\"Body shape\" -10"
+          "Description": "\"Qi Purity\" -10"
         }
       ]
     }
@@ -3778,8 +3778,8 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Breathing\" -40 \"Body shape\" -40",
-            "ValueInfo": "\"Breathing\" -40 \"Body shape\" -40"
+            "Value": "\"Breathing\" -40 \"Qi Purity\" -40",
+            "ValueInfo": "\"Breathing\" -40 \"Qi Purity\" -40"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -3810,7 +3810,7 @@
           "Description": "\"Resting\" -40"
         },
         {
-          "Description": "\"Body shape\"-40"
+          "Description": "\"Qi Purity\"-40"
         }
       ]
     }
@@ -4006,8 +4006,8 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Lower hand\" -40 \"Body shape\" -40",
-            "ValueInfo": "\"Lower hand\" -40 \"Body shape\" -40"
+            "Value": "\"Lower hand\" -40 \"Qi Purity\" -40",
+            "ValueInfo": "\"Lower hand\" -40 \"Qi Purity\" -40"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -4038,7 +4038,7 @@
           "Description": "\"Lower\" -40"
         },
         {
-          "Description": "\"Body shape\"-40"
+          "Description": "\"Qi Purity\"-40"
         }
       ]
     }
