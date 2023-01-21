@@ -622,6 +622,15 @@
   },
   {
     "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Soul\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Fortunate Fortune\" +15 \"Fame\" +15"
+  },
+  {
+    "Name": {
       "ValueInfo": " <color=#FF9A00FF> \"One Hit Wins\" </color> "
     },
     "Quality": {
