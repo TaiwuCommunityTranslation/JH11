@@ -2234,13 +2234,13 @@
       },
       "QiLiang": {
         "Name": {
-          "cn": "Air volume",
+          "cn": "Qi Capacity",
           "info": "--- character internal strength bonus --- increase increase base internal strength value ---"
         }
       },
       "TiaoXi": {
         "Name": {
-          "cn": "Tune your breath",
+          "cn": "Qi Efficiency",
           "info": "--- Reduce the internal energy cost required for martial arts attack and defense moves --- Reduce the internal energy cost of the corresponding moves --- 0.1, 0.3, 0.66, 0.85 ---"
         }
       },
@@ -16053,10 +16053,10 @@
         "Text": "Brush Skl"
       },
       "气量": {
-        "Text": "Air volume"
+        "Text": "Qi Capacity"
       },
       "调息": {
-        "Text": "Tune your breath"
+        "Text": "Qi Efficiency"
       },
       "气法": {
         "Text": "Qi Method"
