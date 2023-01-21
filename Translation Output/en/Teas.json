@@ -1647,7 +1647,7 @@
           "Description": "\"God Comes\" +6"
         },
         {
-          "Description": "\"Body shape\" +8"
+          "Description": "\"Qi Purity\" +8"
         },
         {
           "Description": "\"Focus\" +8"
@@ -3343,7 +3343,7 @@
     "StateDescription": {
       "Pos": [
         {
-          "Description": "\"Body shape\" +6"
+          "Description": "\"Qi Purity\" +6"
         },
         {
           "Description": "\"Gods Come\" +6"
@@ -4227,7 +4227,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "+1 to \"body shape\" +1 to \"lower body\""
+            "Value": "+1 to \"Qi Purity\" +1 to \"lower body\""
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
