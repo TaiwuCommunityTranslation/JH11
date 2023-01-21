@@ -3149,8 +3149,8 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Waist Horse\" -15 \"Physique\" -15",
-            "ValueInfo": "\"Waist Horse\" -15 \"Physique\" -15"
+            "Value": "\"Core Power\" -15 \"Physique\" -15",
+            "ValueInfo": "\"Core Power\" -15 \"Physique\" -15"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -3178,7 +3178,7 @@
     "StateDescription": {
       "Neg": [
         {
-          "Description": "\"Waist Horse\"-15"
+          "Description": "\"Core Power\"-15"
         },
         {
           "Description": "\"Body\" -15"
@@ -3263,8 +3263,8 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Waist Horse\" -20",
-            "ValueInfo": "\"Waist Horse\" -20"
+            "Value": "\"Core Power\" -20",
+            "ValueInfo": "\"Core Power\" -20"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -3281,7 +3281,7 @@
     "StateDescription": {
       "Neg": [
         {
-          "Description": "\"Waist Horse\" -20"
+          "Description": "\"Core Power\" -20"
         }
       ]
     }
@@ -3392,8 +3392,8 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Waist Horse\" -30 \"Physique\" -30",
-            "ValueInfo": "\"Waist Horse\" -30 \"Physique\" -30"
+            "Value": "\"Core Power\" -30 \"Physique\" -30",
+            "ValueInfo": "\"Core Power\" -30 \"Physique\" -30"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -3421,7 +3421,7 @@
     "StateDescription": {
       "Neg": [
         {
-          "Description": "\"Waist Horse\"-30"
+          "Description": "\"Core Power\"-30"
         },
         {
           "Description": "\"Body\" -30"
@@ -4868,8 +4868,8 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Shinra\" +15 \"Waist Horse\" -40 \"Stamina\" -40",
-            "ValueInfo": "\"Shinra\" +15 \"Waist Horse\" -40 \"Stamina\" -40"
+            "Value": "\"Shinra\" +15 \"Core Power\" -40 \"Stamina\" -40",
+            "ValueInfo": "\"Shinra\" +15 \"Core Power\" -40 \"Stamina\" -40"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -4911,7 +4911,7 @@
           "Description": "\"Gods Come\" +15 "
         },
         {
-          "Description": "\"Waist Horse\"-40"
+          "Description": "\"Core Power\"-40"
         },
         {
           "Description": "\"Qi Capacity\" -40"
