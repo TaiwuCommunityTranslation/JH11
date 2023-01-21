@@ -2136,7 +2136,7 @@
           "Desc": "Concealed Weapon Novice"
         },
         "Dang3": {
-          "Desc": "Concealed weapons skilled"
+          "Desc": "Hdn Wpn Skl skilled"
         },
         "Dang4": {
           "Desc": "Good concealed weapons player"
@@ -2162,20 +2162,20 @@
       },
       "BiFa": {
         "Name": {
-          "cn": "Penmanship",
-          "info": "--- Penmanship --- Martial Arts Stance Strength --- Stance Strength Bonus ---"
+          "cn": "Brush Skl",
+          "info": "--- Brush Skl --- Martial Arts Stance Strength --- Stance Strength Bonus ---"
         }
       },
       "BiFaShenFen": {
         "Name": {
-          "cn": "Penmanship Identity",
+          "cn": "Brush Skl Identity",
           "info": "--- Identity description of the penmanship (the value is the highest attribute) ---"
         },
         "Dang1": {
-          "Desc": "Penmanship for Beginners"
+          "Desc": "Brush Skl for Beginners"
         },
         "Dang2": {
-          "Desc": "Penmanship for Beginners"
+          "Desc": "Brush Skl for Beginners"
         },
         "Dang3": {
           "Desc": "Skilled penmanship"
@@ -2193,13 +2193,13 @@
           "Desc": "Master of penmanship"
         },
         "Dang8": {
-          "Desc": "Master of Penmanship"
+          "Desc": "Master of Brush Skl"
         },
         "Dang9": {
-          "Desc": "Master of Penmanship"
+          "Desc": "Master of Brush Skl"
         },
         "Dang10": {
-          "Desc": "The Master of Penmanship"
+          "Desc": "The Master of Brush Skl"
         }
       },
       "YaoMa": {
@@ -3425,7 +3425,7 @@
         "Name": "Hook Skl"
       },
       {
-        "Name": "Penmanship"
+        "Name": "Brush Skl"
       },
       {
         "Name": "stick method"
@@ -3437,7 +3437,7 @@
         "Name": "Special"
       },
       {
-        "Name": "Concealed weapons"
+        "Name": "Hdn Wpn Skl"
       }
     ],
     "TeJiDescription": [
@@ -8304,8 +8304,8 @@
           "Axe Skill",
           "Whip Skill",
           "Hook Skl",
-          "Concealed weapons",
-          "Penmanship"
+          "Hdn Wpn Skl",
+          "Brush Skl"
         ]
       },
       {
@@ -9686,8 +9686,8 @@
         "YunFu": "Axe Skill",
         "BianShu": "Whip Skill",
         "GouFa": "Hook Skl",
-        "AnQi": "Concealed weapons",
-        "BiFa": "Penmanship"
+        "AnQi": "Hdn Wpn Skl",
+        "BiFa": "Brush Skl"
       },
       "SaveLoadPanel": {
         "BaoCun": "Save",
@@ -16047,10 +16047,10 @@
         "Text": "Hook Skl"
       },
       "暗器": {
-        "Text": "Concealed weapons"
+        "Text": "Hdn Wpn Skl"
       },
       "笔法": {
-        "Text": "Penmanship"
+        "Text": "Brush Skl"
       },
       "气量": {
         "Text": "Air volume"
