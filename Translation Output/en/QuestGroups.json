@@ -10500,5 +10500,18 @@
         "Content": "Successfully complete the \"Shaolin Temple\" sect challenge."
       }
     ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#FF5100FF> Sandbox Mode 1.0 </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "None"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Sandbox Mode\" </size> </b> </color> \nYou are welcome to explore the world of \"Journeyman Eleven\" freely.\n\n\"Sandbox Mode\" has more freedom to explore and learn martial arts routes; \"Sandbox Mode\" currently does not support \"Main Line\", \"Branch Line\", \"Hidden Martial Arts Tournament\" and \"Sect Challenge\".\n\n - Sandbox has no time limit\n - All scripts and random NPCs will have no death limit, except for some special NPCs (such as the Hidden Martial Arts Officer)\n - A large number of scripted NPCs will have their own routes of worship and martial arts transmission\n - NPCs will be more aggressive in their martial arts training and development\n - Killing life-threatening NPCs in deadly fights will be rewarded with drops, and there is a chance that the secret techniques carried in the bag will also be dropped\n - All NPCs in the script will be rewarded for their interactions with each other, including paper, ink, pencil and ink stone for the court characters, collectibles for the merchant characters, musical instruments and music for the courtesans, etc.\n - The combination of worship and sword discussion can basically collect all the martial arts and graduation weapons of a certain Kung Fu system. For example, if you want to learn spear technique, you can learn from Cang Hongsheng + participate in Ding Rong merchant sword discussion\n - Heavenly book sword discussion will have a new representative rewards\n - Heavenly book discussion sword and secret treasure will be more challenging\n - Battling increases the drop of sect introductory feats\n - Fighting wine to increase the drop of Jiang Hu internal light kung fu\n\n - You can import your own or other people's \"soul files\" into the sandbox; after opening a new \"sandbox mode\", the soul will become an NPC in the game\n - The \"soul NPC\" will retain most of the status of the character at the time of extraction, including the \"nurturing attributes\", \"skill training\", \"backpack bag\", etc.\n - Soul NPCs will have their own behavior and cultivation AI\n - Soul NPCs will participate in the sword discussion\n - Soul NPCs can be teamed up and interact with other types of relationships"
+      }
+    ]
   }
 ]
