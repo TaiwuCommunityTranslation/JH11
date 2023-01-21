@@ -2130,7 +2130,7 @@
         "Value": "With 4 \"Fighting Stances"
       },
       "FangZhiQiHeIndi": {
-        "Value": " <color=#FF5E4EFF> \"Appearing broken\" </color> Chance -15%; \"God comes\" +5; \"Body shape\" +5"
+        "Value": " <color=#FF5E4EFF> \"Appearing broken\" </color> Chance -15%; \"God comes\" +5; \"Qi Purity\" +5"
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +25%; \"Internal Power Cost\" +50%"
@@ -2156,7 +2156,7 @@
         },
         {
           "Name": {
-            "Value": "Body shape improved by 5"
+            "Value": "Qi Purity improved by 5"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
