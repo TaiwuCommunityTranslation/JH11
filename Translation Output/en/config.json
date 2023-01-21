@@ -2252,7 +2252,7 @@
       },
       "ShenXing": {
         "Name": {
-          "cn": "body shape",
+          "cn": "Qi Purity",
           "info": "--- Reduces the internal energy cost required for light moves --- Reduces the internal energy cost of the corresponding move --- 0.1, 0.3, 0.8, 1 ---"
         }
       }
@@ -4001,7 +4001,7 @@
           "[ShengFangName] this way \"[GongWuGongName]\" [TaoLuZhuangTai1], the other side has been attacked [BaiFanYing1]",
           "[ShengFangName] made the \"[GongWuGongName]\" [TaoLuZhuangTai1], the opponent can only be busy fighting",
           "[ShengFangName] longitudinal attack, the moves are continuous, but the other side can only be too busy to fight",
-          "Suddenly [ShengFangName] body shape a shake to grab on several feet to attack, the move exquisite hit each other [BaiFanYing1]",
+          "Suddenly [ShengFangName] Qi Purity a shake to grab on several feet to attack, the move exquisite hit each other [BaiFanYing1]",
           "[ShengFangName] offensive [GongShiMiaoShu1], the other party can only be too busy to fight",
           "[ShengFangName] offensive [GongShiMiaoShu1], the other side between the drama fight is already [BaiFanYing1]"
         ]
@@ -4024,7 +4024,7 @@
           "Two people move to the right, [ShengFangName] offensive [GongShiMiaoShu1], the other side can only barely fight without the power to fight back",
           "[ShengFangName] attack like a storm, [BaiFangName] without the power to fight, has been [BaiFanYing2]",
           "[ShengFangName] offensive [GongShiMiaoShu1], the other side was beaten already [BaiFanYing2]",
-          "Suddenly [ShengFangName] body shape a shake actually grabbed on a few feet to attack, the move exquisite make each other [BaiFanYing2]",
+          "Suddenly [ShengFangName] Qi Purity a shake actually grabbed on a few feet to attack, the move exquisite make each other [BaiFanYing2]",
           "[ShengFangName] longitudinal attack, the moves are continuous, the other side [BaiFanYing2] but no half way"
         ]
       },
@@ -16062,7 +16062,7 @@
         "Text": "Qi Method"
       },
       "身形": {
-        "Text": "body shape"
+        "Text": "Qi Purity"
       },
       "督脉": {
         "Text": "Du Chakra"
