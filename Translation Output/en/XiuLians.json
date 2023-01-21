@@ -21753,7 +21753,7 @@
       {
         "Results": [
           {
-            "LeftValueInfo": "\" <color=#E24344FF> Attack Stance </color> Power\n <color=#D7D7D7FF>  <size=15> Concealed weapons martial arts </size> </color> ",
+            "LeftValueInfo": "\" <color=#E24344FF> Attack Stance </color> Power\n <color=#D7D7D7FF>  <size=15> Hdn Wpn Skl martial arts </size> </color> ",
             "RightValueInfo": "+10%"
           }
         ]
@@ -21879,7 +21879,7 @@
       {
         "Results": [
           {
-            "LeftValueInfo": "\" <color=#E24344FF> Attack Stance </color> Power\n <color=#D7D7D7FF>  <size=15> Penmanship Martial Arts </size> </color> ",
+            "LeftValueInfo": "\" <color=#E24344FF> Attack Stance </color> Power\n <color=#D7D7D7FF>  <size=15> Brush Skl Martial Arts </size> </color> ",
             "RightValueInfo": "+15%"
           }
         ]
@@ -21887,7 +21887,7 @@
       {
         "Results": [
           {
-            "LeftValueInfo": "\" <color=#5C9BE2FF> Anti-stance </color> Power\"\n <color=#D7D7D7FF>  <size=15> Penmanship Martial Arts </size> </color> ",
+            "LeftValueInfo": "\" <color=#5C9BE2FF> Anti-stance </color> Power\"\n <color=#D7D7D7FF>  <size=15> Brush Skl Martial Arts </size> </color> ",
             "RightValueInfo": "+15%"
           }
         ]
