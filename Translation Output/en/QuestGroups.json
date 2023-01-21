@@ -2481,7 +2481,7 @@
         "Content": "The two of you found two corpses in the mountain forest, and from there you found the remnants of the secret book. You wanted to leave this mountain forest quickly, but found that you could no longer find the way you came before, and you seemed to have been spinning in place, no matter how you could not get out."
       },
       {
-        "Content": "\"Thinking that we might be able to get a clue from the remnants of the chapter we just obtained, Dimon practiced his swordplay on the spot and got carried away with his killing intent and fought you to the death."
+        "Content": "\"Thinking that we might be able to get a clue from the remnants of the chapter we just obtained, Dimon practiced his swordplay on the spot and got carried away with his Killing Intent and fought you to the death."
       },
       {
         "Content": "The \"Dimon\" became unusually vicious, with moves that seemed to take your life, but she stopped herself in time when she finally made the killing move."
@@ -2596,8 +2596,8 @@
         }
       },
       {
-        "Content": "\"Leng Yang Yue has given you a poison that can enhance your killing intent, \"Heart Eating Scatter\", and asked you to make good use of it.",
-        "Target": "Objective: <color=#FFA41BFF> Improve \"killing intent\" and then go to \"Blood Hand Sect\" to find \"Liu Zhengfeng\" </color> ",
+        "Content": "\"Leng Yang Yue has given you a poison that can enhance your Killing Intent, \"Heart Eating Scatter\", and asked you to make good use of it.",
+        "Target": "Objective: <color=#FFA41BFF> Improve \"Killing Intent\" and then go to \"Blood Hand Sect\" to find \"Liu Zhengfeng\" </color> ",
         "Map2DIndiValues": [
           {
             "Text": "Bright red toads"
@@ -10144,7 +10144,7 @@
       },
       {
         "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Wudang School\" </size> </b> </color> ",
-        "Target": "Challenge \"3\": <color=#FFA41BFF> After \"Concentration\" reaches 75, go to \"Wudang Sect\" and complete the challenge at the \"Guide\" </color> ",
+        "Target": "Challenge \"3\": <color=#FFA41BFF> After \"Focus\" reaches 75, go to \"Wudang Sect\" and complete the challenge at the \"Guide\" </color> ",
         "Map2DIndiValues": [
           {
             "Text": "Sect Challenge"
@@ -10152,8 +10152,8 @@
         ],
         "MPTZMuBiaoValues": {
           "CheckShuXing": {
-            "Text": "\"Concentration\" reached 75",
-            "ShuXing": "Concentration"
+            "Text": "\"Focus\" reached 75",
+            "ShuXing": "Focus"
           }
         }
       },
