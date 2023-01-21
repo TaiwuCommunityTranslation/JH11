@@ -9582,7 +9582,7 @@
       "GuanPuRuleInfo_Special_Small": "Special <color=#DDBE84FF> * </color> \"3 dice totaling {0} to {1} points\" can be drawn again <color=#5CCAA6FF> 1 time blind </color> <color=#DDBE84FF> \n* </color> \"1 point on all 3 dice\" will get 3 prizes directly from <color=#5CCAA6FF> </color> <color=#DDBE84FF> \n* </color> \"3 dice with 6 points\" directly to <color=#5CCAA6FF> 6 prizes </color> ",
       "GongFaHuiShouAll": {
         "Info1": "Are you sure you want to recall all the gong methods?",
-        "Info2": "(A total of { 0} points of enlightenment will be gained)"
+        "Info2": "(A total of {0} points of enlightenment will be gained)"
       },
       "ChaoZhuanGongFaPanelName": "Copying Kung Fu",
       "GongFaJiHuiPanelName": "Kung Fu sent back",
