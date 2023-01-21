@@ -170,10 +170,10 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"+2 for \"body shape"
+        "Description": "\"+2 for \"Qi Purity"
       }
     ],
-    "Teses_ShuXing_ValueInfo": "\"+2 for \"body shape",
+    "Teses_ShuXing_ValueInfo": "\"+2 for \"Qi Purity",
     "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
@@ -344,7 +344,7 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"+1 for \"body shape"
+        "Description": "\"+1 for \"Qi Purity"
       }
     ],
     "Teses_ZhanDou": {
@@ -359,7 +359,7 @@
         }
       ]
     },
-    "Teses_ShuXing_ValueInfo": "\"+1 for \"body shape",
+    "Teses_ShuXing_ValueInfo": "\"+1 for \"Qi Purity",
     "Teses_ZhanDou_ValueInfo": "10% increase in \"Attack Power\"."
   },
   {
@@ -710,10 +710,10 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"+2 for \"body shape"
+        "Description": "\"+2 for \"Qi Purity"
       }
     ],
-    "Teses_ShuXing_ValueInfo": "\"+2 for \"body shape",
+    "Teses_ShuXing_ValueInfo": "\"+2 for \"Qi Purity",
     "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
@@ -2217,13 +2217,13 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"Body shape\" +3"
+        "Description": "\"Qi Purity\" +3"
       },
       {
         "Description": "\"Charm\" +3"
       }
     ],
-    "Teses_ShuXing_ValueInfo": "\"+3 to \"body shape\" +3 to \"charisma",
+    "Teses_ShuXing_ValueInfo": "\"+3 to \"Qi Purity\" +3 to \"charisma",
     "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
@@ -2427,7 +2427,7 @@
         "Description": "\"Concealed Weapon\" +3"
       },
       {
-        "Description": "\"Body shape\" +6"
+        "Description": "\"Qi Purity\" +6"
       }
     ],
     "Teses_ShuXing_ValueInfo": "\"+3 to \"Concealed Weapon\" +6 to \"Body Form",
