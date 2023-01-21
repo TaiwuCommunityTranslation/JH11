@@ -66,8 +66,40 @@
         405
       ]
     ],
+    "Player": {
+      "Templates": [
+        {
+          "BranchText": "轻松：初始实力评分71+",
+          "ConfirmText": "确定选择实力评分71+开始创建人物？"
+        },
+        {
+          "BranchText": "普通：初始实力评分61+",
+          "ConfirmText": "确定选择实力评分61+开始创建人物？"
+        },
+        {
+          "BranchText": "困难：初始实力评分51+",
+          "ConfirmText": "确定选择实力评分51+开始创建人物？"
+        }
+      ]
+    },
     "StartScene": {},
-    "Quest": {}
+    "Quest": {},
+    "Player_SandBox": {
+      "Templates": [
+        {
+          "BranchText": "轻松：初始实力评分71+",
+          "ConfirmText": "确定选择实力评分71+开始创建人物？"
+        },
+        {
+          "BranchText": "普通：初始实力评分61+",
+          "ConfirmText": "确定选择实力评分61+开始创建人物？"
+        },
+        {
+          "BranchText": "困难：初始实力评分51+",
+          "ConfirmText": "确定选择实力评分51+开始创建人物？"
+        }
+      ]
+    }
   },
   "Place": {
     "SheShiCharacterNum": {
@@ -9756,7 +9788,8 @@
       }
     },
     "LingHunHub": {
-      "DeleteConfirmInfo": "确定要删除{0}的灵魂吗？"
+      "DeleteConfirmInfo": "确定要删除{0}的灵魂吗？",
+      "DeleteConfirmInfo_Sandbox": "确定要从沙盒中移除{0}的灵魂吗？"
     },
     "GraphicSystem": {
       "GS_Confirm": {
@@ -15719,15 +15752,15 @@
         ],
         "Weights": [
           [
-            0.05,
+            0.01,
             10.0
           ],
           [
-            0.2,
+            0.02,
             10.0
           ],
           [
-            0.516,
+            0.25,
             10.0
           ]
         ]
@@ -15751,15 +15784,15 @@
         ],
         "Weights": [
           [
-            0.05,
+            0.01,
             10.0
           ],
           [
-            0.2,
+            0.02,
             10.0
           ],
           [
-            0.516,
+            0.25,
             10.0
           ]
         ]
@@ -15799,7 +15832,7 @@
         "PlaceName": "巫峡"
       },
       {
-        "PlaceName": "海边小屋"
+        "PlaceName": "海边"
       },
       {
         "PlaceName": "流云崖"
@@ -16706,6 +16739,9 @@
       },
       {
         "Name": "降龙"
+      },
+      {
+        "Name": "画堂春"
       }
     ],
     "Female": [
@@ -17023,6 +17059,9 @@
       },
       {
         "Name": "惜奴娇"
+      },
+      {
+        "Name": "迎新春"
       }
     ]
   },

@@ -622,6 +622,15 @@
   },
   {
     "Name": {
+      "ValueInfo": "<color=#FFECD9FF>「灵魂」</color>"
+    },
+    "Quality": {
+      "ValueInfo": "<color=#D7C8AFFF>天赋</color>"
+    },
+    "Description": "「福缘」+15「名气」+15"
+  },
+  {
+    "Name": {
       "ValueInfo": "<color=#FF9A00FF>「一击制胜」</color>"
     },
     "Quality": {
