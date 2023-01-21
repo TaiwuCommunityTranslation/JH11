@@ -1449,7 +1449,7 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"+3 for \"Knife Making"
+        "Description": "\"+3\" to Blade Skill"
       }
     ],
     "Teses_ZhanDou": {
@@ -1472,7 +1472,7 @@
         }
       ]
     },
-    "Teses_ShuXing_ValueInfo": "\"+3 for \"Knife Making",
+    "Teses_ShuXing_ValueInfo": "\"+3\" to Blade Skill",
     "Teses_ZhanDou_ValueInfo": "20% increase in \"Attacking Power\" and 10% increase in \"Breaking\" chance"
   },
   {
@@ -1531,10 +1531,10 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"+10 for \"Knife Making"
+        "Description": "\"+10\" to Blade Skill"
       }
     ],
-    "Teses_ShuXing_ValueInfo": "\"+10 for \"Knife Making",
+    "Teses_ShuXing_ValueInfo": "\"+10\" to Blade Skill",
     "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
