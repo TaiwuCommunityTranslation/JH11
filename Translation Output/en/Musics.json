@@ -311,7 +311,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+6 to \"Use Sword\", +6 to \"Concentration\", +6 to \"Charisma"
+            "Value": "\"+6 to \"Use Sword\", +6 to \"Focus\", +6 to \"Charisma"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -362,7 +362,7 @@
           "Description": "\"Sword\" +6"
         },
         {
-          "Description": "\"Concentration\" +6"
+          "Description": "\"Focus\" +6"
         },
         {
           "Description": "\"Charisma\" +6"
@@ -539,7 +539,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+6 to \"Axe Technique\", +6 to \"Body\", +6 to \"Concentration"
+            "Value": "\"+6 to \"Axe Technique\", +6 to \"Body\", +6 to \"Focus"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -593,7 +593,7 @@
           "Description": "\"Body\" +6"
         },
         {
-          "Description": "\"Concentration\" +6"
+          "Description": "\"Focus\" +6"
         }
       ]
     }
@@ -691,7 +691,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+6 to \"Stroke\", +6 to \"Concentration\", +6 to \"Bargaining"
+            "Value": "\"+6 to \"Stroke\", +6 to \"Focus\", +6 to \"Bargaining"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -742,7 +742,7 @@
           "Description": "\"+6 to \"Strokes"
         },
         {
-          "Description": "\"Concentration\" +6"
+          "Description": "\"Focus\" +6"
         },
         {
           "Description": "\"Bargaining\" +6"
@@ -843,7 +843,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Finger Power\" +6 \"Poetry\" +6 \"Concentration\" +6"
+            "Value": "\"Finger Power\" +6 \"Poetry\" +6 \"Focus\" +6"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -897,7 +897,7 @@
           "Description": "\"Poetry\" +6"
         },
         {
-          "Description": "\"Concentration\" +6"
+          "Description": "\"Focus\" +6"
         }
       ]
     }
@@ -1198,7 +1198,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+10 to \"Spear Use\", +10 to \"Muscle\", +10 to \"Concentration\", +10 to \"Decisiveness"
+            "Value": "\"+10 to \"Spear Use\", +10 to \"Muscle\", +10 to \"Focus\", +10 to \"Decisiveness"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1266,7 +1266,7 @@
           "Description": "\"Tendon\" +10"
         },
         {
-          "Description": "\"Concentration\" +10"
+          "Description": "\"Focus\" +10"
         },
         {
           "Description": "\"Decisions\" +10"
@@ -1291,7 +1291,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "+10 to \"Concealed Weapon\", +10 to \"Drinking\", +10 to \"Gods\", +10 to \"Concentration\"."
+            "Value": "+10 to \"Concealed Weapon\", +10 to \"Drinking\", +10 to \"Gods\", +10 to \"Focus\"."
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1362,7 +1362,7 @@
           "Description": "\"God Comes\" +10"
         },
         {
-          "Description": "\"Concentration\" +10"
+          "Description": "\"Focus\" +10"
         }
       ]
     }
@@ -1570,7 +1570,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "+10 to \"Whip\", +10 to \"Body\", +10 to \"Concentration\", +10 to \"Fortunate\""
+            "Value": "+10 to \"Whip\", +10 to \"Body\", +10 to \"Focus\", +10 to \"Fortunate\""
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1638,7 +1638,7 @@
           "Description": "\"Body shape\" +10"
         },
         {
-          "Description": "\"Concentration\" +10"
+          "Description": "\"Focus\" +10"
         },
         {
           "Description": "\"Fortunate Fate\" +10"
@@ -2306,7 +2306,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+8 for \"Hooking\" and +4 for \"Concentration"
+            "Value": "\"+8 for \"Hooking\" and +4 for \"Focus"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -2343,7 +2343,7 @@
           "Description": "\"Hook Skl\" +8"
         },
         {
-          "Description": "\"Concentration\" +4"
+          "Description": "\"Focus\" +4"
         }
       ]
     }
@@ -2659,7 +2659,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+12 to \"Body\", +12 to \"Down\", +12 to \"Concentration"
+            "Value": "\"+12 to \"Body\", +12 to \"Down\", +12 to \"Focus"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -2713,7 +2713,7 @@
           "Description": "\"Lower handicap\" +12"
         },
         {
-          "Description": "\"Concentration\" +12"
+          "Description": "\"Focus\" +12"
         }
       ]
     }
@@ -3840,7 +3840,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+3 to \"Concentration\" and -1 to \"Physique"
+            "Value": "\"+3 to \"Focus\" and -1 to \"Physique"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -3942,7 +3942,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+2 for \"Stroke\" and +1 for \"Concentration"
+            "Value": "\"+2 for \"Stroke\" and +1 for \"Focus"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
