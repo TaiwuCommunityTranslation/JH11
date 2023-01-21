@@ -16661,10 +16661,10 @@
             "Values": [
               {
                 "TeSeLeiXing": {
-                  "ValueInfo": " <color=#FFDDBDFF> \"Concealed Weapon Restraint\" </color> "
+                  "ValueInfo": " <color=#FFDDBDFF> \"Hdn Wpn Skl Restraint\" </color> "
                 },
                 "TeSeLeiDes": {
-                  "Value": "Opponent <color=#00CAB0FF> \"Concealed Weapon Stance Power\" </color> -60%"
+                  "Value": "Opponent <color=#00CAB0FF> \"Hdn Wpn Skl Stance Power\" </color> -60%"
                 }
               },
               {
@@ -16682,10 +16682,10 @@
           "Values": [
             {
               "TeSeLeiXing": {
-                "ValueInfo": " <color=#FFDDBDFF> \"Concealed Weapon Restraint\" </color> "
+                "ValueInfo": " <color=#FFDDBDFF> \"Hdn Wpn Skl Restraint\" </color> "
               },
               "TeSeLeiDes": {
-                "Value": "Opponent <color=#00CAB0FF> \"Concealed Weapon Stance Power\" </color> -60%"
+                "Value": "Opponent <color=#00CAB0FF> \"Hdn Wpn Skl Stance Power\" </color> -60%"
               }
             }
           ]
@@ -36594,8 +36594,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Concealed Weapon\" is higher than 65",
-        "RightValueInfo": "\"Concealed Weapon\" is higher than 65"
+        "LeftValueInfo": "\"Hdn Wpn Skl\" is higher than 65",
+        "RightValueInfo": "\"Hdn Wpn Skl\" is higher than 65"
       }
     ],
     "XinFaNoneYingXiang": {
@@ -36863,8 +36863,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Concealed Weapon\" above 65; \"Gnosis\" above 65",
-        "RightValueInfo": "\"Concealed Weapon\" above 65; \"Gnosis\" above 65"
+        "LeftValueInfo": "\"Hdn Wpn Skl\" above 65; \"Gnosis\" above 65",
+        "RightValueInfo": "\"Hdn Wpn Skl\" above 65; \"Gnosis\" above 65"
       },
       {}
     ],
@@ -37314,8 +37314,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Concealed Weapon\" is higher than 65",
-        "RightValueInfo": "\"Concealed Weapon\" is higher than 65"
+        "LeftValueInfo": "\"Hdn Wpn Skl\" is higher than 65",
+        "RightValueInfo": "\"Hdn Wpn Skl\" is higher than 65"
       }
     ],
     "XinFaNoneYingXiang": {
@@ -37583,8 +37583,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Concealed Weapon\" is higher than 45",
-        "RightValueInfo": "\"Concealed Weapon\" above 45"
+        "LeftValueInfo": "\"Hdn Wpn Skl\" is higher than 45",
+        "RightValueInfo": "\"Hdn Wpn Skl\" above 45"
       }
     ],
     "XinFaNoneYingXiang": {
@@ -38446,8 +38446,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Concealed Weapon\" is higher than 50",
-        "RightValueInfo": "\"Concealed Weapon\" is higher than 50"
+        "LeftValueInfo": "\"Hdn Wpn Skl\" is higher than 50",
+        "RightValueInfo": "\"Hdn Wpn Skl\" is higher than 50"
       }
     ],
     "XinFaNoneYingXiang": {
@@ -46751,8 +46751,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Concealed Weapon\" is higher than 60",
-        "RightValueInfo": "\"Concealed Weapon\" is higher than 60"
+        "LeftValueInfo": "\"Hdn Wpn Skl\" is higher than 60",
+        "RightValueInfo": "\"Hdn Wpn Skl\" is higher than 60"
       }
     ],
     "ZhaoShis": [
@@ -46922,8 +46922,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Concealed Weapon\" above 65; \"Gnosis\" above 65",
-        "RightValueInfo": "\"Concealed Weapon\" above 65; \"Gnosis\" above 65"
+        "LeftValueInfo": "\"Hdn Wpn Skl\" above 65; \"Gnosis\" above 65",
+        "RightValueInfo": "\"Hdn Wpn Skl\" above 65; \"Gnosis\" above 65"
       },
       {}
     ],
@@ -49431,8 +49431,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Concealed Weapon\" is higher than 45",
-        "RightValueInfo": "\"Concealed Weapon\" above 45"
+        "LeftValueInfo": "\"Hdn Wpn Skl\" is higher than 45",
+        "RightValueInfo": "\"Hdn Wpn Skl\" above 45"
       }
     ],
     "ZhaoShis": [
