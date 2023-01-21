@@ -2204,7 +2204,7 @@
       },
       "YaoMa": {
         "Name": {
-          "cn": "waist horse",
+          "cn": "Core Power",
           "info": "--- Strength of all weapon martial arts stances --- Stance strength bonus from -0.3, 1, 1.5, 1.8 ---"
         }
       },
@@ -2381,7 +2381,7 @@
       "YaoFu": {
         "Name": {
           "cn": "Waist and abdomen",
-          "info": "--- affects the value of combat attributes (waist horse) --- the number of rounds per combat normal state affects the value of mind impairment ---"
+          "info": "--- affects the value of combat attributes (Core Power) --- the number of rounds per combat normal state affects the value of mind impairment ---"
         },
         "info": "------- seal cave effects 5 ---------",
         "info1": "------- poisoning effects5 ---------",
@@ -16080,7 +16080,7 @@
         "Text": "Vein"
       },
       "腰马": {
-        "Text": "waist horse"
+        "Text": "Core Power"
       },
       "下盘": {
         "Text": "underhand"
