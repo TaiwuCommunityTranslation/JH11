@@ -2906,8 +2906,8 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Air volume\" -20",
-            "ValueInfo": "\"Air volume\" -20"
+            "Value": "\"Qi Capacity\" -20",
+            "ValueInfo": "\"Qi Capacity\" -20"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -2924,7 +2924,7 @@
     "StateDescription": {
       "Neg": [
         {
-          "Description": "\"Air volume\" -20"
+          "Description": "\"Qi Capacity\" -20"
         }
       ]
     }
@@ -3121,7 +3121,7 @@
     "StateDescription": {
       "Neg": [
         {
-          "Description": "\"Air volume\" -10"
+          "Description": "\"Qi Capacity\" -10"
         },
         {
           "Description": "\"Qi Method\" -10"
@@ -4163,8 +4163,8 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Air volume\" -40",
-            "ValueInfo": "\"Air volume\" -40"
+            "Value": "\"Qi Capacity\" -40",
+            "ValueInfo": "\"Qi Capacity\" -40"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -4181,7 +4181,7 @@
     "StateDescription": {
       "Neg": [
         {
-          "Description": "\"Air volume\" -40"
+          "Description": "\"Qi Capacity\" -40"
         }
       ]
     }
@@ -4386,7 +4386,7 @@
           "Description": "\"Du Chakra\" -10"
         },
         {
-          "Description": "\"Air volume\" -10"
+          "Description": "\"Qi Capacity\" -10"
         }
       ]
     }
@@ -4562,7 +4562,7 @@
           "Description": "\"Ren Chakra\" +10"
         },
         {
-          "Description": "\"Air volume\" -60"
+          "Description": "\"Qi Capacity\" -60"
         }
       ]
     }
@@ -4846,7 +4846,7 @@
           "Description": "\"Connotation\" +30"
         },
         {
-          "Description": "\"Air volume\" -100"
+          "Description": "\"Qi Capacity\" -100"
         }
       ]
     }
@@ -4914,7 +4914,7 @@
           "Description": "\"Waist Horse\"-40"
         },
         {
-          "Description": "\"Air volume\" -40"
+          "Description": "\"Qi Capacity\" -40"
         }
       ]
     }
@@ -5004,7 +5004,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Air volume\" -20"
+            "Value": "\"Qi Capacity\" -20"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
