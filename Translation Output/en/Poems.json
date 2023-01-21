@@ -2618,7 +2618,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+1 to \"Perception\" +1 to \"Concentration"
+            "Value": "\"+1 to \"Perception\" +1 to \"Focus"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -3007,7 +3007,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+1 for \"Poetry\" +1 for \"Concentration"
+            "Value": "\"+1 for \"Poetry\" +1 for \"Focus"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -3155,7 +3155,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+1 to \"Insight\" +1 to \"Concentration"
+            "Value": "\"+1 to \"Insight\" +1 to \"Focus"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
