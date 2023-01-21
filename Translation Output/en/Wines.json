@@ -2503,7 +2503,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+50 to \"Mindset\" and +20 to \"Waist Horse"
+            "Value": "\"+50 to \"Mindset\" and +20 to \"Core Power"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Wine Status"
@@ -2568,7 +2568,7 @@
           "Description": "\"Mindset\" +50"
         },
         {
-          "Description": "\"Waist Horse\" +20"
+          "Description": "\"Core Power\" +20"
         }
       ],
       "Neg": [
@@ -4317,7 +4317,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Luck Axe\" +5 \"Waist Horse\" +5"
+            "Value": "\"Luck Axe\" +5 \"Core Power\" +5"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Wine Status"
@@ -4387,7 +4387,7 @@
           "Description": "\"Luck Axe\" +5"
         },
         {
-          "Description": "\"Waist Horse\" +5"
+          "Description": "\"Core Power\" +5"
         }
       ],
       "Neg": [
@@ -4395,7 +4395,7 @@
           "Description": "\"Mindset\" -50"
         },
         {
-          "Description": "\"Waist Horse\" -20"
+          "Description": "\"Core Power\" -20"
         },
         {
           "Description": "\"Cultured\" -30"
