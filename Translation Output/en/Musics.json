@@ -463,7 +463,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "+6 to \"Concealed Weapon\", +6 to \"Body Form\", +6 to \"God's Coming\"."
+            "Value": "+6 to \"Hdn Wpn Skl\", +6 to \"Body Form\", +6 to \"God's Coming\"."
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -511,7 +511,7 @@
     "StateDescription": {
       "Pos": [
         {
-          "Description": "\"Concealed Weapon\" +6"
+          "Description": "\"Hdn Wpn Skl\" +6"
         },
         {
           "Description": "\"Qi Purity\" +6"
@@ -1291,7 +1291,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "+10 to \"Concealed Weapon\", +10 to \"Drinking\", +10 to \"Gods\", +10 to \"Focus\"."
+            "Value": "+10 to \"Hdn Wpn Skl\", +10 to \"Drinking\", +10 to \"Gods\", +10 to \"Focus\"."
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -1353,7 +1353,7 @@
     "StateDescription": {
       "Pos": [
         {
-          "Description": "\"Concealed Weapon\" +10"
+          "Description": "\"Hdn Wpn Skl\" +10"
         },
         {
           "Description": "\"Drinking\" +10"
@@ -3125,7 +3125,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+1 to \"Concealed Weapon"
+            "Value": "\"+1 to \"Hdn Wpn Skl"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -3738,7 +3738,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+1 to \"Concealed Weapon\" +1 to \"Charisma"
+            "Value": "\"+1 to \"Hdn Wpn Skl\" +1 to \"Charisma"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -3976,7 +3976,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Concealed Weapon\" +3 \"Morality\" -3"
+            "Value": "\"Hdn Wpn Skl\" +3 \"Morality\" -3"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
