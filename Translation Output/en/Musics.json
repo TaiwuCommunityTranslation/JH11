@@ -53,7 +53,7 @@
           "Description": "\"Sword\" +3"
         },
         {
-          "Description": "\"Body shape\" +3"
+          "Description": "\"Qi Purity\" +3"
         }
       ]
     }
@@ -514,7 +514,7 @@
           "Description": "\"Concealed Weapon\" +6"
         },
         {
-          "Description": "\"Body shape\" +6"
+          "Description": "\"Qi Purity\" +6"
         },
         {
           "Description": "\"God Comes\" +6"
@@ -1452,7 +1452,7 @@
           "Description": "\"Qi Method\" +10"
         },
         {
-          "Description": "\"Body shape\" +10"
+          "Description": "\"Qi Purity\" +10"
         },
         {
           "Description": "\"Charisma\" +10"
@@ -1635,7 +1635,7 @@
           "Description": "\"Whip Art\" +10"
         },
         {
-          "Description": "\"Body shape\" +10"
+          "Description": "\"Qi Purity\" +10"
         },
         {
           "Description": "\"Focus\" +10"
@@ -2707,7 +2707,7 @@
     "StateDescription": {
       "Pos": [
         {
-          "Description": "\"Body shape\" +12"
+          "Description": "\"Qi Purity\" +12"
         },
         {
           "Description": "\"Lower handicap\" +12"
