@@ -3080,7 +3080,7 @@
           "Description": "\"Mindset\" +40 "
         },
         {
-          "Description": "\"Hooking method\" +10"
+          "Description": "\"Hooking Skl\" +10"
         }
       ],
       "Neg": [
@@ -4084,7 +4084,7 @@
     "StateDescription": {
       "Pos": [
         {
-          "Description": "\"Hooking Method\" +5"
+          "Description": "\"Hooking Skl\" +5"
         },
         {
           "Description": "\"Concentration\" +5"
