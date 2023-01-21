@@ -53,7 +53,7 @@
           "Description": "\"Mindset\" +5"
         },
         {
-          "Description": "\"Concentration\" +3"
+          "Description": "\"Focus\" +3"
         }
       ]
     }
@@ -112,7 +112,7 @@
           "Description": "\"Mindset\" +5"
         },
         {
-          "Description": "\"Concentration\" +3"
+          "Description": "\"Focus\" +3"
         }
       ]
     }
@@ -171,7 +171,7 @@
           "Description": "\"Killing intent\"-10"
         },
         {
-          "Description": "\"Concentration\" +3"
+          "Description": "\"Focus\" +3"
         }
       ]
     }
@@ -348,7 +348,7 @@
           "Description": "\"Mindset\" +5"
         },
         {
-          "Description": "\"Concentration\" +3"
+          "Description": "\"Focus\" +3"
         }
       ]
     }
@@ -438,7 +438,7 @@
           "Description": "\"Connotation\" +3"
         },
         {
-          "Description": "\"Concentration\" +5"
+          "Description": "\"Focus\" +5"
         },
         {
           "Description": "\"Calm\" +5"
@@ -624,7 +624,7 @@
           "Description": "\"Bargaining\" +3"
         },
         {
-          "Description": "\"Concentration\" +5"
+          "Description": "\"Focus\" +5"
         },
         {
           "Description": "\"Qi Method +5"
@@ -717,7 +717,7 @@
           "Description": "\"Connotation\" +3"
         },
         {
-          "Description": "\"Concentration\" +5"
+          "Description": "\"Focus\" +5"
         },
         {
           "Description": "\"Calm\" +5"
@@ -906,7 +906,7 @@
           "Description": "\"Will\" +5"
         },
         {
-          "Description": "\"Concentration\" +5"
+          "Description": "\"Focus\" +5"
         }
       ]
     }
@@ -1278,7 +1278,7 @@
           "Description": "\"Decisions\" +8"
         },
         {
-          "Description": "\"Concentration\" +8"
+          "Description": "\"Focus\" +8"
         }
       ]
     }
@@ -1650,7 +1650,7 @@
           "Description": "\"Body shape\" +8"
         },
         {
-          "Description": "\"Concentration\" +8"
+          "Description": "\"Focus\" +8"
         }
       ]
     }
@@ -1740,7 +1740,7 @@
           "Description": "\"Fortunate Fate\" +10"
         },
         {
-          "Description": "\"Concentration\" +10"
+          "Description": "\"Focus\" +10"
         },
         {
           "Description": "\"Qi Method\" +10"
@@ -2019,7 +2019,7 @@
           "Description": "\"Charisma\" +10"
         },
         {
-          "Description": "\"Concentration\" +10"
+          "Description": "\"Focus\" +10"
         },
         {
           "Description": "\"Calm\" +10"
@@ -2115,7 +2115,7 @@
           "Description": "\"Will\" +10"
         },
         {
-          "Description": "\"Concentration\" +10"
+          "Description": "\"Focus\" +10"
         }
       ]
     }
@@ -2301,7 +2301,7 @@
           "Description": "\"Qi Method\" +10"
         },
         {
-          "Description": "\"Concentration\" +10"
+          "Description": "\"Focus\" +10"
         }
       ]
     }
@@ -2577,7 +2577,7 @@
           "Description": "\"Charisma\" +6"
         },
         {
-          "Description": "\"Concentration\" +8"
+          "Description": "\"Focus\" +8"
         },
         {
           "Description": "\"Calm\" +8"
@@ -2856,7 +2856,7 @@
           "Description": "\"Perception\" +6"
         },
         {
-          "Description": "\"Concentration\" +8"
+          "Description": "\"Focus\" +8"
         },
         {
           "Description": "\"Calm\" +8"
@@ -2974,7 +2974,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+2 to \"Concentration\" and +4 to \"Calmness"
+            "Value": "\"+2 to \"Focus\" and +4 to \"Calmness"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Tea drinking status"
@@ -3036,7 +3036,7 @@
     "StateDescription": {
       "Pos": [
         {
-          "Description": "\"Concentration\" +2"
+          "Description": "\"Focus\" +2"
         },
         {
           "Description": "\"Calm\" +4"
@@ -3349,7 +3349,7 @@
           "Description": "\"Gods Come\" +6"
         },
         {
-          "Description": "\"Concentration\" +8"
+          "Description": "\"Focus\" +8"
         }
       ]
     }
@@ -3719,7 +3719,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+1 for \"Tea Ceremony\" +1 for \"Concentration"
+            "Value": "\"+1 for \"Tea Ceremony\" +1 for \"Focus"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -4321,7 +4321,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Concentration\" +2 \"Calm\" +2"
+            "Value": "\"Focus\" +2 \"Calm\" +2"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
