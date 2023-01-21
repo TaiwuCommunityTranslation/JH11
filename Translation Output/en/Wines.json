@@ -2408,7 +2408,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+30 to \"Concentration\", +30 to \"Composure\", +30 to \"Determination"
+            "Value": "\"+30 to \"Focus\", +30 to \"Composure\", +30 to \"Determination"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Wine Status"
@@ -2470,7 +2470,7 @@
     "StateDescription": {
       "Pos": [
         {
-          "Description": "\"Concentration\" +30"
+          "Description": "\"Focus\" +30"
         },
         {
           "Description": "\"Calm\" +30"
@@ -3216,7 +3216,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+50 to \"Mind\", +30 to \"Kill intent\", +30 to \"Concentration"
+            "Value": "\"+50 to \"Mind\", +30 to \"Kill intent\", +30 to \"Focus"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Wine Status"
@@ -3298,7 +3298,7 @@
           "Description": "\"Killing Intent\" +30"
         },
         {
-          "Description": "\"Concentration\" +30"
+          "Description": "\"Focus\" +30"
         }
       ],
       "Neg": [
@@ -3518,7 +3518,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+15 to \"Gods Come\", +15 to \"Use Sword\", +30 to \"Concentration"
+            "Value": "\"+15 to \"Gods Come\", +15 to \"Use Sword\", +30 to \"Focus"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Wine Status"
@@ -3600,7 +3600,7 @@
           "Description": "\"Sword\" +15"
         },
         {
-          "Description": "\"Concentration\" +30"
+          "Description": "\"Focus\" +30"
         }
       ],
       "Neg": [
@@ -3627,7 +3627,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+30 for \"Mindfulness\" and +10 for \"Concentration"
+            "Value": "\"+30 for \"Mindfulness\" and +10 for \"Focus"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Wine Status"
@@ -3686,7 +3686,7 @@
           "Description": "\"Mindset\" +30"
         },
         {
-          "Description": "\"Concentration\" +10"
+          "Description": "\"Focus\" +10"
         }
       ],
       "Neg": [
@@ -3694,7 +3694,7 @@
           "Description": "\"Mindset\" -50"
         },
         {
-          "Description": "\"Concentration\" -20"
+          "Description": "\"Focus\" -20"
         }
       ]
     }
@@ -3808,7 +3808,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Fist and Palm +15, Determination +15, Concentration -15"
+            "Value": "\"Fist and Palm +15, Determination +15, Focus -15"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Wine Status"
@@ -3890,7 +3890,7 @@
           "Description": "\"Decisions\" +15"
         },
         {
-          "Description": "\"Concentration\"-15"
+          "Description": "\"Focus\"-15"
         }
       ],
       "Neg": [
@@ -3917,7 +3917,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+5 to \"Knife\" and +5 to \"Concentration"
+            "Value": "\"+5 to \"Knife\" and +5 to \"Focus"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Wine Status"
@@ -3987,7 +3987,7 @@
           "Description": "\"+5 for \"Knife Making"
         },
         {
-          "Description": "\"Concentration\" +5"
+          "Description": "\"Focus\" +5"
         }
       ],
       "Neg": [
@@ -3995,7 +3995,7 @@
           "Description": "\"Mindset\" -50"
         },
         {
-          "Description": "\"Concentration\" -20"
+          "Description": "\"Focus\" -20"
         },
         {
           "Description": "\"Cultured\" -30"
@@ -4017,7 +4017,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+5 for \"Hooking\" and +5 for \"Concentration"
+            "Value": "\"+5 for \"Hooking\" and +5 for \"Focus"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Wine Status"
@@ -4087,7 +4087,7 @@
           "Description": "\"Hooking Skl\" +5"
         },
         {
-          "Description": "\"Concentration\" +5"
+          "Description": "\"Focus\" +5"
         }
       ],
       "Neg": [
@@ -4095,7 +4095,7 @@
           "Description": "\"Mindset\" -50"
         },
         {
-          "Description": "\"Concentration\" -20"
+          "Description": "\"Focus\" -20"
         },
         {
           "Description": "\"Cultured\" -30"
@@ -5029,7 +5029,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Concentration\" +3"
+            "Value": "\"Focus\" +3"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -5594,7 +5594,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+1 to \"Ren Chakra\" and +2 to \"Concentration"
+            "Value": "\"+1 to \"Ren Chakra\" and +2 to \"Focus"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
