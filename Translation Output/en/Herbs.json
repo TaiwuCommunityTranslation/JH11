@@ -3535,8 +3535,8 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Concentration\" -15 \"Calmness\" -15",
-            "ValueInfo": "\"Concentration\" -15 \"Calmness\" -15"
+            "Value": "\"Focus\" -15 \"Calmness\" -15",
+            "ValueInfo": "\"Focus\" -15 \"Calmness\" -15"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -3564,7 +3564,7 @@
     "StateDescription": {
       "Neg": [
         {
-          "Description": "\"Concentration\"-15"
+          "Description": "\"Focus\"-15"
         },
         {
           "Description": "\"Calm\" -15"
@@ -3835,8 +3835,8 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Concentration\"-50 \"Calmness\"-50 \"Decisiveness\"-50",
-            "ValueInfo": "\"Concentration\"-50 \"Calmness\"-50 \"Decisiveness\"-50"
+            "Value": "\"Focus\"-50 \"Calmness\"-50 \"Decisiveness\"-50",
+            "ValueInfo": "\"Focus\"-50 \"Calmness\"-50 \"Decisiveness\"-50"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -3875,7 +3875,7 @@
     "StateDescription": {
       "Neg": [
         {
-          "Description": "\"Concentration\" -50"
+          "Description": "\"Focus\" -50"
         },
         {
           "Description": "\"Calm\" -50"
@@ -4106,8 +4106,8 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Concentration\"-30 \"Calmness\"-30",
-            "ValueInfo": "\"Concentration\"-30 \"Calmness\"-30"
+            "Value": "\"Focus\"-30 \"Calmness\"-30",
+            "ValueInfo": "\"Focus\"-30 \"Calmness\"-30"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -4135,7 +4135,7 @@
     "StateDescription": {
       "Neg": [
         {
-          "Description": "\"Concentration\"-30"
+          "Description": "\"Focus\"-30"
         },
         {
           "Description": "\"Calm\" -30"
@@ -4462,8 +4462,8 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+60 to \"killing intent\", -40 to \"will\", -40 to \"concentration",
-            "ValueInfo": "\"+60 to \"killing intent\", -40 to \"will\", -40 to \"concentration"
+            "Value": "\"+60 to \"Killing Intent\", -40 to \"will\", -40 to \"Focus",
+            "ValueInfo": "\"+60 to \"Killing Intent\", -40 to \"will\", -40 to \"Focus"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part poisoning"
@@ -4508,7 +4508,7 @@
           "Description": "\"Will\"-40"
         },
         {
-          "Description": "\"Concentration\" -40"
+          "Description": "\"Focus\" -40"
         }
       ]
     }
