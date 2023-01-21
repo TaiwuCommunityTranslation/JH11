@@ -9296,7 +9296,7 @@
       ]
     },
     "Name": {
-      "ValueInfo": " <color=#23FF00FF> Five Poisons Hooking Method </color> "
+      "ValueInfo": " <color=#23FF00FF> Five Poisons Hooking Skl </color> "
     }
   },
   {
@@ -9375,7 +9375,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "Hooking method improved by 10"
+            "Value": "Hooking Skl improved by 10"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
