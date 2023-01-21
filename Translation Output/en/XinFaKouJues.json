@@ -336,7 +336,7 @@
         "Value": "With at least 2 \"fierce moves"
       },
       "FangZhiQiHeIndi": {
-        "Value": "\"Martial Arts Stance Cooldown\" -1 attack and defense rounds; \"Concentration\" -30"
+        "Value": "\"Martial Arts Stance Cooldown\" -1 attack and defense rounds; \"Focus\" -30"
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "\" <color=#E24344FF> Attack Stance </color> Power\" +30%; \"Calm\" -40"
@@ -670,7 +670,7 @@
         "Value": "In a \"drunken\" state"
       },
       "FangZhiQiHeIndi": {
-        "Value": "\"Martial arts stance cooldown\" -1 attack and defense rounds; \"Divine Coming\" +20; \"Concentration\" -40"
+        "Value": "\"Martial arts stance cooldown\" -1 attack and defense rounds; \"Divine Coming\" +20; \"Focus\" -40"
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "\"Invalid\""
@@ -699,7 +699,7 @@
         },
         {
           "Name": {
-            "Value": "Concentration reduction by 40 (attribute change)"
+            "Value": "Focus reduction by 40 (attribute change)"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -844,7 +844,7 @@
         "Value": "\" <color=#E24344FF> Attacking Style </color> Power\" +15%; \"Will\" +30"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack Stance </color> Power\" +60%; \"Concentration\" +30; \"Internal Power Cost\" +180%"
+        "Value": "\" <color=#E24344FF> Attack Stance </color> Power\" +60%; \"Focus\" +30; \"Internal Power Cost\" +180%"
       },
       "FangZhiWuQiHeIndi": {
         "Value": "No limit to the mind mantra"
@@ -1254,7 +1254,7 @@
         "Value": "In \"Meditation ▪ Terasen\" state"
       },
       "FangZhiQiHeIndi": {
-        "Value": "\"Concentration\" +20; \"God's coming\" +20; \"Internal power cost\" -30%"
+        "Value": "\"Focus\" +20; \"God's coming\" +20; \"Internal power cost\" -30%"
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "\"Invalid\""
@@ -2419,7 +2419,7 @@
         "Value": "\"Fist and Palm\" +30"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\"+20 for \"Decisiveness\"; +20 for \"Concentration\"; +1 attack and defense rounds for \"Martial Arts Style Cooldown"
+        "Value": "\"+20 for \"Decisiveness\"; +20 for \"Focus\"; +1 attack and defense rounds for \"Martial Arts Style Cooldown"
       }
     },
     "XinFaQiHeYingXiang": {
@@ -3426,7 +3426,7 @@
         "Value": "In the \"winter\" season"
       },
       "FangZhiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack Stance </color> Power\" +35%; \"Concentration\" +10; \"Internal Power Cost\" -60%"
+        "Value": "\" <color=#E24344FF> Attack Stance </color> Power\" +35%; \"Focus\" +10; \"Internal Power Cost\" -60%"
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "\"Invalid\""
@@ -3646,10 +3646,10 @@
         "Value": "In the \"tea drinking\" state"
       },
       "FangZhiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +20% to \"Power of Stance\"; +10 to \"Concentration"
+        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +20% to \"Power of Stance\"; +10 to \"Focus"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +40% to \"Power of Stance\"; -30 to \"Concentration"
+        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +40% to \"Power of Stance\"; -30 to \"Focus"
       },
       "FangZhiWeiQiHeIndiWarn": {
         "Value": "Attention:"
@@ -3730,7 +3730,7 @@
         "Value": "In the \"evening\" hours"
       },
       "FangZhiQiHeIndi": {
-        "Value": "\"+20 to \"Concentration\"; +20 to \"Determination"
+        "Value": "\"+20 to \"Focus\"; +20 to \"Determination"
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "\"Invalid\""
@@ -4675,7 +4675,7 @@
         "Value": "+20 to \"Use Sword\"; +20 to \"Gods Come\""
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\"+20 to \"Use Sword\"; +20 to \"Concentration\"; -60 to \"Divine"
+        "Value": "\"+20 to \"Use Sword\"; +20 to \"Focus\"; -60 to \"Divine"
       }
     },
     "XinFaQiHeYingXiang": {
@@ -5886,7 +5886,7 @@
         "Value": "Name required to equip weapons <color=#FF00B6FF> \"Phoenix\" </color> "
       },
       "FangZhiQiHeIndi": {
-        "Value": " <color=#FF7E2EFF> \"Break\" </color> +30% chance; \"Concentration\" -40"
+        "Value": " <color=#FF7E2EFF> \"Break\" </color> +30% chance; \"Focus\" -40"
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "\"Invalid\""
@@ -7010,7 +7010,7 @@
         "Value": "In the \"evening\" period; in the \"wine\" state"
       },
       "FangZhiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack Style </color> Power\" +80%; \"Decisiveness\" +35; \"Concentration\" -60"
+        "Value": "\" <color=#E24344FF> Attack Style </color> Power\" +80%; \"Decisiveness\" +35; \"Focus\" -60"
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "\" <color=#E24344FF> Attack </color> Power\" +40%; \"Decisiveness\" +15"
@@ -7036,7 +7036,7 @@
         },
         {
           "Name": {
-            "Value": "Concentration - 60"
+            "Value": "Focus - 60"
           },
           "ValueOperator": {
             "ValueInfo": "Reduction"
@@ -7134,7 +7134,7 @@
         "Value": "With \"Int. Force\" <color=#FF00B6FF> \"Zilong Spear Skill\" </color> Stance \"Spear Out of Ten Thousand\""
       },
       "FangZhiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attacking Style </color> Power\" +30%; \"Concentration\" +10"
+        "Value": "\" <color=#E24344FF> Attacking Style </color> Power\" +30%; \"Focus\" +10"
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "\"Invalid\""
@@ -7807,7 +7807,7 @@
         "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +25% to \"Power of Stance\"; +15 to \"Gods Come\"; -1 attack and defense round to \"Martial Art Stance Cooldown"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +50% to \"Power of Stance\"; +15 to \"Concentration\"; +2 attack and defense rounds to \"Martial Art Stance Cooldown"
+        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +50% to \"Power of Stance\"; +15 to \"Focus\"; +2 attack and defense rounds to \"Martial Art Stance Cooldown"
       },
       "FangZhiWuQiHeIndi": {
         "Value": "No limit to the mind mantra"
@@ -7901,7 +7901,7 @@
         "Value": "With at least 2 \"Hardened Poison\" moves"
       },
       "FangZhiQiHeIndi": {
-        "Value": "\"Concentration\" +5; <color=#64B200FF> \"Hardened Poison\" </color> Chance +10%"
+        "Value": "\"Focus\" +5; <color=#64B200FF> \"Hardened Poison\" </color> Chance +10%"
       },
       "FangZhiWeiQiHeIndi": {
         "Value": "\" <color=#E24344FF> Attacking Stance </color> Power\" +25%; \"Internal Power Cost\" +70%"
@@ -9252,7 +9252,7 @@
         "Value": "\" <color=#E24344FF> Attack Stance </color> Power\" +15%; <color=#64B200FF> \"Hardened Poison\" </color> Chance +15%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack Style </color> Power\" +25%; \"Concentration\" -30"
+        "Value": "\" <color=#E24344FF> Attack Style </color> Power\" +25%; \"Focus\" -30"
       }
     },
     "XinFaQiHeYingXiang": {
@@ -9662,7 +9662,7 @@
         "Value": "\"+10 to \"Axe of Fortune\"; +10 to \"Determination\"; +10 to \"Will"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\"+10 to \"Axe of Fortune\"; +20 to \"Concentration\"; +100% to \"Internal Power Cost"
+        "Value": "\"+10 to \"Axe of Fortune\"; +20 to \"Focus\"; +100% to \"Internal Power Cost"
       }
     },
     "XinFaQiHeYingXiang": {
@@ -10306,7 +10306,7 @@
         "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +60% to \"Power of Stance\"; +2 attack and defense rounds to \"Martial Art Stance Cooldown"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +60% to \"Power of Stance\"; -30 to \"Concentration"
+        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +60% to \"Power of Stance\"; -30 to \"Focus"
       }
     },
     "XinFaQiHeYingXiang": {
