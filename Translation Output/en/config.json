@@ -2222,7 +2222,7 @@
       },
       "JinGu": {
         "Name": {
-          "cn": "muscles and bones",
+          "cn": "Bone Strength",
           "info": "--- Chance of being killed --- Chance of being killed is reduced from -0.28, 0, 0.4, 0.5 ---"
         }
       }
@@ -16089,7 +16089,7 @@
         "Text": "Physique"
       },
       "筋骨": {
-        "Text": "muscles and bones"
+        "Text": "Bone Strength"
       },
       "意志": {
         "Text": "Will"
