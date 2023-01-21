@@ -941,7 +941,7 @@
       },
       {
         "Content": "When \"Di Wu Han\" found you following, she didn't say much, but asked you to help her find an \"iron sword\".",
-        "Target": "Objective: <color=#FFA41BFF> Go to the iron store in Jiangling Province and deliver the Iron Sword to \"Di Wu Han\".\n(The Iron Sword can be found at all iron stores in the jungle)\n(Iron stores and guest houses will replenish goods every seven days, so if the items you need are already sold out, you can buy them again after a while) </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to the blacksmith in Jiangling Province and deliver the Iron Sword to \"Di Wu Han\".\n(The Iron Sword can be found at all blacksmiths in the jungle)\n(Blacksmiths and guest houses will replenish goods every seven days, so if the items you need are already sold out, you can buy them again after a while) </color> ",
         "Map2DIndiValues": [
           {
             "Text": "Green frost"
@@ -949,7 +949,7 @@
         ],
         "MuDiDiValues": {
           "DDText": "Gangneungfu",
-          "SSText": "Iron store"
+          "SSText": "Blacksmith"
         }
       },
       {
@@ -4638,7 +4638,7 @@
       },
       {
         "Content": "\"Meng Wanxian\" realized that you were the one who was at the restaurant, and hoped that he could ask you to find the stick master.",
-        "Target": "Objective: <color=#FFA41BFF> To visit the iron store in Fengxiang Mansion to get information </color> ",
+        "Target": "Objective: <color=#FFA41BFF> To visit the blacksmith in Fengxiang Mansion to get information </color> ",
         "Map2DIndiValues": [
           {
             "Text": "White crane moving clouds"
@@ -4646,11 +4646,11 @@
         ],
         "MuDiDiValues": {
           "DDText": "Fengxiang Mansion",
-          "SSText": "Iron store"
+          "SSText": "Blacksmith"
         }
       },
       {
-        "Content": "The iron store man said that not many people in Jianghu use the stick, and indeed played a rare long stick, but do not know the name of the other party, only know that at the time was asked to send to Guangzhou guest residence.",
+        "Content": "The blacksmith man said that not many people in Jianghu use the stick, and indeed played a rare long stick, but do not know the name of the other party, only know that at the time was asked to send to Guangzhou guest residence.",
         "Target": "Objective: <color=#FFA41BFF> Go to Guangzhou Guest House to find out </color> ",
         "Map2DIndiValues": [
           {
