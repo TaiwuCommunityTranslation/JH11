@@ -36337,8 +36337,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Body shape\" above 60",
-        "RightValueInfo": "\"Body shape\" above 60"
+        "LeftValueInfo": "\"Qi Purity\" above 60",
+        "RightValueInfo": "\"Qi Purity\" above 60"
       }
     ],
     "XinFaNoneYingXiang": {
@@ -38074,8 +38074,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Fortunate Edge\" above 70; \"Body Shape\" above 70",
-        "RightValueInfo": "\"Fortunate Edge\" above 70; \"Body Shape\" above 70"
+        "LeftValueInfo": "\"Fortunate Edge\" above 70; \"Qi Purity\" above 70",
+        "RightValueInfo": "\"Fortunate Edge\" above 70; \"Qi Purity\" above 70"
       },
       {}
     ],
@@ -49535,7 +49535,7 @@
       "ValueInfo": " <color=#FFFFFFFF> Unusual </color> "
     },
     "Description": {
-      "ValueInfo": "The Xuantian Pavilion's unusual light kung fu. Focus on the exercise of calm and steady body momentum and pace, even if the opponent fierce attack, still be able to maintain the body shape without confusion, not to reveal the vulnerability. Cultivation of this skill, theft is as easy as a hand."
+      "ValueInfo": "The Xuantian Pavilion's unusual light kung fu. Focus on the exercise of calm and steady body momentum and pace, even if the opponent fierce attack, still be able to maintain the Qi Purity without confusion, not to reveal the vulnerability. Cultivation of this skill, theft is as easy as a hand."
     },
     "Conditions": [
       {
@@ -50664,7 +50664,7 @@
       "ValueInfo": " <color=#23FF00FF> Top quality </color> "
     },
     "Description": {
-      "ValueInfo": "Jiang Hu superior lightness. The body shape is as spacious as the clouds hanging down in the wilderness. When you change your position, you can also do it at your own pace."
+      "ValueInfo": "Jiang Hu superior lightness. The Qi Purity is as spacious as the clouds hanging down in the wilderness. When you change your position, you can also do it at your own pace."
     },
     "Conditions": [
       {
@@ -51040,7 +51040,7 @@
       "ValueInfo": " <color=#23FF00FF> Top quality </color> "
     },
     "Description": {
-      "ValueInfo": "Wudang school of superior lightness. Body shape like a swimming dragon, with the momentum of the sky. Powerful, not only is light, but also has the power to defend the enemy."
+      "ValueInfo": "Wudang school of superior lightness. Qi Purity like a swimming dragon, with the momentum of the sky. Powerful, not only is light, but also has the power to defend the enemy."
     },
     "Conditions": [
       {
