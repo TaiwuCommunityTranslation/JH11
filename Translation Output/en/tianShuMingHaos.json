@@ -2182,10 +2182,10 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"Concealed Weapon\" +2"
+        "Description": "\"Hdn Wpn Skl\" +2"
       }
     ],
-    "Teses_ShuXing_ValueInfo": "\"Concealed Weapon\" +2",
+    "Teses_ShuXing_ValueInfo": "\"Hdn Wpn Skl\" +2",
     "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
@@ -2369,7 +2369,7 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"+1 to \"Concealed Weapon"
+        "Description": "\"+1 to \"Hdn Wpn Skl"
       }
     ],
     "Teses_ZhanDou": {
@@ -2384,7 +2384,7 @@
         }
       ]
     },
-    "Teses_ShuXing_ValueInfo": "\"+1 to \"Concealed Weapon",
+    "Teses_ShuXing_ValueInfo": "\"+1 to \"Hdn Wpn Skl",
     "Teses_ZhanDou_ValueInfo": "\"Yin\" \"Attacking Power\" increased by 25%"
   },
   {
@@ -2424,13 +2424,13 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"Concealed Weapon\" +3"
+        "Description": "\"Hdn Wpn Skl\" +3"
       },
       {
         "Description": "\"Qi Purity\" +6"
       }
     ],
-    "Teses_ShuXing_ValueInfo": "\"+3 to \"Concealed Weapon\" +6 to \"Body Form",
+    "Teses_ShuXing_ValueInfo": "\"+3 to \"Hdn Wpn Skl\" +6 to \"Body Form",
     "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
@@ -2441,7 +2441,7 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"Concealed Weapon\" +2"
+        "Description": "\"Hdn Wpn Skl\" +2"
       },
       {
         "Description": "\"Body\" -3"
@@ -2462,7 +2462,7 @@
         }
       ]
     },
-    "Teses_ShuXing_ValueInfo": "\"Concealed Weapon\" +2 \"Body\" -3 \"Muscle\" -3",
+    "Teses_ShuXing_ValueInfo": "\"Hdn Wpn Skl\" +2 \"Body\" -3 \"Muscle\" -3",
     "Teses_ZhanDou_ValueInfo": "Increase the chance of \"Hardened Poison\" by 20%."
   },
   {
@@ -2502,10 +2502,10 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"Concealed Weapon\" +8"
+        "Description": "\"Hdn Wpn Skl\" +8"
       }
     ],
-    "Teses_ShuXing_ValueInfo": "\"Concealed Weapon\" +8",
+    "Teses_ShuXing_ValueInfo": "\"Hdn Wpn Skl\" +8",
     "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
