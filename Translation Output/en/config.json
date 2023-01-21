@@ -2121,19 +2121,19 @@
       "CunJin": {
         "Name": {
           "cn": "Inch Strength",
-          "info": "---Concealed weapon martial arts move strength --- move strength bonus ---"
+          "info": "---Hdn Wpn Skl martial arts move strength --- move strength bonus ---"
         }
       },
       "CunJinShenFen": {
         "Name": {
-          "cn": "Concealed Weapon Identity",
+          "cn": "Hdn Wpn Skl Identity",
           "info": "--- Identity description of the concealed weapon (the value is the highest attribute) ---"
         },
         "Dang1": {
-          "Desc": "Concealed Weapon Novice"
+          "Desc": "Hdn Wpn Skl Novice"
         },
         "Dang2": {
-          "Desc": "Concealed Weapon Novice"
+          "Desc": "Hdn Wpn Skl Novice"
         },
         "Dang3": {
           "Desc": "Hdn Wpn Skl skilled"
@@ -2157,7 +2157,7 @@
           "Desc": "Master of Hdn Wpn Skl"
         },
         "Dang10": {
-          "Desc": "Concealed Weapon Master"
+          "Desc": "Hdn Wpn Skl Master"
         }
       },
       "BiFa": {
@@ -4433,7 +4433,7 @@
         ],
         "AnQi": [
           "strike in a row",
-          "Concealed weapon throwing sting",
+          "Hdn Wpn Skl throwing sting",
           "Swinging the knife and slashing",
           "Void Step Strike"
         ],
@@ -4533,7 +4533,7 @@
         ],
         "AnQi": [
           "strike in a row",
-          "Concealed weapon throwing sting",
+          "Hdn Wpn Skl throwing sting",
           "Swinging the knife and slashing",
           "Void Step Strike"
         ],
