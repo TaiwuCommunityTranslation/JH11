@@ -3150,7 +3150,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Concentration\" +10"
+            "Value": "\"Focus\" +10"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -3560,7 +3560,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Concentration\" +5"
+            "Value": "\"Focus\" +5"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -5352,7 +5352,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Concentration\" +15"
+            "Value": "\"Focus\" +15"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -5884,7 +5884,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Concentration\" +15"
+            "Value": "\"Focus\" +15"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
@@ -6674,7 +6674,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"Concentration\" +15"
+            "Value": "\"Focus\" +15"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
