@@ -1712,7 +1712,7 @@
       },
       "JiZhong": {
         "Name": {
-          "cn": "Concentration",
+          "cn": "Focus",
           "info": "---Battle bonus when the battle is downwind ---Stance strength bonus when 0-80 advantage"
         }
       },
@@ -1826,7 +1826,7 @@
       },
       "QuanZhang": {
         "Name": {
-          "cn": "Fist & Palm",
+          "cn": "Unarmed Skl",
           "info": "--- Fist and Palm Martial Arts Move Strength --- Move Strength Bonus ---"
         }
       },
@@ -3398,10 +3398,10 @@
         "Name": "None"
       },
       {
-        "Name": "Fist & Palm"
+        "Name": "Unarmed Skl"
       },
       {
-        "Name": "Fist & Palm"
+        "Name": "Unarmed Skl"
       },
       {
         "Name": "Fingering"
@@ -6123,7 +6123,7 @@
           "XiYv": {
             "Title": "Bathing",
             "Description": [
-              "\"Charisma\" +10 \"Concentration\" -5 \"Will\" -5"
+              "\"Charisma\" +10 \"Focus\" -5 \"Will\" -5"
             ]
           },
           "SuanMing": {
@@ -8295,7 +8295,7 @@
       {
         "Key": "[CiKu_WuGong]",
         "Values": [
-          "Fist & Palm",
+          "Unarmed Skl",
           "Sword Skill",
           "Blade Skill",
           "Finger Skill",
@@ -9677,7 +9677,7 @@
       "BiZi": "Nose {0}",
       "ZuiBa": "Mouth {0}",
       "ChuShenShanChang": {
-        "QuanZhang": "Fist & Palm",
+        "QuanZhang": "Unarmed Skl",
         "YongJian": "Sword Skill",
         "ShiDao": "Blade Skill",
         "ZhiLi": "Finger Skill",
@@ -16026,7 +16026,7 @@
         "Text": "Blade Skill"
       },
       "拳掌": {
-        "Text": "Fist & Palm"
+        "Text": "Unarmed Skl"
       },
       "指力": {
         "Text": "Finger Skill"
@@ -16095,7 +16095,7 @@
         "Text": "Will"
       },
       "集中": {
-        "Text": "Concentration"
+        "Text": "Focus"
       },
       "镇定": {
         "Text": "Calm"
