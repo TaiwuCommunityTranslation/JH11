@@ -66,8 +66,40 @@
         405
       ]
     ],
+    "Player": {
+      "Templates": [
+        {
+          "BranchText": "Easy: Initial strength score 71+",
+          "ConfirmText": "Make sure to select a strength score of 71+ to start creating characters?"
+        },
+        {
+          "BranchText": "Ordinary: initial strength score 61+",
+          "ConfirmText": "Make sure to select a strength score of 61+ to start creating characters?"
+        },
+        {
+          "BranchText": "Difficulty: initial strength score 51+",
+          "ConfirmText": "Make sure to select a strength score of 51+ to start creating characters?"
+        }
+      ]
+    },
     "StartScene": {},
-    "Quest": {}
+    "Quest": {},
+    "Player_SandBox": {
+      "Templates": [
+        {
+          "BranchText": "Easy: Initial strength score 71+",
+          "ConfirmText": "Make sure to select a strength score of 71+ to start creating characters?"
+        },
+        {
+          "BranchText": "Ordinary: initial strength score 61+",
+          "ConfirmText": "Make sure to select a strength score of 61+ to start creating characters?"
+        },
+        {
+          "BranchText": "Difficulty: initial strength score 51+",
+          "ConfirmText": "Make sure to select a strength score of 51+ to start creating characters?"
+        }
+      ]
+    }
   },
   "Place": {
     "SheShiCharacterNum": {
@@ -9756,7 +9788,8 @@
       }
     },
     "LingHunHub": {
-      "DeleteConfirmInfo": "Sure you want to remove the soul of {0}?"
+      "DeleteConfirmInfo": "Sure you want to remove the soul of {0}?",
+      "DeleteConfirmInfo_Sandbox": "Sure you want to remove the soul of { 0} from the sandbox?"
     },
     "GraphicSystem": {
       "GS_Confirm": {
@@ -15719,15 +15752,15 @@
         ],
         "Weights": [
           [
-            0.05,
+            0.01,
             10.0
           ],
           [
-            0.2,
+            0.02,
             10.0
           ],
           [
-            0.516,
+            0.25,
             10.0
           ]
         ]
@@ -15751,15 +15784,15 @@
         ],
         "Weights": [
           [
-            0.05,
+            0.01,
             10.0
           ],
           [
-            0.2,
+            0.02,
             10.0
           ],
           [
-            0.516,
+            0.25,
             10.0
           ]
         ]
@@ -15799,7 +15832,7 @@
         "PlaceName": "Wu Gorge"
       },
       {
-        "PlaceName": "Seaside Cottage"
+        "PlaceName": "Seaside"
       },
       {
         "PlaceName": "Liuyun Cliff"
@@ -16706,6 +16739,9 @@
       },
       {
         "Name": "Descending Dragon"
+      },
+      {
+        "Name": "Painted Hall Spring"
       }
     ],
     "Female": [
@@ -17023,6 +17059,9 @@
       },
       {
         "Name": "cherish slavery"
+      },
+      {
+        "Name": "Welcome to Chinese New Year"
       }
     ]
   },
