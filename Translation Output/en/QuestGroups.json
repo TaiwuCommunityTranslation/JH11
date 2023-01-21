@@ -10129,7 +10129,7 @@
       },
       {
         "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Wudang School\" </size> </b> </color> ",
-        "Target": "Challenge \"II\": <color=#FFA41BFF> After \"Waist Horse\" reaches 75, go to \"Wudang School\" and complete the challenge at the \"Guide\" </color> ",
+        "Target": "Challenge \"II\": <color=#FFA41BFF> After \"Core Power\" reaches 75, go to \"Wudang School\" and complete the challenge at the \"Guide\" </color> ",
         "Map2DIndiValues": [
           {
             "Text": "Sect Challenge"
@@ -10137,7 +10137,7 @@
         ],
         "MPTZMuBiaoValues": {
           "CheckShuXing": {
-            "Text": "\"Waist Horse\" reached 75",
+            "Text": "\"Core Power\" reached 75",
             "ShuXing": "Core Power"
           }
         }
