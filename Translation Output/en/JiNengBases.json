@@ -9052,8 +9052,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Waist Horse\" is higher than 60",
-        "RightValueInfo": "\"Waist Horse\" is higher than 60"
+        "LeftValueInfo": "\"Core Power\" is higher than 60",
+        "RightValueInfo": "\"Core Power\" is higher than 60"
       }
     ],
     "XinFaNoneYingXiang": {
@@ -26211,8 +26211,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Governor\" above 70; \"Waist Horse\" above 70",
-        "RightValueInfo": "\"Governor\" above 70; \"Waist Horse\" above 70"
+        "LeftValueInfo": "\"Governor\" above 70; \"Core Power\" above 70",
+        "RightValueInfo": "\"Governor\" above 70; \"Core Power\" above 70"
       },
       {}
     ],
@@ -32500,8 +32500,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Waist Horse\" is higher than 55",
-        "RightValueInfo": "\"Waist Horse\" is higher than 55"
+        "LeftValueInfo": "\"Core Power\" is higher than 55",
+        "RightValueInfo": "\"Core Power\" is higher than 55"
       }
     ],
     "XinFaNoneYingXiang": {
@@ -48311,8 +48311,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Governor\" above 60; \"Waist Horse\" above 60",
-        "RightValueInfo": "\"Governor\" above 60; \"Waist Horse\" above 60"
+        "LeftValueInfo": "\"Governor\" above 60; \"Core Power\" above 60",
+        "RightValueInfo": "\"Governor\" above 60; \"Core Power\" above 60"
       },
       {}
     ],
