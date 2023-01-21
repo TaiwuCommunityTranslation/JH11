@@ -5855,11 +5855,11 @@
       },
       "ChuangZuoShiCi": {
         "Info1": "Sure you want to create [ItemName]?",
-        "Info2": "(will consume [ChuangZuoXinLi] point creative mind power)"
+        "Info2": "(will consume [ChuangZuoXinLi] point Creativity)"
       },
       "ChuangZuoShuHua": {
         "Info1": "Sure you want to create [ItemName]?",
-        "Info2": "(will consume [ChuangZuoXinLi] point creative mind power)"
+        "Info2": "(will consume [ChuangZuoXinLi] point Creativity)"
       },
       "FangZhiCangPin": {
         "Info1": "Are you sure you want to put [ItemName]?"
