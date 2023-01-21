@@ -1928,7 +1928,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+40 to \"Mind\" and +10 to \"Concealed Weapon"
+            "Value": "\"+40 to \"Mind\" and +10 to \"Hdn Wpn Skl"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Wine Status"
@@ -2009,7 +2009,7 @@
           "Description": "\"Mindset\" +40"
         },
         {
-          "Description": "\"Concealed Weapon\" +10"
+          "Description": "\"Hdn Wpn Skl\" +10"
         }
       ],
       "Neg": [
