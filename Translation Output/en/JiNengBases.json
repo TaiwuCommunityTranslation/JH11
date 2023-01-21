@@ -34447,7 +34447,7 @@
       "ValueInfo": " <color=#808080FF> \"Yin\" </color> "
     },
     "WuGongType": {
-      "ValueInfo": "Penmanship"
+      "ValueInfo": "Brush Skl"
     },
     "WuQiType": {
       "ValueInfo": "Pen"
@@ -34765,7 +34765,7 @@
       "ValueInfo": " <color=#FFFFFFFF> \"Yang\" </color> "
     },
     "WuGongType": {
-      "ValueInfo": "Penmanship"
+      "ValueInfo": "Brush Skl"
     },
     "WuQiType": {
       "ValueInfo": "Pen"
@@ -34781,8 +34781,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Penmanship\" is above 40; \"Cultured\" is above 70",
-        "RightValueInfo": "\"Penmanship\" is above 40; \"Cultured\" is above 70"
+        "LeftValueInfo": "\"Brush Skl\" is above 40; \"Cultured\" is above 70",
+        "RightValueInfo": "\"Brush Skl\" is above 40; \"Cultured\" is above 70"
       },
       {}
     ],
@@ -35071,7 +35071,7 @@
       "ValueInfo": " <color=#808080FF> \"Yin\" </color> "
     },
     "WuGongType": {
-      "ValueInfo": "Penmanship"
+      "ValueInfo": "Brush Skl"
     },
     "WuQiType": {
       "ValueInfo": "Pen"
@@ -35087,8 +35087,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Penmanship\" above 45",
-        "RightValueInfo": "\"Penmanship\" above 45"
+        "LeftValueInfo": "\"Brush Skl\" above 45",
+        "RightValueInfo": "\"Brush Skl\" above 45"
       }
     ],
     "XinFaNoneYingXiang": {
@@ -35312,7 +35312,7 @@
       "ValueInfo": " <color=#FFFFFFFF> \"Yang\" </color> "
     },
     "WuGongType": {
-      "ValueInfo": "Penmanship"
+      "ValueInfo": "Brush Skl"
     },
     "WuQiType": {
       "ValueInfo": "Pen"
@@ -35538,7 +35538,7 @@
       "ValueInfo": " <color=#808080FF> \"Yin </color> <color=#FFFFFFFF> Yang\" </color> "
     },
     "WuGongType": {
-      "ValueInfo": "Penmanship"
+      "ValueInfo": "Brush Skl"
     },
     "WuQiType": {
       "ValueInfo": "Pen"
@@ -35709,7 +35709,7 @@
       "ValueInfo": " <color=#808080FF> \"Yin\" </color> "
     },
     "WuGongType": {
-      "ValueInfo": "Penmanship"
+      "ValueInfo": "Brush Skl"
     },
     "WuQiType": {
       "ValueInfo": "Pen"
@@ -48752,8 +48752,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Penmanship\" is higher than 65",
-        "RightValueInfo": "\"Penmanship\" is higher than 65"
+        "LeftValueInfo": "\"Brush Skl\" is higher than 65",
+        "RightValueInfo": "\"Brush Skl\" is higher than 65"
       }
     ],
     "ZhaoShis": [
