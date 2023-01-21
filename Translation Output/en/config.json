@@ -2078,14 +2078,14 @@
       },
       "GouFa": {
         "Name": {
-          "cn": "hook method",
-          "info": "--- hook method --- martial arts stance strength --- stance strength bonus ---"
+          "cn": "Hook Skl",
+          "info": "--- Hook Skl --- martial arts stance strength --- stance strength bonus ---"
         }
       },
       "GouFaShenFen": {
         "Name": {
           "cn": "Hook identity",
-          "info": "--- The identity description of the hook method (the value is the highest attribute) ---"
+          "info": "--- The identity description of the Hook Skl (the value is the highest attribute) ---"
         },
         "Dang1": {
           "Desc": "Hooking for Beginners"
@@ -3422,7 +3422,7 @@
         "Name": "Hammer Axe"
       },
       {
-        "Name": "hook method"
+        "Name": "Hook Skl"
       },
       {
         "Name": "Penmanship"
@@ -8303,7 +8303,7 @@
           "Staff Skill",
           "Axe Skill",
           "Whip Skill",
-          "hook method",
+          "Hook Skl",
           "Concealed weapons",
           "Penmanship"
         ]
@@ -9685,7 +9685,7 @@
         "YongQiang": "Spear Skill",
         "YunFu": "Axe Skill",
         "BianShu": "Whip Skill",
-        "GouFa": "hook method",
+        "GouFa": "Hook Skl",
         "AnQi": "Concealed weapons",
         "BiFa": "Penmanship"
       },
@@ -16044,7 +16044,7 @@
         "Text": "Whip Skill"
       },
       "钩法": {
-        "Text": "hook method"
+        "Text": "Hook Skl"
       },
       "暗器": {
         "Text": "Concealed weapons"
