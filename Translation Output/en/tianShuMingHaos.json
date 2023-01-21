@@ -454,7 +454,7 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"Concentration\" +2"
+        "Description": "\"Focus\" +2"
       }
     ],
     "Teses_ZhanDou": {
@@ -469,7 +469,7 @@
         }
       ]
     },
-    "Teses_ShuXing_ValueInfo": "\"Concentration\" +2",
+    "Teses_ShuXing_ValueInfo": "\"Focus\" +2",
     "Teses_ZhanDou_ValueInfo": "Increase the chance of \"killing\" the opponent by 5%."
   },
   {
@@ -642,7 +642,7 @@
         "Description": "\"Body\" -10"
       },
       {
-        "Description": "\"Concentration\"-15"
+        "Description": "\"Focus\"-15"
       }
     ],
     "Teses_ZhanDou": {
@@ -665,7 +665,7 @@
         }
       ]
     },
-    "Teses_ShuXing_ValueInfo": "\"Fitness\" -10 \"Concentration\" -15",
+    "Teses_ShuXing_ValueInfo": "\"Fitness\" -10 \"Focus\" -15",
     "Teses_ZhanDou_ValueInfo": "\"30% increase in the power of \"offensive and defensive moves"
   },
   {
@@ -1242,7 +1242,7 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"Concentration\" +1"
+        "Description": "\"Focus\" +1"
       }
     ],
     "Teses_ZhanDou": {
@@ -1257,7 +1257,7 @@
         }
       ]
     },
-    "Teses_ShuXing_ValueInfo": "\"Concentration\" +1",
+    "Teses_ShuXing_ValueInfo": "\"Focus\" +1",
     "Teses_ZhanDou_ValueInfo": "Increases the chance of \"wounding\" the opponent by 5%."
   },
   {
@@ -2343,7 +2343,7 @@
         "Description": "\"Body\" -10"
       },
       {
-        "Description": "\"Concentration\" -10"
+        "Description": "\"Focus\" -10"
       }
     ],
     "Teses_ZhanDou": {
@@ -2358,7 +2358,7 @@
         }
       ]
     },
-    "Teses_ShuXing_ValueInfo": "\"Body\" -10 \"Concentration\" -10",
+    "Teses_ShuXing_ValueInfo": "\"Body\" -10 \"Focus\" -10",
     "Teses_ZhanDou_ValueInfo": "Increase the chance of \"killing\" the opponent by 20%."
   },
   {
@@ -2590,7 +2590,7 @@
         "Description": "\"Gods Come\" +2"
       },
       {
-        "Description": "\"Concentration\" +2"
+        "Description": "\"Focus\" +2"
       }
     ],
     "Teses_ZhanDou": {
@@ -2621,7 +2621,7 @@
         }
       ]
     },
-    "Teses_ShuXing_ValueInfo": "\"+2 to \"Gods Come\" +2 to \"Concentration",
+    "Teses_ShuXing_ValueInfo": "\"+2 to \"Gods Come\" +2 to \"Focus",
     "Teses_ZhanDou_ValueInfo": "20% increase in \"attack and defense power\" of \"Yin\" and 10% increase in \"break\" chance"
   },
   {
@@ -3065,10 +3065,10 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"Concentration\" +2"
+        "Description": "\"Focus\" +2"
       }
     ],
-    "Teses_ShuXing_ValueInfo": "\"Concentration\" +2",
+    "Teses_ShuXing_ValueInfo": "\"Focus\" +2",
     "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
@@ -3093,13 +3093,13 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"Concentration\" +1"
+        "Description": "\"Focus\" +1"
       },
       {
         "Description": "\"+1 to \"Will"
       }
     ],
-    "Teses_ShuXing_ValueInfo": "\"+1 to \"Concentration\" +1 to \"Will",
+    "Teses_ShuXing_ValueInfo": "\"+1 to \"Focus\" +1 to \"Will",
     "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
@@ -3124,13 +3124,13 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"Concentration\"-2"
+        "Description": "\"Focus\"-2"
       },
       {
         "Description": "\"Will\" +4"
       }
     ],
-    "Teses_ShuXing_ValueInfo": "\"Concentration\" -2 \"Will\" +4",
+    "Teses_ShuXing_ValueInfo": "\"Focus\" -2 \"Will\" +4",
     "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
@@ -3144,10 +3144,10 @@
         "Description": "\"Will\"-2"
       },
       {
-        "Description": "\"Concentration\" +4"
+        "Description": "\"Focus\" +4"
       }
     ],
-    "Teses_ShuXing_ValueInfo": "\"Will\" -2 \"Concentration\" +4",
+    "Teses_ShuXing_ValueInfo": "\"Will\" -2 \"Focus\" +4",
     "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
@@ -3192,13 +3192,13 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"Concentration\" -5"
+        "Description": "\"Focus\" -5"
       },
       {
         "Description": "\"Gods Come\" +8"
       }
     ],
-    "Teses_ShuXing_ValueInfo": "\"Concentration\" -5 \"Divine Coming\" +8",
+    "Teses_ShuXing_ValueInfo": "\"Focus\" -5 \"Divine Coming\" +8",
     "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
