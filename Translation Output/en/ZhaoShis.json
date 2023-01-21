@@ -12841,10 +12841,10 @@
         "Values": [
           {
             "TeSeLeiXing": {
-              "ValueInfo": " <color=#FFDDBDFF> \"Concealed Weapon Restraint\" </color> "
+              "ValueInfo": " <color=#FFDDBDFF> \"Hdn Wpn Skl Restraint\" </color> "
             },
             "TeSeLeiDes": {
-              "Value": "Opponent <color=#00CAB0FF> \"Concealed Weapon Stance Power\" </color> -60%"
+              "Value": "Opponent <color=#00CAB0FF> \"Hdn Wpn Skl Stance Power\" </color> -60%"
             }
           },
           {
@@ -12862,10 +12862,10 @@
       "Values": [
         {
           "TeSeLeiXing": {
-            "ValueInfo": " <color=#FFDDBDFF> \"Concealed Weapon Restraint\" </color> "
+            "ValueInfo": " <color=#FFDDBDFF> \"Hdn Wpn Skl Restraint\" </color> "
           },
           "TeSeLeiDes": {
-            "Value": "Opponent <color=#00CAB0FF> \"Concealed Weapon Stance Power\" </color> -60%"
+            "Value": "Opponent <color=#00CAB0FF> \"Hdn Wpn Skl Stance Power\" </color> -60%"
           }
         }
       ]
