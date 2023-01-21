@@ -38683,7 +38683,7 @@
       "ValueInfo": " <color=#808080FF> \"Yin\" </color> "
     },
     "WuGongType": {
-      "ValueInfo": "hook method"
+      "ValueInfo": "Hook Skl"
     },
     "WuQiType": {
       "ValueInfo": "Hook"
@@ -38695,7 +38695,7 @@
       "ValueInfo": " <color=#23FF00FF> Top quality </color> "
     },
     "Description": {
-      "ValueInfo": "Jianghu superior Yin hook method. To practice this technique, you need to make the golden hook drink blood countless, in order to have success. Every time a person practicing this technique, the number of dead souls in the jianghu will increase."
+      "ValueInfo": "Jianghu superior Yin Hook Skl. To practice this technique, you need to make the golden hook drink blood countless, in order to have success. Every time a person practicing this technique, the number of dead souls in the jianghu will increase."
     },
     "Conditions": [
       {
@@ -38957,7 +38957,7 @@
       "ValueInfo": " <color=#808080FF> \"Yin </color> <color=#FFFFFFFF> Yang\" </color> "
     },
     "WuGongType": {
-      "ValueInfo": "hook method"
+      "ValueInfo": "Hook Skl"
     },
     "WuQiType": {
       "ValueInfo": "Hook"
@@ -39174,7 +39174,7 @@
       "ValueInfo": " <color=#808080FF> \"Yin\" </color> "
     },
     "WuGongType": {
-      "ValueInfo": "hook method"
+      "ValueInfo": "Hook Skl"
     },
     "WuQiType": {
       "ValueInfo": "Hook"
@@ -39186,12 +39186,12 @@
       "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
     },
     "Description": {
-      "ValueInfo": "Jianghu subtle Yin hook method. If you want to practice this technique, you need to first take the foundation of the absolute love kung fu, the absolute heart and emotion, relatives and friends do not recognize. Although it often makes the husband and wife turn against each other, brotherly rivalry, but because of the great power of the technique, there are still people who go forward and backward, and are eager to."
+      "ValueInfo": "Jianghu subtle Yin Hook Skl. If you want to practice this technique, you need to first take the foundation of the absolute love kung fu, the absolute heart and emotion, relatives and friends do not recognize. Although it often makes the husband and wife turn against each other, brotherly rivalry, but because of the great power of the technique, there are still people who go forward and backward, and are eager to."
     },
     "Conditions": [
       {
-        "LeftValueInfo": "The \"hook method\" is higher than 55",
-        "RightValueInfo": "The \"hook method\" is higher than 55"
+        "LeftValueInfo": "The \"Hook Skl\" is higher than 55",
+        "RightValueInfo": "The \"Hook Skl\" is higher than 55"
       }
     ],
     "XinFaNoneYingXiang": {
@@ -39439,7 +39439,7 @@
       "ValueInfo": " <color=#808080FF> \"Yin\" </color> "
     },
     "WuGongType": {
-      "ValueInfo": "hook method"
+      "ValueInfo": "Hook Skl"
     },
     "WuQiType": {
       "ValueInfo": "Hook"
@@ -39451,12 +39451,12 @@
       "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
     },
     "Description": {
-      "ValueInfo": "Emei school subtle Yin hook method. Receiving and sending freely, the hand is like the moon in the air, seemingly elegant, but often make people scarred, heart-breaking. Only women can play this hook method subtlety."
+      "ValueInfo": "Emei school subtle Yin Hook Skl. Receiving and sending freely, the hand is like the moon in the air, seemingly elegant, but often make people scarred, heart-breaking. Only women can play this Hook Skl subtlety."
     },
     "Conditions": [
       {
-        "LeftValueInfo": "The \"hook method\" is higher than 55",
-        "RightValueInfo": "The \"hook method\" is higher than 55"
+        "LeftValueInfo": "The \"Hook Skl\" is higher than 55",
+        "RightValueInfo": "The \"Hook Skl\" is higher than 55"
       }
     ],
     "XinFaNoneYingXiang": {
@@ -39744,7 +39744,7 @@
       "ValueInfo": " <color=#808080FF> \"Yin\" </color> "
     },
     "WuGongType": {
-      "ValueInfo": "hook method"
+      "ValueInfo": "Hook Skl"
     },
     "WuQiType": {
       "ValueInfo": "Hook"
@@ -39791,7 +39791,7 @@
           "Value": "Hook Attack"
         },
         "ZhaoShiDWuGong": {
-          "Value": " <color=#23FF00FF> Off-spirit hook method </color> "
+          "Value": " <color=#23FF00FF> Off-spirit Hook Skl </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "First layer"
@@ -39811,7 +39811,7 @@
           "Value": "Push Hook Defense"
         },
         "ZhaoShiDWuGong": {
-          "Value": " <color=#23FF00FF> Off-spirit hook method </color> "
+          "Value": " <color=#23FF00FF> Off-spirit Hook Skl </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "First layer"
@@ -39833,7 +39833,7 @@
           "Value": "broken shape"
         },
         "ZhaoShiDWuGong": {
-          "Value": " <color=#23FF00FF> Off-spirit hook method </color> "
+          "Value": " <color=#23FF00FF> Off-spirit Hook Skl </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "First layer"
@@ -39889,7 +39889,7 @@
           "Value": "air entanglement"
         },
         "ZhaoShiDWuGong": {
-          "Value": " <color=#23FF00FF> Off-spirit hook method </color> "
+          "Value": " <color=#23FF00FF> Off-spirit Hook Skl </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "First layer"
@@ -39909,7 +39909,7 @@
           "Value": "dark interest"
         },
         "ZhaoShiDWuGong": {
-          "Value": " <color=#23FF00FF> Off-spirit hook method </color> "
+          "Value": " <color=#23FF00FF> Off-spirit Hook Skl </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "Second layer"
@@ -39957,7 +39957,7 @@
           "Value": "soul away from"
         },
         "ZhaoShiDWuGong": {
-          "Value": " <color=#23FF00FF> Off-spirit hook method </color> "
+          "Value": " <color=#23FF00FF> Off-spirit Hook Skl </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "Second layer"
@@ -40010,7 +40010,7 @@
       }
     ],
     "Name": {
-      "ValueInfo": " <color=#23FF00FF> Off-spirit hook method </color> "
+      "ValueInfo": " <color=#23FF00FF> Off-spirit Hook Skl </color> "
     }
   },
   {
@@ -40021,7 +40021,7 @@
       "ValueInfo": " <color=#808080FF> \"Yin\" </color> "
     },
     "WuGongType": {
-      "ValueInfo": "hook method"
+      "ValueInfo": "Hook Skl"
     },
     "WuQiType": {
       "ValueInfo": "Hook"
@@ -47171,7 +47171,7 @@
       "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
     },
     "Description": {
-      "ValueInfo": "Jianghu subtle Yin internal energy, is the use of hook martial arts martial artists, the dream of the heart method. This function instantly burst extremely strong force, a blow, jade shattered into pieces, is named \"broken jade\". After the completion of the practice, the execution of any hook method martial arts attack is more powerful one."
+      "ValueInfo": "Jianghu subtle Yin internal energy, is the use of hook martial arts martial artists, the dream of the heart method. This function instantly burst extremely strong force, a blow, jade shattered into pieces, is named \"broken jade\". After the completion of the practice, the execution of any Hook Skl martial arts attack is more powerful one."
     },
     "Conditions": [
       {
@@ -48682,7 +48682,7 @@
       "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
     },
     "Description": {
-      "ValueInfo": "Tianshu pavilion delicate Yin internal skill, good at hook method can only be learned, after practice can grow the power of hook method, more offensive and severe, can make people invincible, hurt the enemy in the invisible."
+      "ValueInfo": "Tianshu pavilion delicate Yin internal skill, good at Hook Skl can only be learned, after practice can grow the power of Hook Skl, more offensive and severe, can make people invincible, hurt the enemy in the invisible."
     },
     "Conditions": [
       {
