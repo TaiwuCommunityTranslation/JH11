@@ -2516,7 +2516,7 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"Penmanship\" +2"
+        "Description": "\"Brush Skl\" +2"
       },
       {
         "Description": "\"Gods Come\" +2"
@@ -2536,10 +2536,10 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"Penmanship\" +5"
+        "Description": "\"Brush Skl\" +5"
       }
     ],
-    "Teses_ShuXing_ValueInfo": "\"Penmanship\" +5",
+    "Teses_ShuXing_ValueInfo": "\"Brush Skl\" +5",
     "Teses_ZhanDou_ValueInfo": "No equipment effect"
   },
   {
@@ -2550,7 +2550,7 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"Penmanship\" +2"
+        "Description": "\"Brush Skl\" +2"
       },
       {
         "Description": "\"Gods Come\" +2"
@@ -2632,7 +2632,7 @@
     },
     "Teses_ShuXing": [
       {
-        "Description": "\"Penmanship\" +2"
+        "Description": "\"Brush Skl\" +2"
       }
     ],
     "Teses_ZhanDou": {
@@ -2655,7 +2655,7 @@
         }
       ]
     },
-    "Teses_ShuXing_ValueInfo": "\"Penmanship\" +2",
+    "Teses_ShuXing_ValueInfo": "\"Brush Skl\" +2",
     "Teses_ZhanDou_ValueInfo": "\"30% increase in the power of offensive and defensive moves of \"Yang\""
   },
   {
