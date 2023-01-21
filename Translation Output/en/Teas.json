@@ -1458,7 +1458,7 @@
           "Description": "\"Killing intent\"-40"
         },
         {
-          "Description": "\"Penmanship\" +2"
+          "Description": "\"Brush Skl\" +2"
         },
         {
           "Description": "\"+8 for \"Breath Adjustment"
@@ -1920,7 +1920,7 @@
     "StateDescription": {
       "Pos": [
         {
-          "Description": "\"+3 to \"Penmanship"
+          "Description": "\"+3 to \"Brush Skl"
         },
         {
           "Description": "\"God Comes\" +10"
@@ -4381,7 +4381,7 @@
       "Values": [
         {
           "Name": {
-            "Value": "\"+3 to \"Penmanship"
+            "Value": "\"+3 to \"Brush Skl"
           },
           "TeSeLeiXing": {
             "ValueInfo": "Part Recovery"
