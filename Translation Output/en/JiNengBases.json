@@ -5914,8 +5914,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Concentration\" above 55",
-        "RightValueInfo": "\"Concentration\" above 55"
+        "LeftValueInfo": "\"Focus\" above 55",
+        "RightValueInfo": "\"Focus\" above 55"
       }
     ],
     "XinFaNoneYingXiang": {
@@ -6384,7 +6384,7 @@
       "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
     },
     "Description": {
-      "ValueInfo": "The Blood Hand Sect's exquisite Yin palm technique, created by the master \"Bright Red Toad\" Liu Zhengfeng, is an evil technique that everyone in the jianghu is afraid of. If there is no killing intent to practice this palm, this technique will erode the practitioner's mind, causing the practitioner to go berserk. The heavier the evil thoughts, the more powerful it is."
+      "ValueInfo": "The Blood Hand Sect's exquisite Yin palm technique, created by the master \"Bright Red Toad\" Liu Zhengfeng, is an evil technique that everyone in the jianghu is afraid of. If there is no Killing Intent to practice this palm, this technique will erode the practitioner's mind, causing the practitioner to go berserk. The heavier the evil thoughts, the more powerful it is."
     },
     "Conditions": [
       {
@@ -15752,8 +15752,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Concentration\" above 50",
-        "RightValueInfo": "\"Concentration\" above 50"
+        "LeftValueInfo": "\"Focus\" above 50",
+        "RightValueInfo": "\"Focus\" above 50"
       }
     ],
     "XinFaNoneYingXiang": {
@@ -18650,8 +18650,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Perception\" above 80; \"killing intent\" above 80",
-        "RightValueInfo": "\"Perception\" above 80; \"killing intent\" above 80"
+        "LeftValueInfo": "\"Perception\" above 80; \"Killing Intent\" above 80",
+        "RightValueInfo": "\"Perception\" above 80; \"Killing Intent\" above 80"
       },
       {}
     ],
@@ -26207,7 +26207,7 @@
       "ValueInfo": " <color=#FF9A00FF> Jedi </color> "
     },
     "Description": {
-      "ValueInfo": "Jianghu absolute yang spear style. It is a powerful and powerful shot, which only advances but not retreats, with a killing intent, like a long burning red flame. It can only be used in conjunction with the King's Spear to maximize its power."
+      "ValueInfo": "Jianghu absolute yang spear style. It is a powerful and powerful shot, which only advances but not retreats, with a Killing Intent, like a long burning red flame. It can only be used in conjunction with the King's Spear to maximize its power."
     },
     "Conditions": [
       {
@@ -30193,8 +30193,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Concentration\" above 60",
-        "RightValueInfo": "\"Concentration\" above 60"
+        "LeftValueInfo": "\"Focus\" above 60",
+        "RightValueInfo": "\"Focus\" above 60"
       }
     ],
     "XinFaNoneYingXiang": {
@@ -42330,17 +42330,17 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Concentration\" above 50",
-        "RightValueInfo": "\"Concentration\" above 50"
+        "LeftValueInfo": "\"Focus\" above 50",
+        "RightValueInfo": "\"Focus\" above 50"
       }
     ],
     "ZhaoShis": [
       {
         "Name": {
-          "Value": "Concentration on the hanging bun"
+          "Value": "Focus on the hanging bun"
         },
         "ZhaoShiDWuGong": {
-          "Value": " <color=#23FF00FF> Meditation and Concentration Method </color> "
+          "Value": " <color=#23FF00FF> Meditation and Focus Method </color> "
         },
         "SuoShuCengShu": {
           "ValueInfo": "Second layer"
@@ -42372,7 +42372,7 @@
       }
     ],
     "Name": {
-      "ValueInfo": " <color=#23FF00FF> Meditation and Concentration Method </color> "
+      "ValueInfo": " <color=#23FF00FF> Meditation and Focus Method </color> "
     }
   },
   {
@@ -47041,7 +47041,7 @@
       "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
     },
     "Description": {
-      "ValueInfo": "Jianghu subtle Yin internal martial arts. This technique is extremely evil, the deeper the power, the more killing intent, messing with people's minds. When the kung fu reaches its completion, the practitioner is as crazy as a maniac, bloodthirsty and murderous, and will not stop killing until death. It is called \"white bones, lead to the yellow spring.\""
+      "ValueInfo": "Jianghu subtle Yin internal martial arts. This technique is extremely evil, the deeper the power, the more Killing Intent, messing with people's minds. When the kung fu reaches its completion, the practitioner is as crazy as a maniac, bloodthirsty and murderous, and will not stop killing until death. It is called \"white bones, lead to the yellow spring.\""
     },
     "Conditions": [
       {
@@ -50301,8 +50301,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Concentration\" above 55",
-        "RightValueInfo": "\"Concentration\" above 55"
+        "LeftValueInfo": "\"Focus\" above 55",
+        "RightValueInfo": "\"Focus\" above 55"
       }
     ],
     "ZhaoShis": [
