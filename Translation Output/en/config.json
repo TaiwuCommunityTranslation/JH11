@@ -9397,7 +9397,7 @@
       "JinJiYiQiang": "Advance to Top 1"
     },
     "Fight": {
-      "GongFangHuiHe": "{0}Offensive and defensive rounds",
+      "GongFangHuiHe": "{0} turns",
       "WuLengQue": "No cooling",
       "BuXian": "No limit",
       "Gong": " <color=#E24344FF> Attack </color> ",
@@ -9454,7 +9454,7 @@
       "JinXiuWanCheng": "Further training completed",
       "JinXiuZhong": "Further training in progress",
       "XiuLianaZhong": "Training in progress",
-      "GongFangHuiHe": "{0}Offensive and defensive rounds",
+      "GongFangHuiHe": "{0} turns",
       "WuLengQue": "No cooling",
       "MultiZhaoShi": "Multi-stroke activation",
       "BeiJiHuo": "Activated by {0}",
@@ -9634,7 +9634,7 @@
       "TeShu": "Special",
       "AnQi": "dark",
       "TongYong": "Tong",
-      "GongFangHuiHe": "{0}Offensive and defensive rounds",
+      "GongFangHuiHe": "{0} turns",
       "WuLengQue": "No cooling",
       "XuGongFangHuiHe": "Need {0} attack and defense rounds",
       "Wu": "None",
