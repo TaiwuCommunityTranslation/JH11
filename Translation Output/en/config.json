@@ -2229,7 +2229,7 @@
     },
     "NeiGong": {
       "Name": {
-        "cn": "internal power",
+        "cn": "Internal Power",
         "info": "------------------------------------- The following are the internal attributes of all characters ------------------------------------"
       },
       "QiLiang": {
@@ -3323,7 +3323,7 @@
     },
     "NeiGong": {
       "Name": {
-        "cn": "internal power",
+        "cn": "Internal Power",
         "info": "------------------------------------- following for all internal system properties configuration ------------------------------------"
       },
       "NGShuLianDengJi": {
@@ -5855,7 +5855,7 @@
       },
       "ChuangZuoShiCi": {
         "Info1": "Sure you want to create [ItemName]?",
-        "Info2": "(will consume [ChuangZuoXinLi] point Creativity)"
+        "Info2": "(will consume [ChuangZuoXinLi] points of Creativity)"
       },
       "ChuangZuoShuHua": {
         "Info1": "Sure you want to create [ItemName]?",
@@ -5962,7 +5962,7 @@
     "CangWuShuYuan": {
       "LingQuConfirm": {
         "WuGong": "Martial Arts",
-        "NeiGong": "internal power",
+        "NeiGong": "Internal Power",
         "QingGong": "lightning feat",
         "Info1": "Are you sure you want to redeem the \"[PinZhi]\" \"[Type]\" [Name]?",
         "Info2": "(Also available for redemption [Times] times)"
@@ -8861,7 +8861,7 @@
     "LianGongXiTong": {
       "PanelText": "Martial Arts Training",
       "WuGong": "Martial Arts",
-      "NeiGong": "internal power",
+      "NeiGong": "Internal Power",
       "QingGong": "lightning feat",
       "XinFa": "Martial arts techniques",
       "YiXiuLian": "Cultivated",
@@ -9063,7 +9063,7 @@
         "WuShuXing": "No attribute",
         "BaoHan": "Contains",
         "BuBaoHan": "Not included",
-        "NeiGong": "internal power",
+        "NeiGong": "Internal Power",
         "QingGong": "lightning feat",
         "Wu": "None",
         "YiXiuLian": "Cultivated",
@@ -9397,11 +9397,11 @@
       "JinJiYiQiang": "Advance to Top 1"
     },
     "Fight": {
-      "GongFangHuiHe": "{0}Offensive and defensive rounds",
+      "GongFangHuiHe": "{0} turns",
       "WuLengQue": "No cooling",
       "BuXian": "No limit",
       "Gong": " <color=#E24344FF> Attack </color> ",
-      "Fang": " <color=#5C9BE2FF> Anti </color> ",
+      "Fang": " <color=#5C9BE2FF> Def. </color> ",
       "Wu": "None",
       "HuiHeJieShu": "And {0} end of round combat",
       "Yi": "1",
@@ -9427,7 +9427,7 @@
       "HuoSheng": "Winning",
       "ShouShang": "Injured",
       "Di": "              No.",
-      "HuiHe": "Roundup",
+      "HuiHe": "Round",
       "HuoQuShengDian": "Winning Points from {0}",
       "DuiZhan": "Right",
       "KongShou": "Empty-handed",
@@ -9441,7 +9441,7 @@
     },
     "WuGongXiuLian": {
       "WuGong": "Martial Arts",
-      "NeiGong": "internal power",
+      "NeiGong": "Internal Power",
       "QingGong": "lightning feat",
       "YiXiuLian": "Cultivated",
       "CengShu": "Layer {0}",
@@ -9454,7 +9454,7 @@
       "JinXiuWanCheng": "Further training completed",
       "JinXiuZhong": "Further training in progress",
       "XiuLianaZhong": "Training in progress",
-      "GongFangHuiHe": "{0}Offensive and defensive rounds",
+      "GongFangHuiHe": "{0} turns",
       "WuLengQue": "No cooling",
       "MultiZhaoShi": "Multi-stroke activation",
       "BeiJiHuo": "Activated by {0}",
@@ -9514,7 +9514,7 @@
       "QueDingJiaoChu": "Sure you want to hand over {0}?",
       "Wu": "None",
       "WuGongXinFa": "Martial arts techniques",
-      "NeiGong": "internal power",
+      "NeiGong": "Internal Power",
       "QingGong": "lightning feat",
       "XinFaKouJue": "Mind Mantra",
       "YiXiuLian": "Cultivated",
@@ -9634,7 +9634,7 @@
       "TeShu": "Special",
       "AnQi": "dark",
       "TongYong": "Tong",
-      "GongFangHuiHe": "{0}Offensive and defensive rounds",
+      "GongFangHuiHe": "{0} turns",
       "WuLengQue": "No cooling",
       "XuGongFangHuiHe": "Need {0} attack and defense rounds",
       "Wu": "None",
@@ -16213,7 +16213,7 @@
         "Text": "Body"
       },
       "内功": {
-        "Text": "internal power"
+        "Text": "Internal Power"
       },
       "精神": {
         "Text": "Spirituality"
