@@ -2472,7 +2472,7 @@
       },
       {
         "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Story - 天涯落枫 - 正篇二 - 走火入魔\" </size> </b> </color> \n\nYou and Di Meng have searched for clues in various parts of Red Maple Cottage and learned that there is a mountain forest in the northwest of Red Maple Cottage.",
-        "Target": "Objective: <color=#FFA41BFF> Go to the mountain forest northwest of \"Red Maple Cottage\n(The forest is located northwest of Red Maple Cottage, bordering the Maple Leaf Forest, with a shorter green tree at the entrance) </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to the forest northwest of Red Maple Cottage\n(The forest is located northwest of Red Maple Cottage, with a short red bush at the entrance) </color> ",
         "MuDiDiValues": {
           "DDText": "323,320"
         }
@@ -10503,14 +10503,1770 @@
   },
   {
     "Name": {
-      "Value": " <color=#FF5100FF> Sandbox Mode 1.0 </color> "
+      "Value": " <color=#DDBE84FF>  <b> \"Zangwu Shuyuan\" </b> </color> "
     },
     "QuestClass": {
       "ValueInfo": "None"
     },
     "Descriptions": [
       {
-        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Sandbox Mode\" </size> </b> </color> \nYou are welcome to explore the world of \"Journeyman Eleven\" freely.\n\n\"Sandbox Mode\" has more freedom to explore and learn martial arts routes; \"Sandbox Mode\" currently does not support \"Main Line\", \"Branch Line\", \"Hidden Martial Arts Tournament\" and \"Sect Challenge\".\n\n - Sandbox has no time limit\n - All scripts and random NPCs will have no death limit, except for some special NPCs (such as the Hidden Martial Arts Officer)\n - A large number of scripted NPCs will have their own routes of worship and martial arts transmission\n - NPCs will be more aggressive in their martial arts training and development\n - Killing life-threatening NPCs in deadly fights will be rewarded with drops, and there is a chance that the secret techniques carried in the bag will also be dropped\n - All NPCs in the script will be rewarded for their interactions with each other, including paper, ink, pencil and ink stone for the court characters, collectibles for the merchant characters, musical instruments and music for the courtesans, etc.\n - The combination of worship and sword discussion can basically collect all the martial arts and graduation weapons of a certain Kung Fu system. For example, if you want to learn spear technique, you can learn from Cang Hongsheng + participate in Ding Rong merchant sword discussion\n - Heavenly book sword discussion will have a new representative rewards\n - Heavenly book discussion sword and secret treasure will be more challenging\n - Battling increases the drop of sect introductory feats\n - Fighting wine to increase the drop of Jiang Hu internal light kung fu\n\n - You can import your own or other people's \"soul files\" into the sandbox; after opening a new \"sandbox mode\", the soul will become an NPC in the game\n - The \"soul NPC\" will retain most of the status of the character at the time of extraction, including the \"nurturing attributes\", \"skill training\", \"backpack bag\", etc.\n - Soul NPCs will have their own behavior and cultivation AI\n - Soul NPCs will participate in the sword discussion\n - Soul NPCs can be teamed up and interact with other types of relationships"
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Zoumushoin\" </size> </b> </color> \n\nThe \"Heavenly Book Pavilion\" spread a letter in the jianghu that the \"Hidden Martial Arts Ring\" would be restarted soon. Many jianghu warriors learned about this and went to the \"Heavenly Book Pavilion\" to find out what happened.",
+        "Target": "Objective: <color=#FFA41BFF> Go to the \"Heavenly Book Pavilion\" to find the \"Book Bearer\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Heavenly Book Pavilion"
+        }
+      },
+      {
+        "Content": "When you arrive at the \"Heavenly Book Pavilion\", the \"Book Bearer\" tells you that since the \"Heavenly Book Sword Discussion\" failed to determine the \"World Champion\", the \"Heavenly Book Pavilion\" has restarted the \"Hidden Martial Arts Tournament\", where all martial artists can come and show their skills. After that, the \"Book Bearer\" asks you to go to the \"Hidden Martial Arts Academy\" to find the \"Hidden Martial Arts Officer\" and learn more about the ring.",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Zaomushoin\" to find \"Zaomushoin\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Heavenly Book Pavilion",
+          "SSText": "Zangwu Academy"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "1 point"
+        }
+      },
+      {
+        "Content": "The \"Hidden Martial Arts Officer\" introduces you to the rules of the \"Hidden Martial Arts Tournament\" and tells you that the Martial Arts Library where you can store the \"First\" scrolls is now open and you can exchange them for the \"Heavenly Book Secret Palette\" given by the Heavenly Book Pavilion, but you will need to challenge to open a higher level Martial Arts Library and get more \"Heavenly Book Secret Palette\" to exchange them. Afterwards, the Martial Arts Officer will tell you that the challenge has been opened and ask you to complete the \"Heavenly Book Pavilion\" challenge.",
+        "LeiTaiInfoValues": [
+          {
+            "Text": "\"The Heavenly Book Pavilion\""
+          }
+        ]
+      },
+      {
+        "Content": "The \"Heavenly Book Pavilion\" ring challenge has been completed. Return to the \"Heavenly Book Pavilion\" and \"Hidden Martial Arts Academy\" to find the \"Hidden Martial Arts Officer\".",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Tianshu Pavilion\" \"Zangmu Academy\" to find \"Zangmu Officer\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Heavenly Book Pavilion",
+          "SSText": "Zangwu Academy"
+        }
+      },
+      {
+        "Content": "The \"Tibetan Military Officer\" will tell you that a new challenge has been opened and will allow you to go to the \"Taotie Gate\" and \"Xuantian Pavilion\" to challenge.",
+        "LeiTaiRewardValues": {
+          "DSText": "1 point"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "\"Taotie Gate\""
+          },
+          {
+            "Text": "\"Xuantian Pavilion\""
+          }
+        ]
+      },
+      {
+        "Content": "The \"Taotie Gate\" challenge and the \"Xuantian Pavilion\" challenge have been completed. Return to the \"Tianshu Pavilion\" and \"Zangwu Academy\" to find the \"Zangwu Officer\".",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Tianshu Pavilion\" \"Zangmu Academy\" to find \"Zangmu Officer\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Heavenly Book Pavilion",
+          "SSText": "Zangwu Academy"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "1 point"
+        }
+      },
+      {
+        "Content": "You will be informed by the \"Tibetan Military Officer\" that a new challenge has been opened, and you will be allowed to go to \"Nanyang Boxing Villa\" and \"Qingcheng Sect\" to challenge them.",
+        "LeiTaiRewardValues": {
+          "DSText": "1 point"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "\"Nanyang Boxing Club\""
+          },
+          {
+            "Text": "\"Qingcheng School\""
+          }
+        ]
+      },
+      {
+        "Content": "\"Nanyang Boxing Villa\" and \"Qingcheng Sect\" ring challenges have been completed, return to \"Tianshu Pavilion\" and \"Hidden Martial Arts Academy\" to find \"Hidden Martial Arts Officer\".",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Tianshu Pavilion\" \"Zangmu Academy\" to find \"Zangmu Officer\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Heavenly Book Pavilion",
+          "SSText": "Zangwu Academy"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "1 point"
+        }
+      },
+      {
+        "Content": "The \"Tibetan Military Officer\" will tell you that a new challenge has been opened and will allow you to go to the \"Iron Palm Sect\" and \"Youming Sect\" to challenge them.",
+        "LeiTaiRewardValues": {
+          "DSText": "1 point"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "\"Iron Palm\""
+          },
+          {
+            "Text": "The \"Psi-mei School\""
+          }
+        ]
+      },
+      {
+        "Content": "\"Iron Master\" and \"Youming Sect\" ring challenges are completed, return to \"Tianshu Pavilion\" and \"Zangwu Academy\" to find \"Zangwu Officer\".",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Tianshu Pavilion\" \"Zangmu Academy\" to find \"Zangmu Officer\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Heavenly Book Pavilion",
+          "SSText": "Zangwu Academy"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "1 point"
+        }
+      },
+      {
+        "Content": "The \"Tibetan Warlord\" informs you that a new challenge has been opened and allows you to go to \"Beggar's Gang\" and \"Hundred zhang Mountain Villa\" to challenge.",
+        "LeiTaiRewardValues": {
+          "DSText": "1 point"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "\"Beggars' Gang\""
+          },
+          {
+            "Text": "\"Hakujo Mountain Resort\""
+          }
+        ]
+      },
+      {
+        "Content": "\"Beggar's Gang\" and \"Hundred zhang Villa\" ring challenge has been completed, return to \"Tianshu Pavilion\" and \"Hidden Martial Arts Academy\" to find \"Hidden Martial Arts Officer\".",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Tianshu Pavilion\" \"Zangmu Academy\" to find \"Zangmu Officer\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Heavenly Book Pavilion",
+          "SSText": "Zangwu Academy"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "1 point"
+        }
+      },
+      {
+        "Content": "The \"Tibetan Military Officer\" informs you that a new challenge has been opened and allows you to go to \"Kongdong Sect\", \"Blazing Sun Cult\" and \"Red Maple Fortress\" for the challenge.",
+        "LeiTaiRewardValues": {
+          "DSText": "1 point"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "\"Kongdong School\""
+          },
+          {
+            "Text": "\"The Church of the Blazing Sun\""
+          },
+          {
+            "Text": "\"Red Maple Cottage\""
+          }
+        ]
+      },
+      {
+        "Content": "\"Kongdong Sect\", \"Blazing Sun Cult\" and \"Red Maple Fortress\" ring challenges have been completed, return to \"Heavenly Book Pavilion\" and \"Hidden Martial Arts Academy\" to find \"Hidden Martial Arts Officer\".",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Tianshu Pavilion\" \"Zangmu Academy\" to find \"Zangmu Officer\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Heavenly Book Pavilion",
+          "SSText": "Zangwu Academy"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "1 point"
+        }
+      },
+      {
+        "Content": "The \"Tibetan Warlord\" informs you that a new challenge has been opened and allows you to go to the \"Five Poisons Cave\" and \"Medicine King Villa\" to challenge.",
+        "LeiTaiRewardValues": {
+          "DSText": "1 point"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "\"Five Poison Cave"
+          },
+          {
+            "Text": "\"Yakwangzhuang\""
+          }
+        ]
+      },
+      {
+        "Content": "The \"Five Poison Cave\" and \"Pill King Villa\" ring challenges have been completed. Return to the \"Heavenly Book Pavilion\" and \"Hidden Martial Arts Academy\" to find the \"Hidden Martial Arts Officer\".",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Tianshu Pavilion\" \"Zangmu Academy\" to find \"Zangmu Officer\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Heavenly Book Pavilion",
+          "SSText": "Zangwu Academy"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "1 point"
+        }
+      },
+      {
+        "Content": "You will be informed by the \"Zaobu officer\" that a new challenge has been opened and you will be asked to go to \"White Crane Valley\" and \"Flying Scorpion Wood\" to challenge them.",
+        "LeiTaiRewardValues": {
+          "DSText": "1 point"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "\"White Crane Valley\""
+          },
+          {
+            "Text": "\"Flying Scorpion Dock\""
+          }
+        ]
+      },
+      {
+        "Content": "The challenges in the \"White Crane Valley\" and \"Flying Scorpion Dock\" have been completed. Return to the \"Heavenly Book Pavilion\" and \"Sword Casting Workshop\" to find the \"Heavenly Book Sword Casting Master\".",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Heavenly Book Pavilion\" \"Sword Casting Workshop\" to find \"Heavenly Book Sword Casting Master\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Heavenly Book Pavilion",
+          "SSText": "Sword Casting Workshop"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "1 point"
+        }
+      },
+      {
+        "Content": "The \"Heavenly Book Sword Casters\" inform you that a new challenge has been opened, and tell you to go to \"Yan Feng Hall\" and \"Blood Hand Gate\" to challenge.",
+        "LeiTaiRewardValues": {
+          "DSText": "1 point"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "\"Yan Feng Tang\""
+          },
+          {
+            "Text": "\"Blood Brothers\""
+          }
+        ]
+      },
+      {
+        "Content": "The ring challenges of \"Inferno Hall\" and \"Blood Hand Sect\" have been completed. Return to \"Tianshu Pavilion\" and \"Zangwu Academy\" to find \"Zangwu Officer\".",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Tianshu Pavilion\" \"Zangmu Academy\" to find \"Zangmu Officer\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Heavenly Book Pavilion",
+          "SSText": "Zangwu Academy"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "1 point"
+        }
+      },
+      {
+        "Content": "The \"Tibetan Military Officer\" informs you that a new challenge has been opened and allows you to go to \"Hengshan School\", \"Taishan School\", \"Huashan School\", \"Songshan School\" and \"Hengshan School\" to challenge.",
+        "LeiTaiRewardValues": {
+          "DSText": "1 point"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "\"Hengshan School\""
+          },
+          {
+            "Text": "\"Tarzan School\""
+          },
+          {
+            "Text": "\"Huashan School\""
+          },
+          {
+            "Text": "\"Songshan School"
+          },
+          {
+            "Text": "\"Hengshan School\""
+          }
+        ]
+      },
+      {
+        "Content": "The challenges of \"Hengshan School\", \"Taishan School\", \"Huashan School\", \"Songshan School\" and \"Hengshan School\" have been completed. Return to \"Tianshu Pavilion\" and \"Zangwu Academy\" to find \"Zangwu Officer\".",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Tianshu Pavilion\" \"Zangmu Academy\" to find \"Zangmu Officer\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Heavenly Book Pavilion",
+          "SSText": "Zangwu Academy"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "1 point"
+        }
+      },
+      {
+        "Content": "The \"Tibetan Warlord\" informs you that a new challenge has been opened and allows you to go to \"Omei Sect\" and \"Youhong Palace\" to challenge them.",
+        "LeiTaiRewardValues": {
+          "DSText": "2 points"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "\"Omei School\""
+          },
+          {
+            "Text": "\"Youhong Palace\""
+          }
+        ]
+      },
+      {
+        "Content": "\"Omei Sect\" and \"Youhong Palace\" ring challenge is completed, return to \"Tianshu Pavilion\" and \"Zangwu Academy\" to find \"Zangwu Officer\".",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Tianshu Pavilion\" \"Zangmu Academy\" to find \"Zangmu Officer\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Heavenly Book Pavilion",
+          "SSText": "Zangwu Academy"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "2 points"
+        }
+      },
+      {
+        "Content": "The \"Tibetan Military Officer\" informs you that a new challenge has been opened and allows you to go to \"Quanzhen Sect\", \"Qingwang Temple\", \"Tianzun Sect\", \"Wudang Sect\" and \"Shaolin Temple\" to challenge them.",
+        "LeiTaiRewardValues": {
+          "DSText": "2 points"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "\"Jeon Jin Church\""
+          },
+          {
+            "Text": "\"Green King Temple\""
+          },
+          {
+            "Text": "\"The Cult of Heavenly Dignity"
+          },
+          {
+            "Text": "\"Wudang School\""
+          },
+          {
+            "Text": "\"Shaolin Temple\""
+          }
+        ]
+      },
+      {
+        "Content": "The ring challenges of \"Quanzhen Sect\", \"Qingwang Temple\", \"Tianzun Sect\", \"Wudang Sect\" and \"Shaolin Temple\" have been completed. Return to \"Tianshu Pavilion\" and \"Zangwu Academy\" to find \"Zangwu Officer\".",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Tianshu Pavilion\" \"Zangmu Academy\" to find \"Zangmu Officer\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Heavenly Book Pavilion",
+          "SSText": "Zangwu Academy"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "2 points"
+        }
+      },
+      {
+        "Content": "\"You will be informed that a new challenge has been opened and you will be asked to go to \"Ling Tian Yi Yao Pavilion\" to challenge it.",
+        "LeiTaiInfoValues": [
+          {
+            "Text": "\"Ling Tian Free Court\""
+          }
+        ]
+      },
+      {
+        "Content": "The \"Ling Tian Yi Yao Pavilion\" ring challenge has been completed. Return to the \"Heavenly Book Pavilion\" to find the \"Book Bearer\".",
+        "Target": "Objective: <color=#FFA41BFF> Go to the \"Heavenly Book Pavilion\" to find the \"Book Bearer\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Heavenly Book Pavilion"
+        }
+      },
+      {
+        "Content": "The \"Book Bearer\" informs you that a new challenge has been opened and allows you to perform the \"Demon Subjugation\" and \"Spear King\" ring challenges.",
+        "LeiTaiRewardValues": {
+          "DSText": "2 points"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "\"Descendants\""
+          },
+          {
+            "Text": "\"King of Spears"
+          }
+        ]
+      },
+      {
+        "Content": "The \"Demon Subjugation\" and \"Spear King\" ring challenges have been completed. Return to the \"Heavenly Book Pavilion\" and \"Hidden Martial Arts Academy\" to find the \"Hidden Martial Arts Officer\".",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Tianshu Pavilion\" \"Zangmu Academy\" to find \"Zangmu Officer\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Heavenly Book Pavilion",
+          "SSText": "Zangwu Academy"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "2 points"
+        }
+      },
+      {
+        "Content": "The \"Zaibu Officer\" informs you that a new challenge has been opened and allows you to take on the \"Flying Fairy\" and \"Zaitang\" ring challenges.",
+        "LeiTaiRewardValues": {
+          "DSText": "2 points"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "\"Flying Fairy\""
+          },
+          {
+            "Text": "\"Saito\""
+          }
+        ]
+      },
+      {
+        "Content": "The \"Flying Fairy\" and \"Laitang\" ring challenges have been completed. Return to \"Tianshu Pavilion\" and \"Zangwu Academy\" to find \"Zangwu Officer\".",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Tianshu Pavilion\" \"Zangmu Academy\" to find \"Zangmu Officer\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Heavenly Book Pavilion",
+          "SSText": "Zangwu Academy"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "2 points"
+        }
+      },
+      {
+        "Content": "The \"Tibetan Warlord\" informs you that a new challenge has opened and allows you to take on the \"Chongyang\", \"Taiji\", \"Green Dragon\" and \"Heavenly Sword\" ring challenges.",
+        "LeiTaiRewardValues": {
+          "DSText": "2 points"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "\"Chrysanthemum\""
+          },
+          {
+            "Text": "\"Tai Chi\""
+          },
+          {
+            "Text": "\"Green Dragon\""
+          },
+          {
+            "Text": "\"Heavenly Sword\""
+          }
+        ]
+      },
+      {
+        "Content": "The challenges of \"Chongyang\", \"Taiji\", \"Green Dragon\" and \"Heavenly Sword\" have been completed. Return to \"Tianshu Pavilion\" and \"Zangwu Academy\" to find \"Zangwu Officer\".",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Tianshu Pavilion\" \"Zangmu Academy\" to find \"Zangmu Officer\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Heavenly Book Pavilion",
+          "SSText": "Zangwu Academy"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "2 points"
+        }
+      },
+      {
+        "Content": "The \"Tibetan military officer\" informs you that a new challenge has been opened and allows you to perform the \"Ling Tian\" ring challenge.",
+        "LeiTaiInfoValues": [
+          {
+            "Text": "\"Ling Tian\""
+          }
+        ]
+      },
+      {
+        "Content": "\"Ling Tian\" ring challenge has been completed, return to \"Tian Shu Pavilion\" \"Zang Wu Academy\" to find \"Zang Wu Officer\".",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Tianshu Pavilion\" \"Zangmu Academy\" to find \"Zangmu Officer\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Heavenly Book Pavilion",
+          "SSText": "Zangwu Academy"
+        }
+      },
+      {
+        "End": "The ring has all been successfully challenged"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> The \"Heavenly Book Pavilion\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> The \"Heavenly Book Pavilion\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to the \"Heavenly Book Pavilion\" and open the ring challenge at the \"Receiver\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Heavenly Book Pavilion"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 5 rounds\"",
+          "Not \"defeated\""
+        ]
+      },
+      {
+        "End": "Successful challenge in the \"Heavenly Book Pavilion\" ring"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"Taotie Gate\" ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Taotie Gate\" ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Taotie Gate\" and open the ring challenge at the \"Receiver\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Taotie Gate"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\"",
+          "In a \"gourmet state"
+        ]
+      },
+      {
+        "End": "The \"Taotie Gate\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"Xuantian Pavilion\" ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Xuantian Pavilion\" ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Xuantian Pavilion\" \"Martial Arts Training Ground\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Xuantian Pavilion",
+          "SSText": "Martial arts training ground"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"One-strike\" opponent"
+        ]
+      },
+      {
+        "End": "The \"Xuantian Pavilion\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"Nanyang Boxing Club\" ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Nanyang Boxing Villa\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Nanyang Boxing Villa\" \"Martial Arts Training Ground\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Nanyang Quanzhuang",
+          "SSText": "Martial arts training ground"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\"",
+          "\"Break\" opponent 2 times"
+        ]
+      },
+      {
+        "End": "\"Nanyang Boxing Club\" ring challenge successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> The \"Qingcheng School\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> The \"Qingcheng School\" Ring </size> </b> </color> ",
+        "Target": "Goal: <color=#FFA41BFF> Go to \"Qingcheng School\" \"Qingcheng Mountain\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Qingcheng School",
+          "SSText": "Qingcheng Mountain"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\"",
+          "\"Wound\" opponent 1 time"
+        ]
+      },
+      {
+        "End": "The \"Qingcheng School\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"Iron Palm\" ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Iron Palm\" ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Iron Palm Gate\" \"Martial Arts Training Ground\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Iron Palm",
+          "SSText": "Martial arts training ground"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 12 rounds\"",
+          "\"One-strike\" opponent"
+        ]
+      },
+      {
+        "End": "The \"Iron Master\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> The \"Phantom School\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> The \"Phantom School\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Youming School\" \"Martial Arts Training Ground\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Phantom School",
+          "SSText": "Martial arts training ground"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 6 rounds\"",
+          "\"Winning the battle\""
+        ]
+      },
+      {
+        "End": "\"Successful challenge in the ring of the \"Psi-Ming school"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"Beggar's Gang\" ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Beggar's Gang\" ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Beggar's Gang\" \"Martial Arts Training Ground\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Beggars' Association",
+          "SSText": "Martial arts training ground"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\"",
+          "No \"breakdowns\""
+        ]
+      },
+      {
+        "End": "\"Beggar's Gang\" ring challenge success"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> The \"Hakujo Villa\" ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> The \"Hakujo Villa\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Hakujo Villa\" \"Martial Arts Training Ground\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Hakujo Mountain Resort",
+          "SSText": "Martial arts training ground"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\""
+        ]
+      },
+      {
+        "End": "Successful challenge in the \"Hakujo Villa\" ring"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"Kongdong School\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Kongdong School\" Ring </size> </b> </color> ",
+        "Target": "Goal: <color=#FFA41BFF> Go to \"Kongtong School\" \"Kongtong Mountain\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Kongdong Sect",
+          "SSText": "Kongdong Mountain"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 12 rounds\"",
+          "\"One-strike\" opponent"
+        ]
+      },
+      {
+        "End": "\"Kongdong school\" ring challenge successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> The \"Blazing Sun Church\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> The \"Blazing Sun Church\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to the \"Martial Arts Training Ground\" of the \"Blazing Sun Cult\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Blazing Sun Teaching",
+          "SSText": "Martial arts training ground"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\""
+        ]
+      },
+      {
+        "End": "The \"Blazing Sun Cult\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"Red Maple Cottage\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Red Maple Cottage\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Red Maple Cottage\" and open the ring challenge at the \"usher\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Red Maple Village"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 12 rounds\"",
+          "\"One-strike\" opponent"
+        ]
+      },
+      {
+        "End": "The \"Red Maple Cottage\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> The \"Five Poison Cave\" ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Five Poison Cave\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Five Poison Cave\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Five Poison Cave"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\""
+        ]
+      },
+      {
+        "End": "The \"Five Poison Cave\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"Yakwangzhuang\" ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Yakwangzhuang\" ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Medicine King Village\" and open the ring challenge at the \"usher\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Yakwang Village"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\""
+        ]
+      },
+      {
+        "End": "The \"Medicine King Village\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"White Crane Valley\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"White Crane Valley\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"White Crane Valley\" \"Martial Arts Training Ground\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "White Crane Valley",
+          "SSText": "Martial arts training ground"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\""
+        ]
+      },
+      {
+        "End": "Successful challenge in the \"White Crane Valley\" ring"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"Flying Scorpion Dock\" ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Flying Scorpion Dock\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Flying Scorpion Dock\" \"Martial Arts Training Ground\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Flying Scorpion Dock",
+          "SSText": "Martial arts training ground"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\""
+        ]
+      },
+      {
+        "End": "The \"Flying Scorpion Dock\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"Yan Feng Tang\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Yan Feng Tang\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Inferno Hall\" \"Martial Arts Training Ground\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Yan Feng Tang",
+          "SSText": "Martial arts training ground"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\"",
+          "\"Break\" opponent 2 times"
+        ]
+      },
+      {
+        "End": "The \"Yan Feng Tang\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"Blood Brothers\" ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Blood Brothers\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to the \"Blood Hand Gate\" \"Martial Arts Training Ground\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Blood Hand Gate",
+          "SSText": "Martial arts training ground"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\"",
+          "Not \"injured\""
+        ]
+      },
+      {
+        "End": "The \"Blood Brothers\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> The \"Tarzan School\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> The \"Tarzan School\" Ring </size> </b> </color> ",
+        "Target": "Goal: <color=#FFA41BFF> Go to \"Taishan School\" \"Taishan Peak\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Taishan School",
+          "SSText": "Taishan Peak"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 12 rounds\"",
+          "\"One-strike\" opponent"
+        ]
+      },
+      {
+        "End": "The \"Tarzan School\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"Songshan School\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Songshan School\" Ring </size> </b> </color> ",
+        "Target": "Goal: <color=#FFA41BFF> Go to \"Mt. Songshan School\" \"Tai Muro Mountain Top\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Songshan School",
+          "SSText": "Top of Taimuro Mountain"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\"",
+          "\"Wound\" opponent 1 time"
+        ]
+      },
+      {
+        "End": "The \"Songshan School\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> The \"Huashan School\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> The \"Huashan School\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Huashan Sect\" \"Huashan Jiezhi\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Huashan School",
+          "SSText": "The top of Mount Hua"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\"",
+          "In \"Meditation ▪ Mountain Dignity\" state"
+        ]
+      },
+      {
+        "End": "The \"Huashan School\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> The \"Hengshan School\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> The \"Hengshan School\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Heng Shan Faction\" \"Tai Heng Shan Ridge\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Hengshan School",
+          "SSText": "Taiheng Mountain Ridge"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\"",
+          "\"Break\" opponent 1 time"
+        ]
+      },
+      {
+        "End": "\"Heng Shan School\" ring challenge successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> The \"Hengshan School\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> The \"Hengshan School\" Ring </size> </b> </color> ",
+        "Target": "Goal: <color=#FFA41BFF> Go to \"Hengshan School\" \"Hengshan Huiyan Peak\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Hengshan School",
+          "SSText": "Hengshan Huiyanfeng"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 12 rounds\"",
+          "\"One-strike\" opponent"
+        ]
+      },
+      {
+        "End": "The \"Hengshan School\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"Omei School\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Omei School\" Ring </size> </b> </color> ",
+        "Target": "Goal: <color=#FFA41BFF> Go to \"Omei School\" \"Omei Mountain\" and open the ring challenge at the \"usher\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Emei Sect",
+          "SSText": "Emei Mountain"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"One-strike\" opponent"
+        ]
+      },
+      {
+        "End": "\"Omei School\" ring challenge successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"Youhong Palace\" ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Youhong Palace\" ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Youhong Palace\" \"Martial Arts Training Ground\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Youhong Palace",
+          "SSText": "Martial arts training ground"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\"",
+          "No more than 2 times of being \"wounded\""
+        ]
+      },
+      {
+        "End": "Successful challenge in the \"Yu Hong Palace\" ring"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> The \"Holiness Church\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> The \"Holiness Church\" Ring </size> </b> </color> ",
+        "Target": "Goal: <color=#FFA41BFF> Go to \"Quanzhen Sect\" \"Martial Arts Training Ground\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Quanzhen Sect",
+          "SSText": "Martial arts training ground"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\""
+        ]
+      },
+      {
+        "End": "The \"All Saints\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"Wudang School\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Wudang School\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Wudang School\" \"Wudang Mountain\" and open the ring challenge at the \"Receiver\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Wudang School",
+          "SSText": "Wudang Mountain"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"One-strike\" opponent"
+        ]
+      },
+      {
+        "End": "\"Wudang school\" ring challenge successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> The \"Heavenly Dignity Cult\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> The \"Heavenly Dignity Cult\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Heavenly Dignity Sect\" \"Martial Arts Training Ground\" and open the ring challenge at \"Receiver\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Tianzun Cult",
+          "SSText": "Martial arts training ground"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\"",
+          "No more than 2 times of being \"wounded\""
+        ]
+      },
+      {
+        "End": "The \"Heavenly Dignity Cult\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"Green King Temple\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Green King Temple\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Green King Temple\" \"Martial Arts Training Ground\" and open the ring challenge at the \"usher\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Green King Temple",
+          "SSText": "Martial arts training ground"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"One-strike\" opponent"
+        ]
+      },
+      {
+        "End": "The \"Green King Temple\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"Shaolin Temple\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Shaolin Temple\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Shaolin Temple\" \"Martial Arts Training Ground\" and open the ring challenge at the \"usher\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Shaolin Temple",
+          "SSText": "Martial arts training ground"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\"",
+          "No \"breakdowns\""
+        ]
+      },
+      {
+        "End": "\"Shaolin Temple\" ring challenge successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"Ling Tian Yi Yao Court\" ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Ling Tian Yi Yao Court\" Ring </size> </b> </color> ",
+        "Target": "Goal: <color=#FFA41BFF> Go to \"Ling Tian Yi Yao Pavilion\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Ling Tian Yi Yi Pavilion"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"One-strike\" opponent"
+        ]
+      },
+      {
+        "End": "\"Ling Tian Yi Yao Court\" ring challenge successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> The \"Demon Drop\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> The \"Demon Drop\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Hongzhou\" \"Tengwangge\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Hongzhou",
+          "SSText": "Tengwang Pavilion"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\"",
+          "\"Wound\" opponent 1 time"
+        ]
+      },
+      {
+        "End": "Successful \"Demon Drop\" ring challenge"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"King of Spears\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"King of Spears\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Henan Province\" \"Dragon Gate Grotto\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Henan Province",
+          "SSText": "Longmen Grottoes"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\"",
+          "No \"breakdowns\""
+        ]
+      },
+      {
+        "End": "The \"King of Spears\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> The \"Flying Fairy\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Flying Fairy\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Huashan Sect\" \"Huashan Jiezhi\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Huashan School",
+          "SSText": "The top of Mount Hua"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\"",
+          "In \"Meditation ▪ Mountain Dignity\" state"
+        ]
+      },
+      {
+        "End": "Successful \"Flying Fairy\" ring challenge"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"Saitang\" ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Saito\" ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Shaolin Temple\" \"Dining Room\" and open the ring challenge at the \"usher\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Shaolin Temple",
+          "SSText": "Dining room"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\"",
+          "\"Break\" opponent 1 time"
+        ]
+      },
+      {
+        "End": "The \"Saito\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"Chongyang\" ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Chongyang\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Quanzhen Cult\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Quanzhen Sect"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\""
+        ]
+      },
+      {
+        "End": "The \"Chongyang\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"Tai Chi\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Tai Chi\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Wudang School\" \"Wudang Mountain\" and open the ring challenge at the \"Receiver\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Wudang School",
+          "SSText": "Wudang Mountain"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\""
+        ]
+      },
+      {
+        "End": "The \"Tai Chi\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"Green Dragon\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Green Dragon\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to \"Green King Temple\" and open the ring challenge at the \"usher\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Green King Temple"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\""
+        ]
+      },
+      {
+        "End": "The \"Green Dragon\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> The \"Heavenly Sword\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Sword of Heaven\" Ring </size> </b> </color> ",
+        "Target": "Objective: <color=#FFA41BFF> Go to the \"Heavenly Dignity Cult\" and open the ring challenge at the \"Receiver\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Tianzun Cult"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\""
+        ]
+      },
+      {
+        "End": "The \"Heavenly Sword\" ring challenge was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#DDBE84FF>  <b> \"Ling Tian\" Ring </b> </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Ling Tian\" Ring </size> </b> </color> ",
+        "Target": "Goal: <color=#FFA41BFF> Go to \"Ling Tian Yi Yao Pavilion\" and open the ring challenge at the \"Guide\" </color> ",
+        "Map2DIndiValues": [
+          {
+            "Text": "Tibetan martial arts ring"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "Ling Tian Yi Yi Pavilion"
+        },
+        "LeiTaiTargetText": [
+          "\"Within 18 rounds\"",
+          "\"Winning the battle\""
+        ]
+      },
+      {
+        "End": "\"Ling Tian's challenge in the ring was successful"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": " <color=#FF5100FF> Sandbox Mode 1.0 </color> "
+    },
+    "QuestClass": {
+      "ValueInfo": "Wu"
+    },
+    "Descriptions": [
+      {
+        "Content": " <color=#DDBE84FF>  <b>  <size=23> \"Sandbox Mode\" </size> </b> </color> \nYou are welcome to explore the world of \"Journeyman XI\" freely.\n\n\"Sandbox Mode\" has more freedom to explore and learn martial arts routes; \"Sandbox Mode\" currently does not support \"Main Line\", \"Branch Line\", \"Hidden Martial Arts Tournament\" and \"Sect Challenge\".\n\n - Sandbox has no time limit\n - All scripts and random NPCs will have no death limit, except for some special NPCs (such as the Hidden Martial Arts Officer)\n - A large number of scripted NPCs will have their own routes of worship and martial arts transmission\n - NPCs will be more aggressive in their martial arts training and development\n - Killing life-threatening NPCs in deadly fights will be rewarded with drops, and there is a chance that the secret techniques carried in the bag will also be dropped\n - All NPCs in the script will be rewarded for their interactions with each other, including paper, ink, pencil and ink stone for the court characters, collectibles for the merchant characters, musical instruments and music for the courtesans, etc.\n - The combination of worship and sword discussion can basically collect all the martial arts and graduation weapons of a certain Kung Fu system. For example, you can learn from Cang Hong Sheng + participate in the Ding Rong merchant sword discussion\n - Heavenly book sword discussion will have a new representative rewards\n - Heavenly book sword discussion and secret treasure will be more challenging\n - Battling increases the drop of sect introductory feats\n - Fighting wine to increase the drop of Jiang Hu internal light kung fu\n\n - You can import your own or other people's \"soul files\" into the sandbox; after opening a new \"sandbox mode\", the soul will become an NPC in the game\n - The \"soul NPC\" will retain most of the status of the character at the time of extraction, including the \"nurturing attributes\", \"skill training\", \"backpack bag\", etc.\n - Soul NPCs will have their own behavior and cultivation AI\n - Soul NPCs will participate in the sword discussion\n - Soul NPCs can be teamed up and interact with other types of relationships"
       }
     ]
   }
