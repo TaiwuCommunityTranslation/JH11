@@ -862,7 +862,7 @@
         },
         {
           "Name": {
-            "Value": "Will to improve 20"
+            "Value": "Will increase by 30"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
@@ -882,7 +882,7 @@
         },
         {
           "Name": {
-            "Value": "Focus on improving 20"
+            "Value": "Concentrated increase of 30"
           },
           "ValueOperator": {
             "ValueInfo": "Add"
