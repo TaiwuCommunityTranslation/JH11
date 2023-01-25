@@ -862,7 +862,7 @@
         },
         {
           "Name": {
-            "Value": "意志提高20"
+            "Value": "意志提高30"
           },
           "ValueOperator": {
             "ValueInfo": "增加"
@@ -882,7 +882,7 @@
         },
         {
           "Name": {
-            "Value": "集中提高20"
+            "Value": "集中提高30"
           },
           "ValueOperator": {
             "ValueInfo": "增加"

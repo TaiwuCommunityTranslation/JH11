@@ -2472,7 +2472,7 @@
       },
       {
         "Content": "<color=#DDBE84FF><b><size=23>「故事 · 天涯落枫 · 正篇贰 · 走火入魔」</size></b></color>\n\n你与「狄梦」在「红枫寨」各处搜寻到了一些相关线索，知晓了「红枫寨」西北处还有一片山林。",
-        "Target": "目标：<color=#FFA41BFF>前往「红枫寨」西北处的山林\n（山林位于「红枫寨」的西北方向，与枫叶林接壤，入口处有一株较矮的绿树）</color>",
+        "Target": "目标：<color=#FFA41BFF>前往「红枫寨」西北处的山林\n（山林位于「红枫寨」的西北方向，入口处有一株较矮的红色灌木）</color>",
         "MuDiDiValues": {
           "DDText": "323,320"
         }
@@ -10498,6 +10498,1762 @@
       },
       {
         "Content": "成功完成「少林寺」门派挑战。"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「藏武书院」</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「藏武书院」</size></b></color>\n\n「天书阁」传信于江湖，称「藏武擂台」即将重启，许多江湖侠士得知此事后，纷纷前往「天书阁」一探究竟。",
+        "Target": "目标：<color=#FFA41BFF>前往「天书阁」寻找「持书人」</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "天书阁"
+        }
+      },
+      {
+        "Content": "来到「天书阁」后，「持书人」告诉你，因先前「天书论剑」未能决出「天下第一」，「天书阁」重启了「藏武擂台」，武林中人皆可前来一展身手。随后，「持书人」让你前往「藏武书院」寻找「藏武官」，获知更多有关擂台之事。",
+        "Target": "目标：<color=#FFA41BFF>前往「藏武书院」寻找「藏武官」</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "天书阁",
+          "SSText": "藏武书院"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "1点"
+        }
+      },
+      {
+        "Content": "「藏武官」向你介绍了「藏武擂台」的规则，并告知你存放「初」卷秘籍的武学库已开启，可用天书阁赠与的「天书秘帛」兑换秘籍，但更精深的秘籍还需通过挑战，开启更高等级的武学库、得到更多「天书秘帛」来换取。随后，「藏武官」告知你擂台挑战已开启，并让你前去完成「天书阁」擂台挑战。",
+        "LeiTaiInfoValues": [
+          {
+            "Text": "「天书阁」"
+          }
+        ]
+      },
+      {
+        "Content": "「天书阁」擂台挑战已完成，返回「天书阁」「藏武书院」寻找「藏武官」。",
+        "Target": "目标：<color=#FFA41BFF>前往「天书阁」「藏武书院」寻找「藏武官」</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "天书阁",
+          "SSText": "藏武书院"
+        }
+      },
+      {
+        "Content": "「藏武官」告知你新的挑战已开启，并让你前往「饕餮门」、「玄天阁」进行挑战。",
+        "LeiTaiRewardValues": {
+          "DSText": "1点"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "「饕餮门」"
+          },
+          {
+            "Text": "「玄天阁」"
+          }
+        ]
+      },
+      {
+        "Content": "「饕餮门」挑战、「玄天阁」挑战已完成，返回「天书阁」「藏武书院」寻找「藏武官」。",
+        "Target": "目标：<color=#FFA41BFF>前往「天书阁」「藏武书院」寻找「藏武官」</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "天书阁",
+          "SSText": "藏武书院"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "1点"
+        }
+      },
+      {
+        "Content": "「藏武官」告知你新的挑战已开启，并让你前往「南阳拳庄」、「青城派」进行挑战。",
+        "LeiTaiRewardValues": {
+          "DSText": "1点"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "「南阳拳庄」"
+          },
+          {
+            "Text": "「青城派」"
+          }
+        ]
+      },
+      {
+        "Content": "「南阳拳庄」、「青城派」擂台挑战已完成，返回「天书阁」「藏武书院」寻找「藏武官」。",
+        "Target": "目标：<color=#FFA41BFF>前往「天书阁」「藏武书院」寻找「藏武官」</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "天书阁",
+          "SSText": "藏武书院"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "1点"
+        }
+      },
+      {
+        "Content": "「藏武官」告知你新的挑战已开启，并让你前往「铁掌门」、「幽明派」进行挑战。",
+        "LeiTaiRewardValues": {
+          "DSText": "1点"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "「铁掌门」"
+          },
+          {
+            "Text": "「幽明派」"
+          }
+        ]
+      },
+      {
+        "Content": "「铁掌门」、「幽明派」擂台挑战已完成，返回「天书阁」「藏武书院」寻找「藏武官」。",
+        "Target": "目标：<color=#FFA41BFF>前往「天书阁」「藏武书院」寻找「藏武官」</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "天书阁",
+          "SSText": "藏武书院"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "1点"
+        }
+      },
+      {
+        "Content": "「藏武官」告知你新的挑战已开启，并让你前往「丐帮」、「百丈山庄」进行挑战。",
+        "LeiTaiRewardValues": {
+          "DSText": "1点"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "「丐帮」"
+          },
+          {
+            "Text": "「百丈山庄」"
+          }
+        ]
+      },
+      {
+        "Content": "「丐帮」、「百丈山庄」擂台挑战已完成，返回「天书阁」「藏武书院」寻找「藏武官」。",
+        "Target": "目标：<color=#FFA41BFF>前往「天书阁」「藏武书院」寻找「藏武官」</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "天书阁",
+          "SSText": "藏武书院"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "1点"
+        }
+      },
+      {
+        "Content": "「藏武官」告知你新的挑战已开启，并让你前往「崆峒派」、「烈日教」、「红枫寨」进行挑战。",
+        "LeiTaiRewardValues": {
+          "DSText": "1点"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "「崆峒派」"
+          },
+          {
+            "Text": "「烈日教」"
+          },
+          {
+            "Text": "「红枫寨」"
+          }
+        ]
+      },
+      {
+        "Content": "「崆峒派」、「烈日教」、「红枫寨」擂台挑战已完成，返回「天书阁」「藏武书院」寻找「藏武官」。",
+        "Target": "目标：<color=#FFA41BFF>前往「天书阁」「藏武书院」寻找「藏武官」</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "天书阁",
+          "SSText": "藏武书院"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "1点"
+        }
+      },
+      {
+        "Content": "「藏武官」告知你新的挑战已开启，并让你前往「五毒洞」、「药王庄」进行挑战。",
+        "LeiTaiRewardValues": {
+          "DSText": "1点"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "「五毒洞」"
+          },
+          {
+            "Text": "「药王庄」"
+          }
+        ]
+      },
+      {
+        "Content": "「五毒洞」、「药王庄」擂台挑战已完成，返回「天书阁」「藏武书院」寻找「藏武官」。",
+        "Target": "目标：<color=#FFA41BFF>前往「天书阁」「藏武书院」寻找「藏武官」</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "天书阁",
+          "SSText": "藏武书院"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "1点"
+        }
+      },
+      {
+        "Content": "「藏武官」告知你新的挑战已开启，并让你前往「白鹤谷」、「飞蝎坞」进行挑战。",
+        "LeiTaiRewardValues": {
+          "DSText": "1点"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "「白鹤谷」"
+          },
+          {
+            "Text": "「飞蝎坞」"
+          }
+        ]
+      },
+      {
+        "Content": "「白鹤谷」、「飞蝎坞」擂台挑战已完成，返回「天书阁」「铸剑坊」寻找「天书铸剑师」。",
+        "Target": "目标：<color=#FFA41BFF>前往「天书阁」「铸剑坊」寻找「天书铸剑师」</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "天书阁",
+          "SSText": "铸剑坊"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "1点"
+        }
+      },
+      {
+        "Content": "「天书铸剑师」告知你新的挑战已开启，并让你前往「炎凤堂」、「血手门」进行挑战。",
+        "LeiTaiRewardValues": {
+          "DSText": "1点"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "「炎凤堂」"
+          },
+          {
+            "Text": "「血手门」"
+          }
+        ]
+      },
+      {
+        "Content": "「炎凤堂」、「血手门」擂台挑战已完成，返回「天书阁」「藏武书院」寻找「藏武官」。",
+        "Target": "目标：<color=#FFA41BFF>前往「天书阁」「藏武书院」寻找「藏武官」</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "天书阁",
+          "SSText": "藏武书院"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "1点"
+        }
+      },
+      {
+        "Content": "「藏武官」告知你新的挑战已开启，并让你前往「衡山派」、「泰山派」、「华山派」、「嵩山派」、「恒山派」进行挑战。",
+        "LeiTaiRewardValues": {
+          "DSText": "1点"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "「衡山派」"
+          },
+          {
+            "Text": "「泰山派」"
+          },
+          {
+            "Text": "「华山派」"
+          },
+          {
+            "Text": "「嵩山派」"
+          },
+          {
+            "Text": "「恒山派」"
+          }
+        ]
+      },
+      {
+        "Content": "「衡山派」、「泰山派」、「华山派」、「嵩山派」、「恒山派」擂台挑战已完成，返回「天书阁」「藏武书院」寻找「藏武官」。",
+        "Target": "目标：<color=#FFA41BFF>前往「天书阁」「藏武书院」寻找「藏武官」</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "天书阁",
+          "SSText": "藏武书院"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "1点"
+        }
+      },
+      {
+        "Content": "「藏武官」告知你新的挑战已开启，并让你前往「峨嵋派」、「幽鸿宫」进行挑战。",
+        "LeiTaiRewardValues": {
+          "DSText": "2点"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "「峨嵋派」"
+          },
+          {
+            "Text": "「幽鸿宫」"
+          }
+        ]
+      },
+      {
+        "Content": "「峨嵋派」、「幽鸿宫」擂台挑战已完成，返回「天书阁」「藏武书院」寻找「藏武官」。",
+        "Target": "目标：<color=#FFA41BFF>前往「天书阁」「藏武书院」寻找「藏武官」</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "天书阁",
+          "SSText": "藏武书院"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "2点"
+        }
+      },
+      {
+        "Content": "「藏武官」告知你新的挑战已开启，并让你前往「全真教」、「青王寺」、「天尊教」、「武当派」、「少林寺」进行挑战。",
+        "LeiTaiRewardValues": {
+          "DSText": "2点"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "「全真教」"
+          },
+          {
+            "Text": "「青王寺」"
+          },
+          {
+            "Text": "「天尊教」"
+          },
+          {
+            "Text": "「武当派」"
+          },
+          {
+            "Text": "「少林寺」"
+          }
+        ]
+      },
+      {
+        "Content": "「全真教」、「青王寺」、「天尊教」、「武当派」、「少林寺」擂台挑战已完成，返回「天书阁」「藏武书院」寻找「藏武官」。",
+        "Target": "目标：<color=#FFA41BFF>前往「天书阁」「藏武书院」寻找「藏武官」</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "天书阁",
+          "SSText": "藏武书院"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "2点"
+        }
+      },
+      {
+        "Content": "「藏武官」告知你新的挑战已开启，并让你前往「凌天逍遥阁」进行挑战。",
+        "LeiTaiInfoValues": [
+          {
+            "Text": "「凌天逍遥阁」"
+          }
+        ]
+      },
+      {
+        "Content": "「凌天逍遥阁」擂台挑战已完成，返回「天书阁」寻找「持书人」。",
+        "Target": "目标：<color=#FFA41BFF>前往「天书阁」寻找「持书人」</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "天书阁"
+        }
+      },
+      {
+        "Content": "「持书人」告知你新的挑战已开启，并让你进行「降魔」、「枪王」擂台挑战。",
+        "LeiTaiRewardValues": {
+          "DSText": "2点"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "「降魔」"
+          },
+          {
+            "Text": "「枪王」"
+          }
+        ]
+      },
+      {
+        "Content": "「降魔」、「枪王」擂台挑战已完成，返回「天书阁」「藏武书院」寻找「藏武官」。",
+        "Target": "目标：<color=#FFA41BFF>前往「天书阁」「藏武书院」寻找「藏武官」</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "天书阁",
+          "SSText": "藏武书院"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "2点"
+        }
+      },
+      {
+        "Content": "「藏武官」告知你新的挑战已开启，并让你进行「飞仙」、「斋堂」擂台挑战。",
+        "LeiTaiRewardValues": {
+          "DSText": "2点"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "「飞仙」"
+          },
+          {
+            "Text": "「斋堂」"
+          }
+        ]
+      },
+      {
+        "Content": "「飞仙」、「斋堂」擂台挑战已完成，返回「天书阁」「藏武书院」寻找「藏武官」。",
+        "Target": "目标：<color=#FFA41BFF>前往「天书阁」「藏武书院」寻找「藏武官」</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "天书阁",
+          "SSText": "藏武书院"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "2点"
+        }
+      },
+      {
+        "Content": "「藏武官」告知你新的挑战已开启，并让你进行「重阳」、「太极」、「青龙」、「天剑」擂台挑战。",
+        "LeiTaiRewardValues": {
+          "DSText": "2点"
+        },
+        "LeiTaiInfoValues": [
+          {
+            "Text": "「重阳」"
+          },
+          {
+            "Text": "「太极」"
+          },
+          {
+            "Text": "「青龙」"
+          },
+          {
+            "Text": "「天剑」"
+          }
+        ]
+      },
+      {
+        "Content": "「重阳」、「太极」、「青龙」、「天剑」擂台挑战已完成，返回「天书阁」「藏武书院」寻找「藏武官」。",
+        "Target": "目标：<color=#FFA41BFF>前往「天书阁」「藏武书院」寻找「藏武官」</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "天书阁",
+          "SSText": "藏武书院"
+        },
+        "LeiTaiRewardValues": {
+          "DSText": "2点"
+        }
+      },
+      {
+        "Content": "「藏武官」告知你新的挑战已开启，并让你进行「凌天」擂台挑战。",
+        "LeiTaiInfoValues": [
+          {
+            "Text": "「凌天」"
+          }
+        ]
+      },
+      {
+        "Content": "「凌天」擂台挑战已完成，返回「天书阁」「藏武书院」寻找「藏武官」。",
+        "Target": "目标：<color=#FFA41BFF>前往「天书阁」「藏武书院」寻找「藏武官」</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "天书阁",
+          "SSText": "藏武书院"
+        }
+      },
+      {
+        "End": "擂台已全部挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「天书阁」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「天书阁」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「天书阁」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "天书阁"
+        },
+        "LeiTaiTargetText": [
+          "「5回合内」",
+          "未「对招落败」"
+        ]
+      },
+      {
+        "End": "「天书阁」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「饕餮门」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「饕餮门」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「饕餮门」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "饕餮门"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」",
+          "处于「美食状态」"
+        ]
+      },
+      {
+        "End": "「饕餮门」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「玄天阁」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「玄天阁」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「玄天阁」「练武场」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "玄天阁",
+          "SSText": "练武场"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「一击制胜」对手"
+        ]
+      },
+      {
+        "End": "「玄天阁」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「南阳拳庄」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「南阳拳庄」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「南阳拳庄」「练武场」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "南阳拳庄",
+          "SSText": "练武场"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」",
+          "「击破」对手2次"
+        ]
+      },
+      {
+        "End": "「南阳拳庄」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「青城派」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「青城派」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「青城派」「青城山」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "青城派",
+          "SSText": "青城山"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」",
+          "「击伤」对手1次"
+        ]
+      },
+      {
+        "End": "「青城派」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「铁掌门」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「铁掌门」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「铁掌门」「练武场」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "铁掌门",
+          "SSText": "练武场"
+        },
+        "LeiTaiTargetText": [
+          "「12回合内」",
+          "「一击制胜」对手"
+        ]
+      },
+      {
+        "End": "「铁掌门」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「幽明派」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「幽明派」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「幽明派」「练武场」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "幽明派",
+          "SSText": "练武场"
+        },
+        "LeiTaiTargetText": [
+          "「6回合内」",
+          "「战斗获胜」"
+        ]
+      },
+      {
+        "End": "「幽明派」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「丐帮」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「丐帮」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「丐帮」「练武场」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "丐帮",
+          "SSText": "练武场"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」",
+          "未出现「破绽」"
+        ]
+      },
+      {
+        "End": "「丐帮」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「百丈山庄」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「百丈山庄」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「百丈山庄」「练武场」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "百丈山庄",
+          "SSText": "练武场"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」"
+        ]
+      },
+      {
+        "End": "「百丈山庄」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「崆峒派」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「崆峒派」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「崆峒派」「崆峒山」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "崆峒派",
+          "SSText": "崆峒山"
+        },
+        "LeiTaiTargetText": [
+          "「12回合内」",
+          "「一击制胜」对手"
+        ]
+      },
+      {
+        "End": "「崆峒派」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「烈日教」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「烈日教」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「烈日教」「练武场」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "烈日教",
+          "SSText": "练武场"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」"
+        ]
+      },
+      {
+        "End": "「烈日教」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「红枫寨」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「红枫寨」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「红枫寨」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "红枫寨"
+        },
+        "LeiTaiTargetText": [
+          "「12回合内」",
+          "「一击制胜」对手"
+        ]
+      },
+      {
+        "End": "「红枫寨」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「五毒洞」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「五毒洞」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「五毒洞」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "五毒洞"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」"
+        ]
+      },
+      {
+        "End": "「五毒洞」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「药王庄」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「药王庄」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「药王庄」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "药王庄"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」"
+        ]
+      },
+      {
+        "End": "「药王庄」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「白鹤谷」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「白鹤谷」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「白鹤谷」「练武场」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "白鹤谷",
+          "SSText": "练武场"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」"
+        ]
+      },
+      {
+        "End": "「白鹤谷」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「飞蝎坞」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「飞蝎坞」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「飞蝎坞」「练武场」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "飞蝎坞",
+          "SSText": "练武场"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」"
+        ]
+      },
+      {
+        "End": "「飞蝎坞」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「炎凤堂」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「炎凤堂」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「炎凤堂」「练武场」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "炎凤堂",
+          "SSText": "练武场"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」",
+          "「击破」对手2次"
+        ]
+      },
+      {
+        "End": "「炎凤堂」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「血手门」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「血手门」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「血手门」「练武场」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "血手门",
+          "SSText": "练武场"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」",
+          "未「受伤」"
+        ]
+      },
+      {
+        "End": "「血手门」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「泰山派」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「泰山派」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「泰山派」「泰山峰顶」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "泰山派",
+          "SSText": "泰山峰顶"
+        },
+        "LeiTaiTargetText": [
+          "「12回合内」",
+          "「一击制胜」对手"
+        ]
+      },
+      {
+        "End": "「泰山派」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「嵩山派」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「嵩山派」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「嵩山派」「太室山巅」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "嵩山派",
+          "SSText": "太室山巅"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」",
+          "「击伤」对手1次"
+        ]
+      },
+      {
+        "End": "「嵩山派」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「华山派」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「华山派」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「华山派」「华山绝顶」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "华山派",
+          "SSText": "华山绝顶"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」",
+          "处于「冥想▪山尊」状态"
+        ]
+      },
+      {
+        "End": "「华山派」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「恒山派」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「恒山派」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「恒山派」「太恒山岭」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "恒山派",
+          "SSText": "太恒山岭"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」",
+          "「击破」对手1次"
+        ]
+      },
+      {
+        "End": "「恒山派」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「衡山派」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「衡山派」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「衡山派」「衡山回雁峰」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "衡山派",
+          "SSText": "衡山回雁峰"
+        },
+        "LeiTaiTargetText": [
+          "「12回合内」",
+          "「一击制胜」对手"
+        ]
+      },
+      {
+        "End": "「衡山派」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「峨嵋派」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「峨嵋派」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「峨嵋派」「峨嵋山」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "峨嵋派",
+          "SSText": "峨嵋山"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「一击制胜」对手"
+        ]
+      },
+      {
+        "End": "「峨嵋派」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「幽鸿宫」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「幽鸿宫」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「幽鸿宫」「练武场」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "幽鸿宫",
+          "SSText": "练武场"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」",
+          "被「击伤」不超过2次"
+        ]
+      },
+      {
+        "End": "「幽鸿宫」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「全真教」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「全真教」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「全真教」「练武场」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "全真教",
+          "SSText": "练武场"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」"
+        ]
+      },
+      {
+        "End": "「全真教」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「武当派」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「武当派」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「武当派」「武当山」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "武当派",
+          "SSText": "武当山"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「一击制胜」对手"
+        ]
+      },
+      {
+        "End": "「武当派」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「天尊教」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「天尊教」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「天尊教」「练武场」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "天尊教",
+          "SSText": "练武场"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」",
+          "被「击伤」不超过2次"
+        ]
+      },
+      {
+        "End": "「天尊教」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「青王寺」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「青王寺」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「青王寺」「练武场」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "青王寺",
+          "SSText": "练武场"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「一击制胜」对手"
+        ]
+      },
+      {
+        "End": "「青王寺」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「少林寺」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「少林寺」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「少林寺」「练武场」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "少林寺",
+          "SSText": "练武场"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」",
+          "未出现「破绽」"
+        ]
+      },
+      {
+        "End": "「少林寺」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「凌天逍遥阁」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「凌天逍遥阁」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「凌天逍遥阁」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "凌天逍遥阁"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「一击制胜」对手"
+        ]
+      },
+      {
+        "End": "「凌天逍遥阁」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「降魔」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「降魔」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「洪州」「滕王阁」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "洪州",
+          "SSText": "滕王阁"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」",
+          "「击伤」对手1次"
+        ]
+      },
+      {
+        "End": "「降魔」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「枪王」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「枪王」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「河南府」「龙门石窟」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "河南府",
+          "SSText": "龙门石窟"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」",
+          "未出现「破绽」"
+        ]
+      },
+      {
+        "End": "「枪王」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「飞仙」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「飞仙」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「华山派」「华山绝顶」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "华山派",
+          "SSText": "华山绝顶"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」",
+          "处于「冥想▪山尊」状态"
+        ]
+      },
+      {
+        "End": "「飞仙」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「斋堂」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「斋堂」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「少林寺」「伙房」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "少林寺",
+          "SSText": "伙房"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」",
+          "「击破」对手1次"
+        ]
+      },
+      {
+        "End": "「斋堂」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「重阳」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「重阳」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「全真教」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "全真教"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」"
+        ]
+      },
+      {
+        "End": "「重阳」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「太极」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「太极」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「武当派」「武当山」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "武当派",
+          "SSText": "武当山"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」"
+        ]
+      },
+      {
+        "End": "「太极」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「青龙」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「青龙」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「青王寺」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "青王寺"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」"
+        ]
+      },
+      {
+        "End": "「青龙」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「天剑」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「天剑」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「天尊教」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "天尊教"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」"
+        ]
+      },
+      {
+        "End": "「天剑」擂台挑战成功"
+      }
+    ]
+  },
+  {
+    "Name": {
+      "Value": "<color=#DDBE84FF><b>「凌天」擂台</b></color>"
+    },
+    "QuestClass": {
+      "ValueInfo": "无"
+    },
+    "Descriptions": [
+      {
+        "Content": "<color=#DDBE84FF><b><size=23>「凌天」擂台</size></b></color>",
+        "Target": "目标：<color=#FFA41BFF>前往「凌天逍遥阁」在「接引人」处开启擂台挑战</color>",
+        "Map2DIndiValues": [
+          {
+            "Text": "藏武擂台"
+          }
+        ],
+        "MuDiDiValues": {
+          "DDText": "凌天逍遥阁"
+        },
+        "LeiTaiTargetText": [
+          "「18回合内」",
+          "「战斗获胜」"
+        ]
+      },
+      {
+        "End": "「凌天」擂台挑战成功"
       }
     ]
   },

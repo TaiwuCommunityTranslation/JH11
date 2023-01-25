@@ -1285,5 +1285,434 @@
     "Text2": [
       "无奇"
     ]
+  },
+  {
+    "Name": "「吉星」出身",
+    "Description1": "「全武」+5",
+    "Description2": "追加额外「金钱」",
+    "Text1": [
+      "开卷有益"
+    ],
+    "Text2": [
+      "吉人天相"
+    ]
+  },
+  {
+    "Name": "「奇真」出身",
+    "Description1": "「全武」+5",
+    "Description2": "追加额外「金钱」",
+    "Text1": [
+      "奇经异脉"
+    ],
+    "Text2": [
+      "真气充盈"
+    ]
+  },
+  {
+    "Name": "「绝玄」出身",
+    "Description1": "「全武」+5",
+    "Description2": "追加额外「金钱」",
+    "Text1": [
+      "骨骼清奇"
+    ],
+    "Text2": [
+      "练武奇才"
+    ]
+  },
+  {
+    "Name": "「乐世」出身",
+    "Description1": "「魅力」+10",
+    "Description2": "「涵养」+10",
+    "Text1": [
+      "乐天喜人"
+    ],
+    "Text2": [
+      "如沐春风"
+    ]
+  },
+  {
+    "Name": "「养天馆」出身",
+    "Description1": "「医术」+10",
+    "Description2": "自宅仓库追加「医书」<color=#23FF00FF>《旅舍备要方》</color>",
+    "Text1": [
+      "高于80"
+    ],
+    "Text2": [
+      "医者"
+    ]
+  },
+  {
+    "Name": "「黑仙洞」出身",
+    "Description1": "「毒术」+10",
+    "Description2": "自宅仓库追加「毒经」<color=#FF00B6FF>《牵机秋石谱》</color>",
+    "Text1": [
+      "高于80"
+    ],
+    "Text2": [
+      "毒师"
+    ]
+  },
+  {
+    "Name": "「奇世家」出身",
+    "Description1": "「收藏」+10",
+    "Description2": "「悟性」+10",
+    "Text1": [
+      "高于85"
+    ],
+    "Text2": [
+      "奇珍异宝"
+    ]
+  },
+  {
+    "Name": "「茶世家」出身",
+    "Description1": "「茶道」+15",
+    "Description2": "自宅仓库追加额外「茶具茶叶」",
+    "Text1": [
+      "高于85"
+    ],
+    "Text2": [
+      "点茶高手"
+    ]
+  },
+  {
+    "Name": "「食世家」出身",
+    "Description1": "「烹饪」+15",
+    "Description2": "自宅仓库追加额外「食材」",
+    "Text1": [
+      "高于85"
+    ],
+    "Text2": [
+      "炮凤烹龙"
+    ]
+  },
+  {
+    "Name": "「酒世家」出身",
+    "Description1": "「饮酒」+15",
+    "Description2": "自宅仓库追加额外「酒器名酒」",
+    "Text1": [
+      "高于85"
+    ],
+    "Text2": [
+      "五斗先生"
+    ]
+  },
+  {
+    "Name": "「音世家」出身",
+    "Description1": "「乐器」+15",
+    "Description2": "自宅仓库追加额外「乐器乐谱」",
+    "Text1": [
+      "高于85"
+    ],
+    "Text2": [
+      "品竹弹丝"
+    ]
+  },
+  {
+    "Name": "「诗世家」出身",
+    "Description1": "「诗词」+15",
+    "Description2": "自宅仓库追加额外「书籍」",
+    "Text1": [
+      "高于85"
+    ],
+    "Text2": [
+      "妙笔生花"
+    ]
+  },
+  {
+    "Name": "「画世家」出身",
+    "Description1": "「书画」+15",
+    "Description2": "自宅仓库追加额外「文房四宝」",
+    "Text1": [
+      "高于85"
+    ],
+    "Text2": [
+      "挥毫落纸"
+    ]
+  },
+  {
+    "Name": "「一灵堂」出身",
+    "Description1": "「悟性」+15",
+    "Description2": "追加额外「金钱」",
+    "Text1": [
+      "高于67"
+    ],
+    "Text2": [
+      "灵心慧性"
+    ]
+  },
+  {
+    "Name": "「素光寺」出身",
+    "Description1": "「福缘」+15",
+    "Description2": "追加额外「金钱」",
+    "Text1": [
+      "高于67"
+    ],
+    "Text2": [
+      "吉人天相"
+    ]
+  },
+  {
+    "Name": "「青竹塔」出身",
+    "Description1": "「魅力」+15",
+    "Description2": "追加额外「金钱」",
+    "Text1": [
+      "高于67"
+    ],
+    "Text2": [
+      "天生丽质"
+    ]
+  },
+  {
+    "Name": "「四方庄」出身",
+    "Description1": "「交涉」+15",
+    "Description2": "追加额外「金钱」",
+    "Text1": [
+      "高于67"
+    ],
+    "Text2": [
+      "能说会道"
+    ]
+  },
+  {
+    "Name": "「摘星崖」出身",
+    "Description1": "「见识」+15",
+    "Description2": "追加额外「金钱」",
+    "Text1": [
+      "高于67"
+    ],
+    "Text2": [
+      "见多识广"
+    ]
+  },
+  {
+    "Name": "「无色坊」出身",
+    "Description1": "「涵养」+15",
+    "Description2": "追加额外「金钱」",
+    "Text1": [
+      "高于67"
+    ],
+    "Text2": [
+      "知书达礼"
+    ]
+  },
+  {
+    "Name": "「血冥」出身",
+    "Description1": "「杀意」+15",
+    "Description2": "追加额外「金钱」",
+    "Text1": [
+      "高于70"
+    ],
+    "Text2": [
+      "杀气腾腾"
+    ]
+  },
+  {
+    "Name": "「拂云」出身",
+    "Description1": "「神来」+20",
+    "Description2": "追加额外「金钱」",
+    "Text1": [
+      "高于50"
+    ],
+    "Text2": [
+      "天人和一"
+    ]
+  },
+  {
+    "Name": "「定风」出身",
+    "Description1": "「集中」+10",
+    "Description2": "追加额外「金钱」",
+    "Text1": [
+      "高于50"
+    ],
+    "Text2": [
+      "心无旁骛"
+    ]
+  },
+  {
+    "Name": "「开弓」出身",
+    "Description1": "「意志」+10",
+    "Description2": "追加额外「金钱」",
+    "Text1": [
+      "高于50"
+    ],
+    "Text2": [
+      "坚韧不拔"
+    ]
+  },
+  {
+    "Name": "「千钧」出身",
+    "Description1": "「决断」+10",
+    "Description2": "追加额外「金钱」",
+    "Text1": [
+      "高于50"
+    ],
+    "Text2": [
+      "当机立断"
+    ]
+  },
+  {
+    "Name": "「太始」出身",
+    "Description1": "「体魄」+8",
+    "Description2": "「腰马」+8",
+    "Text1": [
+      "高于50"
+    ],
+    "Text2": [
+      "身强体健"
+    ]
+  },
+  {
+    "Name": "「封侯」出身",
+    "Description1": "「指力」+10",
+    "Description2": "自宅仓库追加「内功秘籍」<color=#23FF00FF>墨阳气法</color>",
+    "Text1": [
+      "高于45"
+    ],
+    "Text2": [
+      "指力达人"
+    ]
+  },
+  {
+    "Name": "「刀门」出身",
+    "Description1": "「使刀」+10",
+    "Description2": "自宅仓库追加「内功秘籍」<color=#23FF00FF>点苍心法</color>「兵器」<color=#23FF00FF>戒刀</color>",
+    "Text1": [
+      "高于45"
+    ],
+    "Text2": [
+      "使刀好手"
+    ]
+  },
+  {
+    "Name": "「棍宗」出身",
+    "Description1": "「耍棍」+10",
+    "Description2": "自宅仓库追加「内功秘籍」<color=#23FF00FF>青狄内功</color>「兵器」<color=#23FF00FF>铜棍</color>",
+    "Text1": [
+      "高于45"
+    ],
+    "Text2": [
+      "耍棍好手"
+    ]
+  },
+  {
+    "Name": "「枪阁」出身",
+    "Description1": "「用枪」+10",
+    "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>昆吾枪法</color>「兵器」<color=#23FF00FF>素木枪</color>",
+    "Text1": [
+      "高于45"
+    ],
+    "Text2": [
+      "用枪好手"
+    ]
+  },
+  {
+    "Name": "「斧寨」出身",
+    "Description1": "「运斧」+10",
+    "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>将军斧法</color>「兵器」<color=#23FF00FF>板斧</color>",
+    "Text1": [
+      "高于45"
+    ],
+    "Text2": [
+      "运斧达人"
+    ]
+  },
+  {
+    "Name": "「鞭楼」出身",
+    "Description1": "「鞭术」+10",
+    "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>扫霞鞭法</color>「兵器」<color=#23FF00FF>柳皇鞭</color>",
+    "Text1": [
+      "高于45"
+    ],
+    "Text2": [
+      "鞭术好手"
+    ]
+  },
+  {
+    "Name": "「钩角」出身",
+    "Description1": "「钩法」+10",
+    "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>小紫云钩诀</color>「兵器」<color=#23FF00FF>铁钩</color>",
+    "Text1": [
+      "高于45"
+    ],
+    "Text2": [
+      "钩法达人"
+    ]
+  },
+  {
+    "Name": "「隐秘」出身",
+    "Description1": "「暗器」+10",
+    "Description2": "自宅仓库追加「内功秘籍」<color=#23FF00FF>残魂气法</color>「兵器」<color=#23FF00FF>银镖</color>",
+    "Text1": [
+      "高于45"
+    ],
+    "Text2": [
+      "善用暗器"
+    ]
+  },
+  {
+    "Name": "「笔祠」出身",
+    "Description1": "「笔法」+10",
+    "Description2": "自宅仓库追加「内功秘籍」<color=#23FF00FF>金字心经</color>「兵器」<color=#23FF00FF>银钩笔</color>",
+    "Text1": [
+      "高于45"
+    ],
+    "Text2": [
+      "笔法达人"
+    ]
+  },
+  {
+    "Name": "「剑邸」出身",
+    "Description1": "「用剑」+6",
+    "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>两仪剑法</color>",
+    "Text1": [
+      "高于50"
+    ],
+    "Text2": [
+      "用剑好手"
+    ]
+  },
+  {
+    "Name": "「拳府」出身",
+    "Description1": "「拳掌」+6",
+    "Description2": "自宅仓库追加「武功秘籍」<color=#23FF00FF>乾天掌</color>",
+    "Text1": [
+      "高于50"
+    ],
+    "Text2": [
+      "拳掌好手"
+    ]
+  },
+  {
+    "Name": "「武世家」出身",
+    "Description1": "自宅仓库追加「轻功秘籍」<color=#23FF00FF>疾风步法</color>",
+    "Description2": "自宅仓库追加额外「伤药」",
+    "Text1": [
+      "不凡"
+    ],
+    "Text2": [
+      "不凡"
+    ]
+  },
+  {
+    "Name": "「玄世家」出身",
+    "Description1": "自宅仓库追加「内功秘籍」<color=#23FF00FF>丹阳心法</color>",
+    "Description2": "自宅仓库追加额外「补药」",
+    "Text1": [
+      "不凡"
+    ],
+    "Text2": [
+      "不凡"
+    ]
+  },
+  {
+    "Name": "「无奇」出身",
+    "Description1": "「福缘」+15",
+    "Description2": "追加额外「金钱」",
+    "Text1": [
+      "无奇"
+    ],
+    "Text2": [
+      "无奇"
+    ]
   }
 ]
