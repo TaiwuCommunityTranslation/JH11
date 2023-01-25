@@ -79,6 +79,10 @@
         {
           "BranchText": "Difficulty: initial strength score 51+",
           "ConfirmText": "Make sure to select a strength score of 51+ to start creating characters?"
+        },
+        {
+          "BranchText": "Extremely difficult: initial strength score of 41+",
+          "ConfirmText": "Make sure you choose a strength score of 41+ to start creating characters?"
         }
       ]
     },
@@ -97,6 +101,10 @@
         {
           "BranchText": "Difficulty: initial strength score 51+",
           "ConfirmText": "Make sure to select a strength score of 51+ to start creating characters?"
+        },
+        {
+          "BranchText": "Extremely difficult: initial strength score of 41+",
+          "ConfirmText": "Make sure you choose a strength score of 41+ to start creating characters?"
         }
       ]
     }
