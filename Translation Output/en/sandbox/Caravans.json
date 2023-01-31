@@ -1,0 +1,262 @@
+[
+  {
+    "Name": "Xing Shu Merchant Team",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "Disciples of Quanzhen Sect",
+      "Emei School Disciples"
+    ],
+    "BattleMenPai": [
+      "Quanzhen Sect",
+      "Emei School"
+    ]
+  },
+  {
+    "Name": "Whitewood Merchant",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "Disciples of Youhong Palace",
+      "Charlatan"
+    ],
+    "BattleMenPai": [
+      "Youhong Palace",
+      "No school, no sect"
+    ]
+  },
+  {
+    "Name": "Divine Spring Merchant",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "Taishan School Disciples"
+    ],
+    "BattleMenPai": [
+      "Taishan School"
+    ]
+  },
+  {
+    "Name": "Westside Merchants",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "Disciples of Green King Temple",
+      "Charlatan"
+    ],
+    "BattleMenPai": [
+      "Green King Temple",
+      "No school, no sect"
+    ]
+  },
+  {
+    "Name": "Guantay Merchant Team",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "Taishan School Disciples",
+      "Charlatan"
+    ],
+    "BattleMenPai": [
+      "Taishan School",
+      "No school, no sect"
+    ]
+  },
+  {
+    "Name": "TransPen merchant fleet",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "Disciples of the Heavenly Dignity Church",
+      "Charlatan"
+    ],
+    "BattleMenPai": [
+      "Tianzun Cult",
+      "No school, no sect"
+    ]
+  },
+  {
+    "Name": "Ugin Merchant",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "Disciples of Songshan School"
+    ],
+    "BattleMenPai": [
+      "Songshan School"
+    ]
+  },
+  {
+    "Name": "Fanjing Merchant Team",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "Wudang School Disciples"
+    ],
+    "BattleMenPai": [
+      "Wudang School"
+    ]
+  },
+  {
+    "Name": "Viet Li Merchant",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "Beggar's Disciples",
+      "Hengshan School Disciples"
+    ],
+    "BattleMenPai": [
+      "Beggars' Association",
+      "Hengshan School"
+    ]
+  },
+  {
+    "Name": "Ichiban Merchant Fleet",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "Wudang School Disciples"
+    ],
+    "BattleMenPai": [
+      "Wudang School"
+    ]
+  },
+  {
+    "Name": "Huai Du Merchant",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "Disciples of Youming School"
+    ],
+    "BattleMenPai": [
+      "Phantom School"
+    ]
+  },
+  {
+    "Name": "Ling Hang Merchant Team",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "Disciples of the Heavenly Dignity Church"
+    ],
+    "BattleMenPai": [
+      "Tianzun Cult"
+    ]
+  },
+  {
+    "Name": "Shouchun Merchant",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "Disciples of Flying Scorpionwood"
+    ],
+    "BattleMenPai": [
+      "Flying Scorpion Dock"
+    ]
+  },
+  {
+    "Name": "Oujing Merchant Team",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "Disciples of Green King Temple"
+    ],
+    "BattleMenPai": [
+      "Green King Temple"
+    ]
+  },
+  {
+    "Name": "Jing Yu Merchant Team",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "Shaolin Temple Disciples"
+    ],
+    "BattleMenPai": [
+      "Shaolin Temple"
+    ]
+  },
+  {
+    "Name": "Kibei Merchant Team",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "Iron Palm disciples"
+    ],
+    "BattleMenPai": [
+      "Iron Palm"
+    ]
+  },
+  {
+    "Name": "Two Chong merchants",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "Disciples of the Fiery Sun"
+    ],
+    "BattleMenPai": [
+      "Blazing Sun Teaching"
+    ]
+  },
+  {
+    "Name": "Spiritual rhinoceros merchants",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "Disciples of Yanfeng Hall"
+    ],
+    "BattleMenPai": [
+      "Yan Feng Tang"
+    ]
+  },
+  {
+    "Name": "Ziging Merchant Team",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "Disciples of Quanzhen Sect"
+    ],
+    "BattleMenPai": [
+      "Quanzhen Sect"
+    ]
+  },
+  {
+    "Name": "Fengan Merchant",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "Disciples of the Huashan School"
+    ],
+    "BattleMenPai": [
+      "Huashan School"
+    ]
+  },
+  {
+    "Name": "Golden Mirage Caravan",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "disciples of the Everest School"
+    ],
+    "BattleMenPai": [
+      "Hengshan School"
+    ]
+  },
+  {
+    "Name": "Dawn Star Merchant",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "Emei School Disciples",
+      "Charlatan"
+    ],
+    "BattleMenPai": [
+      "Emei School",
+      "No school, no sect"
+    ]
+  },
+  {
+    "Name": "Jing Sheep Merchant Team",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "Disciples of Songshan School",
+      "Shaolin Temple Disciples",
+      "Disciples of Youhong Palace"
+    ],
+    "BattleMenPai": [
+      "Songshan School",
+      "Shaolin Temple",
+      "Youhong Palace"
+    ]
+  },
+  {
+    "Name": "Aragonite Merchant",
+    "DialogCharacterName": "Merchant Escort",
+    "BattleName": [
+      "Disciples of Hakujo Mountain Resort",
+      "Charlatan"
+    ],
+    "BattleMenPai": [
+      "Hakujo Mountain Resort",
+      "No school, no sect"
+    ]
+  }
+]
