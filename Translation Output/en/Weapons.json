@@ -1,0 +1,4000 @@
+[
+  {
+    "ItemType": {
+      "ValueInfo": "Heavy Sword"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Genteel Heavy Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "The world-famous heavy sword of basalt iron."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "65% increase in the power of anti-stance"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Heavy Sword"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Taimuro Bladeless Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "A bladeless heavy sword built by the Mt."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "10% increase in the power of Parry"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Iron Long Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
+    },
+    "ItemDescription": {
+      "Value": "A common seven-foot iron sword in Jianghu."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "The chance of \"Divine Strike\" is reduced by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Reduction"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Broken Jade Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "The Sword of Absolute Love and Broken Jade."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the chance of \"part hit\" by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Lady's Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "The Sword of the Lady."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the power of attacking moves by 6%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "The chance of \"Divine Strike\" is increased by 3.5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Knife"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon Slayer </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "A dragon slayer's knife."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "60% increase in the power of attack moves"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "The chance of \"Divine Strike\" is increased by 4.5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Xuan Yuan Ancient Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "Ancient divine weapon Xuan Yuan sword."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "35% increase in the power of attack moves"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "35% increase in the power of anti-stance"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Gentleman's Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "A gentleman's sword that goes with a lady's sword."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Anti-move power increased by 13%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Flying Feather Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "The Flying Feather Sword of Despair."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "8% increase in the chance of \"part hit\""
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Heavy Sword"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> It's a gutsy heavy sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "A heavy two-handed sword made of cast pig iron."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "30% increase in the power of Parry"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "15% reduction in the power of attacking moves"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Reduction into"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Xuantian Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "The treasure sword used by the disciples of Xuantian Pavilion."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the power of attacking moves by 10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "10% increase in the power of Parry"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> SeungShin Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "A sharp bearing shadow sword."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "The chance of \"Divine Strike\" is increased by 2.5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Heavy Sword"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Kaisan Heavy Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "The heavy sword that opens mountains and breaks the power."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Anti-move power increased by 15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Heavy Sword"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Broken Soul Heavy Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "The soul-breaking and life-threatening merciless giant sword."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "60% increase in the power of Parry"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "The chance of \"Divine Strike\" is reduced by 15%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Reduction"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Jade Mother Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "The mother sword of the Emerald Sonnet."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the power of attacking moves by 75%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Dragon Scale Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "A sword of dragon scales."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Chance of \"Divine Strike\" increased by 3%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Coral Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "A sword shaped like a coral."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the chance of \"part hit\" by 15%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Heavy Sword"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Heaven's Gate Heavy Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "The Tai Shan School's town treasure, a heavy sword made of black oil iron."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Anti-move power increased by 20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Red Crane Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "The red family heirloom sword, no one knows, countless martial arts masters defeated by this sword, within the jianghu no one is not obedient. The fame of the sword has caused strife in the jianghu, and the family was destroyed. Now passed on to the red Yan Qianhe, but the sword has never been sheathed in his hand."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "35% increase in the power of attack moves"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "35% increase in the power of anti-stance"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "The chance of \"Divine Strike\" is increased by 4.5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Knife"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> White Spring Knife </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
+    },
+    "ItemDescription": {
+      "Value": "An unusual iron long knife."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Chance of \"Divine Strike\" is reduced by 2%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Reduction"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Knife"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Mantis Grasshopper Knife </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "Mantis Kusaka's knife."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "8% increase in the chance of \"part hit\""
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Knife"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Lancet </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "A good knife commonly used by warriors in the jungle."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the power of attacking moves by 28%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Knife"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Ting Hou knife </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "A good Ting Hou iron knife."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "30% increase in the power of Parry"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Knife"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Skybreaker </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "A sky-breaking sword."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "The chance of \"Divine Strike\" is increased by 3.5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Knife"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Phoenix Knife </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "Treasure knife phoenix."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "45% increase in the power of attacking moves"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Spear"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Iron Lance </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
+    },
+    "ItemDescription": {
+      "Value": "An ordinary lance."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Chance of \"Divine Strike\" is reduced by 2%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Reduction"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Spear"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> White Dragon Spear </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "A silver white dragon lance."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "25% increase in the power of attack moves"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Spear"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Pearly Spear </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "The famous lance of the North."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the power of attacking moves by 10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Increase the chance of \"part hit\" by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Spear"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Blazing Sun Lance </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "A great spear that pokes the sky."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the power of attacking moves by 75%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Spear"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Attack Wind Spear </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "A swift and incomparable lance."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "The chance of \"Divine Strike\" is increased by 3.5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "stick"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Qi Mei Long Stick </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
+    },
+    "ItemDescription": {
+      "Value": "Ordinary wooden long stick."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Chance of \"Divine Strike\" is reduced by 2%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Reduction"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "stick"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Dragon Coil Stick </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "A dragon coiled wonder stick."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "The chance of \"Divine Strike\" is increased by 4.5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "stick"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Bagua Long Stick </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "The Stick of Qi Men Bagua."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the chance of \"Divine Strike\" by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "stick"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Dog fighting stick </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "Beggar's Gang town gang of things."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "The chance of \"Divine Strike\" increased by 5%; the power of the move increased by 18%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Attack move power increased by 18%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Anti-move power increased by 18%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "whip"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Water-rubbed soft whip </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "Ordinary leather long whip."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "8% increase in the chance of \"part hit\""
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "whip"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Chin's Whip </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "A unique long whip."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the chance of \"part hit\" by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Increase the power of attacking moves by 5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Anti-move power increased by 5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "whip"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Willow King Whip </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "It is said to be a whip for the trial of prisoners."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "20% increase in the power of attack moves"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "whip"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Wire wrapped long whip </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "A long silk-wrapped whip."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the chance of \"Divine Strike\" by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Hdn Wpn Skl"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Broken Jade and Gold Needle </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "Broken jade gold needle, good concealed weapon."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "30% increase in the power of attack moves"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Hdn Wpn Skl"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Jade Bee Needle </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "A top quality concealed weapon in the jianghu."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the power of attacking moves by 10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "10% increase in the chance of \"part hit\""
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Hdn Wpn Skl"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Purple Cloud Nails </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "Nails of the Purple Cloud."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the chance of \"part hit\" by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        },
+        {
+          "Name": {
+            "Value": "The chance of \"Divine Strike\" is increased by 2.5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Hdn Wpn Skl"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Tenfold Broken Iron </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "The ultimate murderous secret weapon."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "The chance of \"Divine Strike\" is increased by 3.5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Increase the chance of \"part hit\" by 15%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Hdn Wpn Skl"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> White Bone Flying Stone </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "Flying stones see white bones."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "20% increase in the power of attack moves"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Increase the chance of \"part hit\" by 15%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Hdn Wpn Skl"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Gold and silver darts </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "The gold and silver dart is a common concealed weapon in the jianghu."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increased chance of \"part hit\" by 12.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Pen"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Old Weapons"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Weapon Features11111111111"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Test pens </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "The 3DUI for testing will report an error in the pen."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increased chance of \"part hit\" by 12.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "One-handed sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Sword"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Power of \"Attack\" increased by 5%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Three Feet of Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Power of \"Attack\" increased by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "One-handed sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Sword"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Increase \"Attack Power\" by 10% and decrease \"Divine Strike\" chance by 2.5%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Iron Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "10% increase in \"Attack Power\"."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Chance of \"Divine Strike\" is reduced by 2.5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Reduction"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "One-handed sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Wooden Sword"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "15% reduction in \"Attack and Defense Stance Power\" and 6.5% increase in \"Divine Strike\" chance"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Wooden Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Reduced \"Attacking Power\" by 15%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Reduction"
+          }
+        },
+        {
+          "Name": {
+            "Value": "\"15% reduction in the \"Power of Defense Stance"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Chance of \"God's Strike\" increased by 6.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "One-handed sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "edge"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "10% increase in \"Attacking Power\"."
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Minjian </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "10% increase in \"Attack Power\"."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "One-handed sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Sword"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "10% increase in the power of \"defense moves\" and 5% decrease in the chance of \"breakage\""
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Chu Jian </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"10% increase in the \"power of defense moves"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "5% reduction in the chance of \"breakage\""
+          },
+          "ValueOperator": {
+            "ValueInfo": "Reduction"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "One-handed sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Silver Sword"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "\"10% increase in \"offensive and defensive move power"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Silver Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "10% increase in \"Attack Power\"."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "\"10% increase in the \"power of defense moves"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "One-handed sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "stab"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Increase the chance of \"wounding\" the opponent by 12%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Evil Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the chance of \"wounding\" the opponent by 12%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Two-handed heavy sword"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Heavy Sword"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "\"10% increase in the \"power of defense moves"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Heavy Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"10% increase in the \"power of defense moves"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Two-handed heavy sword"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Heavy Sword"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "\"Attacking power\" is reduced by 5%, \"Defending power\" is increased by 15%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Ujen </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Power of \"Attack\" is reduced by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Reduction"
+          }
+        },
+        {
+          "Name": {
+            "Value": "\"15% increase in the \"Power of Defense Stance"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Two-handed heavy sword"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Heavy Sword"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Decrease in the chance of \"breakage\" by 12%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Black Iron Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Decrease in the chance of \"breakage\" by 12%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Reduction"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Two-handed heavy sword"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "heavy blade"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Reduces the chance of being \"broken\" by 8% and the chance of being \"injured\" by 8%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Genteel Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "8% reduction in the chance of \"breakage\""
+          },
+          "ValueOperator": {
+            "ValueInfo": "Reduction"
+          }
+        },
+        {
+          "Name": {
+            "Value": "The chance of being \"wounded\" is reduced by 8%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Reduction"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Knife"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Knife"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Increase the chance of \"Break\" by 5%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> White Spring Knife </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the chance of \"Break\" by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Knife"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Knife"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Increase \"Attack Power\" by 15% and decrease \"Divine Strike\" chance by 3.5%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Grass Reckless Knife </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "15% increase in \"Attack Power\"."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Chance of \"Divine Strike\" reduced by 3.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Reduction"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Knife"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Knife"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "10% increase in \"Attack Power\"."
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Lancet </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "10% increase in \"Attack Power\"."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Knife"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Preceptor"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Increase \"Attacking Power\" by 5% and \"Breaking\" chance by 5%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Ringsword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Power of \"Attack\" increased by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Increase the chance of \"Break\" by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Knife"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "heavy knife"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Increase the chance of \"Break\" by 10%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Chopper </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the chance of \"Break\" by 10%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Knife"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Hmong knife"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "15% increase in \"Attacking Power\" and 5% increase in \"Breaking\" chance"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Miao knife </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "15% increase in \"Attack Power\"."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Increase the chance of \"Break\" by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Knife"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Tang Knife"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Power of \"Attack and defense moves\" increased by 5%, and the chance of \"breaking\" increased by 5%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Tang Knife </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Power of \"Attack\" increased by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Power of \"Defense Stance\" increased by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Increase the chance of \"Break\" by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Spear"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Spear"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "20% increase in \"Attack Power\" and 5% decrease in \"Divine Strike\" chance"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Iron Lance </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "20% increase in \"Attacking Power\""
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Chance of \"Divine Strike\" reduced by 5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Spear"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Spear"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "25% increase in \"attacking power\" and 15% increase in the chance of \"breakage\""
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Big Spear </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Power of \"Attacking Stance\" increased by 25%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "15% increase in the chance of \"breakage\""
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Spear"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Spear"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Increase \"Attacking Style Power\" by 20%, decrease \"Defending Style Power\" by 10%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Sogi Spear </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "20% increase in \"Attacking Power\""
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "\"10% reduction in the \"Power of defense moves"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Spear"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Long Spear"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "15% increase in \"Attack Power\"."
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Pearly Spear </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "15% increase in \"Attack Power\"."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Spear"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Heavy Spear"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Increase \"Attack Power\" by 20% and decrease \"Divine Strike\" chance by 7.5%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Tiger Head Spear </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "20% increase in \"Attacking Power\""
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Chance of \"God's Strike\" reduced by 7.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Reduction"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Spear"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Long Tassel"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "15% increase in \"offensive and defensive move power\" and 10% increase in the chance of \"breakage\""
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> White Dragon Spear </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "15% increase in \"Attack Power\"."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "\"15% increase in the \"Power of Defense Stance"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "10% increase in the probability of \"breakage\""
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "stick"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "stick"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Chance of \"Divine Strike\" increased by 2.5%"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Chibi stick </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Chance of \"Divine Strike\" increased by 2.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "stick"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "stick"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Chance of \"God's Strike\" increased by 5%"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Ebony stick </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Chance of \"God's Strike\" increased by 5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "stick"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Baguette"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Increase the chance of \"Break\" by 5% and the chance of \"Divine Strike\" by 2.5%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Copper stick </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the chance of \"Break\" by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Chance of \"Divine Strike\" increased by 2.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "stick"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "heavy stick"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "20% increase in \"Attack and Defense Power\" and 15% increase in the chance of being \"wounded\""
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Iron Rod </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "20% increase in \"Attacking Power\""
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "\"20% increase in the \"Power of Defense Stance"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "The chance of being \"wounded\" is increased by 15%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "stick"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "stick"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "The chance of \"divine strike\" is increased by 3.5%, and the chance of being \"wounded\" is reduced by 10%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Rootstick </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Chance of \"God's Strike\" increased by 3.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "The chance of being \"wounded\" is reduced by 10%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Reduction"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "stick"
+    },
+    "HandType": {
+      "ValueInfo": "Both hands"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "stick"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Chance of \"Divine Strike\" increased by 7%"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Genki stick </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Chance of \"Divine Strike\" increased by 7%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Whip"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "whip"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Increase the chance of \"Break\" by 5%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Water-rubbed soft whip </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the chance of \"Break\" by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Whip"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "whip"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "The chance of \"Break\" increases by 5%, and the chance of \"Wound\" increases by 5%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Chin's Whip </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the chance of \"Break\" by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Increases the chance of \"wounding\" the opponent by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Whip"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "whip"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Increase the chance of \"Break\" by 15% and decrease the power of \"Anti-move\" by 15%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Willow King Whip </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the chance of \"Break\" by 15%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        },
+        {
+          "Name": {
+            "Value": "\"15% reduction in the \"Power of Defense Stance"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Reduction into"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Whip"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "whip"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "\"10% increase in \"offensive and defensive move power"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Wire-wrapped whip </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "10% increase in \"Attack Power\"."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "\"10% increase in the \"power of defense moves"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Whip"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "whip"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "10% increase in \"Attacking Power\" and 5% increase in \"Breaking\" chance"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Soft Spirit Whip </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "10% increase in \"Attack Power\"."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Increase the chance of \"Break\" by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Hdn Wpn Skl"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Stone"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Increases the chance of \"wounding\" the opponent by 5%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Flying Stone </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increases the chance of \"wounding\" the opponent by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Hdn Wpn Skl"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Arrow"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Increase the chance of \"Break\" by 5%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Throwing arrows </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the chance of \"Break\" by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Hdn Wpn Skl"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "staple"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Increase the chance of \"Hardened Poison\" by 5%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Iron nails </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the chance of \"Hardened Poison\" by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Hdn Wpn Skl"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Dart"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Increase \"Attack Power\" by 10% and \"Hardened Poison\" by 3.5%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Silver Dart </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "10% increase in \"Attack Power\"."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Increase the chance of \"Hardened Poison\" by 3.5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Hdn Wpn Skl"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Flying Dagger"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "10% increase in \"Attack Power\" and 3.5% increase in \"Breakdown\" chance"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Flying Dagger </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "10% increase in \"Attack Power\"."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Increase the chance of \"Break\" by 3.5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Hdn Wpn Skl"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Silver Needle"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "13% increase in the chance of \"damage\""
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Silver Needle </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "13% increase in the chance of \"damage\""
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Hdn Wpn Skl"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Gold Needle"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Increase the chance of \"Hardened Poison\" by 13%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Gold Needle </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the chance of \"Hardened Poison\" by 13%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Hdn Wpn Skl"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Pearl"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Increases the chance of \"Striking Damage\" by 6% and the chance of \"Hardening Poison\" by 6%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Ruyi Beads </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the chance of \"damage\" by 6%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Increase the chance of \"Hardened Poison\" by 6%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Pen"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Power of \"Offensive and Defensive Stances\" increased by 5%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Silver Hook Pen </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Power of \"Attack\" increased by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Power of \"Defense Stance\" increased by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Pen"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Chance of \"God's Strike\" increased by 5%"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Mersenne Pen </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Chance of \"God's Strike\" increased by 5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Pen"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Increase \"Attack and Defense Power\" by 5% and \"Divine Strike\" chance by 4%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Yu Jian Pen </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Power of \"Attack\" increased by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Power of \"Defense Stance\" increased by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Chance of \"Divine Strike\" increased by 4%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Pen"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "\"10% increase in \"offensive and defensive move power"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> White Wolf Hairs </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "10% increase in \"Attack Power\"."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "\"10% increase in the \"power of defense moves"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "axe"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "axe"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "8% increase in the chance of \"shooting down\""
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Iron Short Axe </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "8% increase in the chance of \"shooting down\" the opponent's weapon"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "axe"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "axe"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "\"10% increase in the \"power of defense moves"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Plate Axe </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"10% increase in the \"power of defense moves"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "axe"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "axe"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "10% reduction in the chance of [Breakdown]"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Green Steel Axe </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "10% reduction in the probability of \"breakage\""
+          },
+          "ValueOperator": {
+            "ValueInfo": "Reduction"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "axe"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "heavy axe"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "\"15% increase in the \"Power of Defense Stance"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Xuanhua Axe </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"15% increase in the \"Power of Defense Stance"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "axe"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "axe"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "16% increase in the chance of \"shooting down\""
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> U-Te Axe </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the chance of \"shooting down\" the opponent's weapon by 16%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Hook"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Single hook"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "The chance of \"hitting\" the opponent is increased by 10%; the chance of \"divine strike\" is reduced by 10%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Iron Hook </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the chance of \"wounding\" the opponent by 10%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Chance of \"God's Strike\" reduced by 10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Reduction"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Hook"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Single hook"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Increases the chance of \"wounding\" the opponent by 5%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Silver Hook </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increases the chance of \"wounding\" the opponent by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Hook"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Hook"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "10% increase in \"attack power\" and 5% increase in the chance of \"wounding\" the opponent"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Antler Hook </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "10% increase in \"Attack Power\"."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Increases the chance of \"wounding\" the opponent by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Hook"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Hook"
+    },
+    "WuQiTeSe": {
+      "ValueInfo": "Increase the chance of \"hitting\" the opponent by 15%."
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Tiger Hook </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Increase the chance of \"hitting\" the opponent by 15%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Heavy Sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Suffix"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Genteel Heavy Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "Power of \"Attack\" increased by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "\"10% increase in the \"power of defense moves"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Chance of \"Divine Strike\" reduced by 3.5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Reduction"
+          }
+        },
+        {
+          "Name": {
+            "Value": "5% reduction in the chance of \"breakage\""
+          },
+          "ValueOperator": {
+            "ValueInfo": "Reduction"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Increase the chance of \"Break\" by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Increase the chance of \"wounding\" the opponent by 12%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        },
+        {
+          "Name": {
+            "Value": "The chance of being \"wounded\" is increased by 15%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Increase the chance of \"Hardened Poison\" by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        },
+        {
+          "Name": {
+            "Value": "Increase the chance of \"killing\" the opponent by 5%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Add"
+          }
+        },
+        {
+          "Name": {
+            "Value": "The chance of being \"killed\" is reduced by 20%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Reduction"
+          }
+        },
+        {
+          "Name": {
+            "Value": "\"Yang\" \"Attacking Power\" increased by 15%."
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        },
+        {
+          "Name": {
+            "Value": "\"Yin Yang\" \"Anti-move power\" increased by 80%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Heavy Sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Suffix"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Genteel Heavy Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "65% increase in the power of anti-stance"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Heavy Sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Suffix"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Genteel Heavy Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "65% increase in the power of anti-stance"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Heavy Sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Suffix"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Genteel Heavy Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "65% increase in the power of anti-stance"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Heavy Sword"
+    },
+    "HandType": {
+      "ValueInfo": "One Hand"
+    },
+    "NameHouZhui": {
+      "ValueInfo": "Suffix"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Genteel Heavy Sword </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "65% increase in the power of anti-stance"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Additive"
+          }
+        }
+      ]
+    }
+  }
+]
