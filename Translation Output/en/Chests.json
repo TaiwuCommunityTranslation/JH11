@@ -1,0 +1,2559 @@
+[
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Four Phase Disciples"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Four Phase Disciples"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Iron Palm Gang Outcasts",
+          "Liang Shan bandits"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Iron Palm Gang Outcasts",
+          "Liang Shan bandits"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Flying Thieves"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Flying Thieves"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Mountain Hermit"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Mountain Hermit"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Water and Sky",
+          "Wind and Moon"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Water and Sky",
+          "Wind and Moon"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Five Poison Messengers"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Five Poison Messengers"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Spiritual Snake Swordsman"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Spiritual Snake Swordsman"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Shuixinting Fishmonger"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Shuixinting Fishmonger"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Hyakujo renegade"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Hyakujo renegade"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Hetong Lao"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Hetong Lao"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Blood Underworld Swordsman"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Blood Underworld Swordsman"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Miquan Eater"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Miquan Eater"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "See the Dragon Ambassador"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Subdued Dragon Envoy"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "Second layer"
+      },
+      {
+        "BattleName": [
+          "Subdued Dragon Envoy"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Qing Yun Tian Dao"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Qing Yun Tian Dao"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "The Hidden Monk of the Green King"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "The Hidden Monk of the Green King"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "Second layer"
+      },
+      {
+        "BattleName": [
+          "The Hidden Monk of the Green King"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "White Tiger Assassin"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "White Tiger Assassin"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Yanfeng traitor",
+          "Youhong Outcast"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Yanfeng traitor",
+          "Youhong Outcast"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Elderly garden visitors"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Elderly garden visitors"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "Second layer"
+      },
+      {
+        "BattleName": [
+          "Elderly garden visitors"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "Third layer"
+      },
+      {
+        "BattleName": [
+          "Elderly garden visitors"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Frosty Sword"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Frosty Sword"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Transforming Shadow Blade"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Transforming Shadow Blade"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "petty thief"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "petty thief"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Dali Lingzong"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Dali Lingzong"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Taihe calligraphy"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Taihe calligraphy"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "Second layer"
+      },
+      {
+        "BattleName": [
+          "Taihe calligraphy"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Source Hearer"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Source Hearer"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Starfall Mystic"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Starfall Mystic"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Green Shirt Sword"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Green Shirt Sword"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Dali Lingzong"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Dali Lingzong"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Star Pluckers"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Star Pluckers"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Scorpion Ghost Servant"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Scorpion Ghost Servant"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Dali Lingzong"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Dali Lingzong"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "The Phantomless"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "The Phantomless"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Listed guards"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Listed guards"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Cat Feeder"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Cat Feeder"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Tianmen martial artist"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Tianmen martial artist"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Theft of Qingzhou"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Theft of Qingzhou"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Tashi Fukaki"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Tashi Fukaki"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Heartbreaker"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Heartbreaker"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Shuixinting Fishmonger"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Shadow White Blade"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Shadow White Blade"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Shuixinting Fishmonger"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Black Fairy",
+          "Ghost Swallow"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Black Fairy",
+          "Ghost Swallow"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Purple Bamboo Instructor"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Purple Bamboo Instructor"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Dharma Secret Messenger"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Dharma Secret Messenger"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "Second layer"
+      },
+      {
+        "BattleName": [
+          "Dharma Secret Messenger"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Kongdong Renegades"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Kongdong Renegades"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "Second layer"
+      },
+      {
+        "BattleName": [
+          "Kongdong Renegades"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Hongzhong Assassin"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Hongzhong Assassin"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Jing Bei Niang"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Jing Bei Niang"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "collaborate with the enemy and rebel ambassadors"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "collaborate with the enemy and rebel ambassadors"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Venerable Green Flame"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Venerable Green Flame"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Glaze of a different color"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Glaze of a different color"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Evil Moon"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Evil Moon"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Uzbek"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Uzbek"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Spiritual Finger"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Spiritual Finger"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Colorless Xuan Yue Sword"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Colorless Xuan Yue Sword"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Sogwang Mimeo"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Sogwang Mimeo"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Spiritual Finger"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Star Picking Sword"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Star Picking Sword"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Apostle of the One Spirit Church"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Apostle of the One Spirit Church"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "God Moon Spear"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "God Moon Spear"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Drunken fairy"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Drunken fairy"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Heir to the Sword Sect"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Heir to the Sword Sect"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ],
+    "BuffPool": {}
+  },
+  {
+    "Dialog": {},
+    "Level": [
+      {
+        "BattleName": [
+          "Dali Lingzong"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "Fight_CJ_Text": "First layer"
+      },
+      {
+        "BattleName": [
+          "Dali Lingzong"
+        ],
+        "Pool": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  }
+]
