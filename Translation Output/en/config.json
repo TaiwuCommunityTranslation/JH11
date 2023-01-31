@@ -2218,7 +2218,7 @@
       },
       "XiaPan": {
         "Name": {
-          "cn": "underhand",
+          "cn": "Agile",
           "info": "--- Light Stance Strength --- Stance strength bonus from -0.5, 0.8, 1.25, 1.5 ---"
         }
       },
@@ -4466,7 +4466,7 @@
         ],
         "BWXia": [
           "Lower Road",
-          "underhand"
+          "Agile"
         ]
       },
       "FangZhaoShiDongZuo1": {
@@ -16091,7 +16091,7 @@
         "Text": "Core Power"
       },
       "下盘": {
-        "Text": "underhand"
+        "Text": "Agile"
       },
       "体魄": {
         "Text": "Physique"
