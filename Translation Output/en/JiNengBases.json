@@ -38240,8 +38240,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Charisma\" above 70; \"Underhandedness\" above 70",
-        "RightValueInfo": "\"Charisma\" above 70; \"Underhandedness\" above 70"
+        "LeftValueInfo": "\"Charisma\" above 70; \"Agility\" above 70",
+        "RightValueInfo": "\"Charisma\" above 70; \"Agility\" above 70"
       },
       {}
     ],
