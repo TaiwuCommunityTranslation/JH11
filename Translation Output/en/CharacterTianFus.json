@@ -1,0 +1,623 @@
+[
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"The Dragon and the Phoenix\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Cooking\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"The Wonderful Brush\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Poetry\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"The Master of Tea Ordering\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Tea Ceremony\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Wielding the Paper\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Painting and Calligraphy\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Pin Bamboo Play Silk\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Musical Instrument\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Mr. Wu Dou\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Drinking\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Exotic Treasures\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Collection\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Bachelor of Taotie\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Cooking\" +5 \"Poetry\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Cooking Dragon Tea Sweet\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Cooking\" +5 \"Tea Ceremony\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"The Chef's Pen\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Cooking\" +5 \"Painting and calligraphy\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Aftertaste\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Cooking\" +5 \"Musical instrument\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Kitchen and Drink\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Cooking\" +5 \"Drinking\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Chef Chichen\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Cooking\" +5 \"Collection\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Gan Ming Xingkong\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Poetry\" +5 \"Tea Ceremony\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"The Poet with a Pen\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Poetry\" +5 \"Painting and Calligraphy\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Dazzling Pen\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Poetry\" +5 \"Musical instrument\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Wine, Dragon, Poetry and Tiger\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Poetry\" +5 \"Drinking\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Hidden Dragon in the Sky\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Poetry\" +5 \"Collection\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Sip Tea and Grow Flowers\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Tea Ceremony\" +5 \"Painting and Calligraphy\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Aftertaste is sweet\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Tea Ceremony\" +5 \"Musical Instrument\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Tea and Wine Double\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Tea Ceremony\" +5 \"Drinking\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Fragrant and Exotic Treasures\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Tea Ceremony\" +5 \"Collection\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Sound Pen All-in-One\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Painting and calligraphy\" +5 \"Musical instruments\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Sound Drinking Scholar\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Painting and Calligraphy\" +5 \"Drinking\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Era Scroll Hidden Treasure\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Painting and Calligraphy\" +5 \"Collection\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Singing to the Wine\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Musical instrument\" +5 \"Drinking\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Yongyi Jianzou\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Musical Instrument\" +5 \"Collection\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Sound and Wonderful\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Drinking \"+5 \"Collection \"+5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"The Healer\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Healing Art\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"The Poisoner\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Poison Magic\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Medical and Toxic Practice\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Healing\" +5 \"Poison\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Chew Slowly\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Double the duration of \"Gourmet Status"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"The Aroma of Good Wine\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Double the duration of \"Wine Status"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Tooth and Cheek\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Double the duration of \"tea drinking status"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Aftermath\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Double the duration of \"Aftermath Status"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Opening a Book is Good\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Double the duration of \"Reading Status"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"The Unity of Heaven and Man\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Gods Come\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"No Distractions\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Focus\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Perseverance\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Will\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Make the Right Call\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Decisions\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Be strong and healthy\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Body\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Good swordsman\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Sword\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Good Knife Players\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"+8\" to Blade Skill"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"The Good Fighters\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Fist and Palm\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Finger Power Man\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Finger Power\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Good with spears\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Spear\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Good stick jugglers\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Baton Juggling\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"The Axe Runner\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Axe of Fortune\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Good whip hand\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Whip Art\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"The Hooker\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Hook Skl\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Using Hdn Wpn Skl\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Hdn Wpn Skl\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Stroke Master\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Brush Skl\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Empty Hands, No Hands\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Fist and Palm\" +5 \"Finger Power\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Weaponless\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"All Weapons\" +3"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"The North Face of Water\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"+4 for \"Du Chakra\" and -4 for \"Ren Chakra"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Southward of the Water\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Ren Chakra\" +4 \"Dou Chakra\" -4"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Spiritual Mind and Wisdom\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Gnosis\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Lucky Man\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Fortunate Fate\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Natural Beauty\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Charisma\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Can Talk\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Bargaining\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"See More\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Insight\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Know Your Manners\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Connotation\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Killing the Air\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Killing Intent\" +15"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Martial Arts Wizards\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "More cultivation points will be added to the \"cultivation slots\" for \"gongfu\" in each stage"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Strange Chakras\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Int. Force\" will be restored automatically"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Skeletons in the closet\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "Body part \"injury\" status can be automatically restored to \"good\""
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"True Qi Fulfillment\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "Increase the basic \"internal power value\" by 1200 points"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Rakuten Heijin\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "Negative \"mindset\" will be automatically restored and raised"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Like a Spring Breeze\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "The process of getting to know each other will make a good first impression"
+  }
+]
