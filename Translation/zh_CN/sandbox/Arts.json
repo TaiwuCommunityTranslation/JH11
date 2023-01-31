@@ -1,0 +1,1730 @@
+[
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>普通画作</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一时兴起画出来的画，用色违和，毫无美感可言。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《夏山图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "以重峦叠冈、沙汀烟树横亘画面，气势辽阔苍茫。间有细小的人物、舟桥、茅舍、牛羊出没隐现，一派山明水秀的江南风光。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「衡山派」「衡山回雁峰」「壹」\n「夏」「中午」\n「笔」35+ 「墨」60+ 「纸」40+ 「砚」20+\n「书画」65+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《西湖图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "以西湖初春景物为素材,贴近自然，构图极为丰满,远山近水，云蒸霞蔚，湖光山色，美不胜收。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「杭州府」「公园」\n「秋」「早上」\n「笔」50+ 「墨」50+ 「纸」50+ 「砚」50+\n「书画」60+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《采莲图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "夏日的清晨湖面采莲场景。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「幽鸿宫」\n「夏」「下午」\n「笔」30+ 「墨」30+ 「纸」30+ 「砚」20+\n「书画」50+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《听琴图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "听完汴梁青楼第一名妓抚琴后所作。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「东京汴梁」「青楼」\n「秋」「晚上」\n「笔」40+ 「墨」30+ 「纸」20+ 「砚」30+\n「书画」55+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《雪山行旅图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "山势苍茫，白雪皑皑，映衬秋霜红叶丛树，分外妖娆。林中房舍隐现，桥横岸渚，山重水回，一舟泊于岸边。行旅者踏雪而行。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「武当派」「武当山」\n「冬」「中午」\n「笔」50+ 「墨」50+ 「纸」40+ 「砚」50+\n「书画」65+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《四景山水图》夏</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "游玩杭州时所绘的西湖夏时景象。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「杭州府」「贰」\n「夏」「晚上」\n「笔」30+ 「墨」20+ 「纸」30+ 「砚」30+\n「书画」45+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《四景山水图》秋</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "游玩杭州时所绘的西湖秋时景象。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「杭州府」「叁」\n「秋」「下午」\n「笔」70+ 「墨」40+ 「纸」50+ 「砚」50+\n「书画」60+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《柳鸦图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "以墨为骨，强壮的柳根，细嫩的枝条，姿貌丰腴的楼鸦画得都很精致工整。楼鸦双双休养喜戏，形态自在安详。点睛用生漆，更显得神彩奕奕。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「扬州」\n「春」「中午」\n「笔」60+ 「墨」60+ 「纸」50+ 「砚」60+\n「书画」70+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《货郎图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "描绘了老货郎挑担将至村头，众多妇女儿童争购围观的热闹场面。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「福州」「铺席」\n「春」「早上」\n「笔」30+ 「墨」20+ 「纸」10+ 「砚」30+\n「书画」45+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《雪景寒林图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "北方冬日山川雪后壮美景象。群峰屏立，山势高耸，古木结林，板桥寒泉，流水从远方迂回而下，峰峦沟壑间云气万千，真实生动地表现了泰山雪后的磅礴气象。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「泰山派」「泰山峰顶」「贰」\n「冬」「中午」\n「笔」40+ 「墨」60+ 「纸」50+ 「砚」50+\n「书画」70+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《四景山水图》春</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "游玩杭州时所绘的西湖春时景象。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「杭州府」「壹」\n「春」「早上」\n「笔」20+ 「墨」20+ 「纸」20+ 「砚」20+\n「书画」40+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《四景山水图》冬</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "游玩杭州时所绘的西湖冬时景象。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「杭州府」「肆」\n「冬」「中午」\n「笔」60+ 「墨」60+ 「纸」40+ 「砚」70+\n「书画」80+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《杂技戏孩图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "杂技艺人正施展绝技，口中唱词，手中击节敲鼓，两个小儿不觉被深深吸引住。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「东京汴梁」「勾栏瓦舍」\n「夏」「晚上」\n「笔」70+ 「墨」70+ 「纸」80+ 「砚」60+\n「书画」80+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《雪山萧寺图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "记录雪中灵隐寺的作品，画中山石树木直现于幅前，不留空间，有一股寒气袭来的身临其境感。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「杭州府」「灵隐寺」\n「冬」「早上」\n「笔」80+ 「墨」60+ 「纸」80+ 「砚」90+\n「书画」95+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《雪江归棹图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "徽宗所绘冬日雪景的山水画。全图不着色，仅以细碎之笔勾勒、点皴山石，淡墨渲染江天，衬映出皑皑雪峰。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「邢州」\n「冬」「早上」\n「笔」40+ 「墨」70+ 「纸」40+ 「砚」40+\n「书画」60+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《白蔷薇图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "花开硕大，枝繁叶茂，显得光彩夺目。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「广州」「花市」\n「春」「早上」\n「笔」30+ 「墨」40+ 「纸」50+ 「砚」20+\n「书画」50+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《山径春行图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "描绘了一个怡然自得的文人，一手捋着胡须，一手移动衣袖，慢步进行在春天的山径上，面向远方。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「庐州」\n「春」「中午」\n「笔」50+ 「墨」50+ 「纸」50+ 「砚」50+\n「书画」70+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《倚云仙杏图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一枝杏花轻灵润秀、堆粉砌霜之姿。用笔精细工整，设色淡雅，气韵生动。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「大名府」\n「春」「下午」\n「笔」80+ 「墨」80+ 「纸」70+ 「砚」60+\n「书画」80+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《万壑松风图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "山峰高峙，山石巉岩，清岚浮动，云遮雾绕，雄壮奇伟。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「苍龙岭」\n「春」「中午」\n「笔」90+ 「墨」90+ 「纸」80+ 「砚」80+\n「书画」90+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《春雨富士图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "江浙山水，婉约灵秀，云蒸雾绕，设色清润。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「天书阁」\n「春」「下午」\n「笔」60+ 「墨」70+ 「纸」60+ 「砚」50+\n「书画」70+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《青绿山水长卷》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "描绘了连绵的群山冈峦和浩渺的江河湖水，景物繁多，气象万千。构图于疏密之中讲求变化，气势连贯；设色匀净清丽，意境雄浑壮阔，气势恢宏。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「海州」\n「春」「中午」\n「笔」30+ 「墨」30+ 「纸」30+ 「砚」40+\n「书画」50+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《溪山春晓图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "取平远之势，但崇山叠岭，云气蒸腾，亦显境界深幽，而萦绕于山间的河流、湖水与云气融为一片，又使其境空灵渺远。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「江宁府」\n「春」「早上」\n「笔」60+ 「墨」50+ 「纸」40+ 「砚」40+\n「书画」60+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《湖山春晓图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "西子湖旁的春晓景色，春雨漾漾之山色，林树迷漾，烟岚湿润。笔简意饶、意出画外。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「杭州府」「漱玉小筑」「前厅 」\n「春」「早上」\n「笔」50+ 「墨」70+ 「纸」50+ 「砚」50+\n「书画」70+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《早春图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "冬去春来，大地复苏，山间浮动着淡淡的雾气，远处山峰耸拔，气势雄伟；近处圆岗层叠，山石突兀。山间泉水淙淙而下，汇入河谷，桥路楼观掩映于山崖丛树间。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「泰山派」「泰山峰顶」「壹」\n「春」「早上」\n「笔」20+ 「墨」20+ 「纸」20+ 「砚」20+\n「书画」40+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《夏景山口待渡图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "山势重叠，缓平绵长，植被丰茂，水汽若蒸，起首处水面浩渺，扁舟隐现，中景山势重叠，林木疏朗挺直，构思精细，设色雅淡，冈峦清润，林木秀密。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「江夏」「壹」\n「夏」「下午」\n「笔」10+ 「墨」10+ 「纸」10+ 「砚」10+\n「书画」30+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《月下五雀图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "夏日深夜月下，一高枝上五只麻雀相依相偎的情景。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「定荣商户」「长生库」\n「夏」「晚上」\n「笔」60+ 「墨」40+ 「纸」40+ 「砚」60+\n「书画」75+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《龙宿郊民图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "描绘了居住于江边山麓的民众庆贺节日的情景。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「江宁府」「书坊」\n「夏」「下午」\n「笔」70+ 「墨」70+ 「纸」70+ 「砚」70+\n「书画」70+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《茂林远岫图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "描绘的是夏日山水景色。技法以擦染为主，有时用重墨点出山顶和树木。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「嵩山派」「太室山巅」\n「夏」「中午」\n「笔」60+ 「墨」70+ 「纸」70+ 「砚」70+\n「书画」75+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《溪山行旅图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "巍峨高耸的山体，高山仰止，壮气夺人。山顶丛林茂盛，山谷深处一瀑如线，飞流百丈。山峰下巨岩突兀，林木挺直。山峰下巨岩突兀，林木挺直。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「峨嵋派」「峨嵋山」\n「夏」「早上」\n「笔」100+ 「墨」70+ 「纸」70+ 「砚」80+\n「书画」90+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《江山小景图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "描绘了沿江的山水景色。上部江水粼粼，空阔旷远，风帆出没其间。下部横列一排山峰，高低参次，连绵不断。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「巫峡」\n「夏」「下午」\n「笔」80+ 「墨」80+ 「纸」80+ 「砚」80+\n「书画」100+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《清溪渔隐图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "钱塘一带山区雨后景色，绿树块，用劲细流畅的线条写水流、芦苇，用重笔浓覆，坡泥湿翠，溪水湍流，前端一村翁垂钓江苇间，此图纵中有涩，重中有轻，。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「杭州府」「漱玉小筑」「花圃」\n「夏」「早上」\n「笔」20+ 「墨」20+ 「纸」20+ 「砚」20+\n「书画」50+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《长夏江寺图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用笔方硬坚重，山石峭丽雄浑，气魄雄伟，境界浩莽，用墨善用墨沉沉的、浓厚的墨韵，厚实而滋润。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「成都」「昭觉寺」\n「夏」「中午」\n「笔」60+ 「墨」60+ 「纸」60+ 「砚」60+\n「书画」70+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《橘绿图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "橘子由绿转黄，满压枝头。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「江夏」「菜市场」\n「夏」「下午」\n「笔」20+ 「墨」20+ 「纸」20+ 「砚」20+\n「书画」30+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《红树秋山图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "描绘了秋天的山林景色，树石笔墨粗简，墨色湿润。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「红枫寨」\n「秋」「中午」\n「笔」10+ 「墨」20+ 「纸」10+ 「砚」10+\n「书画」25+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《江山秋色图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "北方山水，群峰绵密，层峦叠嶂，一条长河曲折蜿蜒而远逝，崇山峻岭，错落连绵而如龙脉，起伏顾盼，开合揖让，虚实相生，盘桓而上。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「江陵府」「民宅」\n「秋」「下午」\n「笔」70+ 「墨」50+ 「纸」50+ 「砚」70+\n「书画」75+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《秋林放犊图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "描绘了溪岸平坡间一孩童正在放牛的景象。刻画细微，树干树叶用双勾填色法，用笔粗壮有力，树叶繁杂而不乱，密集而不窒息。远树用淡墨点画，疏落有致。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「福州」「清音居」「茶室」\n「秋」「早上」\n「笔」60+ 「墨」40+ 「纸」60+ 「砚」40+\n「书画」70+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《烟岚秋晓图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "落笔雄健老硬，山巍然矗立，浑厚壮观，具有压顶逼人的气势。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「凤翔府」「名邸」\n「秋」「早上」\n「笔」50+ 「墨」50+ 「纸」80+ 「砚」60+\n「书画」85+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《溪山秋色图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "烟岚雾气迷漫，群峰隐现其间，溪水曲环，江面空阔，渔民捕捞，舟船停泊，秋叶杂树点缀在山头坡岸，一派江湖渔乐的景象。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「桂林」「椒香水榭」「前厅」\n「秋」「下午」\n「笔」70+ 「墨」70+ 「纸」40+ 「砚」40+\n「书画」75+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《月下把杯图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一轮圆月高挂空中，空旷的山林幽雅静谧，挡不住这欢愉间的良辰和美酒。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「衡山派」「衡山回雁峰」「贰」\n「秋」「晚上」\n「笔」90+ 「墨」60+ 「纸」60+ 「砚」90+\n「书画」90+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《濠梁秋水图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "树用夹叶法，淡赭设色，透露出浓浓秋意。大石用斧劈皴，勾勒劲健，结构谨严，苍劲凌厉，颇见质感，以青绿罩染。画面左侧飞泉直泻，落叶点点。山石的刚硬和水波的柔和形成鲜明对比，显示出一副浓郁的深秋景象。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「寿州」「名邸」\n「秋」「中午」\n「笔」80+ 「墨」100+ 「纸」60+ 「砚」60+\n「书画」80+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《潇湘图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "江南常见的远山近水，画中山峦平缓连绵，山下江水清澈无暇，浩渺无际。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「天尊教」「住房」\n「秋」「中午」\n「笔」40+ 「墨」70+ 「纸」70+ 「砚」40+\n「书画」75+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《溪山秋霁图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "秋日雨过天晴后的山青水秀。群山叠嶂起伏，江水空阔浩淼，树木更愈翠绿，远处云雾下的山峦更显妖娆。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「桃源客栈」\n「秋」「早上」\n「笔」70+ 「墨」50+ 「纸」50+ 「砚」30+\n「书画」60+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《树色平远图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "河流两岸树色平远的景色，水面的小舟和飞翔的野凫，都渲染了浓郁的诗意。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「兴元府」「民宅」\n「冬」「中午」\n「笔」60+ 「墨」60+ 「纸」60+ 「砚」60+\n「书画」75+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《猿图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "猿周身浓黑、面部作白，五官用焦墨简点，近似符号，不拘一格、生动泼辣。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「东京汴梁」「动物园」\n「冬」「中午」\n「笔」50+ 「墨」60+ 「纸」40+ 「砚」40+\n「书画」60+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《寒江独钓图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "以严谨的铁线描，画一叶扁舟，上有一位老翁俯身垂钓，船旁以淡墨寥寥数笔勾出水纹，四周都是空白。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「江夏」「贰」\n「冬」「中午」\n「笔」70+ 「墨」70+ 「纸」100+ 「砚」70+\n「书画」100+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《云关雪栈图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "天色阴沉，威岩寒林，一人赶着牲口，走在山涧的栈道上。山腰有几间茅屋点缀，栈道蜿蜒伸进山中。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「白帝山」\n「冬」「中午」\n「笔」70+ 「墨」40+ 「纸」70+ 「砚」50+\n「书画」70+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《关山积雪图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "白雪皑皑，山坡树木之上的留白，感受到净白无垠的意境。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「终南山」\n「冬」「早上」\n「笔」60+ 「墨」60+ 「纸」50+ 「砚」50+\n「书画」60+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《溪山雪意图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "白雪皑皑的江山银装，一派静谧幽寂的气氛。层峦、平坡、苍松、屋舍、溪水、组成朴实平和的凝寒景象。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「邕州」「民宅」\n「冬」「中午」\n「笔」80+ 「墨」80+ 「纸」60+ 「砚」60+\n「书画」85+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《梅花图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一位老者，与梅花一起独守空月。静谧幽寂，诗意盎然。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「恭州」「民宅」\n「冬」「晚上」\n「笔」70+ 「墨」70+ 「纸」70+ 「砚」70+\n「书画」100+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "画作"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《枯木竹石图》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "以墨绘竹、石、枯木。树梢苍劲挺拔，竹既有力又含蓄，笔法苍劲、率简，别具一番豪情逸致。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「开顺镇」「民宅」\n「冬」「晚上」\n「笔」20+ 「墨」10+ 「纸」10+ 「砚」10+\n「书画」30+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>普通书法</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "似乎是随便乱写的一幅书法，字迹凌乱，毫无章法可言。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《温泉铭》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "雍容遒丽，笔法生动，圆熟流利，浑然天成。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「江宁府」「书坊」\n「秋」「早上」\n「笔」50+ 「墨」50+ 「纸」40+ 「砚」50+\n「书画」65+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《向太后挽词》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "其结字介于行楷之间，笔法精炼，正如前人所说：“研笔如铁，而秀媚之气奕奕行间，风华类得大令之神，是南宫得意笔。”"
+    },
+    "Inspiration": {
+      "ValueInfo": "「江宁府」「名邸」\n「春」「下午」\n「笔」60+ 「墨」60+ 「纸」50+ 「砚」60+\n「书画」70+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《夏热帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "笔势飞动，浑然一体，凝重之中有潇洒气象，雄健纵逸，锋芒灼耀，极富大气。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「襄州」「书坊」「壹」\n「夏」「中午」\n「笔」20+ 「墨」20+ 「纸」20+ 「砚」20+\n「书画」40+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《寒光帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "行笔时提处细若丝发，圆润遒劲，按处中锋直下，沉着不滞；结字因势生形，行间丝带连绵不断，熟而不俗，险而不怪，欹正相生，出乎自然。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「襄州」「书坊」「贰」\n「冬」「晚上」\n「笔」60+ 「墨」40+ 「纸」40+ 「砚」60+\n「书画」75+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《诸上座帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "狂草体，笔意纵横，气势苍浑雄伟，字法奇宕，如马脱缰，无所拘束，尤其能显示悬腕摄锋运笔的高超书艺。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「成都府」「昭觉寺」\n「夏」「晚上」\n「笔」70+ 「墨」70+ 「纸」40+ 「砚」40+\n「书画」75+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《神仙起居法》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "此帖虽信手拈来，形貌多奇形怪状，点画多诡秘无常，然其草法皆有晋唐风韵，无法中有法。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「凤翔府」「酒楼」\n「春」「晚上」\n「笔」50+ 「墨」50+ 「纸」50+ 「砚」50+\n「书画」60+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《自书诗帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "笔致飘逸流畅，点画婉转精美。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「真定府」「浴场」\n「冬」「下午」\n「笔」60+ 「墨」60+ 「纸」50+ 「砚」60+\n「书画」70+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《草书纨扇》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用笔更为爽快、洒脱，笔势圆转流畅，打破了楷书那种匀称整齐的单字排列组合方式，从而越发显得活泼。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「应天府」「国子监」\n「春」「下午」\n「笔」40+ 「墨」70+ 「纸」40+ 「砚」40+\n「书画」60+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《卜商帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用墨浓重，行气淹贯，下笔锋利如斩钉截铁；笔力峭劲，墨气鲜润。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「东京汴梁」「名邸」\n「夏」「早上」\n「笔」40+ 「墨」60+ 「纸」50+ 「砚」50+\n「书画」70+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《十六日帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "结体紧密，笔画锋棱明显，如斩钉截铁，偏重骨力，书风遒媚劲健。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「大名府」「名邸」「壹」\n「春」「晚上」\n「笔」10+ 「墨」20+ 「纸」10+ 「砚」10+\n「书画」25+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《阳羡帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "字里行间风流胜赏，书体刚健阿娜，绵里藏针，足见其秀伟之气。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「京兆府」「名邸」「贰」\n「冬」「下午」\n「笔」60+ 「墨」70+ 「纸」70+ 「砚」70+\n「书画」75+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《牡丹诗帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "华丽富贵，疏密自然，用笔洒脱，线条粗细有致，笔势圆转流畅。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「梓州」「名邸」\n「秋」「中午」\n「笔」60+ 「墨」60+ 「纸」50+ 「砚」50+\n「书画」60+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《论书帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "笔势圆融婉转、飞动轻灵，骨气深稳，血肉丰润。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「河南府」「名邸」\n「冬」「下午」\n「笔」20+ 「墨」20+ 「纸」20+ 「砚」20+\n「书画」50+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《步虚词》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "书势飘逸闲雅，如行云流水，笔法奇巧，甚具曲折顿挫之趣。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「福州」「华林寺」\n「冬」「早上」\n「笔」50+ 「墨」50+ 「纸」80+ 「砚」60+\n「书画」85+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《洞仙歌》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "书法清秀晓畅，道劲有力。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「成都府」「名邸」「贰」\n「春」「晚上」\n「笔」90+ 「墨」60+ 「纸」60+ 「砚」90+\n「书画」90+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《柏酒帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "干净利落、劲爽通达,大开大合、疏密有致。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「成都府」「茶坊」\n「夏」「中午」\n「笔」80+ 「墨」60+ 「纸」80+ 「砚」60+\n「书画」85+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《次辩才韵诗帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "落笔沉着、从容。墨色浓重却透着清雅之气，丰腴浑厚仍有秀逸之质。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「成都府」「兰竹落梅」「前厅」\n「秋」「中午」\n「笔」80+ 「墨」70+ 「纸」100+ 「砚」80+\n「书画」100+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《太子舍人帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "体势方扁厚朴，用笔沉稳工致，韵意苍劲老到，恭谨而端丽。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「洪州」「滕王阁」\n「夏」「下午」\n「笔」90+ 「墨」60+ 「纸」80+ 「砚」60+\n「书画」80+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《天际乌云贴》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "字态凝重而饶有韵致，笔画圆浑朴茂，一点一画恰具有力屈万夫之力度。笔力雄厚，却能书写随意；宗法传统，却能时出新意。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「成都府」「公园」\n「春」「下午」\n「笔」90+ 「墨」90+ 「纸」80+ 「砚」80+\n「书画」90+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《新月帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "起始稳健，收笔利落，穿插丰满，圆润饱和。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「东京汴梁」「青楼」「贰」\n「冬」「晚上」\n「笔」100+ 「墨」100+ 「纸」80+ 「砚」60+\n「书画」100+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《洞庭春色赋》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "经营下笔，结构严整，郁屈瑰丽之气，回翔顿挫之姿，真如狮蹲虎踞。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「潭州」「名邸」\n「春」「中午」\n「笔」50+ 「墨」50+ 「纸」80+ 「砚」60+\n「书画」85+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《紫金砚帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "书法飘逸灵动，看似漫不经意，而更得浑然天成之神韵。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「成都府」「名邸」「壹」\n「春」「早上」\n「笔」40+ 「墨」40+ 「纸」40+ 「砚」40+\n「书画」50+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《松风阁诗帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "松风阁在江夏之西，古称樊山，听松涛而成韵，笔法苍劲有力。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「江夏」「客邸」\n「春」「下午」\n「笔」10+ 「墨」10+ 「纸」10+ 「砚」10+\n「书画」30+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《乐毅论》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "笔法温和自然，笔势含蓄婉转，刚健美丽，用笔细致光滑。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「太原府」「勾栏瓦舍」\n「春」「晚上」\n「笔」40+ 「墨」40+ 「纸」40+ 「砚」40+\n「书画」50+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《寒山子庞居士诗》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用笔凝练有力，遒劲郁拔，而神闲意株。行笔曲折顿挫，如通过溺水撑粥，力能扛鼎。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「洪州」「民宅」\n「春」「中午」\n「笔」20+ 「墨」20+ 「纸」20+ 「砚」20+\n「书画」40+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《砥柱铭》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "书风成熟，凝练有力。无一笔掉以轻心，笔笔流利秀美。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「甘泉镇」「铺席」\n「春」「中午」\n「笔」30+ 「墨」40+ 「纸」50+ 「砚」20+\n「书画」50+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《珊瑚帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "笔势放纵，使转灵活，字形参差，布局随意。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「河中府」「铺席」\n「春」「早上」\n「笔」50+ 「墨」50+ 「纸」50+ 「砚」50+\n「书画」70+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《研山铭帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "沉顿雄快，跌宕多姿，结字自由放达，抒发天趣。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「襄州」「锦画居」「书房」\n「春」「下午」\n「笔」50+ 「墨」70+ 「纸」70+ 「砚」50+\n「书画」75+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《南轩梦语》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "长短合度，粗细折中，心眼准程，疏密敧正。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「大名府」「名邸」「贰」\n「夏」「晚上」\n「笔」70+ 「墨」70+ 「纸」40+ 「砚」40+\n「书画」75+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《东武帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "冲和自然，轻松自如，笔墨挥洒之间，别有一种书卷气息和超尘脱俗的笔情墨韵。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「宜宾镇」「饭店」\n「夏」「晚上」\n「笔」60+ 「墨」60+ 「纸」50+ 「砚」50+\n「书画」60+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《治平帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "笔法精细，字体遒媚，字划风流韵胜。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「东京汴梁」「青楼」「壹」\n「夏」「中午」\n「笔」70+ 「墨」70+ 「纸」70+ 「砚」70+\n「书画」75+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《卢鸿草堂十志图跋》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "书风深得颜公行书神髓，开张雄浑、沉着质朴。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「嵩山派」「太室山巅」\n「夏」「早上」\n「笔」20+ 「墨」20+ 「纸」20+ 「砚」20+\n「书画」30+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《虞恭公碑》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "结体严谨匀整，书法平正清穆，气度雍容，格韵淳古，矩法森严，体方笔圆。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「蓬莱镇」「饭店」\n「夏」「下午」\n「笔」60+ 「墨」40+ 「纸」60+ 「砚」40+\n「书画」70+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《皇甫诞碑》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用笔紧密内敛，刚劲不挠。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「京兆府」「名邸」「叁」\n「夏」「下午」\n「笔」90+ 「墨」50+ 「纸」70+ 「砚」50+\n「书画」100+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《化度寺塔铭》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "结体严谨缜密，气韵清古浑厚，深合体方笔圆之妙。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「终南山」\n「夏」「中午」\n「笔」40+ 「墨」40+ 「纸」40+ 「砚」40+\n「书画」50+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《黄帝阴符经》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "每秉笔必在圆正，气力纵横轻重，凝神静虑。当审字势，四面停匀，八边俱备。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「兰州」「星岚居」「前厅」\n「夏」「早上」\n「笔」60+ 「墨」60+ 「纸」60+ 「砚」60+\n「书画」80+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《仲尼梦奠帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "笔力苍劲古朴，用墨淡而不浓，以秃笔疾书，转折自如，结构稳重沉实，运笔从容，气韵流畅，体方而笔圆，妩媚而刚劲，清劲绝尘。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「扬州」「名邸」\n「秋」「下午」\n「笔」60+ 「墨」60+ 「纸」60+ 「砚」60+\n「书画」80+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《颜勤礼碑》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用笔横细竖粗，藏头护尾，方圆并用；结体端庄大方，宽绰舒展，拙中见巧；气息浑厚雄强，生机郁勃。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「京兆府」「名邸」「壹」\n「秋」「早上」\n「笔」20+ 「墨」10+ 「纸」10+ 「砚」10+\n「书画」30+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《蒙诏帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "长短宽窄不一，或断或连，笔墨浓淡轻重有致，线条以中锋为主，饱满圆厚。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「徐州镇」「客邸」\n「秋」「早上」\n「笔」20+ 「墨」20+ 「纸」20+ 「砚」20+\n「书画」30+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《蒙惠帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "毫墨精妙、字态圆润，挥酒自如。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「海州」「饭店」\n「秋」「中午」\n「笔」70+ 「墨」40+ 「纸」50+ 「砚」50+\n「书画」60+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《晋祠铭》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "道劲有力，意气风发，，有圣王之气。凝敛紧迫、自然稳健、含而不露、不激不厉。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「太原府」「晋祠」\n「秋」「下午」\n「笔」50+ 「墨」70+ 「纸」50+ 「砚」50+\n「书画」70+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《原道碑》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "风格刚健俊拔,字体遒劲丰润。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「寿州」「名邸」\n「秋」「晚上」\n「笔」70+ 「墨」70+ 「纸」70+ 「砚」70+\n「书画」70+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《自书告身帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "端庄朴厚，苍劲有力，有一种高古气象和庙堂之气。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「庐州」「客邸」\n「秋」「早上」\n「笔」60+ 「墨」40+ 「纸」60+ 「砚」40+\n「书画」70+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《闰中秋月诗帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用笔劲健挺拔又不失妩媚，加之紧密而婀娜的结体，笔画带过之处，如游丝行空，缠绵飘逸。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「金州」「茶坊」\n「秋」「晚上」\n「笔」50+ 「墨」50+ 「纸」50+ 「砚」50+\n「书画」60+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《快雪时晴帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "点画俯仰生情，钩挑不露锋。提按得当，从容不迫，神态自如，骨力中藏。雍容古雅，圆浑研媚。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「温州商户」「住房」\n「冬」「早上」\n「笔」80+ 「墨」70+ 「纸」80+ 「砚」60+\n「书画」80+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《郊燔帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "笔画浑雄敦厚，婉转有致，运笔飞动自如。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「凤翔府」「名邸」\n「冬」「下午」\n「笔」40+ 「墨」60+ 「纸」50+ 「砚」50+\n「书画」70+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《女史箴词句》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用笔清瘦,骨势森森,收笔处往往雕饰性强,如柳叶翩翩于清风。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「广州」「光孝寺」\n「冬」「中午」\n「笔」50+ 「墨」50+ 「纸」50+ 「砚」50+\n「书画」60+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《昼锦堂记》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "浑厚端庄，淳淡婉美，自成一体。展卷顿觉有一缕春风拂面，充满妍丽温雅气息。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「真定府」「酒楼」\n「冬」「中午」\n「笔」20+ 「墨」20+ 「纸」20+ 「砚」20+\n「书画」50+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《蜀素帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "通体笔法跳荡精致，结体变化多端，笔势沉着痛快。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「恭州」「饭店」\n「冬」「早上」\n「笔」70+ 「墨」70+ 「纸」40+ 「砚」40+\n「书画」75+"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "书法"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《送梨帖》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "笔致含蓄，自有真趣。"
+    },
+    "Inspiration": {
+      "ValueInfo": "「辰州」「客邸」\n「冬」「晚上」\n「笔」10+ 「墨」20+ 「纸」20+ 「砚」10+\n「书画」30+"
+    }
+  }
+]

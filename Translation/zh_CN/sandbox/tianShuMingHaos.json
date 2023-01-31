@@ -1,0 +1,3297 @@
+[
+  {
+    "Name": "<color=#23FF00FF>绝命</color>",
+    "ToolTipName": "<color=#23FF00FF>「绝命」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击杀」对方几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「击杀」对方几率增加5%"
+  },
+  {
+    "Name": "<color=#23FF00FF>飞羽</color>",
+    "ToolTipName": "<color=#23FF00FF>「飞羽」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击破」几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「击破」几率增加10%"
+  },
+  {
+    "Name": "<color=#23FF00FF>死士</color>",
+    "ToolTipName": "<color=#23FF00FF>「死士」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "被「击杀」几率降低20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "被「击杀」几率降低20%"
+  },
+  {
+    "Name": "<color=#23FF00FF>冰瀑</color>",
+    "ToolTipName": "<color=#23FF00FF>「冰瀑」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「决断」+2"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「决断」+2",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#23FF00FF>饮血</color>",
+    "ToolTipName": "<color=#23FF00FF>「饮血」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「筋骨」-8"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「击伤」对方几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「筋骨」-8",
+    "Teses_ZhanDou_ValueInfo": "「攻招式威力」增加15%，「击伤」对方几率增加10%"
+  },
+  {
+    "Name": "<color=#23FF00FF>断鹤</color>",
+    "ToolTipName": "<color=#23FF00FF>「断鹤」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「下盘」-5"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击破」几率增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「下盘」-5",
+    "Teses_ZhanDou_ValueInfo": "「击破」几率增加20%"
+  },
+  {
+    "Name": "<color=#23FF00FF>玄龟</color>",
+    "ToolTipName": "<color=#23FF00FF>「玄龟」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「杀意」-10"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「防招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「杀意」-10 ",
+    "Teses_ZhanDou_ValueInfo": "「防招式威力」增加15%"
+  },
+  {
+    "Name": "<color=#23FF00FF>蝗雨</color>",
+    "ToolTipName": "<color=#23FF00FF>「蝗雨」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「身形」+2"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「身形」+2",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#23FF00FF>翎牙</color>",
+    "ToolTipName": "<color=#23FF00FF>「翎牙」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「拳掌」+1 "
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「拳掌」+1 ",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#23FF00FF>封灵</color>",
+    "ToolTipName": "<color=#23FF00FF>「封灵」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「任脉」+1"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「任脉」+1",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#23FF00FF>香魅</color>",
+    "ToolTipName": "<color=#23FF00FF>「香魅」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「淬毒」几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「淬毒」几率增加5%"
+  },
+  {
+    "Name": "<color=#23FF00FF>霓霞</color>",
+    "ToolTipName": "<color=#23FF00FF>「霓霞」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「攻招式威力」增加10%"
+  },
+  {
+    "Name": "<color=#23FF00FF>绣云</color>",
+    "ToolTipName": "<color=#23FF00FF>「绣云」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「镇定」-4"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「防招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「镇定」-4",
+    "Teses_ZhanDou_ValueInfo": "「攻防招式威力」增加10%"
+  },
+  {
+    "Name": "<color=#23FF00FF>望月</color>",
+    "ToolTipName": "<color=#23FF00FF>「望月」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「魅力」+2"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「魅力」+2",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#23FF00FF>封焰</color>",
+    "ToolTipName": "<color=#23FF00FF>「封焰」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「指力」+1 "
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「指力」+1 ",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#23FF00FF>火蚕</color>",
+    "ToolTipName": "<color=#23FF00FF>「火蚕」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「杀意」+2"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「杀意」+2",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#23FF00FF>护魂</color>",
+    "ToolTipName": "<color=#23FF00FF>「护魂」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「筋骨」+2"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「筋骨」+2",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#23FF00FF>飞烟</color>",
+    "ToolTipName": "<color=#23FF00FF>「飞烟」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「身形」+1"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「身形」+1",
+    "Teses_ZhanDou_ValueInfo": "「攻招式威力」增加10%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>玄色</color>",
+    "ToolTipName": "<color=#FF00B6FF>「玄色」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「神来」+1"
+      },
+      {
+        "Description": "「福缘」+1"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击破」几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「神来」+1 「福缘」+1",
+    "Teses_ZhanDou_ValueInfo": "「击破」几率增加10%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>南斗</color>",
+    "ToolTipName": "<color=#FF00B6FF>「南斗」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「神来」+2"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「防招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「神来」+2",
+    "Teses_ZhanDou_ValueInfo": "「防招式威力」增加15%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>御风</color>",
+    "ToolTipName": "<color=#FF00B6FF>「御风」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「调息」+1 "
+      },
+      {
+        "Description": "「气法」+1 "
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「调息」+1 「气法」+1 ",
+    "Teses_ZhanDou_ValueInfo": "「攻招式威力」增加10%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>无情</color>",
+    "ToolTipName": "<color=#FF00B6FF>「无情」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「集中」+2"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击杀」对方几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「集中」+2",
+    "Teses_ZhanDou_ValueInfo": "「击杀」对方几率增加5%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>断心</color>",
+    "ToolTipName": "<color=#FF00B6FF>「断心」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「击伤」对方几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「攻招式威力」增加15%，「击伤」对方几率增加10%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>三纹</color>",
+    "ToolTipName": "<color=#FF00B6FF>「三纹」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「福缘」+4"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「福缘」+4",
+    "Teses_ZhanDou_ValueInfo": "无携带效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>青璃</color>",
+    "ToolTipName": "<color=#FF00B6FF>「青璃」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「拳掌」+1 "
+      },
+      {
+        "Description": "「指力」+1"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「拳掌」+1 「指力」+1",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>破元</color>",
+    "ToolTipName": "<color=#FF00B6FF>「破元」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「拳掌」+2"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「拳掌」+2",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>隐灵</color>",
+    "ToolTipName": "<color=#FF00B6FF>「隐灵」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「指力」+2"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「指力」+2",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>天策</color>",
+    "ToolTipName": "<color=#FF00B6FF>「天策」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「悟性」+2"
+      },
+      {
+        "Description": "「见识」+2"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「悟性」+2 「见识」+2",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF9A00FF>琅邪</color>",
+    "ToolTipName": "<color=#FF9A00FF>「琅邪」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「拳掌」+2"
+      },
+      {
+        "Description": "「指力」+2"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「拳掌」+2 「指力」+2",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF9A00FF>凤鸣</color>",
+    "ToolTipName": "<color=#FF9A00FF>「凤鸣」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「防招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「击破」几率增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「攻防招式威力」增加15%，「击破」几率增加15%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>妖光</color>",
+    "ToolTipName": "<color=#FF9A00FF>「妖光」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「体魄」-10"
+      },
+      {
+        "Description": "「集中」-15"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加30%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「防招式威力」增加30%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「体魄」-10 「集中」-15",
+    "Teses_ZhanDou_ValueInfo": "「攻防招式威力」增加30%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>龙泉</color>",
+    "ToolTipName": "<color=#FF9A00FF>「龙泉」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「气法」+2"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「防招式威力」增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「气法」+2",
+    "Teses_ZhanDou_ValueInfo": "「攻防招式威力」增加20%"
+  },
+  {
+    "Name": "<color=#23FF00FF>掠影</color>",
+    "ToolTipName": "<color=#23FF00FF>「掠影」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「身形」+2"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「身形」+2",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#23FF00FF>是胆</color>",
+    "ToolTipName": "<color=#23FF00FF>「是胆」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「意志」+2"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「意志」+2",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#23FF00FF>玄天</color>",
+    "ToolTipName": "<color=#23FF00FF>「玄天」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「福缘」+3"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「福缘」+3",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#23FF00FF>太室无锋</color>",
+    "ToolTipName": "<color=#23FF00FF>「太室无锋」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「福缘」-3"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「防招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "被「击伤」几率降低15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「福缘」-3",
+    "Teses_ZhanDou_ValueInfo": "「防招式威力」增加10%，被「击伤」几率降低15%"
+  },
+  {
+    "Name": "<color=#23FF00FF>天门</color>",
+    "ToolTipName": "<color=#23FF00FF>「天门」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「防招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「防招式威力」增加10%"
+  },
+  {
+    "Name": "<color=#23FF00FF>无序</color>",
+    "ToolTipName": "<color=#23FF00FF>「无序」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「镇定」-5"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "出现「破绽」几率减少25%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「镇定」-5",
+    "Teses_ZhanDou_ValueInfo": "出现「破绽」几率减少25%"
+  },
+  {
+    "Name": "<color=#23FF00FF>承影</color>",
+    "ToolTipName": "<color=#23FF00FF>「承影」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「用剑」+1"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「用剑」+1",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>吴越</color>",
+    "ToolTipName": "<color=#FF00B6FF>「吴越」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「攻招式威力」增加20%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>金蛇</color>",
+    "ToolTipName": "<color=#FF00B6FF>「金蛇」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「杀意」+6"
+      },
+      {
+        "Description": "「福缘」-4"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「杀意」+6 「福缘」-4",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>色魔</color>",
+    "ToolTipName": "<color=#FF00B6FF>「色魔」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「用剑」+5"
+      },
+      {
+        "Description": "「魅力」-15"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「用剑」+5 「魅力」-15",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>崩天</color>",
+    "ToolTipName": "<color=#FF00B6FF>「崩天」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「决断」+3"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「决断」+3",
+    "Teses_ZhanDou_ValueInfo": "「攻招式威力」增加10%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>赤霄</color>",
+    "ToolTipName": "<color=#FF00B6FF>「赤霄」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「阳」「攻招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「阳」「防招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「阳」「攻防招式威力」增加15%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>翠玉</color>",
+    "ToolTipName": "<color=#FF00B6FF>「翠玉」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「阴」「攻招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「阴」「防招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「阴」「攻防招式威力」增加15%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>饮血夺魂</color>",
+    "ToolTipName": "<color=#FF00B6FF>「饮血夺魂」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击杀」对方几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「击杀」对方几率增加10%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>莫邪</color>",
+    "ToolTipName": "<color=#FF9A00FF>「莫邪」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「阴阳」「攻招式威力」增加50%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「阴阳」「防招式威力」增加50%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「阴阳」「攻防招式威力」增加50%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>干将</color>",
+    "ToolTipName": "<color=#FF9A00FF>「干将」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「防招式威力」增加35%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「防招式威力」增加35%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>湛泸</color>",
+    "ToolTipName": "<color=#FF9A00FF>「湛泸」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「用剑」+6"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「用剑」+6",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF9A00FF>轩辕</color>",
+    "ToolTipName": "<color=#FF9A00FF>「轩辕」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「调息」+2"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「防招式威力」增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「调息」+2",
+    "Teses_ZhanDou_ValueInfo": "「攻防招式威力」增加20%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>赤鹤</color>",
+    "ToolTipName": "<color=#FF9A00FF>「赤鹤」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「神来」+5"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「神来」+5",
+    "Teses_ZhanDou_ValueInfo": "「攻招式威力」增加15%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>鱼肠</color>",
+    "ToolTipName": "<color=#FF9A00FF>「鱼肠」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加25%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「击破」几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「攻招式威力」增加25%，「击破」几率增加10%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>倚天</color>",
+    "ToolTipName": "<color=#FF9A00FF>「倚天」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「福缘」+4"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「防招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「福缘」+4",
+    "Teses_ZhanDou_ValueInfo": "「攻防招式威力」增加15%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>苍冥</color>",
+    "ToolTipName": "<color=#FF9A00FF>「苍冥」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「用剑」+2"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「防招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「用剑」+2",
+    "Teses_ZhanDou_ValueInfo": "「攻防招式威力」增加10%"
+  },
+  {
+    "Name": "<color=#23FF00FF>亭侯</color>",
+    "ToolTipName": "<color=#23FF00FF>「亭侯」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「魅力」+2"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「魅力」+2",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#23FF00FF>寒灵</color>",
+    "ToolTipName": "<color=#23FF00FF>「寒灵」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「集中」+1"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击伤」对方几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「集中」+1",
+    "Teses_ZhanDou_ValueInfo": "「击伤」对方几率增加5%"
+  },
+  {
+    "Name": "<color=#23FF00FF>割玉</color>",
+    "ToolTipName": "<color=#23FF00FF>「割玉」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「杀意」+1"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击伤」对方几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「杀意」+1",
+    "Teses_ZhanDou_ValueInfo": "「击伤」对方几率增加5%"
+  },
+  {
+    "Name": "<color=#23FF00FF>大夏</color>",
+    "ToolTipName": "<color=#23FF00FF>「大夏」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「下盘」-4"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击破」几率增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「下盘」-4",
+    "Teses_ZhanDou_ValueInfo": "「击破」几率增加20%"
+  },
+  {
+    "Name": "<color=#23FF00FF>螳螂</color>",
+    "ToolTipName": "<color=#23FF00FF>「螳螂」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击杀」对方几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        },
+        {
+          "Name": {
+            "Value": "被「击伤」几率增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「击杀」对方几率增加10%，被「击伤」几率增加20%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>鸣鸿</color>",
+    "ToolTipName": "<color=#FF00B6FF>「鸣鸿」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「决断」+4"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「决断」+4",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>绝真</color>",
+    "ToolTipName": "<color=#FF00B6FF>「绝真」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「击破」几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「攻招式威力」增加15%，「击破」几率增加10%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>秦玺</color>",
+    "ToolTipName": "<color=#FF00B6FF>「秦玺」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「督脉」+2"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「督脉」+2",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>凤凰</color>",
+    "ToolTipName": "<color=#FF00B6FF>「凤凰」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「使刀」+1"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击破」几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「使刀」+1",
+    "Teses_ZhanDou_ValueInfo": "「击破」几率增加10%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>皓月</color>",
+    "ToolTipName": "<color=#FF00B6FF>「皓月」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「福缘」+2"
+      },
+      {
+        "Description": "「神来」+2"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「福缘」+2 「神来」+2",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF9A00FF>烈日</color>",
+    "ToolTipName": "<color=#FF9A00FF>「烈日」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「使刀」+3"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「击破」几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「使刀」+3",
+    "Teses_ZhanDou_ValueInfo": "「攻招式威力」增加20%，「击破」几率增加10%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>庖丁</color>",
+    "ToolTipName": "<color=#FF9A00FF>「庖丁」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「烹饪」+15"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「烹饪」+15",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF9A00FF>锟铻</color>",
+    "ToolTipName": "<color=#FF9A00FF>「锟铻」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「使刀」+1"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「防招式威力」增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「使刀」+1",
+    "Teses_ZhanDou_ValueInfo": "「攻防招式威力」增加20%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>屠龙</color>",
+    "ToolTipName": "<color=#FF9A00FF>「屠龙」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「使刀」+10"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「使刀」+10",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>擎天</color>",
+    "ToolTipName": "<color=#FF00B6FF>「擎天」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「攻招式威力」增加20%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>冥银</color>",
+    "ToolTipName": "<color=#FF00B6FF>「冥银」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「调息」+2"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击伤」对方几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「调息」+2",
+    "Teses_ZhanDou_ValueInfo": "「击伤」对方几率增加10%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>沥泉</color>",
+    "ToolTipName": "<color=#FF00B6FF>「沥泉」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「用枪」+1"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「用枪」+1",
+    "Teses_ZhanDou_ValueInfo": "「攻招式威力」增加15%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>神威</color>",
+    "ToolTipName": "<color=#FF00B6FF>「神威」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「用枪」+2"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「用枪」+2",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>断魂</color>",
+    "ToolTipName": "<color=#FF00B6FF>「断魂」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「用枪」+1"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击杀」对方几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「用枪」+1",
+    "Teses_ZhanDou_ValueInfo": "「击杀」对方几率增加10%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>阴风</color>",
+    "ToolTipName": "<color=#FF00B6FF>「阴风」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加45%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "出现「破绽」几率增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「攻招式威力」增加45%，出现「破绽」几率增加15%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>龙胆</color>",
+    "ToolTipName": "<color=#FF9A00FF>「龙胆」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「用枪」+2"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加30%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「用枪」+2",
+    "Teses_ZhanDou_ValueInfo": "「攻招式威力」增加30%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>赤焰</color>",
+    "ToolTipName": "<color=#FF9A00FF>「赤焰」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「用枪」+2"
+      },
+      {
+        "Description": "「意志」+2"
+      },
+      {
+        "Description": "「决断」+2"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「用枪」+2 「意志」+2 「决断」+2",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF9A00FF>霸王</color>",
+    "ToolTipName": "<color=#FF9A00FF>「霸王」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「用枪」+9"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「用枪」+9",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>龙蟠</color>",
+    "ToolTipName": "<color=#FF00B6FF>「龙蟠」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「神来」+4"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「神来」+4",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>虎尾</color>",
+    "ToolTipName": "<color=#FF00B6FF>「虎尾」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「耍棍」+2"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「耍棍」+2",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>惊雷</color>",
+    "ToolTipName": "<color=#FF00B6FF>「惊雷」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「耍棍」+1"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「阴阳」「攻招式威力」增加30%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「耍棍」+1",
+    "Teses_ZhanDou_ValueInfo": "「阴阳」「攻招式威力」增加30%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>生铁罗汉</color>",
+    "ToolTipName": "<color=#FF00B6FF>「生铁罗汉」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「阴阳」「攻招式威力」增加60%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「阴阳」「防招式威力」增加60%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「神来一击」几率减少10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减少"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「阴阳」「攻防招式威力」增加60%，「神来一击」几率减少15%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>八卦</color>",
+    "ToolTipName": "<color=#FF00B6FF>「八卦」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「耍棍」+2"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「神来一击」几率增加5%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「耍棍」+1",
+    "Teses_ZhanDou_ValueInfo": "「神来一击」几率增加5%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>岳阳</color>",
+    "ToolTipName": "<color=#FF00B6FF>「岳阳」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「神来」+2"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「防招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「神来」+2",
+    "Teses_ZhanDou_ValueInfo": "「攻防招式威力」增加15%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>奇门</color>",
+    "ToolTipName": "<color=#FF00B6FF>「奇门」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「神来一击」几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「神来一击」几率增加10%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>流星</color>",
+    "ToolTipName": "<color=#FF9A00FF>「流星」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「神来一击」几率增加16%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「神来一击」几率增加16%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>打狗</color>",
+    "ToolTipName": "<color=#FF9A00FF>「打狗」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「神来」+4"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「阴阳」「攻招式威力」增加60%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「神来」+4",
+    "Teses_ZhanDou_ValueInfo": "「阴阳」「攻招式威力」增加60%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>盘龙</color>",
+    "ToolTipName": "<color=#FF9A00FF>「盘龙」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「耍棍」+8"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「耍棍」+8",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>袭风</color>",
+    "ToolTipName": "<color=#FF00B6FF>「袭风」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「鞭术」+1"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「阴」「攻招式威力」增加30%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「鞭术」+1",
+    "Teses_ZhanDou_ValueInfo": "「阴」「攻招式威力」增加30%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>破星</color>",
+    "ToolTipName": "<color=#FF00B6FF>「破星」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击破」几率增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「击破」几率增加20%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>扣命</color>",
+    "ToolTipName": "<color=#FF00B6FF>「扣命」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「鞭术」+1"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击杀」对方几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「鞭术」+1",
+    "Teses_ZhanDou_ValueInfo": "「击杀」对方几率增加10%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>凌波愁雨</color>",
+    "ToolTipName": "<color=#FF00B6FF>「凌波愁雨」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「鞭术」+3"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「鞭术」+3",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>蝶影</color>",
+    "ToolTipName": "<color=#FF00B6FF>「蝶影」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「鞭术」+1"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「阴」「攻招式威力」增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「击破」几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「鞭术」+1",
+    "Teses_ZhanDou_ValueInfo": "「阴」「攻招式威力」增加20%，「击破」几率增加10%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>雷神</color>",
+    "ToolTipName": "<color=#FF9A00FF>「雷神」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「鞭术」+2"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「阴」「攻招式威力」增加50%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「鞭术」+2",
+    "Teses_ZhanDou_ValueInfo": "「阴」「攻招式威力」增加50%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>罗剎</color>",
+    "ToolTipName": "<color=#FF9A00FF>「罗剎」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击破」几率增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「击伤」对方几率增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「击破」几率增加20%，「击伤」对方几率增加20%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>枫红竹水</color>",
+    "ToolTipName": "<color=#FF9A00FF>「枫红竹水」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「鞭术」+2"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击破」几率增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「鞭术」+2",
+    "Teses_ZhanDou_ValueInfo": "「击破」几率增加20%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>玉蜂</color>",
+    "ToolTipName": "<color=#FF00B6FF>「玉蜂」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「暗器」+2"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「暗器」+2",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>冰魄</color>",
+    "ToolTipName": "<color=#FF00B6FF>「冰魄」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「淬毒」几率增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「淬毒」几率增加15%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>花影</color>",
+    "ToolTipName": "<color=#FF00B6FF>「花影」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「身形」+3"
+      },
+      {
+        "Description": "「魅力」+3"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「身形」+3 「魅力」+3",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>鬼泉</color>",
+    "ToolTipName": "<color=#FF00B6FF>「鬼泉」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「决断」-3"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「淬毒」几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「击杀」对方几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「决断」-3",
+    "Teses_ZhanDou_ValueInfo": "「淬毒」几率增加10%，「击杀」对方几率增加10%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>泣血</color>",
+    "ToolTipName": "<color=#FF00B6FF>「泣血」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「杀意」+5"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「杀意」+5",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>霹雳</color>",
+    "ToolTipName": "<color=#FF00B6FF>「霹雳」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击破」几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「击伤」对方几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「击破」几率增加10%，「击伤」对方几率增加10%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>追日</color>",
+    "ToolTipName": "<color=#FF00B6FF>「追日」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「阴」「攻招式威力」增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「击伤」几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「阴」「攻招式威力」增加20%，「击伤」几率增加10%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>伏尸</color>",
+    "ToolTipName": "<color=#FF00B6FF>「伏尸」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「体魄」-10"
+      },
+      {
+        "Description": "「集中」-10"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击杀」对方几率增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「体魄」-10 「集中」-10",
+    "Teses_ZhanDou_ValueInfo": "「击杀」对方几率增加20%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>黑布</color>",
+    "ToolTipName": "<color=#FF00B6FF>「黑布」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「暗器」+1"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「阴」「攻招式威力」增加25%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「暗器」+1",
+    "Teses_ZhanDou_ValueInfo": "「阴」「攻招式威力」增加25%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>碎心</color>",
+    "ToolTipName": "<color=#FF00B6FF>「碎心」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「意志」-5"
+      },
+      {
+        "Description": "「镇定」-5"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击伤」对方几率增加30%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「意志」-5 「镇定」-5",
+    "Teses_ZhanDou_ValueInfo": "「击伤」对方几率增加30%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>影魄</color>",
+    "ToolTipName": "<color=#FF9A00FF>「影魄」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「暗器」+3"
+      },
+      {
+        "Description": "「身形」+6"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「暗器」+3 「身形」+6",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF9A00FF>泫金毒蝶</color>",
+    "ToolTipName": "<color=#FF9A00FF>「泫金毒蝶」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「暗器」+2"
+      },
+      {
+        "Description": "「体魄」-3"
+      },
+      {
+        "Description": "「筋骨」-3"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「淬毒」几率增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「暗器」+2 「体魄」-3 「筋骨」-3",
+    "Teses_ZhanDou_ValueInfo": "「淬毒」几率增加20%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>幽脑无踪</color>",
+    "ToolTipName": "<color=#FF9A00FF>「幽脑无踪」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击伤」几率增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「淬毒」几率增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果",
+    "Teses_ZhanDou_ValueInfo": "「击伤」几率增加20%，「淬毒」几率增加20%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>点金</color>",
+    "ToolTipName": "<color=#FF9A00FF>「点金」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「暗器」+8"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「暗器」+8",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF9A00FF>紫玉枯木</color>",
+    "ToolTipName": "<color=#FF9A00FF>「紫玉枯木」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「笔法」+2"
+      },
+      {
+        "Description": "「神来」+2"
+      },
+      {
+        "Description": "「诗词」+2"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「笔法」+2 「神来」+2 「诗词」+2",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF9A00FF>灵宗天机</color>",
+    "ToolTipName": "<color=#FF9A00FF>「灵宗天机」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「笔法」+5"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「笔法」+5",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF9A00FF>绮罗如意</color>",
+    "ToolTipName": "<color=#FF9A00FF>「绮罗如意」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「笔法」+2"
+      },
+      {
+        "Description": "「神来」+2"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「阴阳」「攻招式威力」增加40%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「阴阳」「防招式威力」增加40%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「笔法」+2 「神来」+2",
+    "Teses_ZhanDou_ValueInfo": "「阴阳」「攻防招式威力」增加40%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>镜花水月</color>",
+    "ToolTipName": "<color=#FF9A00FF>「镜花水月」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「神来」+2"
+      },
+      {
+        "Description": "「集中」+2"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「阴」「攻招式威力」增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「阴」「防招式威力」增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「击破」几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「神来」+2 「集中」+2",
+    "Teses_ZhanDou_ValueInfo": "「阴」「攻防招式威力」增加20%，「击破」几率增加10%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>玄诀归一</color>",
+    "ToolTipName": "<color=#FF9A00FF>「玄诀归一」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「笔法」+2"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「阳」「攻招式威力」增加30%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「阳」「防招式威力」增加30%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「笔法」+2",
+    "Teses_ZhanDou_ValueInfo": "「阳」「攻防招式威力」增加30%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>鸾蛛</color>",
+    "ToolTipName": "<color=#FF00B6FF>「鸾蛛」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「钩法」+1"
+      },
+      {
+        "Description": "「道德」-5"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击伤」对方几率增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「击杀」对方几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「钩法」+1 「道德」-5",
+    "Teses_ZhanDou_ValueInfo": "「击伤」对方几率增加15%，「击杀」对方几率增加10%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>铁角犀灵</color>",
+    "ToolTipName": "<color=#FF00B6FF>「铁角犀灵」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「钩法」+1"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「攻招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「击伤」对方几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「钩法」+1",
+    "Teses_ZhanDou_ValueInfo": "「攻招式威力」增加10%，「击伤」对方几率增加10%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>百锈</color>",
+    "ToolTipName": "<color=#FF00B6FF>「百锈」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「道德」-10"
+      },
+      {
+        "Description": "「杀意」+3"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击伤」对方几率增加25%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「道德」-10 「杀意」+3",
+    "Teses_ZhanDou_ValueInfo": "「击伤」对方几率增加25%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>寒髓</color>",
+    "ToolTipName": "<color=#FF00B6FF>「寒髓」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「杀意」+5"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「阴」「攻招式威力」增加35%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「杀意」+5",
+    "Teses_ZhanDou_ValueInfo": "「阴」「攻招式威力」增加35%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>玄冥</color>",
+    "ToolTipName": "<color=#FF9A00FF>「玄冥」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「钩法」+4"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「阴」「攻招式威力」增加25%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「阴」「防招式威力」增加25%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「击伤」对方几率增加12%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「钩法」+4",
+    "Teses_ZhanDou_ValueInfo": "「阴」「攻防招式威力」增加25%；「击伤」对方几率增加15%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>碎甲</color>",
+    "ToolTipName": "<color=#FF00B6FF>「碎甲」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「运斧」+1"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击落」对方兵器几率增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「运斧」+1",
+    "Teses_ZhanDou_ValueInfo": "「击落」对方兵器几率增加15%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>赤元</color>",
+    "ToolTipName": "<color=#FF00B6FF>「赤元」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「运斧」+2"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「阳」「防招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「运斧」+2",
+    "Teses_ZhanDou_ValueInfo": "「阳」「防招式威力」增加15%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>开山</color>",
+    "ToolTipName": "<color=#FF00B6FF>「开山」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「运斧」+1"
+      },
+      {
+        "Description": "「决断」+1"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「阳」「防招式威力」增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「击落」对方兵器几率增加10%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「运斧」+1 「决断」+1",
+    "Teses_ZhanDou_ValueInfo": "「阳」「防招式威力」增加10%；「击落」对方兵器几率增加10%"
+  },
+  {
+    "Name": "<color=#FF00B6FF>旋风</color>",
+    "ToolTipName": "<color=#FF00B6FF>「旋风」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「运斧」+3"
+      },
+      {
+        "Description": "「用剑」-3"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「阳」「攻招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「阳」「防招式威力」增加15%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「运斧」+3 「用剑」-3",
+    "Teses_ZhanDou_ValueInfo": "「阳」「攻防招式威力」增加15%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>斩魔</color>",
+    "ToolTipName": "<color=#FF9A00FF>「斩魔」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「运斧」+7"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「阳」「攻招式威力」增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        },
+        {
+          "Name": {
+            "Value": "「阳」「防招式威力」增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「运斧」+7",
+    "Teses_ZhanDou_ValueInfo": "「攻防招式威力」增加20%"
+  },
+  {
+    "Name": "<color=#FF9A00FF>钝天</color>",
+    "ToolTipName": "<color=#FF9A00FF>「钝天」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「运斧」+5"
+      },
+      {
+        "Description": "「体魄」+5"
+      }
+    ],
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「击落」对方兵器几率增加20%"
+          },
+          "ValueOperator": {
+            "ValueInfo": "增加"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "「运斧」+5 「体魄」+5",
+    "Teses_ZhanDou_ValueInfo": "「击落」对方兵器几率增加20%"
+  },
+  {
+    "Name": "<color=#23FF00FF>横空</color>",
+    "ToolTipName": "<color=#23FF00FF>「横空」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「指力」+1"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「指力」+1",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#23FF00FF>幽雄</color>",
+    "ToolTipName": "<color=#23FF00FF>「幽雄」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「拳掌」+1"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「拳掌」+1",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>斗风</color>",
+    "ToolTipName": "<color=#FF00B6FF>「斗风」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「决断」+2"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「决断」+2",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>白驹</color>",
+    "ToolTipName": "<color=#FF00B6FF>「白驹」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「集中」+2"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「集中」+2",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>锁日</color>",
+    "ToolTipName": "<color=#FF00B6FF>「锁日」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「意志」+2"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「意志」+2",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>闪金</color>",
+    "ToolTipName": "<color=#FF00B6FF>「闪金」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「集中」+1"
+      },
+      {
+        "Description": "「意志」+1"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「集中」+1 「意志」+1",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>绿竹</color>",
+    "ToolTipName": "<color=#FF00B6FF>「绿竹」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「神来」+2"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「神来」+2",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>大正</color>",
+    "ToolTipName": "<color=#FF00B6FF>「大正」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「集中」-2"
+      },
+      {
+        "Description": "「意志」+4"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「集中」-2 「意志」+4",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>焰曲</color>",
+    "ToolTipName": "<color=#FF00B6FF>「焰曲」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「意志」-2"
+      },
+      {
+        "Description": "「集中」+4"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「意志」-2 「集中」+4",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>落蝶</color>",
+    "ToolTipName": "<color=#FF00B6FF>「落蝶」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「决断」-3"
+      },
+      {
+        "Description": "「神来」+5"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「决断」-3 「神来」+5",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>素心</color>",
+    "ToolTipName": "<color=#FF00B6FF>「素心」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「体魄」-3"
+      },
+      {
+        "Description": "「决断」+5"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「体魄」-3 「决断」+5",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF00B6FF>镜虚</color>",
+    "ToolTipName": "<color=#FF00B6FF>「镜虚」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「集中」-5"
+      },
+      {
+        "Description": "「神来」+8"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「集中」-5 「神来」+8",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF9A00FF>九炼通臂</color>",
+    "ToolTipName": "<color=#FF9A00FF>「九炼通臂」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「拳掌」+6"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「拳掌」+6",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FF9A00FF>赤古无涯</color>",
+    "ToolTipName": "<color=#FF9A00FF>「赤古无涯」</color>",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ShuXing": [
+      {
+        "Description": "「指力」+6"
+      }
+    ],
+    "Teses_ShuXing_ValueInfo": "「指力」+6",
+    "Teses_ZhanDou_ValueInfo": "无装备效果"
+  },
+  {
+    "Name": "<color=#FFFFFFFF>狼等</color>",
+    "ToolTipName": "「」",
+    "Quality": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    },
+    "Teses_ShuXing_ValueInfo": "无携带效果"
+  },
+  {
+    "Name": "<color=#23FF00FF>虎等</color>",
+    "ToolTipName": "「」",
+    "Quality": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Name": "<color=#FF00B6FF>凤等</color>",
+    "ToolTipName": "「」",
+    "Quality": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Name": "<color=#FF9A00FF>龙等</color>",
+    "ToolTipName": "「」",
+    "Quality": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "Teses_ZhanDou": {
+      "Values": [
+        {
+          "ValueOperator": {
+            "ValueInfo": "加成"
+          }
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "Name": {
+      "ValueInfo": "<color=#53FF4EFF>吉▪举一反三</color>"
+    },
+    "Description": "「参悟进修」速度提高50%"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#53FF4EFF>吉▪逍遥法外</color>"
+    },
+    "Description": "作恶被「巡铺」发现追击的概率降低"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#53FF4EFF>吉▪得心应手</color>"
+    },
+    "Description": "「武功」修炼速度提高50%"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#53FF4EFF>吉▪内修慧性</color>"
+    },
+    "Description": "「内功」修炼速度提高50%"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#53FF4EFF>吉▪飞檐走壁</color>"
+    },
+    "Description": "「轻功」修炼速度提高50%"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#53FF4EFF>吉▪天生情种</color>"
+    },
+    "Description": "「爱情」关系互动效果提升"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#53FF4EFF>吉▪制药高手</color>"
+    },
+    "Description": "「制药」的成功几率提升50%"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#53FF4EFF>吉▪制毒高手</color>"
+    },
+    "Description": "「制毒」的成功几率提升50%"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#53FF4EFF>吉▪博古通今</color>"
+    },
+    "Description": "「把玩状态」持续时间翻倍"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#53FF4EFF>吉▪心如止水</color>"
+    },
+    "Description": "「冥想状态」持续时间翻倍"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#53FF4EFF>吉▪灵丹圣药</color>"
+    },
+    "Description": "补药「进补状态」效果翻倍"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#53FF4EFF>吉▪五毒俱全</color>"
+    },
+    "Description": "「下毒」成功几率提高"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#53FF4EFF>吉▪妙手空空</color>"
+    },
+    "Description": "「偷窃」成功几率提高"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#53FF4EFF>吉▪裒敛无厌</color>"
+    },
+    "Description": "「死斗」获胜后对方「道具掉落」几率增加"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FF5E4EFF>凶▪倒行逆施</color>"
+    },
+    "Description": "作恶被「巡铺」发现追击的概率增加"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FF5E4EFF>凶▪不知进退</color>"
+    },
+    "Description": "「武功」修炼速度降低50%"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FF5E4EFF>凶▪无所用心</color>"
+    },
+    "Description": "「内功」修炼速度降低50%"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FF5E4EFF>凶▪任达不拘</color>"
+    },
+    "Description": "「轻功」修炼速度降低50%"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FF5E4EFF>凶▪言行相诡</color>"
+    },
+    "Description": "「爱情」关系互动效果降低"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FF5E4EFF>凶▪制药苦手</color>"
+    },
+    "Description": "「制药」的成功几率减少50%"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FF5E4EFF>凶▪制毒苦手</color>"
+    },
+    "Description": "「制毒」的成功几率减少50%"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FF5E4EFF>凶▪有毒无谋</color>"
+    },
+    "Description": "「下毒」成功几率减少"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FF5E4EFF>凶▪行尸走肉</color>"
+    },
+    "Description": "「偷窃」成功几率减少"
+  },
+  {
+    "Name": {
+      "ValueInfo": "<color=#FF5E4EFF>凶▪气运难数</color>"
+    },
+    "Description": "「死斗」获胜后对方「道具掉落」几率减少"
+  }
+]

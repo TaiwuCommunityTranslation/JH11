@@ -1,0 +1,874 @@
+[
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务问剑纷争",
+        "FinishedDescription": "主线任务问剑纷争"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务奇珍异味正篇壹找龙断天后",
+        "FinishedDescription": "支线任务奇珍异味正篇壹找龙断天后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务松风正篇壹",
+        "FinishedDescription": "支线任务松风正篇壹"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务重归师门到达嵩山后",
+        "FinishedDescription": "主线任务重归师门到达嵩山后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务拜祭故人到达少林寺后",
+        "FinishedDescription": "主线任务拜祭故人到达少林寺后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务七绝正篇壹",
+        "FinishedDescription": "支线任务七绝正篇壹"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务设宴江湖宴席开始后",
+        "FinishedDescription": "主线任务设宴江湖宴席开始后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务玄天正篇贰开始故事后",
+        "FinishedDescription": "支线任务玄天正篇贰开始故事后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务剑鸣轩辕到达华山后",
+        "FinishedDescription": "主线任务剑鸣轩辕到达华山后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务水落石出",
+        "FinishedDescription": "主线任务水落石出"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务天渊之结",
+        "FinishedDescription": "主线任务天渊之结"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务初入江湖开启擂台后",
+        "FinishedDescription": "主线任务初入江湖开启擂台后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务变故徒生到达昭觉寺",
+        "FinishedDescription": "主线任务变故徒生到达昭觉寺"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务百丈流云正篇贰到达白鹤谷后",
+        "FinishedDescription": "支线任务百丈流云正篇贰到达白鹤谷后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务百丈流云正篇壹",
+        "FinishedDescription": "支线任务百丈流云正篇壹"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务变故徒生到达昭觉寺",
+        "FinishedDescription": "主线任务变故徒生到达昭觉寺"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务神龙正篇壹",
+        "FinishedDescription": "支线任务神龙正篇壹"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务设宴江湖宴席开始后",
+        "FinishedDescription": "主线任务设宴江湖宴席开始后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务设宴江湖宴席开始后",
+        "FinishedDescription": "主线任务设宴江湖宴席开始后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务烈日狂刀正篇壹到达烈日教后",
+        "FinishedDescription": "支线任务烈日狂刀正篇壹到达烈日教后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务星罗四象正篇壹",
+        "FinishedDescription": "支线任务星罗四象正篇壹"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务疑点重重",
+        "FinishedDescription": "主线任务疑点重重"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务五毒达到五毒洞后",
+        "FinishedDescription": "主线任务五毒达到五毒洞后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "相识薛简",
+        "FinishedDescription": "相识薛简"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务鲜红蟾蜍正篇贰达到血手门后",
+        "FinishedDescription": "支线任务鲜红蟾蜍正篇贰达到血手门后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务星罗四象正篇贰达到炎凤堂后",
+        "FinishedDescription": "支线任务星罗四象正篇贰达到炎凤堂后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "相识吴幽子",
+        "FinishedDescription": "相识吴幽子"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务变故徒生到达昭觉寺",
+        "FinishedDescription": "主线任务变故徒生到达昭觉寺"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务五毒正篇贰到达药王庄后",
+        "FinishedDescription": "支线任务五毒正篇贰到达药王庄后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务天涯落枫正篇贰狄梦走火入魔后",
+        "FinishedDescription": "支线任务天涯落枫正篇贰狄梦走火入魔后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务奇珍异味正篇陆",
+        "FinishedDescription": "支线任务奇珍异味正篇陆"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务水落石出",
+        "FinishedDescription": "主线任务水落石出"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务青龙正篇叁到达滕王阁后",
+        "FinishedDescription": "支线任务青龙正篇叁到达滕王阁后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务越女正篇贰打过华山弟子后",
+        "FinishedDescription": "支线任务越女正篇贰打过华山弟子后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务西北枪王正篇贰",
+        "FinishedDescription": "支线任务西北枪王正篇贰"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务白鹤行云正篇壹到达广州客邸后",
+        "FinishedDescription": "支线任务白鹤行云正篇壹到达广州客邸后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务西北枪王正篇壹到达凤翔府酒楼后",
+        "FinishedDescription": "支线任务西北枪王正篇壹到达凤翔府酒楼后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务狮子琉璃正篇壹开始",
+        "FinishedDescription": "支线任务狮子琉璃正篇壹开始"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务江山极意正篇贰开始",
+        "FinishedDescription": "支线任务江山极意正篇贰开始"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务太白正篇壹开始",
+        "FinishedDescription": "支线任务太白正篇壹开始"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务太白正篇壹饮酒数值判断成功后",
+        "FinishedDescription": "支线任务太白正篇壹饮酒数值判断成功后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务九歌千字正篇壹到达汴梁青楼后",
+        "FinishedDescription": "支线任务九歌千字正篇壹到达汴梁青楼后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务九歌千字正篇贰开始",
+        "FinishedDescription": "支线任务九歌千字正篇贰开始"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务奇珍异味正篇肆开始",
+        "FinishedDescription": "支线任务奇珍异味正篇肆开始"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "相识范仲淹",
+        "FinishedDescription": "相识范仲淹"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务初入江湖到达汴梁酒楼",
+        "FinishedDescription": "主线任务初入江湖到达汴梁酒楼"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务江山极意正篇壹开始",
+        "FinishedDescription": "支线任务江山极意正篇壹开始"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务九歌千字正篇叁到达成都府名邸",
+        "FinishedDescription": "支线任务九歌千字正篇叁到达成都府名邸"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "相识诸葛利",
+        "FinishedDescription": "相识诸葛利"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "相识刘善",
+        "FinishedDescription": "相识刘善"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务初入江湖打到青州饭店后",
+        "FinishedDescription": "主线任务初入江湖打到青州饭店后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "相识王宗",
+        "FinishedDescription": "相识王宗"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务宝剑现世广州遇蔡承安后",
+        "FinishedDescription": "主线任务宝剑现世广州遇蔡承安后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "相识天龙玉",
+        "FinishedDescription": "相识天龙玉"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "相识夏侯富贾",
+        "FinishedDescription": "相识夏侯富贾"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务烈日狂刀正篇壹开始",
+        "FinishedDescription": "支线任务烈日狂刀正篇壹开始"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务百丈流云正篇贰到达温州商户后",
+        "FinishedDescription": "支线任务百丈流云正篇贰到达温州商户后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "相识许银瑶",
+        "FinishedDescription": "相识许银瑶"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务五毒正篇壹开始",
+        "FinishedDescription": "支线任务五毒正篇壹开始"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "相识李斡",
+        "FinishedDescription": "相识李斡"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "相识晁盖",
+        "FinishedDescription": "相识晁盖"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务星罗四象正篇叁到达海门帮后",
+        "FinishedDescription": "支线任务星罗四象正篇叁到达海门帮后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "相识钱元武",
+        "FinishedDescription": "相识钱元武"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务心系幽鸿天尊教见帝文轩后",
+        "FinishedDescription": "主线任务心系幽鸿天尊教见帝文轩后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务剑鸣轩辕到达POI后",
+        "FinishedDescription": "主线任务剑鸣轩辕到达POI后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务帝武寒正篇壹",
+        "FinishedDescription": "支线任务帝武寒正篇壹"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务宝剑现世",
+        "FinishedDescription": "主线任务宝剑现世"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务铸剑往昔",
+        "FinishedDescription": "主线任务铸剑往昔"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务设宴江湖",
+        "FinishedDescription": "主线任务设宴江湖"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务鲜红蟾蜍恒山分支正篇肆",
+        "FinishedDescription": "支线任务鲜红蟾蜍恒山分支正篇肆"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务烈日狂刀正篇壹交纳剑南烧春后",
+        "FinishedDescription": "支线任务烈日狂刀正篇壹交纳剑南烧春后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务烈日狂刀正篇贰闪回后",
+        "FinishedDescription": "支线任务烈日狂刀正篇贰闪回后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务变故徒生到达昭觉寺",
+        "FinishedDescription": "主线任务变故徒生到达昭觉寺"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务引子开始",
+        "FinishedDescription": "主线任务引子开始"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务引子开始",
+        "FinishedDescription": "主线任务引子开始"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务变故徒生到达昭觉寺",
+        "FinishedDescription": "主线任务变故徒生到达昭觉寺"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务天渊之结",
+        "FinishedDescription": "主线任务天渊之结"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务变故徒生到达昭觉寺",
+        "FinishedDescription": "主线任务变故徒生到达昭觉寺"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务狮子琉璃正篇肆到达凌天逍遥阁后",
+        "FinishedDescription": "支线任务狮子琉璃正篇肆到达凌天逍遥阁后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务拜祭故人少林寺与定觉对话后",
+        "FinishedDescription": "主线任务拜祭故人少林寺与定觉对话后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务武当旧事到达武当后",
+        "FinishedDescription": "主线任务武当旧事到达武当后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务七绝正篇壹",
+        "FinishedDescription": "支线任务七绝正篇壹"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "相识耶律国宗",
+        "FinishedDescription": "相识耶律国宗"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "相识兀颜术",
+        "FinishedDescription": "相识兀颜术"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务青龙正篇壹",
+        "FinishedDescription": "支线任务青龙正篇壹"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "相识李念奴",
+        "FinishedDescription": "相识李念奴"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务西北枪王正篇壹",
+        "FinishedDescription": "支线任务西北枪王正篇壹"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "相识琴操",
+        "FinishedDescription": "相识琴操"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务奇珍异味正篇伍",
+        "FinishedDescription": "支线任务奇珍异味正篇伍"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务狮子琉璃正篇叁",
+        "FinishedDescription": "支线任务狮子琉璃正篇叁"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务江山极意正篇贰到达潭州后",
+        "FinishedDescription": "支线任务江山极意正篇贰到达潭州后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务星罗四象正篇肆要求组队后",
+        "FinishedDescription": "支线任务星罗四象正篇肆要求组队后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务帝武寒正篇伍",
+        "FinishedDescription": "支线任务帝武寒正篇伍"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务明月鉴镜",
+        "FinishedDescription": "主线任务明月鉴镜"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务水落石出",
+        "FinishedDescription": "主线任务水落石出"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务天渊之结",
+        "FinishedDescription": "主线任务天渊之结"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务云梦大泽",
+        "FinishedDescription": "主线任务云梦大泽"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务狮子琉璃正篇肆闪回",
+        "FinishedDescription": "支线任务狮子琉璃正篇肆闪回"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务武当旧事童年闪回后",
+        "FinishedDescription": "主线任务武当旧事童年闪回后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务狮子琉璃正篇肆闪回",
+        "FinishedDescription": "支线任务狮子琉璃正篇肆闪回"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务心系幽鸿",
+        "FinishedDescription": "主线任务心系幽鸿"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务天涯落枫正篇贰到达POI后",
+        "FinishedDescription": "支线任务天涯落枫正篇贰到达POI后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "主线任务未赴之约到达武当派后",
+        "FinishedDescription": "主线任务未赴之约到达武当派后"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务七绝正篇贰闪回",
+        "FinishedDescription": "支线任务七绝正篇贰闪回"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "支线任务七绝正篇贰闪回",
+        "FinishedDescription": "支线任务七绝正篇贰闪回"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "门派挑战恒山派",
+        "FinishedDescription": "门派挑战恒山派"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "门派挑战武当派",
+        "FinishedDescription": "门派挑战武当派"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "门派挑战衡山派",
+        "FinishedDescription": "门派挑战衡山派"
+      }
+    ]
+  },
+  {
+    "Conditions": [
+      {
+        "Description": "门派挑战五毒洞",
+        "FinishedDescription": "门派挑战五毒洞"
+      }
+    ]
+  }
+]

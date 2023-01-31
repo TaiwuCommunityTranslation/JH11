@@ -1,0 +1,4033 @@
+[
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《白雪操》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "儒学思想家曾子制。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「用剑」+3 「身形」+3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「用剑」+3"
+        },
+        {
+          "Description": "「身形」+3"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《鹿鳴操》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "出自《诗经·小雅》的首篇《鹿鸣》。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「耍棍」+3 「气法」+3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「耍棍」+3"
+        },
+        {
+          "Description": "「气法」+3"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《騶虞操》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "是邵国一位女子所作的琴曲。抒发了忧谗畏讥、生不逢时的痛苦。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「用枪」+3 「体魄」+3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「用枪」+3"
+        },
+        {
+          "Description": "「体魄」+3"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《鵲巢操》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "是邵国一位女子所作的琴曲。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「拳掌」+3 「意志」+3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「拳掌」+3 "
+        },
+        {
+          "Description": "「意志」+3"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《伯姬引》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "春秋时宋共公夫人伯姬保母所作。保母悼伯姬因守义而遇火焚之灾，援琴而歌《伯姬引》。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「使刀」+3 「决断」+3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「使刀」+3"
+        },
+        {
+          "Description": "「决断」+3"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《巫山神女》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "记载于《琴谱图录·下古》中的曲谱。昔者，楚襄王与宋玉游于云梦之台，见巫山神女。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「用剑」+6 「集中」+6 「魅力」+6"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「用剑」+6"
+        },
+        {
+          "Description": "「集中」+6"
+        },
+        {
+          "Description": "「魅力」+6"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《烈女引》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "楚庄王的王后所作的琴曲。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「鞭法」+6 「杀意」+6 「决断」+6"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「鞭法」+6"
+        },
+        {
+          "Description": "「杀意」+6"
+        },
+        {
+          "Description": "「决断」+6"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《霹雳引》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "楚庄王的王后所作的琴曲。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「暗器」+6 「身形」+6 「神来」+6"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「暗器」+6"
+        },
+        {
+          "Description": "「身形」+6"
+        },
+        {
+          "Description": "「神来」+6"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《神鳳操》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "相传为周成王所作。“周成王时，凤凰翔舞，成王作此歌。”"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「斧法」+6 「体魄」+6 「集中」+6"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「斧法」+6"
+        },
+        {
+          "Description": "「体魄」+6"
+        },
+        {
+          "Description": "「集中」+6"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《北鄙操》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "孔子的有名弟子子路所作的琴曲。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「拳掌」+6 「体魄」+6 「意志」+6"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「拳掌」+6"
+        },
+        {
+          "Description": "「体魄」+6"
+        },
+        {
+          "Description": "「意志」+6"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《凤求凰》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "传说是汉朝司马相如为求得卓文君而作的曲子。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「笔法」+6 「集中」+6 「交涉」+6"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「笔法」+6"
+        },
+        {
+          "Description": "「集中」+6"
+        },
+        {
+          "Description": "「交涉」+6"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《清风摇玉珮》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "记载于《琴谱图录·下古》中的曲谱。清风徐来，玉佩叮当。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「鞭术」+6 「调息」+6 「气法」+6"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「鞭术」+6"
+        },
+        {
+          "Description": "「调息」+6"
+        },
+        {
+          "Description": "「气法」+6"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《墨子悲丝》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "相传为春秋战国时期鲁国墨翟所作。曲意深刻，音韵悲怆，音调悠扬，意切而情悲，旋律慷慨。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「指力」+6 「诗词」+6 「集中」+6"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「指力」+6"
+        },
+        {
+          "Description": "「诗词」+6"
+        },
+        {
+          "Description": "「集中」+6"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《伯牙忆子期》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "记载于《琴谱图录·下古》中的曲谱。钟子期乃俞伯牙知音，子期逝后，伯牙绝弦，再不奏乐。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「用剑」+10 「使刀」+10 「交涉」+10 「福缘」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「用剑」+10"
+        },
+        {
+          "Description": "「使刀」+10"
+        },
+        {
+          "Description": "「交涉」+10"
+        },
+        {
+          "Description": "「福缘」+10"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《文王操》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "周文王所作琴曲，内涵深邃博大，旋律丰富感人，无愧为古琴曲中的经典之作。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「拳掌」+10 「道德」+10 「调息」+10 「气法」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「拳掌」+10"
+        },
+        {
+          "Description": "「道德」+10"
+        },
+        {
+          "Description": "「调息」+10"
+        },
+        {
+          "Description": "「气法」+10"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《高山流水》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "俞伯牙所作，音节最古，其意巍巍洋洋，不可拟测者也。全在停顿得宜，气韵自然，调达抑扬高下，意味无穷，指下节奏良非易之。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「耍棍」+10 「神来」+10 「决断」+10 「悟性」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「耍棍」+10"
+        },
+        {
+          "Description": "「神来」+10"
+        },
+        {
+          "Description": "「决断」+10"
+        },
+        {
+          "Description": "「悟性」+10"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《沧海龙吟》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "诸葛亮所作，龙乃水中之王，龙吟而风生水起。该曲短而有力，激昂澎湃，又极重细节，自始至终力度浑厚，动人心弦，若隐若现中似有老龙秋啼沧海底，给人一种清越沉浑之感。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「用枪」+10 「筋骨」+10 「集中」+10 「决断」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「用枪」+10"
+        },
+        {
+          "Description": "「筋骨」+10"
+        },
+        {
+          "Description": "「集中」+10"
+        },
+        {
+          "Description": "「决断」+10"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《羽化登仙》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "《天闻阁琴谱》记载：“武陵仙子所作也，虚空缥缈，如列子之御风，古静幽奇，似庄周之梦蝶，焚香静听，眞可谓遗世独立，羽化而登仙者欤。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「暗器」+10 「饮酒」+10 「神来」+10 「集中」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「暗器」+10"
+        },
+        {
+          "Description": "「饮酒」+10"
+        },
+        {
+          "Description": "「神来」+10"
+        },
+        {
+          "Description": "「集中」+10"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《秋鸿》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "郭楚望所作。取意于鸿雁振翅高飞，博出长空之南征，以寓旷达之至、高达之怀。旋律苍雄浑朴，节奏起伏跌宕。此曲以飞翔凌空的秋鸿为喻，抒写怀才不遇、自命清高者的心情。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「钩法」+10 「气法」+10 「身形」+10 「魅力」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「钩法」+10"
+        },
+        {
+          "Description": "「气法」+10"
+        },
+        {
+          "Description": "「身形」+10"
+        },
+        {
+          "Description": "「魅力」+10"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《雉朝飞》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "相传是战国时期齐国的处士牧犊子所作。牧犊子年老而无妻，见雉鸟双飞，触景生情，自叹命途多舛，遂寄情于丝桐。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「使刀」+10 「体魄」+10 「意志」+10 「镇定」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「使刀」+10"
+        },
+        {
+          "Description": "「体魄」+10"
+        },
+        {
+          "Description": "「意志」+10"
+        },
+        {
+          "Description": "「镇定」+10"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《碧天秋思》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "蔡邕所作。远性情、移中和，使人神气清旷，襟抱澄静，超然如出人境。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「鞭术」+10 「身形」+10 「集中」+10 「福缘」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「鞭术」+10"
+        },
+        {
+          "Description": "「身形」+10"
+        },
+        {
+          "Description": "「集中」+10"
+        },
+        {
+          "Description": "「福缘」+10"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《潇湘水云》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "郭沔常在潇、湘二水合流处游航。每当远望九嶷山为云水所蔽，见到云水奔腾的景象，便激起他对山河残缺、时势飘零的无限感慨而创作此曲，以寄眷念之情。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「指力」+10 「诗词」+10 「气法」+10 「体魄」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「指力」+10"
+        },
+        {
+          "Description": "「诗词」+10"
+        },
+        {
+          "Description": "「气法」+10"
+        },
+        {
+          "Description": "「体魄」+10"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《广陵散》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "此曲主要描写的是《聂政刺韩王》的故事.古琴曲中唯一的具有戈矛杀伐战斗气氛的乐曲,全曲贯注一种愤慨不屈的浩然之气。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「督脉」+10 「任脉」+10 「魅力」+10 「涵养」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「督脉」+10"
+        },
+        {
+          "Description": "「任脉」+10"
+        },
+        {
+          "Description": "「魅力」+10"
+        },
+        {
+          "Description": "「涵养」+10"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《千金清》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「魅力」+3 「福缘」+3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「魅力」+3"
+        },
+        {
+          "Description": "「福缘」+3"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《仙道操》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「收藏」+3 「交涉」+3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「收藏」+3"
+        },
+        {
+          "Description": "「交涉」+3"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>《出塞吟》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「悟性」+3 「见识」+3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「悟性」+3"
+        },
+        {
+          "Description": "「见识」+3"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《卞和泣玉》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「茶道」+6 「涵养」+6 「道德」+6"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「茶道」+6"
+        },
+        {
+          "Description": "「涵养」+6"
+        },
+        {
+          "Description": "「道德」+6"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《竹林七賢》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「诗词」+6 「书画」+6 「收藏」+6"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「诗词」+6"
+        },
+        {
+          "Description": "「书画」+6"
+        },
+        {
+          "Description": "「收藏」+6"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《仙人勸酒》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「饮酒」+6 「调息」+6 「气法」+6"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「饮酒」+6"
+        },
+        {
+          "Description": "「调息」+6"
+        },
+        {
+          "Description": "「气法」+6"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《扫尘操》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「关扑」+6 「福缘」+6 「镇定」+6"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「关扑」+6"
+        },
+        {
+          "Description": "「福缘」+6"
+        },
+        {
+          "Description": "「镇定」+6"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《离梦引》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「钩法」+8 「集中」+4"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「钩法」+8"
+        },
+        {
+          "Description": "「集中」+4"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《移星紫玄》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「关扑」+6 「收藏」+6 「决断」+6"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「关扑」+6"
+        },
+        {
+          "Description": "「收藏」+6"
+        },
+        {
+          "Description": "「决断」+6"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《吊钟花红》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「毒术」+8 「悟性」+6"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「毒术」+8"
+        },
+        {
+          "Description": "「悟性」+6"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《饕餮灵雨》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「烹饪」+8 「魅力」+6"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「烹饪」+8"
+        },
+        {
+          "Description": "「魅力」+6"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>《岳封魔》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「运斧」+8 「意志」+4"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「运斧」+8"
+        },
+        {
+          "Description": "「意志」+4"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《灵蝶》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「毒术」+12 「医术」+12"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「毒术」+12"
+        },
+        {
+          "Description": "「医术」+12"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《李凭箜篌引》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「身形」+12 「下盘」+12 「集中」+12"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「身形」+12"
+        },
+        {
+          "Description": "「下盘」+12"
+        },
+        {
+          "Description": "「集中」+12"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《碣石调》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「气法」+12 「调息」+12 「决断」+12"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「气法」+12"
+        },
+        {
+          "Description": "「调息」+12"
+        },
+        {
+          "Description": "「决断」+12"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐谱"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>《赠花卿》</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「笔法」+12 「书画」+12"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "持续阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「笔法」+12"
+        },
+        {
+          "Description": "「书画」+12"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>铁客</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "铁客琴，凤势式，黑漆，鹿角灰胎，金徽，木质古松，面底微弧，肩尾阔大，音色古厚。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "无携带效果"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>啸月</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "落霞式，漆色黑中带红。背面龙池上方刻“啸月”。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "无携带效果"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>宝袭</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "唐代古琴。“月”式，但其圆月部位不在肩部而在五、六徽处的琴翅上，腰部较细，线条微曲。漆色黑中透红，极为秀雅动人。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "无携带效果"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>独幽</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "独幽琴，灵机式，唐代古琴，桐木，背面龙池上刻有“独幽”。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "无携带效果"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>鸣泉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "仲尼式，面底皆黑漆，桐木面板，螺钿徽，象牙轸及雁足； 岳山、承露、龙龈、冠角、等均以紫檀木制成。轸池下刻书篆琴名 “鸣泉” 二字。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「乐器」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>紫琼</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "仲尼式，象牙轸及雁足。螺细徽。轸池下刻行书琴名「紫琼」二字。龙池右上方刻铭文：「其质也若琼树之直　其色也若穷华之精　其声也若琼筩之脆与琼管之清」。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「乐器」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>秋籁</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "唐代琴，仲尼式。琴体浑圆修长，漆色深褐。其音微妙而细腻，圆润而绵长。琴底篆刻“秋籁”并“德斋珍藏”，腹内朱书“大唐开元三年李晋制”。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「乐器」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>凤鸣</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "黑漆，龙池上方有楷书“凤鸣”两字，池下有一“中和之气”印章。此琴音质古朴纯净。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「乐器」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>松风</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "琴背项间铭“松风”二字，下铭：忽乎青蘋之末而生有极，于怒号万窍而实无。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「剑法」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>轻雷</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "赤黑相间的面漆。背面龙池上方刻篆书“轻雷”，有草书铭文“振万物乎虺虺，独纤尘乎霏霏。无妄飞而无折摧，是之谓天随”。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「暗器」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>玉壶冰琴</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "宋朝名琴，仲尼式，应为徽宗时期的“官琴”。刻小篆“金钟”刻隶书“闲邪纳正，导德宣情。”"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「乐器」+1 「魅力」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>海月清辉琴</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "宋朝名琴，仲尼式，刻隶书填青“海月清辉”。刻琴铭：“水中月，声中景，意中缘。出沧波，圆魄鲜。泝空明之流光，惟托响于素弦。”"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「乐器」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>飞泉琴</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "唐朝名琴，桐木制，刻草书“飞泉”二字，亦有篆书铭纹“高山玉溜，空谷金声。至人珍玩，哲士亲清”。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「剑法」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>玉玲珑琴</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "唐朝名琴，据传为名家魏杨英所创作，刻行书“玉玲珑”。全琴气象犹浑厚，圆形龙池，扁圆凤沼。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「乐器」+1 「魅力」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>天风海涛琴</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "天风海涛琴琴底有篆书“天风海涛”四字。琴身用桐木制成，通体髹黑漆，十三徽由金片镶嵌而成，琴底两雁足及七个琴轸皆为玉制。龙池内有墨书两行：“圣宋隆兴甲申重修，大唐雷威亲斫”。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「指法」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>绿绮</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "是汉代著名文人司马相如的一张琴。“绿绮”是一张传世名琴，琴内有铭文曰：“桐梓合精”。相如得“绿绮”，如获珍宝。他精湛的琴艺配上“绿绮”绝妙的音色，使“绿绮”琴名噪一时。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「神来」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>焦尾</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "焦尾琴的制造者是东汉名儒蔡邕。蔡邕曾经偶遇一场大火，在火光之中，蓦然发现一段与众不同的梧桐木。他冒着生命危险冲进火中，救下了这根梧桐木。他精心打造，终于制成了一张七弦琴。由于尾部还有被火灼烧过的痕迹，故名焦尾琴。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「乐器」+1 「神来」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>九霄环佩琴</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "唐朝名琴，伏羲式，传为盛唐雷氏作品。刻篆书“九霄环佩”，亦有行书铭文“蔼蔼春风细，琅琅环珮音”。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「乐器」+2 「魅力」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>大圣遗音琴</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "唐朝名琴，神农式琴。刻草书“大圣遗音”，亦有隶书铭文：“巨壑迎秋，寒江印月。万籁悠悠，孤桐飒裂。”"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「乐器」+3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>易武鸣泉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "仲尼式。松木面板梓木底板。音色苍老宏亮，具金石声。琴背铭文：易武鸣泉。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「魅力」+3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>绕梁</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "绕梁三日是形容音乐如同天籁一般美丽。相传楚庄王得到了绕梁琴，爱不释手，每天弹琴，一连七天不上班。后来他的妻子樊姬见状，劝谏他不要玩物丧志。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「决断」+2 「神来」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>灵峰神韵</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "仲尼式，黑漆及栗壳色漆，桐木面板，螺钿徽； 岳山、承露、龙龈、冠角、轸及雁足等皆以紫檀木制成。轸池下刻书篆琴名 “灵峰神韵” 四字。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「乐器」+1 「神来」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>鹤舞龙翔</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "连珠式，面底皆杉，螺钿徽。岳山、承露、冠角、龙龈、轸、雁足等均紫檀木所制， 琴额镶素身白玉一块。轸池下方刻楷书琴名“鹤舞龙翔”四字。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「拳掌」+2 「剑法」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>清籁琴</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「乐器」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>蝉纹</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「收藏」+1 「交涉」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>双鱼</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「医术」+1 「毒术」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>金钟琴</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「运斧」+1 「见识」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>仲尼式琴</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「乐器」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>栖凤</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「暗器」+1 「魅力」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>贾湖骨笛</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「杀意」+3 「神来」+3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>龙吟</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「督脉」+1 「任脉」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>落殇笛</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「集中」+3 「体魄」-1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>初夏涵山琴</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「乐器」+1 「涵养」+2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>玉枭笛</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「钩法」+2 「魅力」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>诗柳元枫</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「笔法」+2 「集中」+1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>见愁殇逝</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「暗器」+3 「道德」-3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "乐器"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>奔雷</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「决断」+3 「集中」+3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          }
+        }
+      ]
+    }
+  }
+]

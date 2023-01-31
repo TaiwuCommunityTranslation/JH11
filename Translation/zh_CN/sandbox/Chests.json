@@ -1,0 +1,955 @@
+[
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "四相门徒"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "四相门徒"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "铁掌帮弃徒",
+          "梁山贼寇"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "铁掌帮弃徒",
+          "梁山贼寇"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "飞贼"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "飞贼"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "山林隐士"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "山林隐士"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "水天",
+          "风月"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "水天",
+          "风月"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "五毒使者"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "五毒使者"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "灵蛇剑客"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "灵蛇剑客"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "水心亭鱼贩"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "水心亭鱼贩"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "百丈叛徒"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "百丈叛徒"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "河童老"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "河童老"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "血冥剑徒"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "血冥剑徒"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "米泉食客"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "米泉食客"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "见龙使"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "降龙使"
+        ],
+        "Fight_CJ_Text": "第二层"
+      },
+      {
+        "BattleName": [
+          "降龙使"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "青云天道"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "青云天道"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "青王隐僧"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "青王隐僧"
+        ],
+        "Fight_CJ_Text": "第二层"
+      },
+      {
+        "BattleName": [
+          "青王隐僧"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "白虎刺客"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "白虎刺客"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "炎凤叛徒",
+          "幽鸿弃徒"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "炎凤叛徒",
+          "幽鸿弃徒"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "看园老人"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "看园老人"
+        ],
+        "Fight_CJ_Text": "第二层"
+      },
+      {
+        "BattleName": [
+          "看园老人"
+        ],
+        "Fight_CJ_Text": "第三层"
+      },
+      {
+        "BattleName": [
+          "看园老人"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "霜曦剑"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "霜曦剑"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "化影刀"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "化影刀"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "小贼"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "小贼"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "大理灵宗"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "大理灵宗"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "太和叫花"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "太和叫花"
+        ],
+        "Fight_CJ_Text": "第二层"
+      },
+      {
+        "BattleName": [
+          "太和叫花"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "源闻者"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "源闻者"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "星落玄者"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "星落玄者"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "青衫剑"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "青衫剑"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "大理灵宗"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "大理灵宗"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "摘星玄者"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "摘星玄者"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "阴蝎鬼侍"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "阴蝎鬼侍"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "大理灵宗"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "大理灵宗"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "无相者"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "无相者"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "撰榜侍卫"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "撰榜侍卫"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "喂猫徒"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "喂猫徒"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "天门武人"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "天门武人"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "青州盗"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "青州盗"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "深木达士"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "深木达士"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "断心杀手"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "断心杀手"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "水心亭鱼贩"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "影白刃"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "影白刃"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "水心亭鱼贩"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "黑仙",
+          "鬼燕"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "黑仙",
+          "鬼燕"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "紫竹教头"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "紫竹教头"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "达摩秘使"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "达摩秘使"
+        ],
+        "Fight_CJ_Text": "第二层"
+      },
+      {
+        "BattleName": [
+          "达摩秘使"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "崆峒逆徒"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "崆峒逆徒"
+        ],
+        "Fight_CJ_Text": "第二层"
+      },
+      {
+        "BattleName": [
+          "崆峒逆徒"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "洪忠刺客"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "洪忠刺客"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "景悲娘"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "景悲娘"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "通敌叛使"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "通敌叛使"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "青焰尊者"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "青焰尊者"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "琉璃殊色"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "琉璃殊色"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "邪月"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "邪月"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "乌矛客"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "乌矛客"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "灵指曦钰"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "灵指曦钰"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "无色玄岳剑"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "无色玄岳剑"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "素光密使"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "素光密使"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "灵指曦钰"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "摘星剑"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "摘星剑"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "一灵堂使徒"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "一灵堂使徒"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "神月枪"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "神月枪"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "醉酒仙"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "醉酒仙"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "剑宗传人"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "剑宗传人"
+        ]
+      }
+    ]
+  },
+  {
+    "Level": [
+      {
+        "BattleName": [
+          "大理灵宗"
+        ],
+        "Fight_CJ_Text": "第一层"
+      },
+      {
+        "BattleName": [
+          "大理灵宗"
+        ]
+      }
+    ]
+  }
+]

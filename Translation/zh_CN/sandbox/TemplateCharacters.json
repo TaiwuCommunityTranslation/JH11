@@ -1,0 +1,309 @@
+[
+  {
+    "BasicData": {
+      "Gender": {
+        "ValueInfo": "男"
+      },
+      "Virgin": {
+        "ValueInfo": "破壁之身"
+      },
+      "MenPai": {
+        "ValueInfo": "全真教"
+      },
+      "ZiZhaiLocation": {
+        "ValueInfo": "终南山"
+      },
+      "Money": {
+        "ValueInfo": "54贯380文"
+      },
+      "Income": {
+        "ValueInfo": "2贯"
+      },
+      "ShenFen": {
+        "ValueInfo": "指法宗师"
+      },
+      "MingSheng": {
+        "ChengHao": {
+          "ValueInfo": "重阳真人"
+        }
+      }
+    },
+    "BattleData": {
+      "JiChuShuXing": {},
+      "ZhanDouShuXing": {
+        "TouMianState": {
+          "ValueInfo": "残状态"
+        },
+        "ShouWanState": {
+          "ValueInfo": "残状态"
+        },
+        "ShouBiState": {
+          "ValueInfo": "残状态"
+        },
+        "XiongBeiState": {
+          "ValueInfo": "残状态"
+        },
+        "YaoFuState": {
+          "ValueInfo": "残状态"
+        },
+        "TuiJiaoState": {
+          "ValueInfo": "残状态"
+        },
+        "JinMaiState": {
+          "ValueInfo": "残状态"
+        }
+      },
+      "ShuXingInfoList": {
+        "Values": [
+          {
+            "InfoName": {
+              "ValueInfo": "战斗劣势时的招式强度影响"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "战斗优势时的招式强度影响"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "战斗互动行为对心态的影响"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "影响一击致胜的几率"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "影响“神来之招”的几率"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "影响剑法武功的招式强度"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "影响刀法武功的招式强度"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "影响拳掌武功的招式强度"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "影响指力武功的招式强度"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "影响枪法武功的招式强度"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "影响棍法武功的招式强度"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "影响锤斧武功的招式强度"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "影响鞭法武功的招式强度"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "影响钩法笔法武功的招式强度"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "影响暗器武功的招式强度"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "影响特殊武功的招式强度"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "影响所有武功的招式强度"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "影响轻功的强度"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "降低受伤几率"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "降低被杀几率"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "影响角色的战斗内力总量"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "影响武功招式所需的内力消耗"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "影响内功招式所需的内力消耗"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "影响轻功招式所需的内力消耗"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "影响阳属性武功契合影响以及角色战斗内力强度"
+            }
+          },
+          {
+            "InfoName": {
+              "ValueInfo": "影响阴属性武功契合影响以及角色战斗内力强度"
+            }
+          }
+        ]
+      },
+      "JingShen": {
+        "YiZhiInfoName": {
+          "ValueInfo": "意志"
+        },
+        "JiZhongInfoName": {
+          "ValueInfo": "集中"
+        },
+        "ZhenDingInfoName": {
+          "ValueInfo": "镇定"
+        },
+        "JueDuanInfoName": {
+          "ValueInfo": "决断"
+        },
+        "ShenLaiInfoName": {
+          "ValueInfo": "神来"
+        }
+      },
+      "WaiGong": {
+        "JianFaInfoName": {
+          "ValueInfo": "用剑"
+        },
+        "DaoFaInfoName": {
+          "ValueInfo": "使刀"
+        },
+        "QuanZhangInfoName": {
+          "ValueInfo": "拳掌"
+        },
+        "ZhiLiInfoName": {
+          "ValueInfo": "指力"
+        },
+        "YongQiangInfoName": {
+          "ValueInfo": "用枪"
+        },
+        "ShuaGunInfoName": {
+          "ValueInfo": "耍棍"
+        },
+        "ChuiFuInfoName": {
+          "ValueInfo": "锤斧"
+        },
+        "ShiBianInfoName": {
+          "ValueInfo": "使鞭"
+        },
+        "GouFaInfoName": {
+          "ValueInfo": "钩法"
+        },
+        "CunJinInfoName": {
+          "ValueInfo": "寸劲"
+        },
+        "BiFaInfoName": {
+          "ValueInfo": "笔法"
+        },
+        "YaoMaInfoName": {
+          "ValueInfo": "腰马"
+        },
+        "XiaPanInfoName": {
+          "ValueInfo": "下盘"
+        },
+        "TiPoInfoName": {
+          "ValueInfo": "体魄"
+        },
+        "JinGuInfoName": {
+          "ValueInfo": "筋骨"
+        }
+      },
+      "NeiGong": {
+        "QiLiangInfoName": {
+          "ValueInfo": "气量"
+        },
+        "TiaoXiInfoName": {
+          "ValueInfo": "调息"
+        },
+        "QiFaInfoName": {
+          "ValueInfo": "气法"
+        },
+        "ShenXingInfoName": {
+          "ValueInfo": "身形"
+        }
+      },
+      "MaiLuo": {
+        "DuMaiInfoName": {
+          "ValueInfo": "督脉"
+        },
+        "RenMaiInfoName": {
+          "ValueInfo": "任脉"
+        }
+      },
+      "BuWei": {
+        "TouMianInfo": {
+          "ValueInfo": "头面"
+        },
+        "ShouWanInfo": {
+          "ValueInfo": "手腕"
+        },
+        "ShouBiInfo": {
+          "ValueInfo": "手臂"
+        },
+        "XiongBeiInfo": {
+          "ValueInfo": "胸背"
+        },
+        "YaoFuInfo": {
+          "ValueInfo": "腰腹"
+        },
+        "TuiJiaoInfo": {
+          "ValueInfo": "腿脚"
+        },
+        "JinMaiInfo": {
+          "ValueInfo": "经脉"
+        }
+      },
+      "Buff": {},
+      "Debuff": {}
+    },
+    "SocialData": {
+      "SocialRelation": {},
+      "Hobby": {},
+      "XiuWei": {}
+    },
+    "YangChengData": {}
+  }
+]
