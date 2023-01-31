@@ -1,0 +1,713 @@
+[
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Wang Chongyang\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Finger Power\" +8, \"Pointing\" chance increased by 10%"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Wang Chongyang\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Finger Power\" +8, \"Pointing\" chance increased by 10%"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Dragon Breaks the Sky\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Cooking\" +15"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Hear the Wind and Forest\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Cooking\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Leng Yang Yue\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Fame\" +15"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Master Yongming\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Cultivation points will be automatically added to \"Martial Arts\" and \"Internal Arts\" in \"Cultivation Slots"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Ling Tian Zong\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "50% increase in \"Martial Arts\" training speed"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Tianmenzheng\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Will\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Xuan Yi Yang\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Increased chance of success in \"stealing"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Lin Wenyue\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"+5 to \"Focus\" and +5 to \"Divine"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Zhang Sanfeng\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Fist and Palm\" +6 \"Sword\" +6"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Diyangtian\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Int. Force\" will be restored automatically"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Shangguan Zheng\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Morality\" -20, \"Kill\" chance increased"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Shangguan Zheng\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Morality\" -20, \"Kill\" chance increased"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Hsu 17\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"God Comes\" +10"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Meng Wanxian\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"+5 to \"Contentment\" and +5 to \"Insight"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Mrs. Jaguar\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Focus\" +8 \"Determination\" +8 \"Will\" -10"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Di Babel\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Drinking\" +15 \"Contentment\" -10"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Mrs. Xuan An\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Will\" +8 \"Fortunate\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Liu Huang'an\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"+5 for \"Collection\" and +5 for \"Bargaining"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Yan Mu Yi\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "Increased chance of \"breaking\""
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Forest White Bear\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"+5 to \"Charisma\" and +5 to \"Bargaining"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Qiu Xing Qiu\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "Increased chance of success in \"poisoning\""
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Xue Jian\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "The probability of being chased by the \"patrol\" is reduced."
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Liu Zhengfeng\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Kill intent\" +30, the probability of being chased by the \"patrol\" increases."
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Liu Zhengfeng\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Kill intent\" +30, the probability of being chased by the \"patrol\" increases."
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Fu Hao Yan\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"+8\" to Blade Skill"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Wu Youzi\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"+5 to \"Insight\" +5 to \"Kill intent"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Hong Xian Ling\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "Increased chance of \"Striking\" and increased chance of \"Hardened Poison\""
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Hong Xian Ling\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "Increased chance of \"Striking\" and increased chance of \"Hardened Poison\""
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Cao Lang\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "All \"body part\" \"injury\" status can be automatically restored to \"good\""
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Di ¢xuan\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Love\" Relationship Interaction Enhancement"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Di Wu Han\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Decisive\" +5, \"losing against\" chance reduced"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Di Wu Han\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Decisive\" +5, \"Losing against\" chance reduced"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Hongzhong\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"+5 to \"Use Sword\", +10 to \"Kill Intent"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Izumi Shino\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "Negative \"mindset\" will be automatically restored and raised"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Sifu\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Fist and Palm\" +5 \"Fame\" +10"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Feiying\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Sword\" +5 \"Damage\" chance increased"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Feiying\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Sword\" +5 \"Damage\" chance increased"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Nangong Neng\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"+5 to \"Focus\" and +5 to \"Calmness"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"No Name\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"+8 to \"lower hand\" and +8 to \"Qi Purity"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Ting Jue\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Will\" +15 \"God's coming\" -10"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Xu Changyu\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Fist and Palm\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Bitterness in Peace\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Fist and Palm\" +5, \"Food Status\" duration doubled"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Bitterness in Peace\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Fist and Palm\" +5, \"Food Status\" duration doubled"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"No Immortal Sword\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"+5 to \"Use Sword\" and double the duration of \"Meditation State"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"No Immortal Sword\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"+5 to \"Use Sword\" and double the duration of \"Meditation State"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Cang Hong Sheng\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"+5 to \"Use Spear\", doubling the duration of \"Wine Status"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Cang Hong Sheng\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"+5 to \"Use Spear\", doubling the duration of \"Wine Status"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Chang Sun Yu Quan\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "+5 to \"Juggling Sticks\" +5 to \"Gods\""
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Anna Chin\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Whip Art\" +5 \"Tendon\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Pei Ying\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Hdn Wpn Skl\" +5 \"Bargaining\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Dee Dream\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"+5 to \"Sword Use\" +5 to \"Gnosis"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Lady of Flowers\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Collection\" +15"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Li Niannu\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Double the duration of \"Reading Status"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Hong Yu Liang\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Spear\" +5"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Piano Exercise\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Instrument\" +5, doubles the duration of \"Aftertone Status"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Piano Exercise\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Instrument\" +5, doubles the duration of \"Aftertone Status"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Dynasty Cloud\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Healing Art\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Zhao Xiangxiang\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Cooking\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Xie Yuying\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Painting and Calligraphy\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Liu Yong\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Poetry\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Yan Rui\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Gnosis\" +8"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Li Shi Shi\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Charm\" +8, will make a good first impression during the process of meeting people"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Li Shi Shi\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Charm\" +8, will make a good first impression during the process of meeting people"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Miao Yi Fang\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Bargaining\" +10"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Zhang Hou\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Charisma\" +10"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Xiahou Fujia\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Fame\" +30"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Xu Yingyao\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Fortunate Fate\" +10"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FFECD9FF> \"Soul\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#D7C8AFFF> Talented </color> "
+    },
+    "Description": "\"Fortunate Fortune\" +15 \"Fame\" +15"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> \"One Hit Wins\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon </color> "
+    },
+    "Description": "and winning over the other side"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> \"Breakdown\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon </color> "
+    },
+    "Description": "Break each other"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> \"Point and Click\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon </color> "
+    },
+    "Description": "Pointing at each other"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> \"Hardened Poison\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon </color> "
+    },
+    "Description": "Hardening each other"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> \"Killing\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon </color> "
+    },
+    "Description": "Kill each other"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> \"God Comes\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon </color> "
+    },
+    "Description": "God comes"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> \"God Comes\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon </color> "
+    },
+    "Description": "10% reduction in the base of being hit by one hit"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> \"Martial arts\" cultivation speed </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon </color> "
+    },
+    "Description": "50% increase in \"Martial Arts\" training speed"
+  },
+  {
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> \"Striking Wounds\" </color> "
+    },
+    "Quality": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon </color> "
+    },
+    "Description": "10% increase in damage"
+  }
+]
