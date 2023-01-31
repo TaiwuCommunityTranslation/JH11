@@ -3,2703 +3,800 @@
     "BattleName": [
       "Iron Palm Killer"
     ],
-    "Pool": [
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Taishan School Disciples",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Taishan School Disciples"
   },
   {
     "BattleName": [
       "Tongliao Rebels",
       "Wanted"
     ],
-    "Pool": [
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Tarzan Patrol Shop",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Tarzan Patrol Shop"
   },
   {
     "BattleName": [
       "Traitors in Mt."
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Tarzan Patrol Shop",
-    "UpGrade": [
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Tarzan Patrol Shop"
   },
   {
     "BattleName": [
       "Liang Shan Humans"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Injured Taishan Disciple",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Injured Taishan Disciple"
   },
   {
     "BattleName": [
       "Iron Palm Fugitive"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Injured disciples of Taishan",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Injured disciples of Taishan"
   },
   {
     "BattleName": [
       "Jianghu Kicker Chivalry"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Taishan Inner Disciple",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Taishan Inner Disciple"
   },
   {
     "BattleName": [
       "Five Poison Ambassadors"
     ],
-    "Pool": [
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Poisoned disciples of Mt.",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Poisoned disciples of Mt."
   },
   {
     "BattleName": [
       "Xuantian Thief"
     ],
-    "Pool": [
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Song Shan Patrol Shop",
-    "UpGrade": [
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Song Shan Patrol Shop"
   },
   {
     "BattleName": [
       "Flying Scorpion Killer",
       "Secretary of Shangguan Zheng"
     ],
-    "Pool": [
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Disciples of Songshan School",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Disciples of Songshan School"
   },
   {
     "BattleName": [
       "Iron Palm Maniacs"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Disciples of Volsung Mountain",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Disciples of Volsung Mountain"
   },
   {
     "BattleName": [
       "Disciples of the Heavenly Dignity Church"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Defeated disciples of Mt.",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Defeated disciples of Mt."
   },
   {
     "BattleName": [
       "Blazing Sun Fanatic"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Injured disciples of Mount Hua",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Injured disciples of Mount Hua"
   },
   {
     "BattleName": [
       "Flying Thieves"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Disciples of the Huashan School",
-    "UpGrade": [
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Disciples of the Huashan School"
   },
   {
     "BattleName": [
       "Blazing Sun Fanatic",
       "Blazing Sun Fanatic"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Disciples of the Huashan School",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Disciples of the Huashan School"
   },
   {
     "BattleName": [
       "Quanzhen provoked the disciples"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Injured disciples of Mount Hua",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Injured disciples of Mount Hua"
   },
   {
     "BattleName": [
       "Bloody Hand Murderer"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Injured disciples of Mount Everest",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Injured disciples of Mount Everest"
   },
   {
     "BattleName": [
       "Black stage kidnappers"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Kidnapped Nuns",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Kidnapped Nuns"
   },
   {
     "BattleName": [
       "Blackstand Humans",
       "Bloody Hand Killer"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Mili merchant escort",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {},
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Mili merchant escort"
   },
   {
     "BattleName": [
       "Fugitive murderer"
     ],
-    "Pool": [
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Heng Shan Patrol Shop",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Heng Shan Patrol Shop"
   },
   {
     "BattleName": [
       "Iron Palm Traitor"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Injured Hengshan swordsman",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Injured Hengshan swordsman"
   },
   {
     "BattleName": [
       "Blood Hands"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Heng Shan Poisoned Swordsman",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Heng Shan Poisoned Swordsman"
   },
   {
     "BattleName": [
       "Izumo ronin"
     ],
-    "Pool": [
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Hengshan disciples",
-    "UpGrade": [
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Hengshan disciples"
   },
   {
     "BattleName": [
       "Songshan wild and proud swordsman"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Hengshan Failed Disciple",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Hengshan Failed Disciple"
   },
   {
     "BattleName": [
       "Beggar crazy thief"
     ],
-    "Pool": [
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Hengshan injured disciple",
-    "UpGrade": [
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Hengshan injured disciple"
   },
   {
     "BattleName": [
       "Beggar Traitor",
       "Five Poison Killer"
     ],
-    "Pool": [
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Merchant escort",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Merchant Escort"
   },
   {
     "BattleName": [
       "Quanzhen Tongliao traitor"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Shaolin injured disciples",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Shaolin injured disciples"
   },
   {
     "BattleName": [
       "Beijing Sheep Thief"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Merchant escort",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Merchant escort"
   },
   {
     "BattleName": [
       "Heavenly Dignity Killer",
       "Division of the eye line"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Shaolin Temple Disciples",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Shaolin Temple Disciples"
   },
   {
     "BattleName": [
       "Fugitive murderer"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Shaolin Patrol Shop",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Shaolin Patrol Shop"
   },
   {
     "BattleName": [
       "strange spear evil"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Caravan fallen escort",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Caravan fallen escort"
   },
   {
     "BattleName": [
       "Iron Palm Traitor"
     ],
-    "Pool": [
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Injured Shaolin disciple",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Injured Shaolin disciple"
   },
   {
     "BattleName": [
       "Shaolin's prized disciple"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Shaolin defeated disciples",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Shaolin defeated disciples"
   },
   {
     "BattleName": [
       "Five Poison Ambassadors"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Omei poisoned disciples",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Omei poisoned disciples"
   },
   {
     "BattleName": [
       "Wanted"
     ],
-    "Pool": [
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Omei Tour Shop",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Omei Tour Shop"
   },
   {
     "BattleName": [
       "Omei Traitor"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Omei's injured disciples",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Omei's injured disciples"
   },
   {
     "BattleName": [
       "Beggar's Succubus"
     ],
-    "Pool": [
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Emei's fallen disciples",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Emei's fallen disciples"
   },
   {
     "BattleName": [
       "Omei's favorite disciple"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Omei's defeated disciples",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Omei's defeated disciples"
   },
   {
     "BattleName": [
       "Blood Hand Sect Killer"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Wudang's fallen disciples",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Wudang's fallen disciples"
   },
   {
     "BattleName": [
       "Five Poison Ambassadors"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Wudang Poisoned Disciple",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Wudang Poisoned Disciple"
   },
   {
     "BattleName": [
       "book thief"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Wudang Patrol Shop",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Wudang Patrol Shop"
   },
   {
     "BattleName": [
       "Baofeng Mangkou"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Merchant escort",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Merchant escort"
   },
   {
     "BattleName": [
       "Fugitive from Murder"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Wudang Patrol Shop",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Wudang Patrol Shop"
   },
   {
     "BattleName": [
       "Wudang winning disciple"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Defeated disciples of Wudang",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Defeated disciples of Wudang"
   },
   {
     "BattleName": [
       "Quanzhen Traitor",
       "Lion Secret Party"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Disciples of Quanzhen Sect",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Disciples of Quanzhen Sect"
   },
   {
     "BattleName": [
       "Baofeng thieves and bandits"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Merchant escort",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Merchant escort"
   },
   {
     "BattleName": [
       "Blazing Sun Fanatic"
     ],
-    "Pool": [
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Injured disciples of Quanzhen Sect",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Injured disciples of Quanzhen Sect"
   },
   {
     "BattleName": [
       "Bloody Hands"
     ],
-    "Pool": [
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Coma Disciple",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Coma Disciple"
   },
   {
     "BattleName": [
       "Disciples of Blazing Sun Pride"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Quanzhen disciples",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Quanzhen disciples"
   },
   {
     "BattleName": [
       "Wudang Patrol Shop",
       "Shaolin Patrol Shop"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "The Heavenly Dignity Villains",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {},
-      {}
-    ]
+    "DialogCharacterName": "The Heavenly Dignity Villains"
   },
   {
     "BattleName": [
       "Five Poison Ambassadors"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Disciples of the Heavenly Dignity Church",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Disciples of the Heavenly Dignity Church"
   },
   {
     "BattleName": [
       "Jingbei Chivalry"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Disciples of the Heavenly Dignity Church",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Disciples of the Heavenly Dignity Church"
   },
   {
     "BattleName": [
       "Fanjing Escort"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Tianzun injured robber",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Tianzun injured robber"
   },
   {
     "BattleName": [
       "Beiyue Jianni",
       "The Damsel in Distress"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Tianzun injured robber",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Tianzun injured robber"
   },
   {
     "BattleName": [
       "Disciples of Shangguan Zheng"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Tianzun's injured disciples",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Tianzun's injured disciples"
   },
   {
     "BattleName": [
       "Daiyue Jianhao",
       "Shaolin Hermit Monk"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Secret Ambassador of the Heavenly Father",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Secret Ambassador of the Heavenly Father"
   },
   {
     "BattleName": [
       "Heavenly Father's favorite disciple"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Tianzun's defeated disciples",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Tianzun's defeated disciples"
   },
   {
     "BattleName": [
       "Swordsman of Mount Hua"
     ],
-    "Pool": [
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Blazing Sun Fanatic",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Blazing Sun Fanatic"
   },
   {
     "BattleName": [
       "Meet the Righteous Chivalrous"
     ],
-    "Pool": [
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Debt Collector",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Debt Collector"
   },
   {
     "BattleName": [
       "Disciples of Quanzhen Sect"
     ],
-    "Pool": [
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Killer of the scorching sun",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Killer of the scorching sun"
   },
   {
     "BattleName": [
       "Yan Feng Tang provokes the swordsman"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Disciples of the Blazing Sun",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Disciples of the Blazing Sun"
   },
   {
     "BattleName": [
       "Traitor of the Blazing Sun",
       "Mount Everest outcast"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Injured Killer",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Injured Killer"
   },
   {
     "BattleName": [
       "rivers and lakes chivalrous man"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Disciples of the Blood Hand Sect",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Disciples of the Blood Hand Sect"
   },
   {
     "BattleName": [
       "The Swordsman of Mount Everest"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Bloody Hand Killer",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Bloody Hand Killer"
   },
   {
     "BattleName": [
       "Swordsman of Mount Hua"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Blood Hand Disciples",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Blood Hand Disciples"
   },
   {
     "BattleName": [
       "Song Shan Patrol Shop"
     ],
-    "Pool": [
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Flying Scorpion Murderer",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Flying Scorpion Murderer"
   },
   {
     "BattleName": [
       "Five Poison Ambassadors"
     ],
-    "Pool": [
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Flying Scorpion Poisoning Disciple",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Flying Scorpion Poisoning Disciple"
   },
   {
     "BattleName": [
       "Disciples of Youming School",
       "Sea Gate gang of thieves and bandits"
     ],
-    "Pool": [
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Flying Scorpion Murderer",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Flying Scorpion Murderer"
   },
   {
     "BattleName": [
       "Beggar's Disciples"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Flying Scorpion Injured Disciple",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Flying Scorpion Injured Disciple"
   },
   {
     "BattleName": [
       "rivers and lakes chivalrous man"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Reckless beggars",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Reckless beggars"
   },
   {
     "BattleName": [
       "Five Poison Ambassadors"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Poisoned beggars",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Poisoned beggars"
   },
   {
     "BattleName": [
       "Flying Scorpion Devils",
       "Lost Heart Whip"
     ],
-    "Pool": [
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Comatose beggar",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Comatose beggar"
   },
   {
     "BattleName": [
       "Tarzan Guards"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Beggar Thief",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Beggar Thief"
   },
   {
     "BattleName": [
       "Hyakujo renegade"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Injured beggar",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Injured beggar"
   },
   {
     "BattleName": [
       "Gangster"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Injured beggar",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Injured beggar"
   },
   {
     "BattleName": [
       "Iron Palm"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Beggar's righteousness",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Beggar's righteousness"
   },
   {
     "BattleName": [
       "Yanfeng spy"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Beggars in distress",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Beggars in distress"
   },
   {
     "BattleName": [
       "Beggars' Rebels"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Injured beggar disciples",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Injured beggar disciples"
   },
   {
     "BattleName": [
       "Beggar's Gang Outlaws"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Injured beggar disciples",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Injured beggar disciples"
   },
   {
     "BattleName": [
       "Door-to-door provocation of chivalry"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Beggars stay beggars",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Beggars stay beggars"
   },
   {
     "BattleName": [
       "Five Poison Ambassadors"
     ],
-    "Pool": [
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Qingcheng Poisoned Disciple",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Qingcheng Poisoned Disciple"
   },
   {
     "BattleName": [
       "Uxianke"
     ],
-    "Pool": [
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "The fallen disciples of Qingcheng",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "The fallen disciples of Qingcheng"
   },
   {
     "BattleName": [
       "Xuantian Thief"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Disciples of Qingcheng",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Disciples of Qingcheng"
   },
   {
     "BattleName": [
       "Door-to-door provocation of chivalry"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Disciples of Qingcheng",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Disciples of Qingcheng"
   },
   {
     "BattleName": [
       "beggars and thieves"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Disciples of Mt. Hyakujo",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Disciples of Mt. Hyakujo"
   },
   {
     "BattleName": [
       "Disciples of the Heavenly Dignity Church"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Disciples of Mt. Hyakujo",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Disciples of Mt. Hyakujo"
   },
   {
     "BattleName": [
       "Paektu's favorite disciple"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Defeated disciple of Hyakujo",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Defeated disciple of Hyakujo"
   },
   {
     "BattleName": [
       "Six false thieves"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Westside Escort",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Westside Escort"
   },
   {
     "BattleName": [
       "Five Poison Cave Disciples"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Yanfeng patrol store",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Yanfeng patrol store"
   },
   {
     "BattleName": [
       "Lingnan Villains"
     ],
-    "Pool": [
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Spiritual rhinoceros merchant escort",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Spiritual rhinoceros merchant escort"
   },
   {
     "BattleName": [
       "Blazing Sun Knife"
     ],
-    "Pool": [
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Disciples of Yanfeng Hall",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Disciples of Yanfeng Hall"
   },
   {
     "BattleName": [
       "Flying Scorpion Succubus"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Fallen Shiraki escort",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Fallen Shiraki escort"
   },
   {
     "BattleName": [
       "Songshan Succubus"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Wounded King Goat Guards",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Wounded King Goat Guards"
   },
   {
     "BattleName": [
       "Beggar's Disciples"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Disciples of Youhong Palace",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Disciples of Youhong Palace"
   },
   {
     "BattleName": [
       "The Clothes Thief"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Disciples of Youhong Palace",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Disciples of Youhong Palace"
   },
   {
     "BattleName": [
       "Vengeance Seeker"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Disciples of Youhong Palace",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Disciples of Youhong Palace"
   },
   {
     "BattleName": [
       "Beggar lecher"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Stunning Youhong disciples",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Stunning Youhong disciples"
   },
   {
     "BattleName": [
       "Five Poison Disciples"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Injured disciples of Youhong Palace",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Injured disciples of Youhong Palace"
   },
   {
     "BattleName": [
       "Iron Palm Traitor"
     ],
-    "Pool": [
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Gibe Escort",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Gibe Escort"
   },
   {
     "BattleName": [
       "Tarzan Patrol Shop"
     ],
-    "Pool": [
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Iron Palm Murderer",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Iron Palm Murderer"
   },
   {
     "BattleName": [
       "disciples of the Everest School"
     ],
-    "Pool": [
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Tongliao secret envoy",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Tongliao secret envoy"
   },
   {
     "BattleName": [
       "Iron Palm Traitor"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Injured Iron Palm Disciple",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Injured Iron Palm Disciple"
   },
   {
     "BattleName": [
       "Door-to-door provocation of chivalry"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Iron Palm disciples",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Iron Palm disciples"
   },
   {
     "BattleName": [
       "Nanyang Traitor"
     ],
-    "Pool": [
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Nanyang Injured Disciple",
-    "UpGrade": [
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Nanyang Injured Disciple"
   },
   {
     "BattleName": [
       "Heavenly Dignity Fanatic"
     ],
-    "Pool": [
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Nanyang Injured Disciple",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Nanyang Injured Disciple"
   },
   {
     "BattleName": [
       "Nanyang Traitor"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Nanyang Injured Disciple",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Nanyang Injured Disciple"
   },
   {
     "BattleName": [
       "Xuantian Thief"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Stolen disciples in Nanyang",
-    "UpGrade": [
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Stolen disciples in Nanyang"
   },
   {
     "BattleName": [
       "Nanyang winning disciple"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Nanyang Failed Disciple",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Nanyang Failed Disciple"
   },
   {
     "BattleName": [
       "Stolen Chivalry"
     ],
-    "Pool": [
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Disciples of Xuantian Pavilion",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Disciples of Xuantian Pavilion"
   },
   {
     "BattleName": [
       "Stolen Chivalry"
     ],
-    "Pool": [
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Disciples of Xuantian Pavilion",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Disciples of Xuantian Pavilion"
   },
   {
     "BattleName": [
       "Stolen Chivalry"
     ],
-    "Pool": [
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Disciples of Xuantian Pavilion",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Disciples of Xuantian Pavilion"
   },
   {
     "BattleName": [
       "Stolen Chivalry"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Xuantian disciples",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Xuantian disciples"
   },
   {
     "BattleName": [
       "Stolen Man"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Xuantian disciples",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Xuantian disciples"
   },
   {
     "BattleName": [
       "Stolen Chef"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Xuantian disciples",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Xuantian disciples"
   },
   {
     "BattleName": [
       "Stolen Taotie celebrity chef"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Xuantian disciples",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Xuantian disciples"
   },
   {
     "BattleName": [
       "Stolen Man"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Xuantian disciples",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Xuantian disciples"
   },
   {
     "BattleName": [
       "Xuantian Pavilion Thieves"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Stolen Taotie Chef",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Stolen Taotie Chef"
   },
   {
     "BattleName": [
       "Disciples of the Iron Palm"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Gourmets Cook",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Gourmets Cook"
   },
   {
     "BattleName": [
       "Hundred zhang boxer"
     ],
-    "Pool": [
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Injured Psi-Ming disciple",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Injured Psi-Ming disciple"
   },
   {
     "BattleName": [
       "Flying Scorpion Killer"
     ],
-    "Pool": [
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Trapped Disciples of Psi Ming",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Trapped Disciples of Psi Ming"
   },
   {
     "BattleName": [
       "Hundred zhang boxer"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Defeated White Crane Disciple",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Defeated White Crane Disciple"
   },
   {
     "BattleName": [
       "Hengshan Drunkard"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Injured White Crane Disciple",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Injured White Crane Disciple"
   },
   {
     "BattleName": [
       "Inferno Swordsman"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Injured White Crane Disciple",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Injured White Crane Disciple"
   },
   {
     "BattleName": [
       "Disciples of Flying Scorpionwood"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "White Crane Injured Disciple",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "White Crane Injured Disciple"
   },
   {
     "BattleName": [
       "Omei Tour Shop"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Five drug dealers",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Five drug dealers"
   },
   {
     "BattleName": [
       "Yanfeng patrol store"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Five drug dealers",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Five drug dealers"
   },
   {
     "BattleName": [
       "Heavenly Respect Patrol Shop"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Five drug dealers",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Five drug dealers"
   },
   {
     "BattleName": [
       "Tarzan Patrol Shop",
       "Shaolin Patrol Shop"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Five drug dealers",
-    "UpGrade": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {},
-      {},
-      {}
-    ]
+    "DialogCharacterName": "Five drug dealers"
   },
   {
     "BattleName": [
       "Five Poison Traitor"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Five Poisons Injured Disciples",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Five Poisons Injured Disciples"
   },
   {
     "BattleName": [
       "Medical Joker"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Injured Pill King disciple",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Injured Pill King disciple"
   },
   {
     "BattleName": [
       "Iron Palm Maniacs"
     ],
-    "Pool": [
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Injured Pill King disciple",
-    "UpGrade": [
-      {},
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Injured Pill King disciple"
   },
   {
     "BattleName": [
       "Drug thieves"
     ],
-    "Pool": [
-      {}
-    ],
-    "Dialog": {},
-    "DialogCharacterName": "Medicine King Healer",
-    "UpGrade": [
-      {},
-      {}
-    ],
-    "PlaceRelationChange": [
-      {}
-    ]
+    "DialogCharacterName": "Medicine King Healer"
   }
 ]
