@@ -1,0 +1,1718 @@
+[
+  {
+    "Name": "\"Lucky Star\" origin",
+    "Description1": "\"All Martial Arts\" +5",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Opening a book is beneficial"
+    ],
+    "Text2": [
+      "Heavenly good fortune"
+    ]
+  },
+  {
+    "Name": "Origin of \"Chizen\"",
+    "Description1": "\"All Martial Arts\" +5",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "strange meridians and unusual veins"
+    ],
+    "Text2": [
+      "True Qi filling"
+    ]
+  },
+  {
+    "Name": "Origin of \"Jedi Gen\"",
+    "Description1": "\"All Martial Arts\" +5",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Bone Clear"
+    ],
+    "Text2": [
+      "Martial arts training wizard"
+    ]
+  },
+  {
+    "Name": "Origin of \"Roxy\"",
+    "Description1": "\"Charisma\" +10",
+    "Description2": "\"Connotation\" +10",
+    "Text1": [
+      "happy-go-lucky"
+    ],
+    "Text2": [
+      "like a spring breeze"
+    ]
+  },
+  {
+    "Name": "Origin of \"Yotenkan\"",
+    "Description1": "\"Healing Art\" +10",
+    "Description2": "Additional \"medical books\" in the warehouse of the house <color=#23FF00FF> \"Hostel Prescriptions\" </color> ",
+    "Text1": [
+      "Above 80"
+    ],
+    "Text2": [
+      "Healer"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Black Cave",
+    "Description1": "\"Poison\" +10",
+    "Description2": "Adding \"Poison Sutra\" to the storage room of the house <color=#FF00B6FF> \"The Book of Qiu Shi\" </color> ",
+    "Text1": [
+      "Above 80"
+    ],
+    "Text2": [
+      "Poisoner"
+    ]
+  },
+  {
+    "Name": "Origin of the \"family of wonder\"",
+    "Description1": "\"Collection\" +10",
+    "Description2": "\"Perception\" +10",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "Exotic Treasures"
+    ]
+  },
+  {
+    "Name": "From a \"tea family\"",
+    "Description1": "\"Tea Ceremony\" +15",
+    "Description2": "Additional \"tea set and tea leaves\" added to the house warehouse",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "Tea ordering master"
+    ]
+  },
+  {
+    "Name": "From a \"food family\"",
+    "Description1": "\"Cooking\" +15",
+    "Description2": "Additional \"ingredients\" added to the house storage",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "cannon phoenix cooks the dragon"
+    ]
+  },
+  {
+    "Name": "From a \"family of wine\"",
+    "Description1": "\"Drinking\" +15",
+    "Description2": "Additional \"Sake\" added to the house warehouse",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "Mr. Five Dou"
+    ]
+  },
+  {
+    "Name": "From a \"family of sound\"",
+    "Description1": "\"Musical Instrument\" +15",
+    "Description2": "Additional \"musical instrument sheet music\" added to the house storage",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "Tasting bamboo and playing silk"
+    ]
+  },
+  {
+    "Name": "From a \"family of poets\"",
+    "Description1": "\"Poetry\" +15",
+    "Description2": "Additional \"books\" added to the house storage",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "Wonderful writing"
+    ]
+  },
+  {
+    "Name": "From a \"family of painters\"",
+    "Description1": "\"Painting and Calligraphy\" +15",
+    "Description2": "Additional \"four treasures\" added to the house warehouse",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "wield a writing brush and drop the paper"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"One Spirit Hall",
+    "Description1": "\"Perception\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "spiritual heart and wise nature"
+    ]
+  },
+  {
+    "Name": "Origin of \"Sukouji\"",
+    "Description1": "\"Fortunate Fate\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "Heavenly good fortune"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Green Bamboo Tower",
+    "Description1": "\"Charisma\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "Natural beauty"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Sifangzhuang",
+    "Description1": "\"Bargaining\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "articulate"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Stargazer Cliff",
+    "Description1": "\"Knowledge\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "experienced and knowledgeable"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Colorless Workshop",
+    "Description1": "\"Connotation\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "well versed in books and manners"
+    ]
+  },
+  {
+    "Name": "\"Blood of the Underworld\" origin",
+    "Description1": "\"Killing Intent\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Above 70"
+    ],
+    "Text2": [
+      "ferocious"
+    ]
+  },
+  {
+    "Name": "\"Fuyun\" origin",
+    "Description1": "\"Gods Come\" +20",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Above 70"
+    ],
+    "Text2": [
+      "Harmony between heaven and man"
+    ]
+  },
+  {
+    "Name": "\"Dingfeng\" origin",
+    "Description1": "\"Focus\" +10",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Above 70"
+    ],
+    "Text2": [
+      "No distractions"
+    ]
+  },
+  {
+    "Name": "\"Open Bow\" origin",
+    "Description1": "\"Will\" +10",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Above 70"
+    ],
+    "Text2": [
+      "Tough and unyielding"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Thousand Junes",
+    "Description1": "\"Decisions\" +10",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Above 70"
+    ],
+    "Text2": [
+      "Make an immediate decision"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Taishichi",
+    "Description1": "\"Body\" +8",
+    "Description2": "\"Core Power\" +8",
+    "Text1": [
+      "Above 70"
+    ],
+    "Text2": [
+      "strong and healthy body"
+    ]
+  },
+  {
+    "Name": "\"Founder\" origin",
+    "Description1": "\"Finger Power\" +10",
+    "Description2": "Adding \"Internal Energy Secrets\" to the warehouse of your house <color=#23FF00FF> Mo Yang Qi Method </color> ",
+    "Text1": [
+      "Above 65"
+    ],
+    "Text2": [
+      "Finger Power Man"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Knife Gate",
+    "Description1": "\"+10\" to Blade Skill",
+    "Description2": "Adding \"Internal Arts Secrets\" to the Warehouse <color=#23FF00FF> </color> \"Weapons\" <color=#23FF00FF> </color> ",
+    "Text1": [
+      "Above 65"
+    ],
+    "Text2": [
+      "A good swordsman"
+    ]
+  },
+  {
+    "Name": "Origin of \"Stick Sect\"",
+    "Description1": "\"Baton Juggling\" +10",
+    "Description2": "Adding \"Internal Kung Fu Secrets\" to the Warehouse <color=#23FF00FF> Qingdi Internal Kung Fu </color> \"Weapons\" <color=#23FF00FF> Bronze Baton </color> ",
+    "Text1": [
+      "Above 65"
+    ],
+    "Text2": [
+      "A good stick juggler"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Spear Court",
+    "Description1": "\"Spear\" +10",
+    "Description2": "Adding \"Martial Arts Secrets\" to the Warehouse <color=#23FF00FF> Kunwu Spear Technique </color> \"Weapons\" <color=#23FF00FF> Suki Spear </color> ",
+    "Text1": [
+      "Above 65"
+    ],
+    "Text2": [
+      "Good with spears"
+    ]
+  },
+  {
+    "Name": "\"Origin of the \"Axe Walled City",
+    "Description1": "\"Luck Axe\" +10",
+    "Description2": "Add \"Martial Arts Secrets\" to your house warehouse <color=#23FF00FF> General Axe Method </color> \"Weapons\" <color=#23FF00FF> Plate Axe </color> ",
+    "Text1": [
+      "Above 65"
+    ],
+    "Text2": [
+      "Axe Runner"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Whip House",
+    "Description1": "\"Whip Art\" +10",
+    "Description2": "Adding \"Martial Arts Secrets\" to the Warehouse of the Residence <color=#23FF00FF> Swept Xia Whip Method </color> \"Weapons\" <color=#23FF00FF> Liu Huang Whip </color> ",
+    "Text1": [
+      "Above 65"
+    ],
+    "Text2": [
+      "Good whip fighter"
+    ]
+  },
+  {
+    "Name": "\"Hook and horn\" origin",
+    "Description1": "\"Hooking Skl\" +10",
+    "Description2": "Add \"Martial Arts Secrets\" to the Warehouse <color=#23FF00FF> Small Purple Cloud Hook </color> \"Weapons\" <color=#23FF00FF> Iron Hook </color> ",
+    "Text1": [
+      "Above 65"
+    ],
+    "Text2": [
+      "Crochet Master"
+    ]
+  },
+  {
+    "Name": "\"Hidden\" origin",
+    "Description1": "\"Hdn Wpn Skl\" +10",
+    "Description2": "Adding \"Internal Kung Fu Secrets\" to the Warehouse <color=#23FF00FF> Remnants of Qi Method </color> \"Weapons\" <color=#23FF00FF> Silver Dart </color> ",
+    "Text1": [
+      "Above 65"
+    ],
+    "Text2": [
+      "Good use of concealed weapons"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Pen Shrine",
+    "Description1": "\"Strokes\" +10",
+    "Description2": "Add \"Secret of Internal Power\" to your house warehouse <color=#23FF00FF> Golden Word Heart Sutra </color> \"Weapons\" <color=#23FF00FF> Silver Hook Pen </color> ",
+    "Text1": [
+      "Above 65"
+    ],
+    "Text2": [
+      "Master of Brush Skl"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Kendai",
+    "Description1": "\"Sword\" +6",
+    "Description2": "Add \"Martial Arts Secrets\" to your house warehouse <color=#23FF00FF> Two Yi Sword Technique </color> ",
+    "Text1": [
+      "Above 70"
+    ],
+    "Text2": [
+      "Good with swords"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Fist House",
+    "Description1": "\"Fist and Palm\" +6",
+    "Description2": "Add \"Martial Arts Secrets\" to your house warehouse <color=#23FF00FF> Qiantian Palm </color> ",
+    "Text1": [
+      "Above 70"
+    ],
+    "Text2": [
+      "Good punching and palming"
+    ]
+  },
+  {
+    "Name": "From a \"martial arts family\"",
+    "Description1": "Adding \"Lightning Secrets\" to the warehouse of your house. <color=#23FF00FF> Sprint Steps </color> ",
+    "Description2": "Additional \"wound medicine\" added to the house warehouse",
+    "Text1": [
+      "Unusual"
+    ],
+    "Text2": [
+      "Unusual"
+    ]
+  },
+  {
+    "Name": "\"From the \"Genji Family",
+    "Description1": "Add \"Secret of Internal Power\" to the warehouse of your house <color=#23FF00FF> Danyang Xinfa </color> ",
+    "Description2": "Additional \"tonic\" added to the house warehouse",
+    "Text1": [
+      "Unusual"
+    ],
+    "Text2": [
+      "Unusual"
+    ]
+  },
+  {
+    "Name": "\"No wonder\" origin",
+    "Description1": "\"Fortunate Fate\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "no wonder"
+    ],
+    "Text2": [
+      "no wonder"
+    ]
+  },
+  {
+    "Name": "\"Lucky Star\" origin",
+    "Description1": "\"All Martial Arts\" +5",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Opening a book is beneficial"
+    ],
+    "Text2": [
+      "Heavenly good fortune"
+    ]
+  },
+  {
+    "Name": "Origin of \"Chizen\"",
+    "Description1": "\"All Martial Arts\" +5",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "strange meridians and unusual veins"
+    ],
+    "Text2": [
+      "True Qi filling"
+    ]
+  },
+  {
+    "Name": "Origin of \"Jedi Gen\"",
+    "Description1": "\"All Martial Arts\" +5",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Bone Clear"
+    ],
+    "Text2": [
+      "Martial arts training wizard"
+    ]
+  },
+  {
+    "Name": "Origin of \"Roxy\"",
+    "Description1": "\"Charisma\" +10",
+    "Description2": "\"Connotation\" +10",
+    "Text1": [
+      "happy-go-lucky"
+    ],
+    "Text2": [
+      "like a spring breeze"
+    ]
+  },
+  {
+    "Name": "Origin of \"Yotenkan\"",
+    "Description1": "\"Healing Art\" +10",
+    "Description2": "Additional \"medical books\" in the warehouse of the house <color=#23FF00FF> \"Hostel Prescriptions\" </color> ",
+    "Text1": [
+      "Above 80"
+    ],
+    "Text2": [
+      "Healer"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Black Cave",
+    "Description1": "\"Poison\" +10",
+    "Description2": "Adding \"Poison Sutra\" to the storage room of the house <color=#FF00B6FF> \"The Book of Qiu Shi\" </color> ",
+    "Text1": [
+      "Above 80"
+    ],
+    "Text2": [
+      "Poisoner"
+    ]
+  },
+  {
+    "Name": "Origin of the \"family of wonder\"",
+    "Description1": "\"Collection\" +10",
+    "Description2": "\"Perception\" +10",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "Exotic Treasures"
+    ]
+  },
+  {
+    "Name": "From a \"tea family\"",
+    "Description1": "\"Tea Ceremony\" +15",
+    "Description2": "Additional \"tea set and tea leaves\" added to the house warehouse",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "Tea ordering master"
+    ]
+  },
+  {
+    "Name": "From a \"food family\"",
+    "Description1": "\"Cooking\" +15",
+    "Description2": "Additional \"ingredients\" added to the house storage",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "cannon phoenix cooks the dragon"
+    ]
+  },
+  {
+    "Name": "From a \"family of wine\"",
+    "Description1": "\"Drinking\" +15",
+    "Description2": "Additional \"Sake\" added to the house warehouse",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "Mr. Five Dou"
+    ]
+  },
+  {
+    "Name": "From a \"family of sound\"",
+    "Description1": "\"Musical Instrument\" +15",
+    "Description2": "Additional \"musical instrument sheet music\" added to the house storage",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "Tasting bamboo and playing silk"
+    ]
+  },
+  {
+    "Name": "From a \"family of poets\"",
+    "Description1": "\"Poetry\" +15",
+    "Description2": "Additional \"books\" added to the house storage",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "Wonderful writing"
+    ]
+  },
+  {
+    "Name": "From a \"family of painters\"",
+    "Description1": "\"Painting and Calligraphy\" +15",
+    "Description2": "Additional \"four treasures\" added to the house warehouse",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "wield a writing brush and drop the paper"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"One Spirit Hall",
+    "Description1": "\"Perception\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "spiritual heart and wise nature"
+    ]
+  },
+  {
+    "Name": "Origin of \"Sukouji\"",
+    "Description1": "\"Fortunate Fate\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "Heavenly good fortune"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Green Bamboo Tower",
+    "Description1": "\"Charisma\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "Natural beauty"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Sifangzhuang",
+    "Description1": "\"Bargaining\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "articulate"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Stargazer Cliff",
+    "Description1": "\"Knowledge\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "experienced and knowledgeable"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Colorless Workshop",
+    "Description1": "\"Connotation\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "well versed in books and manners"
+    ]
+  },
+  {
+    "Name": "\"Blood of the Underworld\" origin",
+    "Description1": "\"Killing Intent\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Above 70"
+    ],
+    "Text2": [
+      "ferocious"
+    ]
+  },
+  {
+    "Name": "\"Fuyun\" origin",
+    "Description1": "\"Gods Come\" +20",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Above 60"
+    ],
+    "Text2": [
+      "Harmony between heaven and man"
+    ]
+  },
+  {
+    "Name": "\"Dingfeng\" origin",
+    "Description1": "\"Focus\" +10",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Above 60"
+    ],
+    "Text2": [
+      "No distractions"
+    ]
+  },
+  {
+    "Name": "\"Open Bow\" origin",
+    "Description1": "\"Will\" +10",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Above 60"
+    ],
+    "Text2": [
+      "Tough and unyielding"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Thousand Junes",
+    "Description1": "\"Decisions\" +10",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Above 60"
+    ],
+    "Text2": [
+      "Make an immediate decision"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Taishichi",
+    "Description1": "\"Body\" +8",
+    "Description2": "\"Core Power\" +8",
+    "Text1": [
+      "Above 60"
+    ],
+    "Text2": [
+      "strong and healthy body"
+    ]
+  },
+  {
+    "Name": "\"Founder\" origin",
+    "Description1": "\"Finger Power\" +10",
+    "Description2": "Adding \"Internal Energy Secrets\" to the warehouse of your house <color=#23FF00FF> Mo Yang Qi Method </color> ",
+    "Text1": [
+      "Above 55"
+    ],
+    "Text2": [
+      "Finger Power Man"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Knife Gate",
+    "Description1": "\"+10\" to Blade Skill",
+    "Description2": "Adding \"Internal Arts Secrets\" to the Warehouse <color=#23FF00FF> </color> \"Weapons\" <color=#23FF00FF> </color> ",
+    "Text1": [
+      "Above 55"
+    ],
+    "Text2": [
+      "A good swordsman"
+    ]
+  },
+  {
+    "Name": "Origin of \"Stick Sect\"",
+    "Description1": "\"Baton Juggling\" +10",
+    "Description2": "Adding \"Internal Kung Fu Secrets\" to the Warehouse <color=#23FF00FF> Qingdi Internal Kung Fu </color> \"Weapons\" <color=#23FF00FF> Bronze Baton </color> ",
+    "Text1": [
+      "Above 55"
+    ],
+    "Text2": [
+      "A good stick juggler"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Spear Court",
+    "Description1": "\"Spear\" +10",
+    "Description2": "Adding \"Martial Arts Secrets\" to the Warehouse <color=#23FF00FF> Kunwu Spear Technique </color> \"Weapons\" <color=#23FF00FF> Suki Spear </color> ",
+    "Text1": [
+      "Above 55"
+    ],
+    "Text2": [
+      "Good with spears"
+    ]
+  },
+  {
+    "Name": "\"Origin of the \"Axe Walled City",
+    "Description1": "\"Luck Axe\" +10",
+    "Description2": "Add \"Martial Arts Secrets\" to your house warehouse <color=#23FF00FF> General Axe Method </color> \"Weapons\" <color=#23FF00FF> Plate Axe </color> ",
+    "Text1": [
+      "Above 55"
+    ],
+    "Text2": [
+      "Axe Runner"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Whip House",
+    "Description1": "\"Whip Art\" +10",
+    "Description2": "Adding \"Martial Arts Secrets\" to the Warehouse of the Residence <color=#23FF00FF> Swept Xia Whip Method </color> \"Weapons\" <color=#23FF00FF> Liu Huang Whip </color> ",
+    "Text1": [
+      "Above 55"
+    ],
+    "Text2": [
+      "Good whip fighter"
+    ]
+  },
+  {
+    "Name": "\"Hook and horn\" origin",
+    "Description1": "\"Hooking Skl\" +10",
+    "Description2": "Add \"Martial Arts Secrets\" to the Warehouse <color=#23FF00FF> Small Purple Cloud Hook </color> \"Weapons\" <color=#23FF00FF> Iron Hook </color> ",
+    "Text1": [
+      "Above 55"
+    ],
+    "Text2": [
+      "Crochet Master"
+    ]
+  },
+  {
+    "Name": "\"Hidden\" origin",
+    "Description1": "\"Hdn Wpn Skl\" +10",
+    "Description2": "Adding \"Internal Kung Fu Secrets\" to the Warehouse <color=#23FF00FF> Remnants of Qi Method </color> \"Weapons\" <color=#23FF00FF> Silver Dart </color> ",
+    "Text1": [
+      "Above 55"
+    ],
+    "Text2": [
+      "Good use of concealed weapons"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Pen Shrine",
+    "Description1": "\"Strokes\" +10",
+    "Description2": "Add \"Secret of Internal Power\" to your house warehouse <color=#23FF00FF> Golden Word Heart Sutra </color> \"Weapons\" <color=#23FF00FF> Silver Hook Pen </color> ",
+    "Text1": [
+      "Above 55"
+    ],
+    "Text2": [
+      "Master of Brush Skl"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Kendai",
+    "Description1": "\"Sword\" +6",
+    "Description2": "Add \"Martial Arts Secrets\" to your house warehouse <color=#23FF00FF> Two Yi Sword Technique </color> ",
+    "Text1": [
+      "Above 60"
+    ],
+    "Text2": [
+      "Good with swords"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Fist House",
+    "Description1": "\"Fist and Palm\" +6",
+    "Description2": "Add \"Martial Arts Secrets\" to your house warehouse <color=#23FF00FF> Qiantian Palm </color> ",
+    "Text1": [
+      "Above 60"
+    ],
+    "Text2": [
+      "Good punching and palming"
+    ]
+  },
+  {
+    "Name": "From a \"martial arts family\"",
+    "Description1": "Adding \"Lightning Secrets\" to the warehouse of your house. <color=#23FF00FF> Sprint Steps </color> ",
+    "Description2": "Additional \"wound medicine\" added to the house warehouse",
+    "Text1": [
+      "Unusual"
+    ],
+    "Text2": [
+      "Unusual"
+    ]
+  },
+  {
+    "Name": "\"From the \"Genji Family",
+    "Description1": "Add \"Secret of Internal Power\" to the warehouse of your house <color=#23FF00FF> Danyang Xinfa </color> ",
+    "Description2": "Additional \"tonic\" added to the house warehouse",
+    "Text1": [
+      "Unusual"
+    ],
+    "Text2": [
+      "Unusual"
+    ]
+  },
+  {
+    "Name": "\"No wonder\" origin",
+    "Description1": "\"Fortunate Fate\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "no wonder"
+    ],
+    "Text2": [
+      "no wonder"
+    ]
+  },
+  {
+    "Name": "\"Lucky Star\" origin",
+    "Description1": "\"All Martial Arts\" +5",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Opening a book is beneficial"
+    ],
+    "Text2": [
+      "Heavenly good fortune"
+    ]
+  },
+  {
+    "Name": "Origin of \"Chizen\"",
+    "Description1": "\"All Martial Arts\" +5",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "strange meridians and unusual veins"
+    ],
+    "Text2": [
+      "True Qi filling"
+    ]
+  },
+  {
+    "Name": "Origin of \"Jedi Gen\"",
+    "Description1": "\"All Martial Arts\" +5",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Bone Clear"
+    ],
+    "Text2": [
+      "Martial arts training wizard"
+    ]
+  },
+  {
+    "Name": "Origin of \"Roxy\"",
+    "Description1": "\"Charisma\" +10",
+    "Description2": "\"Connotation\" +10",
+    "Text1": [
+      "happy-go-lucky"
+    ],
+    "Text2": [
+      "like a spring breeze"
+    ]
+  },
+  {
+    "Name": "Origin of \"Yotenkan\"",
+    "Description1": "\"Healing Art\" +10",
+    "Description2": "Additional \"medical books\" in the warehouse of the house <color=#23FF00FF> \"Hostel Prescriptions\" </color> ",
+    "Text1": [
+      "Above 80"
+    ],
+    "Text2": [
+      "Healer"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Black Cave",
+    "Description1": "\"Poison\" +10",
+    "Description2": "Adding \"Poison Sutra\" to the storage room of the house <color=#FF00B6FF> \"The Book of Qiu Shi\" </color> ",
+    "Text1": [
+      "Above 80"
+    ],
+    "Text2": [
+      "Poisoner"
+    ]
+  },
+  {
+    "Name": "Origin of the \"family of wonder\"",
+    "Description1": "\"Collection\" +10",
+    "Description2": "\"Perception\" +10",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "Exotic Treasures"
+    ]
+  },
+  {
+    "Name": "From a \"tea family\"",
+    "Description1": "\"Tea Ceremony\" +15",
+    "Description2": "Additional \"tea set and tea leaves\" added to the house warehouse",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "Tea ordering master"
+    ]
+  },
+  {
+    "Name": "From a \"food family\"",
+    "Description1": "\"Cooking\" +15",
+    "Description2": "Additional \"ingredients\" added to the house storage",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "cannon phoenix cooks the dragon"
+    ]
+  },
+  {
+    "Name": "From a \"family of wine\"",
+    "Description1": "\"Drinking\" +15",
+    "Description2": "Additional \"Sake\" added to the house warehouse",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "Mr. Five Dou"
+    ]
+  },
+  {
+    "Name": "From a \"family of sound\"",
+    "Description1": "\"Musical Instrument\" +15",
+    "Description2": "Additional \"musical instrument sheet music\" added to the house storage",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "Tasting bamboo and playing silk"
+    ]
+  },
+  {
+    "Name": "From a \"family of poets\"",
+    "Description1": "\"Poetry\" +15",
+    "Description2": "Additional \"books\" added to the house storage",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "Wonderful writing"
+    ]
+  },
+  {
+    "Name": "From a \"family of painters\"",
+    "Description1": "\"Painting and Calligraphy\" +15",
+    "Description2": "Additional \"four treasures\" added to the house warehouse",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "wield a writing brush and drop the paper"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"One Spirit Hall",
+    "Description1": "\"Perception\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "spiritual heart and wise nature"
+    ]
+  },
+  {
+    "Name": "Origin of \"Sukouji\"",
+    "Description1": "\"Fortunate Fate\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "Heavenly good fortune"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Green Bamboo Tower",
+    "Description1": "\"Charisma\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "Natural beauty"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Sifangzhuang",
+    "Description1": "\"Bargaining\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "articulate"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Stargazer Cliff",
+    "Description1": "\"Knowledge\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "experienced and knowledgeable"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Colorless Workshop",
+    "Description1": "\"Connotation\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "well versed in books and manners"
+    ]
+  },
+  {
+    "Name": "\"Blood of the Underworld\" origin",
+    "Description1": "\"Killing Intent\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Above 70"
+    ],
+    "Text2": [
+      "ferocious"
+    ]
+  },
+  {
+    "Name": "\"Fuyun\" origin",
+    "Description1": "\"Gods Come\" +20",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Above 80"
+    ],
+    "Text2": [
+      "Harmony between heaven and man"
+    ]
+  },
+  {
+    "Name": "\"Dingfeng\" origin",
+    "Description1": "\"Focus\" +10",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Above 80"
+    ],
+    "Text2": [
+      "No distractions"
+    ]
+  },
+  {
+    "Name": "\"Open Bow\" origin",
+    "Description1": "\"Will\" +10",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Above 80"
+    ],
+    "Text2": [
+      "Tough and unyielding"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Thousand Junes",
+    "Description1": "\"Decisions\" +10",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Above 80"
+    ],
+    "Text2": [
+      "Make an immediate decision"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Taishichi",
+    "Description1": "\"Body\" +8",
+    "Description2": "\"Core Power\" +8",
+    "Text1": [
+      "Above 80"
+    ],
+    "Text2": [
+      "strong and healthy body"
+    ]
+  },
+  {
+    "Name": "\"Founder\" origin",
+    "Description1": "\"Finger Power\" +10",
+    "Description2": "Adding \"Internal Energy Secrets\" to the warehouse of your house <color=#23FF00FF> Mo Yang Qi Method </color> ",
+    "Text1": [
+      "Above 75"
+    ],
+    "Text2": [
+      "Finger Power Man"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Knife Gate",
+    "Description1": "\"+10\" to Blade Skill",
+    "Description2": "Adding \"Internal Arts Secrets\" to the Warehouse <color=#23FF00FF> </color> \"Weapons\" <color=#23FF00FF> </color> ",
+    "Text1": [
+      "Above 75"
+    ],
+    "Text2": [
+      "A good swordsman"
+    ]
+  },
+  {
+    "Name": "Origin of \"Stick Sect\"",
+    "Description1": "\"Baton Juggling\" +10",
+    "Description2": "Adding \"Internal Kung Fu Secrets\" to the Warehouse <color=#23FF00FF> Qingdi Internal Kung Fu </color> \"Weapons\" <color=#23FF00FF> Bronze Baton </color> ",
+    "Text1": [
+      "Above 75"
+    ],
+    "Text2": [
+      "A good stick juggler"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Spear Court",
+    "Description1": "\"Spear\" +10",
+    "Description2": "Adding \"Martial Arts Secrets\" to the Warehouse <color=#23FF00FF> Kunwu Spear Technique </color> \"Weapons\" <color=#23FF00FF> Suki Spear </color> ",
+    "Text1": [
+      "Above 75"
+    ],
+    "Text2": [
+      "Good with spears"
+    ]
+  },
+  {
+    "Name": "\"Origin of the \"Axe Walled City",
+    "Description1": "\"Luck Axe\" +10",
+    "Description2": "Add \"Martial Arts Secrets\" to your house warehouse <color=#23FF00FF> General Axe Method </color> \"Weapons\" <color=#23FF00FF> Plate Axe </color> ",
+    "Text1": [
+      "Above 75"
+    ],
+    "Text2": [
+      "Axe Runner"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Whip House",
+    "Description1": "\"Whip Art\" +10",
+    "Description2": "Adding \"Martial Arts Secrets\" to the Warehouse of the Residence <color=#23FF00FF> Swept Xia Whip Method </color> \"Weapons\" <color=#23FF00FF> Liu Huang Whip </color> ",
+    "Text1": [
+      "Above 75"
+    ],
+    "Text2": [
+      "Good whip fighter"
+    ]
+  },
+  {
+    "Name": "\"Hook and horn\" origin",
+    "Description1": "\"Hooking Skl\" +10",
+    "Description2": "Add \"Martial Arts Secrets\" to the Warehouse <color=#23FF00FF> Small Purple Cloud Hook </color> \"Weapons\" <color=#23FF00FF> Iron Hook </color> ",
+    "Text1": [
+      "Above 75"
+    ],
+    "Text2": [
+      "Crochet Master"
+    ]
+  },
+  {
+    "Name": "\"Hidden\" origin",
+    "Description1": "\"Hdn Wpn Skl\" +10",
+    "Description2": "Adding \"Internal Kung Fu Secrets\" to the Warehouse <color=#23FF00FF> Remnants of Qi Method </color> \"Weapons\" <color=#23FF00FF> Silver Dart </color> ",
+    "Text1": [
+      "Above 75"
+    ],
+    "Text2": [
+      "Good use of concealed weapons"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Pen Shrine",
+    "Description1": "\"Strokes\" +10",
+    "Description2": "Add \"Secret of Internal Power\" to your house warehouse <color=#23FF00FF> Golden Word Heart Sutra </color> \"Weapons\" <color=#23FF00FF> Silver Hook Pen </color> ",
+    "Text1": [
+      "Above 75"
+    ],
+    "Text2": [
+      "Master of Brush Skl"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Kendai",
+    "Description1": "\"Sword\" +6",
+    "Description2": "Add \"Martial Arts Secrets\" to your house warehouse <color=#23FF00FF> Two Yi Sword Technique </color> ",
+    "Text1": [
+      "Above 80"
+    ],
+    "Text2": [
+      "Good with swords"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Fist House",
+    "Description1": "\"Fist and Palm\" +6",
+    "Description2": "Add \"Martial Arts Secrets\" to your house warehouse <color=#23FF00FF> Qiantian Palm </color> ",
+    "Text1": [
+      "Above 80"
+    ],
+    "Text2": [
+      "Good punching and palming"
+    ]
+  },
+  {
+    "Name": "From a \"martial arts family\"",
+    "Description1": "Adding \"Lightning Secrets\" to the warehouse of your house. <color=#23FF00FF> Sprint Steps </color> ",
+    "Description2": "Additional \"wound medicine\" added to the house warehouse",
+    "Text1": [
+      "Unusual"
+    ],
+    "Text2": [
+      "Unusual"
+    ]
+  },
+  {
+    "Name": "\"From the \"Genji Family",
+    "Description1": "Add \"Secret of Internal Power\" to the warehouse of your house <color=#23FF00FF> Danyang Xinfa </color> ",
+    "Description2": "Additional \"tonic\" added to the house warehouse",
+    "Text1": [
+      "Unusual"
+    ],
+    "Text2": [
+      "Unusual"
+    ]
+  },
+  {
+    "Name": "\"No wonder\" origin",
+    "Description1": "\"Fortunate Fate\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "no wonder"
+    ],
+    "Text2": [
+      "no wonder"
+    ]
+  },
+  {
+    "Name": "\"Lucky Star\" origin",
+    "Description1": "\"All Martial Arts\" +5",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Opening a book is beneficial"
+    ],
+    "Text2": [
+      "Heavenly good fortune"
+    ]
+  },
+  {
+    "Name": "Origin of \"Chizen\"",
+    "Description1": "\"All Martial Arts\" +5",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "strange meridians and unusual veins"
+    ],
+    "Text2": [
+      "True Qi filling"
+    ]
+  },
+  {
+    "Name": "Origin of \"Jedi Gen\"",
+    "Description1": "\"All Martial Arts\" +5",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Bone Clear"
+    ],
+    "Text2": [
+      "Martial arts training wizard"
+    ]
+  },
+  {
+    "Name": "Origin of \"Roxy\"",
+    "Description1": "\"Charisma\" +10",
+    "Description2": "\"Connotation\" +10",
+    "Text1": [
+      "happy-go-lucky"
+    ],
+    "Text2": [
+      "like a spring breeze"
+    ]
+  },
+  {
+    "Name": "Origin of \"Yotenkan\"",
+    "Description1": "\"Healing Art\" +10",
+    "Description2": "Additional \"medical books\" in the warehouse of the house <color=#23FF00FF> \"Hostel Prescriptions\" </color> ",
+    "Text1": [
+      "Above 80"
+    ],
+    "Text2": [
+      "Healer"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Black Cave",
+    "Description1": "\"Poison\" +10",
+    "Description2": "Adding \"Poison Sutra\" to the storage room of the house <color=#FF00B6FF> \"The Book of Qiu Shi\" </color> ",
+    "Text1": [
+      "Above 80"
+    ],
+    "Text2": [
+      "Poisoner"
+    ]
+  },
+  {
+    "Name": "Origin of the \"family of wonder\"",
+    "Description1": "\"Collection\" +10",
+    "Description2": "\"Perception\" +10",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "Exotic Treasures"
+    ]
+  },
+  {
+    "Name": "From a \"tea family\"",
+    "Description1": "\"Tea Ceremony\" +15",
+    "Description2": "Additional \"tea set and tea leaves\" added to the house warehouse",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "Tea ordering master"
+    ]
+  },
+  {
+    "Name": "From a \"food family\"",
+    "Description1": "\"Cooking\" +15",
+    "Description2": "Additional \"ingredients\" added to the house storage",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "cannon phoenix cooks the dragon"
+    ]
+  },
+  {
+    "Name": "From a \"family of wine\"",
+    "Description1": "\"Drinking\" +15",
+    "Description2": "Additional \"Sake\" added to the house warehouse",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "Mr. Five Dou"
+    ]
+  },
+  {
+    "Name": "From a \"family of sound\"",
+    "Description1": "\"Musical Instrument\" +15",
+    "Description2": "Additional \"musical instrument sheet music\" added to the house storage",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "Tasting bamboo and playing silk"
+    ]
+  },
+  {
+    "Name": "From a \"family of poets\"",
+    "Description1": "\"Poetry\" +15",
+    "Description2": "Additional \"books\" added to the house storage",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "Wonderful writing"
+    ]
+  },
+  {
+    "Name": "From a \"family of painters\"",
+    "Description1": "\"Painting and Calligraphy\" +15",
+    "Description2": "Additional \"four treasures\" added to the house warehouse",
+    "Text1": [
+      "Above 85"
+    ],
+    "Text2": [
+      "wield a writing brush and drop the paper"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"One Spirit Hall",
+    "Description1": "\"Perception\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "spiritual heart and wise nature"
+    ]
+  },
+  {
+    "Name": "Origin of \"Sukouji\"",
+    "Description1": "\"Fortunate Fate\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "Heavenly good fortune"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Green Bamboo Tower",
+    "Description1": "\"Charisma\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "Natural beauty"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Sifangzhuang",
+    "Description1": "\"Bargaining\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "articulate"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Stargazer Cliff",
+    "Description1": "\"Knowledge\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "experienced and knowledgeable"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Colorless Workshop",
+    "Description1": "\"Connotation\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Higher than 67"
+    ],
+    "Text2": [
+      "well versed in books and manners"
+    ]
+  },
+  {
+    "Name": "\"Blood of the Underworld\" origin",
+    "Description1": "\"Killing Intent\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Above 70"
+    ],
+    "Text2": [
+      "ferocious"
+    ]
+  },
+  {
+    "Name": "\"Fuyun\" origin",
+    "Description1": "\"Gods Come\" +20",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Above 50"
+    ],
+    "Text2": [
+      "Harmony between heaven and man"
+    ]
+  },
+  {
+    "Name": "\"Dingfeng\" origin",
+    "Description1": "\"Focus\" +10",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Above 50"
+    ],
+    "Text2": [
+      "No distractions"
+    ]
+  },
+  {
+    "Name": "\"Open Bow\" origin",
+    "Description1": "\"Will\" +10",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Above 50"
+    ],
+    "Text2": [
+      "Tough and unyielding"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Thousand Junes",
+    "Description1": "\"Decisions\" +10",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "Above 50"
+    ],
+    "Text2": [
+      "Make an immediate decision"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Taishichi",
+    "Description1": "\"Body\" +8",
+    "Description2": "\"Core Power\" +8",
+    "Text1": [
+      "Above 50"
+    ],
+    "Text2": [
+      "strong and healthy body"
+    ]
+  },
+  {
+    "Name": "\"Founder\" origin",
+    "Description1": "\"Finger Power\" +10",
+    "Description2": "Adding \"Internal Energy Secrets\" to the warehouse of your house <color=#23FF00FF> Mo Yang Qi Method </color> ",
+    "Text1": [
+      "Higher than 45"
+    ],
+    "Text2": [
+      "Finger Power Man"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Knife Gate",
+    "Description1": "\"+10\" to Blade Skill",
+    "Description2": "Adding \"Internal Arts Secrets\" to the Warehouse <color=#23FF00FF> </color> \"Weapons\" <color=#23FF00FF> </color> ",
+    "Text1": [
+      "Higher than 45"
+    ],
+    "Text2": [
+      "A good swordsman"
+    ]
+  },
+  {
+    "Name": "Origin of \"Stick Sect\"",
+    "Description1": "\"Baton Juggling\" +10",
+    "Description2": "Adding \"Internal Kung Fu Secrets\" to the Warehouse <color=#23FF00FF> Qingdi Internal Kung Fu </color> \"Weapons\" <color=#23FF00FF> Bronze Baton </color> ",
+    "Text1": [
+      "Higher than 45"
+    ],
+    "Text2": [
+      "A good stick juggler"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Spear Court",
+    "Description1": "\"Spear\" +10",
+    "Description2": "Adding \"Martial Arts Secrets\" to the Warehouse <color=#23FF00FF> Kunwu Spear Technique </color> \"Weapons\" <color=#23FF00FF> Suki Spear </color> ",
+    "Text1": [
+      "Higher than 45"
+    ],
+    "Text2": [
+      "Good with spears"
+    ]
+  },
+  {
+    "Name": "\"Origin of the \"Axe Walled City",
+    "Description1": "\"Luck Axe\" +10",
+    "Description2": "Add \"Martial Arts Secrets\" to your house warehouse <color=#23FF00FF> General Axe Method </color> \"Weapons\" <color=#23FF00FF> Plate Axe </color> ",
+    "Text1": [
+      "Higher than 45"
+    ],
+    "Text2": [
+      "Axe Runner"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Whip House",
+    "Description1": "\"Whip Art\" +10",
+    "Description2": "Adding \"Martial Arts Secrets\" to the Warehouse of the Residence <color=#23FF00FF> Swept Xia Whip Method </color> \"Weapons\" <color=#23FF00FF> Liu Huang Whip </color> ",
+    "Text1": [
+      "Higher than 45"
+    ],
+    "Text2": [
+      "Good whip fighter"
+    ]
+  },
+  {
+    "Name": "\"Hook and horn\" origin",
+    "Description1": "\"Hooking Skl\" +10",
+    "Description2": "Add \"Martial Arts Secrets\" to the Warehouse <color=#23FF00FF> Small Purple Cloud Hook </color> \"Weapons\" <color=#23FF00FF> Iron Hook </color> ",
+    "Text1": [
+      "Higher than 45"
+    ],
+    "Text2": [
+      "Crochet Master"
+    ]
+  },
+  {
+    "Name": "\"Hidden\" origin",
+    "Description1": "\"Hdn Wpn Skl\" +10",
+    "Description2": "Adding \"Internal Kung Fu Secrets\" to the Warehouse <color=#23FF00FF> Remnants of Qi Method </color> \"Weapons\" <color=#23FF00FF> Silver Dart </color> ",
+    "Text1": [
+      "Higher than 45"
+    ],
+    "Text2": [
+      "Good use of concealed weapons"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Pen Shrine",
+    "Description1": "\"Strokes\" +10",
+    "Description2": "Add \"Secret of Internal Power\" to your house warehouse <color=#23FF00FF> Golden Word Heart Sutra </color> \"Weapons\" <color=#23FF00FF> Silver Hook Pen </color> ",
+    "Text1": [
+      "Higher than 45"
+    ],
+    "Text2": [
+      "Master of Brush Skl"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Kendai",
+    "Description1": "\"Sword\" +6",
+    "Description2": "Add \"Martial Arts Secrets\" to your house warehouse <color=#23FF00FF> Two Yi Sword Technique </color> ",
+    "Text1": [
+      "Above 50"
+    ],
+    "Text2": [
+      "Good with swords"
+    ]
+  },
+  {
+    "Name": "\"Origin of \"Fist House",
+    "Description1": "\"Fist and Palm\" +6",
+    "Description2": "Add \"Martial Arts Secrets\" to your house warehouse <color=#23FF00FF> Qiantian Palm </color> ",
+    "Text1": [
+      "Above 50"
+    ],
+    "Text2": [
+      "Good punching and palming"
+    ]
+  },
+  {
+    "Name": "From a \"martial arts family\"",
+    "Description1": "Adding \"Lightning Secrets\" to the warehouse of your house. <color=#23FF00FF> Sprint Steps </color> ",
+    "Description2": "Additional \"wound medicine\" added to the house warehouse",
+    "Text1": [
+      "Unusual"
+    ],
+    "Text2": [
+      "Unusual"
+    ]
+  },
+  {
+    "Name": "\"From the \"Genji Family",
+    "Description1": "Add \"Secret of Internal Power\" to the warehouse of your house <color=#23FF00FF> Danyang Xinfa </color> ",
+    "Description2": "Additional \"tonic\" added to the house warehouse",
+    "Text1": [
+      "Unusual"
+    ],
+    "Text2": [
+      "Unusual"
+    ]
+  },
+  {
+    "Name": "\"No wonder\" origin",
+    "Description1": "\"Fortunate Fate\" +15",
+    "Description2": "Additional \"money\" added",
+    "Text1": [
+      "no wonder"
+    ],
+    "Text2": [
+      "no wonder"
+    ]
+  }
+]
