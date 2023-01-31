@@ -6,30 +6,6 @@
       "Disciples of Quanzhen Sect",
       "Emei School Disciples"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Quanzhen Sect",
       "Emei School"
@@ -40,30 +16,8 @@
     "DialogCharacterName": "Merchant escort",
     "BattleName": [
       "Disciples of Youhong Palace",
-      "charlatan"
+      "Charlatan"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Youhong Palace",
       "No school, no sect"
@@ -75,28 +29,6 @@
     "BattleName": [
       "Taishan School Disciples"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Taishan School"
     ]
@@ -108,28 +40,6 @@
       "Disciples of Green King Temple",
       "charlatan"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Green King Temple",
       "No school, no sect"
@@ -142,28 +52,6 @@
       "Taishan School Disciples",
       "charlatan"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Taishan School",
       "No school, no sect"
@@ -176,28 +64,6 @@
       "Disciples of the Heavenly Dignity Church",
       "charlatan"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Tianzun Cult",
       "No school, no sect"
@@ -209,28 +75,6 @@
     "BattleName": [
       "Disciples of Songshan School"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Songshan School"
     ]
@@ -241,28 +85,6 @@
     "BattleName": [
       "Wudang School Disciples"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Wudang School"
     ]
@@ -274,30 +96,6 @@
       "Beggar's Disciples",
       "Hengshan School Disciples"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Beggars' Association",
       "Hengshan School"
@@ -309,28 +107,6 @@
     "BattleName": [
       "Wudang School Disciples"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Wudang School"
     ]
@@ -341,28 +117,6 @@
     "BattleName": [
       "Disciples of Youming School"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Phantom School"
     ]
@@ -373,28 +127,6 @@
     "BattleName": [
       "Disciples of the Heavenly Dignity Church"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Tianzun Cult"
     ]
@@ -405,28 +137,6 @@
     "BattleName": [
       "Disciples of Flying Scorpionwood"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Flying Scorpion Dock"
     ]
@@ -437,28 +147,6 @@
     "BattleName": [
       "Disciples of Green King Temple"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Green King Temple"
     ]
@@ -469,28 +157,6 @@
     "BattleName": [
       "Shaolin Temple Disciples"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Shaolin Temple"
     ]
@@ -501,28 +167,6 @@
     "BattleName": [
       "Iron Palm disciples"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Iron Palm"
     ]
@@ -533,28 +177,6 @@
     "BattleName": [
       "Disciples of the Fiery Sun"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Blazing Sun Teaching"
     ]
@@ -565,28 +187,6 @@
     "BattleName": [
       "Disciples of Yanfeng Hall"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Yan Feng Tang"
     ]
@@ -597,28 +197,6 @@
     "BattleName": [
       "Disciples of Quanzhen Sect"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Quanzhen Sect"
     ]
@@ -629,28 +207,6 @@
     "BattleName": [
       "Disciples of the Huashan School"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Huashan School"
     ]
@@ -661,28 +217,6 @@
     "BattleName": [
       "disciples of the Everest School"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Hengshan School"
     ]
@@ -694,28 +228,6 @@
       "Emei School Disciples",
       "charlatan"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Emei School",
       "No school, no sect"
@@ -729,32 +241,6 @@
       "Shaolin Temple Disciples",
       "Disciples of Youhong Palace"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {},
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Songshan School",
       "Shaolin Temple",
@@ -768,28 +254,6 @@
       "Disciples of Hakujo Mountain Resort",
       "charlatan"
     ],
-    "Dialog": {},
-    "QiangJieReward": [
-      {}
-    ],
-    "PlaceRelationChange": {
-      "QiangJieSuccess": [
-        {},
-        {}
-      ],
-      "QiangJieFailed": [
-        {},
-        {}
-      ]
-    },
-    "CharacterRelationChange": {
-      "QiangJieSuccess": [
-        {}
-      ],
-      "QiangJieFailed": [
-        {}
-      ]
-    },
     "BattleMenPai": [
       "Hakujo Mountain Resort",
       "No school, no sect"
