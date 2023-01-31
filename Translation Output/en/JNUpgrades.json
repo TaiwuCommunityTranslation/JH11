@@ -1,0 +1,1577 @@
+[
+  {
+    "GuiZe": [
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#E24344FF> \"Attacking Stance Power\" </color> ",
+        "RightValueInfo": "10%",
+        "DialogContent": "The sensual advancement is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#5C9BE2FF> Power of \"Defense Stance\" </color> ",
+        "RightValueInfo": "10%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF7E2EFF> \"Breakdown Chance\" </color> ",
+        "RightValueInfo": "1%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF0000FF> \"Fatal Hit Chance\" </color> ",
+        "RightValueInfo": "0.4%",
+        "DialogContent": "The sensual advancement is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF5344FF> \"Chance to hit\" </color> ",
+        "RightValueInfo": "1%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#00CAB0FF> \"Point Chance\" </color> ",
+        "RightValueInfo": "1%",
+        "DialogContent": "The sensual advancement is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#64B200FF> \"Hardened Poison Chance\" </color> ",
+        "RightValueInfo": "1%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> Character </color> \n <color=#00FFDDFF> \"Martial Arts Attributes\" </color> ",
+        "RightValueInfo": "Click to view",
+        "DialogContent": "Gnosis progression is complete! [PropName] has been upgraded to [Value]."
+      },
+      {
+        "ReplaceGuiZe": [
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF0000FF> \"Hit to Kill\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF0000FF> \"Kill\" </color> Opponent"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#ACCFFFFF> \"Seize the Weapon\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#ACCFFFFF> \"Capture\" </color> Opponent \"Weapon\""
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFD41BFF> \"One Hit Wins\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FFD41BFF> \"Direct Defeat\" </color> Opponent"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#ACCFFFFF> \"Disarm\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#ACCFFFFF> \"Shoot Down\" </color> Opponent \"Weapon\""
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Breach Guard\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": " <color=#FF5E4EFF> \"Breakdown\" </color> Chance -60%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent's martial arts moves \"Int. Force Cost\" +160%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Tenacity\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": " <color=#FFDDBDFF> \"Losing a Match\" </color> Chance-70%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Surviving the Desperate Times\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": " <color=#FF0000FF> \"Perish on the move\" </color> Chance -60%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Leveraging Counterattack\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "+30% to \"move power\"; -30% to \"move power\" of opponent"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFD41BFF> \"One Hit Wins\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FFD41BFF> \"Direct Defeat\" </color> Opponent"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#00CAB0FF> \"Point and Seal\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#00CAB0FF> \"Block\" </color> Opponent's \"[BuWei]\" acupuncture point for 4 turns"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#64B200FF> \"Hardened Poison\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#00CAB0FF> \"Hardened Poison\" </color> Opponent \"[BuWei]\", poison lasts 6 turns"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
+                }
+              }
+            ]
+          }
+        ],
+        "LeftValueInfo": " <color=#D7C8AFFF> Moves </color> \n <color=#B27200> \"Stunt Replacement\" </color> ",
+        "RightValueInfo": "Click to view",
+        "DialogContent": "The [ZhaoShiName] move feature of [WuGongName] has changed from [Tese1] to [Tese2]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#E24344FF> Number of \"Attack Slots\" </color> ",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#5C9BE2FF> Number of \"Defense Slots\" </color> ",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#1BDFFFFF> Number of \"Skill Slots\" </color> ",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      }
+    ]
+  },
+  {
+    "GuiZe": [
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#E24344FF> \"Attacking Stance Power\" </color> ",
+        "RightValueInfo": "8%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#5C9BE2FF> Power of \"Defense Stance\" </color> ",
+        "RightValueInfo": "8%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF7E2EFF> \"Breakdown Chance\" </color> ",
+        "RightValueInfo": "1.5%",
+        "DialogContent": "The sensual advancement is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF0000FF> \"Fatal Hit Chance\" </color> ",
+        "RightValueInfo": "0.4%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF5344FF> \"Chance to hit\" </color> ",
+        "RightValueInfo": "1.5%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#00CAB0FF> \"Point Chance\" </color> ",
+        "RightValueInfo": "1.5%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#64B200FF> \"Hardened Poison Chance\" </color> ",
+        "RightValueInfo": "1.5%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> Character </color> \n <color=#00FFDDFF> \"Martial Arts Attributes\" </color> ",
+        "RightValueInfo": "Click to view",
+        "DialogContent": "Gnosis progression is complete! [PropName] has been upgraded to [Value]."
+      },
+      {
+        "ReplaceGuiZe": [
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF5344FF> \"Hit Wound\" </color> Opponent [BuWei]"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF0000FF> \"Hit to Kill\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF0000FF> \"Kill\" </color> Opponent"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#ACCFFFFF> \"Seize the Weapon\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#ACCFFFFF> \"Capture\" </color> Opponent \"Weapon\""
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFD41BFF> \"One Hit Wins\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FFD41BFF> \"Direct Defeat\" </color> Opponent"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#ACCFFFFF> \"Disarm\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#ACCFFFFF> \"Shoot Down\" </color> Opponent \"Weapon\""
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Breach Guard\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": " <color=#FF5E4EFF> \"Breakdown\" </color> Chance -60%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent's martial arts moves \"internal energy cost\" +160%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Tenacity\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": " <color=#FFDDBDFF> \"Losing a Match\" </color> Chance-70%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Surviving the Desperate Times\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": " <color=#FF0000FF> \"Perish on the move\" </color> Chance -60%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Leveraging Counterattack\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "\"Power of move\" +30%; opponent's \"Power of move\" -30%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFD41BFF> \"One Hit Wins\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FFD41BFF> \"Direct Defeat\" </color> Opponent"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#00CAB0FF> \"Point and Seal\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#00CAB0FF> \"Block\" </color> Opponent's \"[BuWei]\" acupuncture point for 4 turns"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#64B200FF> \"Hardened Poison\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#00CAB0FF> \"Hardened Poison\" </color> Opponent \"[BuWei]\", poison lasts 6 turns"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
+                }
+              }
+            ]
+          }
+        ],
+        "LeftValueInfo": " <color=#D7C8AFFF> Moves </color> \n <color=#B27200> \"Stunt Replacement\" </color> ",
+        "RightValueInfo": "Click to view",
+        "DialogContent": "The [ZhaoShiName] move feature of [WuGongName] has changed from [Tese1] to [Tese2]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#E24344FF> Number of \"Attack Slots\" </color> ",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#5C9BE2FF> Number of \"Defense Slots\" </color> ",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#1BDFFFFF> Number of \"Skill Slots\" </color> ",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      }
+    ]
+  },
+  {
+    "GuiZe": [
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#E24344FF> \"Attacking Stance Power\" </color> ",
+        "RightValueInfo": "6%",
+        "DialogContent": "The sensual advancement is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#5C9BE2FF> Power of \"Defense Stance\" </color> ",
+        "RightValueInfo": "6%",
+        "DialogContent": "The sensual advancement is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF7E2EFF> \"Breakdown Chance\" </color> ",
+        "RightValueInfo": "2%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF0000FF> \"Fatal Hit Chance\" </color> ",
+        "RightValueInfo": "0.4%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF5344FF> \"Chance to hit\" </color> ",
+        "RightValueInfo": "2%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#00CAB0FF> \"Point Chance\" </color> ",
+        "RightValueInfo": "2%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#64B200FF> \"Hardened Poison Chance\" </color> ",
+        "RightValueInfo": "2%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> Character </color> \n <color=#00FFDDFF> \"Martial Arts Attributes\" </color> ",
+        "RightValueInfo": "Click to view",
+        "DialogContent": "Gnosis progression is complete! [PropName] has been upgraded to [Value]."
+      },
+      {
+        "ReplaceGuiZe": [
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF0000FF> \"Hit to Kill\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF0000FF> \"Kill\" </color> Opponent"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#ACCFFFFF> \"Seize the Weapon\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#ACCFFFFF> \"Capture\" </color> Opponent \"Weapon\""
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFD41BFF> \"One Hit Wins\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FFD41BFF> \"Direct Defeat\" </color> Opponent"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#ACCFFFFF> \"Disarm\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#ACCFFFFF> \"Shoot Down\" </color> Opponent \"Weapon\""
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Breach Guard\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": " <color=#FF5E4EFF> \"Breakdown\" </color> Chance -60%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent's martial arts moves \"internal energy cost\" +160%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Tenacity\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": " <color=#FFDDBDFF> \"Losing a Match\" </color> Chance-70%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Surviving the Desperate Times\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": " <color=#FF0000FF> \"Perish on the move\" </color> Chance -60%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Leveraging Counterattack\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "\"Power of move\" +30%; opponent's \"Power of move\" -30%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFD41BFF> \"One Hit Wins\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FFD41BFF> \"Direct Defeat\" </color> Opponent"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#00CAB0FF> \"Point and Seal\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#00CAB0FF> \"Block\" </color> Opponent's \"[BuWei]\" acupuncture point for 4 turns"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#64B200FF> \"Hardened Poison\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#00CAB0FF> \"Hardened Poison\" </color> Opponent \"[BuWei]\", poison lasts 6 turns"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
+                }
+              }
+            ]
+          }
+        ],
+        "LeftValueInfo": " <color=#D7C8AFFF> Moves </color> \n <color=#B27200> \"Stunt Replacement\" </color> ",
+        "RightValueInfo": "Click to view",
+        "DialogContent": "The [ZhaoShiName] move feature of [WuGongName] has changed from [Tese1] to [Tese2]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#E24344FF> Number of \"Attack Slots\" </color> ",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#5C9BE2FF> Number of \"Defense Slots\" </color> ",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#1BDFFFFF> Number of \"Skill Slots\" </color> ",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      }
+    ]
+  },
+  {
+    "GuiZe": [
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#E24344FF> \"Attacking Stance Power\" </color> ",
+        "RightValueInfo": "4%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#5C9BE2FF> Power of \"Defense Stance\" </color> ",
+        "RightValueInfo": "4%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF7E2EFF> \"Breakdown Chance\" </color> ",
+        "RightValueInfo": "2.5%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF0000FF> \"Fatal Hit Chance\" </color> ",
+        "RightValueInfo": "0.4%",
+        "DialogContent": "The sensual advancement is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF5344FF> \"Chance to hit\" </color> ",
+        "RightValueInfo": "2.5%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#00CAB0FF> \"Point Chance\" </color> ",
+        "RightValueInfo": "2.5%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#64B200FF> \"Hardened Poison Chance\" </color> ",
+        "RightValueInfo": "2.5%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> Character </color> \n <color=#00FFDDFF> \"Martial Arts Attributes\" </color> ",
+        "RightValueInfo": "Click to view",
+        "DialogContent": "Gnosis progression is complete! [PropName] has been upgraded to [Value]."
+      },
+      {
+        "ReplaceGuiZe": [
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF5344FF> \"Hit Wound\" </color> Opponent [BuWei]"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF0000FF> \"Hit to Kill\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF0000FF> \"Kill\" </color> Opponent"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#ACCFFFFF> \"Seize the Weapon\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#ACCFFFFF> \"Capture\" </color> Opponent \"Weapon\""
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFD41BFF> \"One Hit Wins\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FFD41BFF> \"Direct Defeat\" </color> Opponent"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#ACCFFFFF> \"Disarm\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#ACCFFFFF> \"Shoot Down\" </color> Opponent \"Weapon\""
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Breach Guard\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": " <color=#FF5E4EFF> \"Breakdown\" </color> Chance -60%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent's martial arts moves \"internal energy cost\" +160%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Tenacity\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": " <color=#FFDDBDFF> \"Losing a Match\" </color> Chance-70%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Surviving the Desperate Times\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": " <color=#FF0000FF> \"Perish on the move\" </color> Chance -60%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Leveraging Counterattack\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "\"Power of move\" +30%; opponent's \"Power of move\" -30%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFD41BFF> \"One Hit Wins\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FFD41BFF> \"Direct Defeat\" </color> Opponent"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#00CAB0FF> \"Point and Seal\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#00CAB0FF> \"Block\" </color> Opponent's \"[BuWei]\" acupuncture point for 4 turns"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#64B200FF> \"Hardened Poison\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#00CAB0FF> \"Hardened Poison\" </color> Opponent \"[BuWei]\", poison lasts 6 turns"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
+                }
+              }
+            ]
+          }
+        ],
+        "LeftValueInfo": " <color=#D7C8AFFF> Moves </color> \n <color=#B27200> \"Stunt Replacement\" </color> ",
+        "RightValueInfo": "Click to view",
+        "DialogContent": "The [ZhaoShiName] move feature of [WuGongName] has changed from [Tese1] to [Tese2]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#E24344FF> Number of \"Attack Slots\" </color> ",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#5C9BE2FF> Number of \"Defense Slots\" </color> ",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#1BDFFFFF> Number of \"Skill Slots\" </color> ",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      }
+    ]
+  },
+  {
+    "GuiZe": [
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#E24344FF> \"Attacking Stance Power\" </color> ",
+        "RightValueInfo": "25%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#5C9BE2FF> Power of \"Defense Stance\" </color> ",
+        "RightValueInfo": "25%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF7E2EFF> \"Breakdown Chance\" </color> ",
+        "RightValueInfo": "25%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF0000FF> \"Fatal Hit Chance\" </color> ",
+        "RightValueInfo": "25%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#FF5344FF> \"Chance to hit\" </color> ",
+        "RightValueInfo": "25%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#00CAB0FF> \"Point Chance\" </color> ",
+        "RightValueInfo": "25%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> This martial art </color> \n <color=#64B200FF> \"Hardened Poison Chance\" </color> ",
+        "RightValueInfo": "25%",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> Character </color> \n <color=#00FFDDFF> \"Martial Arts Attributes\" </color> ",
+        "RightValueInfo": "Click to view",
+        "DialogContent": "Gnosis progression is complete! [PropName] has been upgraded to [Value]."
+      },
+      {
+        "ReplaceGuiZe": [
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF0000FF> \"Hit to Kill\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF0000FF> \"Kill\" </color> Opponent"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#ACCFFFFF> \"Seize the Weapon\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#ACCFFFFF> \"Capture\" </color> Opponent \"Weapon\""
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFD41BFF> \"One Hit Wins\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FFD41BFF> \"Direct Defeat\" </color> Opponent"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#ACCFFFFF> \"Disarm\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#ACCFFFFF> \"Shoot Down\" </color> Opponent \"Weapon\""
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Breach Guard\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": " <color=#FF5E4EFF> \"Breakdown\" </color> Chance -60%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Heavy Anti-Unloading\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent's martial arts moves \"internal energy cost\" +160%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Tenacity\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": " <color=#FFDDBDFF> \"Losing a Match\" </color> Chance-70%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Surviving the Desperate Times\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": " <color=#FF0000FF> \"Perish on the move\" </color> Chance -60%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"Leveraging Counterattack\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "\"Power of move\" +30%; opponent's \"Power of move\" -30%"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFD41BFF> \"One Hit Wins\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FFD41BFF> \"Direct Defeat\" </color> Opponent"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#00CAB0FF> \"Point and Seal\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#00CAB0FF> \"Block\" </color> Opponent's \"[BuWei]\" acupuncture point for 4 turns"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#64B200FF> \"Hardened Poison\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#00CAB0FF> \"Hardened Poison\" </color> Opponent \"[BuWei]\", poison lasts 6 turns"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF5344FF> \"Site Strikes\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Attempt <color=#FF5344FF> \"Striking Wounds\" </color> Opponent [BuWei]"
+                }
+              }
+            ]
+          },
+          {
+            "ReplaceTeSes": [
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FF7E2EFF> \"Breakdown\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Try <color=#FF7E2EFF> \"Breakdown\" </color> Opponent"
+                }
+              },
+              {
+                "TeSeLeiXing": {
+                  "ValueInfo": " <color=#FFDDBDFF> \"[WuGongType] Restraint\" </color> "
+                },
+                "TeSeLeiDes": {
+                  "Value": "Opponent <color=#00CAB0FF> \"[WuGongType] Stance Power\" </color> -40%"
+                }
+              }
+            ]
+          }
+        ],
+        "LeftValueInfo": " <color=#D7C8AFFF> Moves </color> \n <color=#B27200> \"Stunt Replacement\" </color> ",
+        "RightValueInfo": "Click to view",
+        "DialogContent": "The [ZhaoShiName] move feature of [WuGongName] has changed from [Tese1] to [Tese2]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#E24344FF> Number of \"Attack Slots\" </color> ",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#5C9BE2FF> Number of \"Defense Slots\" </color> ",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      },
+      {
+        "LeftValueInfo": " <color=#D7C8AFFF> Routines </color> \n <color=#1BDFFFFF> Number of \"Skill Slots\" </color> ",
+        "DialogContent": "Sensual progression is complete! The [LeftValueInfo] of [WuGongName] has been upgraded to [RightValueInfo]."
+      }
+    ]
+  }
+]
