@@ -9483,7 +9483,8 @@
       "ShenTi": "身体",
       "JingShen": "精神",
       "JinMai": "筋脉",
-      "CaoWei": "{0}槽位"
+      "CaoWei": "{0}槽位",
+      "QueDingYiWang_One": "确定要遗忘{0}{1}吗？"
     },
     "MainDH": {
       "Shang": "伤",
