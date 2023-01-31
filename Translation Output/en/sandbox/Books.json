@@ -1,0 +1,1135 @@
+[
+  {
+    "ItemType": {
+      "ValueInfo": "Medical Books"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Defeat Poison San Formula"
+      },
+      {
+        "Description": "White Tiger Soup Recipe"
+      },
+      {
+        "Description": "Rain Remains Cool Recipe"
+      },
+      {
+        "Description": "Foot Care Cream Formula"
+      },
+      {
+        "Description": "Aromatic small yuan'er formula"
+      },
+      {
+        "Description": "Three degrees of frankincense oil formula"
+      },
+      {
+        "Description": "Shen Xiang Pills Formula"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Hostel Prescription </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "Dong Ji's \"Hostel Prescriptions\" contains some of the common symptoms of diseases and remedies, which are simple, convenient and effective. It is a good medical book for people's hands."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Healing\" +2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Medical Books"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Zheng Chai Hu Drink Formula"
+      },
+      {
+        "Description": "Ulcer Powder Formula"
+      },
+      {
+        "Description": "Recipe for Supreme Inner Elixir"
+      },
+      {
+        "Description": "Mukin Dan Formula"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Su Shen Liang Fang </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "A medical book written by Su Shi and Shen Kuo. The contents are complicated, containing simple treatments for various diseases, and also mentioning the taboos for the regulation of daily life, which is a medical book of high quality."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "+2 to \"Medical skill\" +2 to \"Knowledge\""
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Medical Books"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Immortal Jade Pot Pill Recipe"
+      },
+      {
+        "Description": "Rutabagasan Formula"
+      },
+      {
+        "Description": "Ice Clear Molten Venom Recipe"
+      },
+      {
+        "Description": "Blood-breaking golden sore medicine formula"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Taiping Shenghui Fang </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "Taizong paid attention to medicine in his daily life and received more than a thousand prescriptions. Later, he ordered Hanlin medical officials to collect prescriptions from various schools and started to proofread the official prescription book in the third year of Taiping Xingguo."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Healing Art\" +3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Medical Books"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Tansy cream formula"
+      },
+      {
+        "Description": "Ten Gods Soup Recipe"
+      },
+      {
+        "Description": "Patchouli plaster tea recipe"
+      },
+      {
+        "Description": "Qiang Wu Tong Wei Wan Formula"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Treatise on Typhoid Miscellaneous Diseases </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "The Treatise on Typhoid and Miscellaneous Diseases is a medical masterpiece written by Zhang Zhongjing of the Eastern Han Dynasty, who has collected many books and prescriptions and has devoted his life to it."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+2 to \"Fortunate Fate\" +2 to \"Poetry"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Medical Books"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Scutellaria Baicalensis and Huang Lian Tang Recipe"
+      },
+      {
+        "Description": "Purple Fire Treasure Pill Recipe"
+      },
+      {
+        "Description": "Great Tonic Inner Elixir Formula"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> The Yellow Emperor's Classic of Internal Medicine </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "It is the oldest medical text on Chinese medicine, and numerous later prescriptions have referred to and drawn from it. The contents include regimen, yin and yang, organs and signs, meridians and theories of treatment."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Core Power\" +2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Medical Books"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Seven Star Pills Formula"
+      },
+      {
+        "Description": "Shennong Returning Yang Pill Formula"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Shennong Ben Cao Jing </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "One of the four classics of medicine, the Shennong Ben Cao Jing systematically summarizes the experience of ancient healers and other aspects of medicine, and provides a comprehensive and systematic organization of the already acquired knowledge of medicine."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+2 to \"Healing\" and +2 to \"Physique"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Medical Books"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Tonic Pill Formula"
+      },
+      {
+        "Description": "Dragon's Saliva Cream Recipe"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Da Guan Ben Cao </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "The \"Da Guan Ben Cao\" not only contains information about the herbs of previous generations, sorted by year, but also adds theoretical knowledge about the herbs from various regions and Buddhist books and Taoist collections."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Healing Art\" +4"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Medical Books"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Five elements back to the sky herb formula"
+      },
+      {
+        "Description": "Golden marrow herbal formula"
+      },
+      {
+        "Description": "Protector of the spirit to restore the heart recipe"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> The Essentials of Golden Scarcity </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "One of the four classics of medicine, \"Jin Kui\" is the place where the holy sermons and actual records of the ancient emperors were stored, meaning the preciousness of the contents of this book. The medical evidence described in this book is mainly internal miscellaneous diseases, as well as surgical diseases, first aid for stroke and death, and dietary contraindications. It is known as \"the ancestor of prescription books\"."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Healing Art\" +4"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Medical Books"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Tian Xiaoyuan Dan Recipe"
+      },
+      {
+        "Description": "Wuji Phoenix Pill Recipe"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Puji Cao Fang </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Healing\" +2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Medical Books"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Star and Moon Dew Recipe"
+      },
+      {
+        "Description": "Bone Washing Gold Ointment Formula"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> The Preparedness and Urgency of the Thousand Golden Rules </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Fortunate Fate\" +3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Medical Books"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Tonic Zhong Yi Qi Pill Formula"
+      },
+      {
+        "Description": "Zenith Formula"
+      },
+      {
+        "Description": "Recipe for Hunting Heavenly Pill"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Acupuncture and Moxibustion Jia Yi Jing </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Insight\" +3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Medical Books"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Ninth Heavenly Returning Pill Recipe"
+      },
+      {
+        "Description": "Seven Fate Pill Formula"
+      },
+      {
+        "Description": "Blood clotting herbal formula"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> The Book of Pulse </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+1 to \"Du Chakra\" +1 to \"Ren Chakra"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Medical Books"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Cough and Blood Cream Formula"
+      },
+      {
+        "Description": "Kudzuhua decongestant soup recipe"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> The Secret of Wai Tai </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "+2 to \"Perception\" +2 to \"Drinking\""
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Medical Books"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Yu Heng Bone Replacement Medicine Formula"
+      },
+      {
+        "Description": "Nandoo Red Paste Recipe"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> The Ginseng Book </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Knowledge\" +2 \"Gods\" +1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Medical Books"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Thousand Turn Tonic Elixir Formula"
+      },
+      {
+        "Description": "Tai Yi Ling Purple Ointment Formula"
+      },
+      {
+        "Description": "Jade Clear White Bone Cream Formula"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> The Remnants of the Divine Illumination Sutra </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "+2 to \"perception\" and +2 to \"divine\""
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Poison Sutra"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Shoujiyuwan Formula"
+      },
+      {
+        "Description": "Yan Yang Articulated Life Soup Recipe"
+      },
+      {
+        "Description": "Bijou poison recipe"
+      },
+      {
+        "Description": "Drunken Spirit Recipe"
+      },
+      {
+        "Description": "Barrier Breaking Golden Pill Formula"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> The Secret Code of Five Poisons </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "Five Poison Cave generations of master research and writing the holy scriptures of poison. Recorded poison formulas are first-class poison, it is said that in order to write this secret code, I do not know how many innocent lives died in the Five Poison Cave because of poison testing ......"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Poison\" +5"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Poison Sutra"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Luanfeng Smoke Recipe"
+      },
+      {
+        "Description": "Red Scorpion Powder Recipe"
+      },
+      {
+        "Description": "Cloudy Void Recipe"
+      },
+      {
+        "Description": "Lei Gong Secret Wine Recipe"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Three Chapters on Virtual Addiction </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "It is said that the author of this poison scripture is a Taoist priest of the former dynasty, usually do not care to cultivate immortality, only love to study the preparation of poison. Before he died, he lamented that he had wasted his time and became addicted to making poisons, so he named the poison sutra, which he had devoted his life to, \"Three Chapters of Void Addiction\"."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+2 to \"Poison\" and +2 to \"Killing Intent"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Poison Sutra"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Spiritual Compulsion Recipe"
+      },
+      {
+        "Description": "Golden Jade Pill Recipe"
+      },
+      {
+        "Description": "Earthen Stone Heart Clearing Pill Recipe"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> The Broken Phoenix Poison Sutra </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "People often use the term \"phoenix in flight\" to refer to two lovers in love. It is said that this poison scripture is written by a woman in Miaojiang, because her beloved husband unfortunately died of compulsion, from then on to study insect compulsion, spent her life writing down the production of a variety of insect compulsion poison and the antidote prescription, and named \"broken phoenix poison scripture\"."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Poison\" +3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Poison Sutra"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Artemisia on Snow Recipe"
+      },
+      {
+        "Description": "Snowdrop Begonia Formula"
+      },
+      {
+        "Description": "Red Letter Paste Recipe"
+      },
+      {
+        "Description": "Thunderbolt Dispersion Formula"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> The Starry Eclipsed Sun\" </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "It is said that the power of the poison made according to this formula is enough to make the stars and the moon swallow the sun and turn the world upside down."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+3 to \"Poison\" and +3 to \"Killing Intent"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Poison Sutra"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Yuan Yang Hua Poison San Formula"
+      },
+      {
+        "Description": "Green Lotus Formula"
+      },
+      {
+        "Description": "Shoujiyuwan Formula"
+      },
+      {
+        "Description": "Broken Vein Herb Formula"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> The Book of Autumn Stones </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+2 to \"Poison\" and +1 to \"Healing"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Poison Sutra"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Golden Thread Snake Formula"
+      },
+      {
+        "Description": "Hookah Pills Recipe"
+      },
+      {
+        "Description": "Sachiu Root Formula"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> The Luan Spider Poison Sutra </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+2 for \"Poison\" and +1 for \"Hdn Wpn Skl"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Poison Sutra"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Peach Blossom Lotion Recipe"
+      },
+      {
+        "Description": "Heart Eating Powder Formula"
+      },
+      {
+        "Description": "Bone charming medicine recipe"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> The Sutra of the Immortal Neighborhood </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+2 to \"Poison\" and +2 to \"Charisma"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Poison Sutra"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Golden Face Fragrance Formula"
+      },
+      {
+        "Description": "Tianzheng Si San Pills Formula"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> The Hemlock Compulsion Sutra </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Poison\" +4"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Poison Sutra"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Flickering Smile Recipe"
+      },
+      {
+        "Description": "Wind-breaking oil formula"
+      },
+      {
+        "Description": "Ragged Throat Heartworm Formula"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> The Forbidden Tactics of the Evil Moon </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+10 to \"Poison\" and -20 to \"Morality"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Poison Sutra"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Yellow Dragon Poison Pill Formula"
+      },
+      {
+        "Description": "Spiritual Horn Manifold Formula"
+      },
+      {
+        "Description": "Golden Silkworm Compulsion Recipe"
+      },
+      {
+        "Description": "Recipe for Secret Pill of Separate Elements"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> The Immortal Sutra of the Transforming Vein and Ink </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+2 to \"Poison Technique\" and +1 to \"Brush Skl"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Poison Sutra"
+    },
+    "PeiFangs": [
+      {
+        "Description": "Jin Wu Poison Pill Formula"
+      },
+      {
+        "Description": "Recipe for Mournful Erosion of Tears"
+      }
+    ],
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> The Mournful Golden Crow\" </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+2 to \"Insight\" and +1 to \"Chi"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  }
+]
