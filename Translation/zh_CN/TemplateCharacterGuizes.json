@@ -1039,73 +1039,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        3,
-        4
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -2219,72 +2155,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -2407,66 +2280,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        4
-      ],
-      [
-        1,
-        3
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        3
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -3568,67 +3384,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        3,
-        4
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {},
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -4729,66 +4487,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        3,
-        4
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -5891,74 +5592,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        4
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {},
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -20.0,
@@ -7061,73 +6697,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        2,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        3
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -8099,73 +7671,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        3
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -20.0,
@@ -9258,80 +8766,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        3
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -20.0,
@@ -10433,65 +9870,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -11599,65 +10980,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuQiCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -12757,73 +12082,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -13922,66 +13183,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -15010,74 +14214,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        2
-      ],
-      [
-        2,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {},
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -16176,74 +15315,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {},
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -20.0,
@@ -17348,73 +16422,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        3
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -18526,72 +17536,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        1
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -19566,66 +18513,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -20725,73 +19615,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {},
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -21746,60 +20572,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {},
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -22899,60 +21675,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -23984,73 +22710,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        4
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        3
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -25164,74 +23826,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -26345,73 +24942,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -27403,73 +25936,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -28533,74 +27002,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {},
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -29691,80 +28095,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        4
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -30158,80 +28491,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        4
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        3,
-        4
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -31224,66 +29486,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        4
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -32240,60 +30445,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        4
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        3,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {},
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -33406,96 +31560,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -34608,95 +32676,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        5
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        5
-      ],
-      [
-        1,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {},
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -35809,95 +33792,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        5
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        5
-      ],
-      [
-        1,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {},
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -50.0,
@@ -41210,73 +39108,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        3,
-        4
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -42377,66 +40211,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        3,
-        4
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -43539,74 +41316,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        4
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {},
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -44000,80 +41712,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        4
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        3,
-        4
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -45172,74 +42813,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {},
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -45362,66 +42938,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        4
-      ],
-      [
-        1,
-        3
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        3
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -46414,66 +43933,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        4
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -47445,73 +44907,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        3
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -48604,80 +46002,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        3
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -49780,73 +47107,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        2,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        3
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -50951,73 +48214,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        3
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -52116,66 +49315,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -53275,73 +50417,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -54443,65 +51521,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -55530,74 +52552,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        2
-      ],
-      [
-        2,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {},
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -56697,73 +53654,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {},
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -57737,66 +54630,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -58828,73 +55664,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        4
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        3
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -59851,60 +56623,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        4
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        3,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {},
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -61018,73 +57739,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -62076,73 +58733,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -63244,67 +59837,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        3,
-        4
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {},
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -64418,72 +60953,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -65547,74 +62019,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {},
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -66705,80 +63112,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        4
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -67892,74 +64228,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -69071,72 +65342,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        1
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -70249,96 +66457,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -71451,95 +67573,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        5
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        5
-      ],
-      [
-        1,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {},
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -72652,95 +68689,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        5
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        5
-      ],
-      [
-        1,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {},
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -72825,96 +68777,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -72999,96 +68865,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -73173,96 +68953,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -73347,96 +69041,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -73521,96 +69129,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -73695,96 +69217,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -73869,96 +69305,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -74043,96 +69393,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -74217,96 +69481,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -74391,96 +69569,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -74565,96 +69657,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -74739,96 +69745,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -74913,96 +69833,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -75087,96 +69921,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -75261,96 +70009,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -75435,96 +70097,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -75609,96 +70185,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -75783,96 +70273,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -75957,96 +70361,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -76131,58 +70449,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -76267,96 +70536,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -76441,58 +70624,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        3
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -76577,58 +70711,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -76713,58 +70798,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        3
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -76849,58 +70885,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        3
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -76985,58 +70972,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -77121,58 +71059,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        3
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -77257,59 +71146,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        2
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -77394,58 +71233,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -77530,58 +71320,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -77666,58 +71407,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -77802,58 +71494,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -77938,58 +71581,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -78074,58 +71668,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -78210,58 +71755,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -78346,58 +71842,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -78482,58 +71929,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -78618,58 +72016,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -78754,58 +72103,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -78890,59 +72190,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -79027,58 +72277,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -79163,58 +72364,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -79299,58 +72451,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -79435,58 +72538,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -79571,58 +72625,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -79707,58 +72712,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -79843,58 +72799,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -79979,58 +72886,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -80115,59 +72973,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -80252,58 +73060,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -80388,58 +73147,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -80524,58 +73234,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -80660,58 +73321,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        4,
-        4
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -80796,58 +73408,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -80932,58 +73495,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -81068,58 +73582,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -81204,58 +73669,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -81340,58 +73756,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -81476,58 +73843,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -81612,58 +73930,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -81748,58 +74017,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -81884,58 +74104,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -82020,58 +74191,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -82156,58 +74278,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -82292,58 +74365,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -82428,58 +74452,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        1
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -82564,58 +74539,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -82700,58 +74626,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -82836,58 +74713,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -82972,58 +74800,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -83108,58 +74887,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        1
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -83244,58 +74974,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        1
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -83380,58 +75061,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -83516,58 +75148,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -83652,58 +75235,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -83788,58 +75322,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -83924,58 +75409,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -84060,58 +75496,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -84196,58 +75583,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -84332,58 +75670,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -84468,58 +75757,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -84604,58 +75844,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -84740,58 +75931,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -84876,58 +76018,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -85012,58 +76105,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -85148,58 +76192,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        11,
-        11
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        4,
-        5
-      ],
-      [
-        4,
-        5
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -85284,59 +76279,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        1,
-        1
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -85421,58 +76366,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -85557,96 +76453,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -85731,94 +76541,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -85903,93 +76628,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -86074,93 +76715,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -86245,93 +76802,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -86416,93 +76889,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -86587,94 +76976,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -86759,94 +77063,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -86931,94 +77150,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -87103,94 +77237,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -87275,94 +77324,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -87447,94 +77411,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -87619,94 +77498,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -88819,96 +78613,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -90021,96 +79729,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -91223,96 +80845,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -92425,96 +81961,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -93627,96 +83077,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -93801,93 +83165,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -93972,93 +83252,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -94143,93 +83339,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -94314,93 +83426,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -94485,93 +83513,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        2
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -94656,93 +83600,9 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        3,
-        3
-      ],
-      [
-        0,
-        0
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {}
-    ],
     "NeiGongPool": [
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
@@ -95855,96 +84715,10 @@
         }
       ]
     },
-    "Avatar": {},
-    "WuGongCount": [
-      [
-        2,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "WuQiCount": [
-      [
-        2,
-        4
-      ],
-      [
-        2,
-        3
-      ]
-    ],
-    "WuGongPool": [
-      {},
-      {},
-      {}
-    ],
     "NeiGongPool": [
       {},
       {}
     ],
-    "QingGongPool": [
-      {}
-    ],
-    "PersonalBag": {
-      "WuQiFangJu": [
-        {
-          "Values": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
-        }
-      ],
-      "LingDanMiaoYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "YueQiYuePu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ShiCaiJiaYao": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "JiuQiMingJiu": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "ChaJuChaYe": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ],
-      "WenWanShouCang": [
-        {
-          "Values": [
-            {}
-          ]
-        }
-      ]
-    },
     "PlayerRelationValueRange": [
       [
         -100.0,
