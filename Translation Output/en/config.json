@@ -9039,7 +9039,7 @@
     "Relation": {
       "DianCha": "Order Tea",
       "DuiYin": "For drinking",
-      "GongZou": "play together",
+      "GongZou": "Play Music",
       "XiaChuYanQing": "Cooking",
       "Wo": "I",
       "ShiFu": "Master",
@@ -17614,8 +17614,7 @@
     "Branch": [
       "Launching the Challenge",
       "No challenge for now"
-    ],
-    "PlaceRelationChange": {}
+    ]
   },
   "MaiYi": {
     "Branch": [
