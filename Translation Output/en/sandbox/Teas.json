@@ -1,0 +1,4396 @@
+[
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Vegetable Tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
+    },
+    "ItemDescription": {
+      "Value": "Ordinary black tea, under the dish tea, ordinary restaurants are available."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Mindset\" +5"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +5"
+        },
+        {
+          "Description": "\"Focus\" +3"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Pine Needle Tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
+    },
+    "ItemDescription": {
+      "Value": "The shape is spreading and straight like a spear, with a bright green color. The aroma is persistent, the soup color is bright and green, the taste is fresh and mellow, and the leaf base is green and vivid."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Mindset\" +5"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +5"
+        },
+        {
+          "Description": "\"Focus\" +3"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Stevia Tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
+    },
+    "ItemDescription": {
+      "Value": "Brewed from the leaves of stevia, it has a slightly grassy taste. Stevia leaves are very sweet, so be careful with the amount you brew, otherwise it will be too sweet and unpleasant to drink."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Killing intent\"-10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Killing intent\"-10"
+        },
+        {
+          "Description": "\"Focus\" +3"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Gardenia Tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
+    },
+    "ItemDescription": {
+      "Value": "Brewed with gardenia, it has the effect of relieving fever bouts. It is a common type of medicinal tea."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Mindset\" +5"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +5"
+        },
+        {
+          "Description": "\"Calm\" +3"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Jasmine Tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
+    },
+    "ItemDescription": {
+      "Value": "The aroma is fresh and persistent, the taste is mellow and fresh, and the soup color is yellowish green and bright."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Killing intent\"-10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Killing intent\"-10"
+        },
+        {
+          "Description": "\"Calm\" +3"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Plum Blossom Tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
+    },
+    "ItemDescription": {
+      "Value": "A few white plum petals are placed in the green tea for garnish and the fragrance of plum is unrestrained."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Mindset\" +5"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Mindset\" +5"
+        },
+        {
+          "Description": "\"Focus\" +3"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Roasted Green Tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "The shape is intact and slightly curved, the fronds are exposed, the dry color is dark green, the aroma is clear and mellow, and the soup color is bright yellow-green."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Killing intent\" -15 \"Contentment\" +3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Killing intent\"-15"
+        },
+        {
+          "Description": "\"Connotation\" +3"
+        },
+        {
+          "Description": "\"Focus\" +5"
+        },
+        {
+          "Description": "\"Calm\" +5"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Ripe Puerh Tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "The tea is made from the raw material of Yunnan large-leaf species sun-blue maocha, processed through the process of fermentation. It has brownish red color, pure taste and unique aroma of aging."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+3 to \"Contentment\" and +3 to \"Morality"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Connotation\" +3"
+        },
+        {
+          "Description": "\"Morality\" +3"
+        },
+        {
+          "Description": "\"+5 for \"Breath Adjustment"
+        },
+        {
+          "Description": "\"Calm\" +5"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Shaanxi Green Tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "Mostly produced in Yunnan, the tea has a unique aroma and an orange-yellow color in the tea broth."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+3 to \"Contentment\" and +3 to \"Bargaining"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Connotation\" +3"
+        },
+        {
+          "Description": "\"Bargaining\" +3"
+        },
+        {
+          "Description": "\"Focus\" +5"
+        },
+        {
+          "Description": "\"Qi Method +5"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Big Leaf Green </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "The color is green and yellow, the aroma is pure, the taste is rich and sweet, the soup color is orange and bright, and the leaf base is light yellow."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Killing intent\" -15 \"Contentment\" +3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Killing intent\"-15"
+        },
+        {
+          "Description": "\"Connotation\" +3"
+        },
+        {
+          "Description": "\"Focus\" +5"
+        },
+        {
+          "Description": "\"Calm\" +5"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Huqiu tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "Huqiu tea leaves are diaphanous in color, and the tea broth of the point brew is white, with a light taste and the fragrance of bean flowers."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+3 to \"Blessing\" and +3 to \"Contentment"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Fortunate Fate\" +3"
+        },
+        {
+          "Description": "\"Connotation\" +3"
+        },
+        {
+          "Description": "\"Will\" +5"
+        },
+        {
+          "Description": "\"Calm\" +5"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Ziyang Tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "Ziyang tea shape like a pike like hair, soup fragrance tea beautiful, fragrant."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Finger Power\" +1 \"Fortunate Edge\" +3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Finger Power\" +1"
+        },
+        {
+          "Description": "\"Fortunate Fate\" +3"
+        },
+        {
+          "Description": "\"Will\" +5"
+        },
+        {
+          "Description": "\"Focus\" +5"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Meishan Barbarian </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "It has a strong and fresh aroma of flowers and fruits, golden soup color, unique thick and mellow aroma, and a sweet and refreshing aftertaste of \"mountain charm\"."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+1 to \"Sword\" and +3 to \"Charisma"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"+1 to \"Use the sword"
+        },
+        {
+          "Description": "\"Charm\" +3"
+        },
+        {
+          "Description": "\"Decisions\" +5"
+        },
+        {
+          "Description": "\"Calm\" +5"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Longjing tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "Longjing tea is known for its emerald color, beautiful shape, rich fragrance, taste and mellow world, its unique \"light and far away\" \"fragrance and clear\" of the extraordinary beauty and extraordinary quality, in many tea is unique."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+6 to \"Collection\" +6 to \"Fortunes"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Each stage"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Collection\" +6"
+        },
+        {
+          "Description": "\"Fortunate Fate\" +6"
+        },
+        {
+          "Description": "\"+8 for \"Breath Adjustment"
+        },
+        {
+          "Description": "\"Calm\" +8"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Keemun black tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "Lu Yu tea sutra has recorded: \"Qi Hong special outstanding group of the most fragrant, clear reputation high fragrance not two doors.\""
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+6 to \"Negotiation\" +6 to \"Contentment"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Bargaining\" +6"
+        },
+        {
+          "Description": "\"Connotation\" +6"
+        },
+        {
+          "Description": "\"Qi Method\" +8"
+        },
+        {
+          "Description": "\"Will\" +8"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Jin Jun Mei </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "The soup is amber in color, with a light and sweet honey aroma, sweet and lubricious to taste, and the buds on the bottom of the leaves are firm and vividly bronze in color."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+6 to \"Blessing\" and +6 to \"Contentment"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Fortunate Fate\" +6"
+        },
+        {
+          "Description": "\"Connotation\" +6"
+        },
+        {
+          "Description": "\"Decisions\" +8"
+        },
+        {
+          "Description": "\"Focus\" +8"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Taiping Monkey Kui </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "High fragrance of orchid, mellow and sweet taste, clear green soup color."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Morality\" +6 \"Charisma\" +6"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Ethics\" +6"
+        },
+        {
+          "Description": "\"Charisma\" +6"
+        },
+        {
+          "Description": "\"Body\" +8"
+        },
+        {
+          "Description": "\"Calm\" +8"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Junshan Silver Needle </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "Junshan, which comes from Dongting Lake, is named after its fine needle-like shape."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Killing Intent\" -40 \"Stroke\" +2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Killing intent\"-40"
+        },
+        {
+          "Description": "\"Brush Skl\" +2"
+        },
+        {
+          "Description": "\"+8 for \"Breath Adjustment"
+        },
+        {
+          "Description": "\"Qi Method\" +8"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Phoenix Narcissus </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "The finished tea has exceptionally high aroma, rich and sweet taste, and golden soup color."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+2 to \"Whip\" and +6 to \"Charisma"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Whip Technique\" +2"
+        },
+        {
+          "Description": "\"Charisma\" +6"
+        },
+        {
+          "Description": "\"Qi Method\" +8"
+        },
+        {
+          "Description": "\"Calm\" +8"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Golden Silk Royal Chrysanthemum Tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "Golden chrysanthemum, which belongs to a kind of flower tea, referred to as royal chrysanthemum, also known as Jiu Xian royal chrysanthemum, is shaped like a hydrangea and colored like gold."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+2 to \"Dark Weapon\" +6 to \"God's Coming"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Hdn Wpn Skl\" +2"
+        },
+        {
+          "Description": "\"God Comes\" +6"
+        },
+        {
+          "Description": "\"Qi Purity\" +8"
+        },
+        {
+          "Description": "\"Focus\" +8"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Naxi Meiling </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "The shape is flat and straight, yellow-green with hidden hairs, even and clean, the soup color is yellow-green and bright, and the aroma is rich and persistent with chestnut fragrance."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+10 to \"Enlightenment\" and +10 to \"Fortunate Fortune"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Perception\" +10"
+        },
+        {
+          "Description": "\"Fortunate Fate\" +10"
+        },
+        {
+          "Description": "\"Focus\" +10"
+        },
+        {
+          "Description": "\"Qi Method\" +10"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Yuanzhou Gold Flake </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "Also known as Ming Yue Golden Piece, Golden Guanyin Tea, named because it is produced in the area of Ming Yue Mountain on the Xiang-Gan border."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+10 to \"Morality\" and +10 to \"Contentment"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Morality\" +10"
+        },
+        {
+          "Description": "\"Connotation\" +10"
+        },
+        {
+          "Description": "+10 to \"Resting\""
+        },
+        {
+          "Description": "\"Qi Method\" +10"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Yashancha </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "The shape is straight and slightly flat, fat and full, the color is bright green, white hairs are hidden, the aroma is high and long, the fragrance is persistent, the soup color is light yellow-green, clear and bright, the taste is fresh and mellow, and the aftertaste is thick."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+3 to \"Strokes\" and +10 to \"Gods"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"+3 to \"Brush Skl"
+        },
+        {
+          "Description": "\"God Comes\" +10"
+        },
+        {
+          "Description": "\"Calm\" +10"
+        },
+        {
+          "Description": "\"Decisions\" +10"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Fangshan Dew Buds </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "Successive generations of emperors loved the tea, especially Huizong, he said in the \"Da Guan tea theory\" preface: \"to if the tea for the thing, the show of Europe and Fujian, the bell mountains and rivers of the spirit of the endowment, dispel the ban on polyester stagnation, to the clear guide and, it is not the mediocre children get and know carry on, in tantalizing leisurely clean, rhyme high to quiet.\""
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Instrument\" +10 \"Charisma\" +10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Musical Instrument\" +10"
+        },
+        {
+          "Description": "\"Charisma\" +10"
+        },
+        {
+          "Description": "\"Focus\" +10"
+        },
+        {
+          "Description": "\"Calm\" +10"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Day Cast Tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "The shape resembles eagle's claw, the silver hairs are revealed, the taste is fresh and mellow, the aroma is clear and persistent, the soup color is bright and clear, and it has a unique charm."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+3 to \"Spear Use\" +10 to \"Connotation"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Spear\" +3"
+        },
+        {
+          "Description": "\"Connotation\" +10"
+        },
+        {
+          "Description": "\"Will\" +10"
+        },
+        {
+          "Description": "\"Focus\" +10"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Tianzun Rock Leaf Tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "The tea is shaped like longevity eyebrows, silver velvet disclosure, green in green. After brewing, the young buds look like bird's tongue, and the aroma is long-lasting."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+3 to \"Fist and Palm\" +10 to \"Connotation"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Fist and Palm\" +3"
+        },
+        {
+          "Description": "\"Connotation\" +10"
+        },
+        {
+          "Description": "\"+10 to \"Physical Fitness"
+        },
+        {
+          "Description": "\"Tendon\" +10"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Emei white bud tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "\"Snow buds nearly from Emei get, no less than the red bag Guzhu spring.\" Emei snow pressed tea has a fragrant aroma, tender green color, bright soup color, mellow and elegant taste."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "+3 to \"Use Sword\" +10 to \"Gods Come\""
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Sword\" +3"
+        },
+        {
+          "Description": "\"God Comes\" +10"
+        },
+        {
+          "Description": "\"Qi Method\" +10"
+        },
+        {
+          "Description": "\"Focus\" +10"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Iron Rooibos Tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "Wuyi rock tea, it is said that a monk in the Wuyi Mountains Huiyuan Temple inadvertently found a tea tree with an attractive fragrance, picked the young leaves made of tea. Because the monk stout and tall, dark and robust, like a Luohan, thus called iron Luohan tea."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Luck Axe\" +3 \"Fortunate Fate\" +10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Luck Axe\" +3"
+        },
+        {
+          "Description": "\"Fortunate Fate\" +10"
+        },
+        {
+          "Description": "\"+10 to \"Physical Fitness"
+        },
+        {
+          "Description": "\"Will\" +10"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Baihao Silver Needle </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "Because the shape is like needles, white hair is dense, white color like silver so named. Soup color light apricot yellow, taste fresh and crisp, aroma clear and fragrant."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+3 to \"Baton Juggling\" +10 to \"Fortunate Fortune"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Baton Juggling\" +3"
+        },
+        {
+          "Description": "\"Fortunate Fate\" +10"
+        },
+        {
+          "Description": "\"Qi Method\" +10"
+        },
+        {
+          "Description": "\"Calm\" +10"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Waterfall Ridge Tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "The finished tea has exceptionally high aroma, rich and sweet taste, and golden soup color."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+2 to \"Hooking\" and +6 to \"Charisma"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Hooking\" +2"
+        },
+        {
+          "Description": "\"Charisma\" +6"
+        },
+        {
+          "Description": "\"Focus\" +8"
+        },
+        {
+          "Description": "\"Calm\" +8"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Guzhu Purple Bamboo Shoots </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "The finished tea has exceptionally high aroma, rich and sweet taste, and golden soup color."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Finger Power\" +2 \"Perception\" +6"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Finger Power\" +2"
+        },
+        {
+          "Description": "\"Perception\" +6"
+        },
+        {
+          "Description": "\"Will\" +8"
+        },
+        {
+          "Description": "\"Decisions\" +8"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Wolong Mountain Tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "The finished tea has exceptionally high aroma, rich and sweet taste, and golden soup color."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+6 to \"Painting and Calligraphy\" and +6 to \"Cultured"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Painting and Calligraphy\" +6"
+        },
+        {
+          "Description": "\"Connotation\" +6"
+        },
+        {
+          "Description": "\"Calm\" +8"
+        },
+        {
+          "Description": "\"Decisions\" +8"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Chengnanxi Tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "The finished tea has exceptionally high aroma, rich and sweet taste, and golden soup color."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Cooking\" +6 \"Charisma\" +6"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Cooking\" +6"
+        },
+        {
+          "Description": "\"Perception\" +6"
+        },
+        {
+          "Description": "\"Focus\" +8"
+        },
+        {
+          "Description": "\"Calm\" +8"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Ishikakei Ridge Tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "The finished tea has exceptionally high aroma, rich and sweet taste, and golden soup color."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Killing Intent\" -20 \"Fortunate Edge\" +6"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Impairment"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Killing intent\" -20"
+        },
+        {
+          "Description": "\"Fortunate Fate\" +6"
+        },
+        {
+          "Description": "\"+8 for \"Breath Adjustment"
+        },
+        {
+          "Description": "\"Calm\" +8"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Shoujin Baocha </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "The finished tea has exceptionally high aroma, rich and sweet taste, and golden soup color."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+2 to \"Focus\" and +4 to \"Calmness"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Focus\" +2"
+        },
+        {
+          "Description": "\"Calm\" +4"
+        },
+        {
+          "Description": "\"+8 for \"Breath Adjustment"
+        },
+        {
+          "Description": "\"Qi Method\" +8"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Sit and forget tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "The finished tea has exceptionally high aroma, rich and sweet taste, and golden soup color."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+2 to \"Will\" and +4 to \"Determination"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Will\" +2"
+        },
+        {
+          "Description": "\"Decisions\" +4"
+        },
+        {
+          "Description": "\"Qi Method\" +10"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Sogo Gencha </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "Because the shape is like needles, white hair is dense, white color like silver so named. Soup color light apricot yellow, taste fresh and crisp, aroma clear and fragrant."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "+6 to \"Breath Adjustment\" +6 to \"Blessing\""
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"+6 for \"Breath Adjustment"
+        },
+        {
+          "Description": "\"Fortunate Fate\" +6"
+        },
+        {
+          "Description": "\"Gods Come\" +12"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Nourishing Heart Tea </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "Because the shape is like needles, white hair is dense, white color like silver so named. Soup color light apricot yellow, taste fresh and crisp, aroma clear and fragrant."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "+6 to \"Qi Method\" +6 to \"Calm\""
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Qi Method +6"
+        },
+        {
+          "Description": "\"Calm\" +6"
+        },
+        {
+          "Description": "\"Will\" +8"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Tea"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Qing Wei Silver Tablet </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "Because the shape is like needles, white hair is dense, white color like silver so named. Soup color light apricot yellow, taste fresh and crisp, aroma clear and fragrant."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+6 to \"Body Form\" +6 to \"God Come"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Tea drinking status"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Meditative state"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "Each stage"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          },
+          "JieDuan": {
+            "ValueInfo": "Ongoing phase"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "\"Qi Purity\" +6"
+        },
+        {
+          "Description": "\"God Comes\" +6"
+        },
+        {
+          "Description": "\"Focus\" +8"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Rough pottery bowl </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
+    },
+    "ItemDescription": {
+      "Value": "The roughly made pottery bowl is barely usable."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "No carry effect"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Rough porcelain bowl </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
+    },
+    "ItemDescription": {
+      "Value": "Roughly made porcelain bowl, barely usable."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "No carry effect"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> White porcelain hand-painted bowl </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
+    },
+    "ItemDescription": {
+      "Value": "The tea bowl made out of ordinary white porcelain with hand-painted patterns by the store is slightly rough."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "No carry effect"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> White Clay Rough Earthenware Pot </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
+    },
+    "ItemDescription": {
+      "Value": "A roughly made pot made of white clay, barely usable."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "No carry effect"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FFFFFFFF> Rough porcelain teapot </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FFFFFFFF>Common</color> "
+    },
+    "ItemDescription": {
+      "Value": "Roughly made porcelain teapot, barely usable."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "No carry effect"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Pink and green glazed teapot </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "The entire body is glazed with pink and blue glaze, the shape is simple, the lines are hard, the color is brilliant, and the glaze is warmer."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Tea Ceremony\" +1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Lotus Petal Tea Bowl </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "White glaze inside and out, rough texture, uneven glaze color. The mouth of the bowl is in the shape of a lotus petal."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Tea Ceremony\" +1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Lotus Petal Tea Bowl </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "White glaze inside and out, rough texture, uneven glaze color. The mouth of the bowl is in the shape of lotus petals."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Tea Ceremony\" +1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Plum Petal Tea Bowl </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "White glaze inside and out, rough texture, uneven glaze color. The mouth of the bowl is in the shape of a plum petal."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Tea Ceremony\" +1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Ancient Moon Tea Bowl </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "The inside and outside are glazed with moon white glaze, the tire is rough and the glaze is grayish white. The mouth of the bowl is in the shape of an ancient moon."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Tea Ceremony\" +1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#23FF00FF> Hexagonal Tea Bowl </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#23FF00FF>Superior</color> "
+    },
+    "ItemDescription": {
+      "Value": "Inside and outside are coated with moon white glaze, the tire is rough and the glaze is grayish white. The mouth of the bowl is six square."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Tea Ceremony\" +1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Rose Purple Bowl </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "The glaze is thick and muddy, the glaze layer is milky and lustrous, there are many layers, transparent and lively, and the sense of three-dimensionality is very strong. Red in purple, purple in green, green in white, white in red, five colors seeping, reflecting each other's brilliance."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Tea Ceremony\" +2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Longquan Doujian </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "The entire body is glazed with pink-green glaze, which is soft and elegant, glistening like jade, one of the best shades of green glaze. The beauty of the monochrome glaze is reflected in the pink and blue glaze of this jade."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+1 for \"Tea Ceremony\" +1 for \"Focus"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> White porcelain printed bowl </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "The entire body is glazed in white, and the pattern is delicate and clear, with a vivid and naturalistic pattern."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Connotation\" +2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Paper cut and applique marigold </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "Mostly produced in Jizhou, the outer wall is glazed in black with a subdued glaze. Inside the brown and yellow glaze decorated with paper cutouts paste flowers flower pattern. When injected into the tea soup, reflecting it, elegant and pleasant."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Tea Ceremony\" +1 \"Collection\" +1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Printed double phoenix marigold </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "The whole body with a slight flash of yellow light green glaze, glaze moist and elegant. Bowl inside decorated with auspicious phoenix with flowers, clear pattern, thick and light, slightly convex pattern. The whole vessel glaze is moist and shiny, and its end shape, more beautiful and harmonious."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+1 to \"Tea Ceremony\" +1 to \"Fortunate Fortune"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Ice Cracked Calendula </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemDescription": {
+      "Value": "The glaze is moist inside and outside the body, the glaze is thick, the open pieces are even, the color is greenish-gray, showing a sense of opacity of the milky cloud, and the color of the grayish-black body under the glaze is hidden, if the cui is dipped in the bones, the mind is relaxed and the production is exquisite."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "+1 to \"Tea Ceremony\" +1 to \"Muscle\""
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Ruyi Cup </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "The interior and exterior are covered with sky blue glaze, with a rough texture and a warm glaze. It means all things are as they should be."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Connotation\" +3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Yue Kiln Celadon </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "Lu Guimeng of the Tang Dynasty once praised Yue kiln celadon, \"the nine autumn wind and dew of Yue kiln open, to get a thousand peaks of green color. During the Five Dynasties period, Yue kiln celadon was called \"secret color porcelain\", the glaze is green and blue, crystal and moist, like the tranquil lake water, clear and green."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Tea Ceremony\" +3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Silver Star Spot Bowl </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "The black glaze is warm and moist, with uniform silvery half-dots on the inside, showing a dazzling brilliance in the sunlight."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Charm\" +3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Black Glazed Rabbit's Hair Marigold </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "Black glaze with radiating yellow-brown stripes, like the fur on the rabbit, commonly known as \"rabbit hair pattern\". Because the court prevailed in the style of tea, so this kind of thick body, glaze black like iron popular for a while."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+2 to \"Tea Ceremony\" +1 to \"Fortunate Fortune"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Obsidian Tianmu </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "The first tea ware of the Song Dynasty, the shining and dynamic obsidian crystals dance like a genie with the fragrance of tea, attracting people's imagination. It emits a dazzling light when exposed to sunlight and certain temperature."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Insight\" +3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Cracked ice bowl with flakes </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "The glaze is even and translucent, with ice cracks of varying sizes on the bottom of the bowl, layered and varied."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Musical Instrument\" +3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Starry Elephant Xuan Sha Tealight </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "The black base glaze is covered with large and small blue spots, and from a distance it looks like a starry sky is mapped out in the cup, hence the name astrological calendars. The production process is very strict, the slightest carelessness will be broken cup, so the production of this calendula is rare, the price is expensive."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Perception\" +3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Engraved dragon and phoenix marquee </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemDescription": {
+      "Value": "The vessel is handsome in form, with a lustrous and glossy glaze, and elegant and subdued tones. The mouth of the cup wall is carved with a one-week return pattern, and the abdomen is decorated with three string lines under the dark carved dragon and phoenix pattern, the carving is clear, and the lines are not muddy. The body is light and thin, the color is like rice paste, there are fine fragments, the appearance is soft and elegant, like jade."
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Gods Come\" +3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Vegan bowl </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+1 to \"Tea Ceremony\" +1 to \"Chi Method"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Phoenix Turtle Cup </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+1 to \"Tea Ceremony\" and +1 to \"Breath Adjustment"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Laughing blue tea sound jan </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Collection\" +2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Containing Smoke Bowl </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "+1 to \"Qi Purity\" +1 to \"lower body\""
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Seven-color bowl </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Gods Come\" +2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF00B6FF> Star Hub Marigold </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF00B6FF> Exquisite </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+1 \"Collection\" + 1"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Ask Maple Soyin </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Focus\" +2 \"Calm\" +2"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Guxian porcelain </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"Fortunate Fate\" +3"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "Teaware"
+    },
+    "Name": {
+      "ValueInfo": " <color=#FF9A00FF> Guardian Dragon Xuanwei </color> "
+    },
+    "ItemPinZhi": {
+      "ValueInfo": " <color=#FF9A00FF> Dragon, etc. </color> "
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "\"+3 to \"Brush Skl"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "Part Recovery"
+          },
+          "ValueOperator": {
+            "ValueInfo": "Value added"
+          }
+        }
+      ]
+    }
+  }
+]
