@@ -1,0 +1,626 @@
+[
+  {
+    "Name": {
+      "ValueInfo": "Musk"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Chengdu"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "Lizhou Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Xing Yuan merchants"
+    },
+    "Type": {
+      "ValueInfo": "Fragrant medicine"
+    },
+    "ChuFaPlace": {
+      "Value": "Xing Yuan merchants"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Chengdu"
+      ]
+    },
+    "PriceData": {}
+  },
+  {
+    "Name": {
+      "ValueInfo": "Agarwood"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Guangzhou"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "Guangnan East Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Wenzhou merchants"
+    },
+    "Type": {
+      "ValueInfo": "Fragrant medicine"
+    },
+    "ChuFaPlace": {
+      "Value": "Guangzhou"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Wenzhou merchants"
+      ]
+    },
+    "PriceData": {}
+  },
+  {
+    "Name": {
+      "ValueInfo": "Frankincense"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Bianliang"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "East Jingdong Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Langya Merchant"
+    },
+    "Type": {
+      "ValueInfo": "Fragrant medicine"
+    },
+    "ChuFaPlace": {
+      "Value": "Langya Merchant"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Bianliang"
+      ]
+    },
+    "PriceData": {}
+  },
+  {
+    "Name": {
+      "ValueInfo": "Lobelia"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Hangzhou"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "Fujian Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Wenzhou merchants"
+    },
+    "Type": {
+      "ValueInfo": "Fragrant medicine"
+    },
+    "ChuFaPlace": {
+      "Value": "Hangzhou"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Fuzhou"
+      ]
+    },
+    "PriceData": {}
+  },
+  {
+    "Name": {
+      "ValueInfo": "Iron Ore"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Bianliang"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "East Hebei Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Tianlong Shop"
+    },
+    "Type": {
+      "ValueInfo": "Resources"
+    },
+    "ChuFaPlace": {
+      "Value": "Dame House"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Tianlong Merchant"
+      ]
+    },
+    "PriceData": {}
+  },
+  {
+    "Name": {
+      "ValueInfo": "Copper"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Hangzhou"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "Jiangnan West Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Tokyo Merchants"
+    },
+    "Type": {
+      "ValueInfo": "Resources"
+    },
+    "ChuFaPlace": {
+      "Value": "Hongzhou"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Tokyo Merchants"
+      ]
+    },
+    "PriceData": {}
+  },
+  {
+    "Name": {
+      "ValueInfo": "Stone Charcoal"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Bianliang"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "Beijing East-West Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Tianlong Shop"
+    },
+    "Type": {
+      "ValueInfo": "Resources"
+    },
+    "ChuFaPlace": {
+      "Value": "Tianlong Shop"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Hangzhou"
+      ]
+    },
+    "PriceData": {}
+  },
+  {
+    "Name": {
+      "ValueInfo": "Hardwood"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Bianliang"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "South Jingxi Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Fulong merchants"
+    },
+    "Type": {
+      "ValueInfo": "Resources"
+    },
+    "ChuFaPlace": {
+      "Value": "Fulong merchants"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Bianliang"
+      ]
+    },
+    "PriceData": {}
+  },
+  {
+    "Name": {
+      "ValueInfo": "Firewood"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Guangzhou"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "Jing Hunan Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Qi Tian Merchant"
+    },
+    "Type": {
+      "ValueInfo": "Resources"
+    },
+    "ChuFaPlace": {
+      "Value": "Qi Tian Merchant"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Guangzhou"
+      ]
+    },
+    "PriceData": {}
+  },
+  {
+    "Name": {
+      "ValueInfo": "Sucrose"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Chengdu"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "Kui Zhou Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Tokyo Merchants"
+    },
+    "Type": {
+      "ValueInfo": "Supplies"
+    },
+    "ChuFaPlace": {
+      "Value": "Kui Prefecture, China"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Chengdu"
+      ]
+    },
+    "PriceData": {}
+  },
+  {
+    "Name": {
+      "ValueInfo": "Salt"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Hangzhou"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "Huainan East Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Tokyo Merchants"
+    },
+    "Type": {
+      "ValueInfo": "Supplies"
+    },
+    "ChuFaPlace": {
+      "Value": "Yangzhou"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Tokyo Merchants"
+      ]
+    },
+    "PriceData": {}
+  },
+  {
+    "Name": {
+      "ValueInfo": "Sesame oil"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Hangzhou"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "Jinghu North Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Qi Tian Merchant"
+    },
+    "Type": {
+      "ValueInfo": "Supplies"
+    },
+    "ChuFaPlace": {
+      "Value": "Gangneungfu"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Hangzhou"
+      ]
+    },
+    "PriceData": {}
+  },
+  {
+    "Name": {
+      "ValueInfo": "Canola oil"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Hangzhou"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "Huainan West Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Tokyo Merchants"
+    },
+    "Type": {
+      "ValueInfo": "Supplies"
+    },
+    "ChuFaPlace": {
+      "Value": "Shouzhou"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Hangzhou"
+      ]
+    },
+    "PriceData": {}
+  },
+  {
+    "Name": {
+      "ValueInfo": "Silk"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Hangzhou"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "Liangzhe Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Wenzhou merchants"
+    },
+    "Type": {
+      "ValueInfo": "Textile"
+    },
+    "ChuFaPlace": {
+      "Value": "Wenzhou merchants"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Bianliang"
+      ]
+    },
+    "PriceData": {}
+  },
+  {
+    "Name": {
+      "ValueInfo": "Fur"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Bianliang"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "North Jingxi Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Tokyo Merchants"
+    },
+    "Type": {
+      "ValueInfo": "Textile"
+    },
+    "ChuFaPlace": {
+      "Value": "Bianliang"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Henan Province"
+      ]
+    },
+    "PriceData": {}
+  },
+  {
+    "Name": {
+      "ValueInfo": "kapok"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Bianliang"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "Hebei West Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Ding Rong Merchants"
+    },
+    "Type": {
+      "ValueInfo": "Textile"
+    },
+    "ChuFaPlace": {
+      "Value": "Ding Rong Merchants"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Bianliang"
+      ]
+    },
+    "PriceData": {}
+  },
+  {
+    "Name": {
+      "ValueInfo": "Ramie"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Bianliang"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "Yongxingjun Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Miri Shop"
+    },
+    "Type": {
+      "ValueInfo": "Textile"
+    },
+    "ChuFaPlace": {
+      "Value": "Miri Shop"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Zhendingfu"
+      ]
+    },
+    "PriceData": {}
+  },
+  {
+    "Name": {
+      "ValueInfo": "Rhinoceros horn"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Guangzhou"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "Guangnan West Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Puyang Shop"
+    },
+    "Type": {
+      "ValueInfo": "Luxury goods"
+    },
+    "ChuFaPlace": {
+      "Value": "Yongzhou"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Guangzhou"
+      ]
+    },
+    "PriceData": {}
+  },
+  {
+    "Name": {
+      "ValueInfo": "Ivory"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Chengdu"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "Zizhou Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Xing Yuan merchants"
+    },
+    "Type": {
+      "ValueInfo": "Luxury goods"
+    },
+    "ChuFaPlace": {
+      "Value": "Zizhou"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Bianliang"
+      ]
+    },
+    "PriceData": {}
+  },
+  {
+    "Name": {
+      "ValueInfo": "Pepper"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Chengdu"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "Qinfeng Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Longan merchants"
+    },
+    "Type": {
+      "ValueInfo": "Luxury goods"
+    },
+    "ChuFaPlace": {
+      "Value": "Fengxiang Mansion"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Longan merchants"
+      ]
+    },
+    "PriceData": {}
+  },
+  {
+    "Name": {
+      "ValueInfo": "Spiral Tin Lacquerware"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Bianliang"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "East River Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Miri Shop"
+    },
+    "Type": {
+      "ValueInfo": "Crafts"
+    },
+    "ChuFaPlace": {
+      "Value": "Taiyuan House"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Bianliang"
+      ]
+    },
+    "PriceData": {}
+  },
+  {
+    "Name": {
+      "ValueInfo": "Shu embroidery"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Chengdu"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "Chengdu Fu Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Tokyo Merchants"
+    },
+    "Type": {
+      "ValueInfo": "Crafts"
+    },
+    "ChuFaPlace": {
+      "Value": "Chengdu"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Bianliang"
+      ]
+    },
+    "PriceData": {}
+  },
+  {
+    "Name": {
+      "ValueInfo": "Bianxi Embroidery"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Bianliang"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "Gyeonggi Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Tokyo Merchants"
+    },
+    "Type": {
+      "ValueInfo": "Crafts"
+    },
+    "ChuFaPlace": {
+      "Value": "Bianliang"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Guangzhou"
+      ]
+    },
+    "PriceData": {}
+  },
+  {
+    "Name": {
+      "ValueInfo": "Rainbows"
+    },
+    "BuyPlace": {
+      "ValueInfo": "Hangzhou"
+    },
+    "TeChanPlace": {
+      "ValueInfo": "Jiangnan East Road"
+    },
+    "ShangLuControl": {
+      "ValueInfo": "Zejiang merchants"
+    },
+    "Type": {
+      "ValueInfo": "Crafts"
+    },
+    "ChuFaPlace": {
+      "Value": "Zejiang merchants"
+    },
+    "DaoDaPlace": {
+      "Value": [
+        "Hangzhou"
+      ]
+    },
+    "PriceData": {}
+  }
+]
