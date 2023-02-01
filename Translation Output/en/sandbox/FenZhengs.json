@@ -1,0 +1,802 @@
+[
+  {
+    "BattleName": [
+      "Iron Palm Killer"
+    ],
+    "DialogCharacterName": "Taishan School Disciples"
+  },
+  {
+    "BattleName": [
+      "Tongliao Rebels",
+      "Wanted"
+    ],
+    "DialogCharacterName": "Tarzan Patrol Shop"
+  },
+  {
+    "BattleName": [
+      "Traitors in Mt."
+    ],
+    "DialogCharacterName": "Tarzan Patrol Shop"
+  },
+  {
+    "BattleName": [
+      "Liang Shan Humans"
+    ],
+    "DialogCharacterName": "Injured Taishan Disciple"
+  },
+  {
+    "BattleName": [
+      "Iron Palm Fugitive"
+    ],
+    "DialogCharacterName": "Injured disciples of Taishan"
+  },
+  {
+    "BattleName": [
+      "Jianghu Kicker Chivalry"
+    ],
+    "DialogCharacterName": "Taishan Inner Disciple"
+  },
+  {
+    "BattleName": [
+      "Five Poison Ambassadors"
+    ],
+    "DialogCharacterName": "Poisoned disciples of Mt."
+  },
+  {
+    "BattleName": [
+      "Xuantian Thief"
+    ],
+    "DialogCharacterName": "Song Shan Patrol Shop"
+  },
+  {
+    "BattleName": [
+      "Flying Scorpion Killer",
+      "Secretary of Shangguan Zheng"
+    ],
+    "DialogCharacterName": "Disciples of Songshan School"
+  },
+  {
+    "BattleName": [
+      "Iron Palm Maniacs"
+    ],
+    "DialogCharacterName": "Disciples of Volsung Mountain"
+  },
+  {
+    "BattleName": [
+      "Disciples of the Heavenly Dignity Church"
+    ],
+    "DialogCharacterName": "Defeated disciples of Mt."
+  },
+  {
+    "BattleName": [
+      "Blazing Sun Fanatic"
+    ],
+    "DialogCharacterName": "Injured disciples of Mount Hua"
+  },
+  {
+    "BattleName": [
+      "Flying Thieves"
+    ],
+    "DialogCharacterName": "Disciples of the Huashan School"
+  },
+  {
+    "BattleName": [
+      "Blazing Sun Fanatic",
+      "Blazing Sun Fanatic"
+    ],
+    "DialogCharacterName": "Disciples of the Huashan School"
+  },
+  {
+    "BattleName": [
+      "Quanzhen provoked the disciples"
+    ],
+    "DialogCharacterName": "Injured disciples of Mount Hua"
+  },
+  {
+    "BattleName": [
+      "Bloody Hand Murderer"
+    ],
+    "DialogCharacterName": "Injured disciples of Mount Everest"
+  },
+  {
+    "BattleName": [
+      "Black stage kidnappers"
+    ],
+    "DialogCharacterName": "Kidnapped Nuns"
+  },
+  {
+    "BattleName": [
+      "Blackstand Humans",
+      "Bloody Hand Killer"
+    ],
+    "DialogCharacterName": "Mili merchant escort"
+  },
+  {
+    "BattleName": [
+      "Fugitive murderer"
+    ],
+    "DialogCharacterName": "Heng Shan Patrol Shop"
+  },
+  {
+    "BattleName": [
+      "Iron Palm Traitor"
+    ],
+    "DialogCharacterName": "Injured Hengshan swordsman"
+  },
+  {
+    "BattleName": [
+      "Blood Hands"
+    ],
+    "DialogCharacterName": "Heng Shan Poisoned Swordsman"
+  },
+  {
+    "BattleName": [
+      "Izumo ronin"
+    ],
+    "DialogCharacterName": "Hengshan disciples"
+  },
+  {
+    "BattleName": [
+      "Songshan wild and proud swordsman"
+    ],
+    "DialogCharacterName": "Hengshan Failed Disciple"
+  },
+  {
+    "BattleName": [
+      "Beggar crazy thief"
+    ],
+    "DialogCharacterName": "Hengshan injured disciple"
+  },
+  {
+    "BattleName": [
+      "Beggar Traitor",
+      "Five Poison Killer"
+    ],
+    "DialogCharacterName": "Merchant Escort"
+  },
+  {
+    "BattleName": [
+      "Quanzhen Tongliao traitor"
+    ],
+    "DialogCharacterName": "Shaolin injured disciples"
+  },
+  {
+    "BattleName": [
+      "Beijing Sheep Thief"
+    ],
+    "DialogCharacterName": "Merchant Escort"
+  },
+  {
+    "BattleName": [
+      "Heavenly Dignity Killer",
+      "Division of the eye line"
+    ],
+    "DialogCharacterName": "Shaolin Temple Disciples"
+  },
+  {
+    "BattleName": [
+      "Fugitive murderer"
+    ],
+    "DialogCharacterName": "Shaolin Patrol Shop"
+  },
+  {
+    "BattleName": [
+      "strange spear evil"
+    ],
+    "DialogCharacterName": "Caravan fallen escort"
+  },
+  {
+    "BattleName": [
+      "Iron Palm Traitor"
+    ],
+    "DialogCharacterName": "Injured Shaolin disciple"
+  },
+  {
+    "BattleName": [
+      "Shaolin's prized disciple"
+    ],
+    "DialogCharacterName": "Shaolin defeated disciples"
+  },
+  {
+    "BattleName": [
+      "Five Poison Ambassadors"
+    ],
+    "DialogCharacterName": "Omei poisoned disciples"
+  },
+  {
+    "BattleName": [
+      "Wanted"
+    ],
+    "DialogCharacterName": "Omei Tour Shop"
+  },
+  {
+    "BattleName": [
+      "Omei Traitor"
+    ],
+    "DialogCharacterName": "Omei's injured disciples"
+  },
+  {
+    "BattleName": [
+      "Beggar's Succubus"
+    ],
+    "DialogCharacterName": "Emei's fallen disciples"
+  },
+  {
+    "BattleName": [
+      "Omei's favorite disciple"
+    ],
+    "DialogCharacterName": "Omei's defeated disciples"
+  },
+  {
+    "BattleName": [
+      "Blood Hand Sect Killer"
+    ],
+    "DialogCharacterName": "Wudang's fallen disciples"
+  },
+  {
+    "BattleName": [
+      "Five Poison Ambassadors"
+    ],
+    "DialogCharacterName": "Wudang Poisoned Disciple"
+  },
+  {
+    "BattleName": [
+      "book thief"
+    ],
+    "DialogCharacterName": "Wudang Patrol Shop"
+  },
+  {
+    "BattleName": [
+      "Baofeng Mangkou"
+    ],
+    "DialogCharacterName": "Merchant Escort"
+  },
+  {
+    "BattleName": [
+      "Fugitive from Murder"
+    ],
+    "DialogCharacterName": "Wudang Patrol Shop"
+  },
+  {
+    "BattleName": [
+      "Wudang winning disciple"
+    ],
+    "DialogCharacterName": "Defeated disciples of Wudang"
+  },
+  {
+    "BattleName": [
+      "Quanzhen Traitor",
+      "Lion Secret Party"
+    ],
+    "DialogCharacterName": "Disciples of Quanzhen Sect"
+  },
+  {
+    "BattleName": [
+      "Baofeng thieves and bandits"
+    ],
+    "DialogCharacterName": "Merchant Escort"
+  },
+  {
+    "BattleName": [
+      "Blazing Sun Fanatic"
+    ],
+    "DialogCharacterName": "Injured disciples of Quanzhen Sect"
+  },
+  {
+    "BattleName": [
+      "Bloody Hands"
+    ],
+    "DialogCharacterName": "Coma Disciple"
+  },
+  {
+    "BattleName": [
+      "Disciples of Blazing Sun Pride"
+    ],
+    "DialogCharacterName": "Quanzhen disciples"
+  },
+  {
+    "BattleName": [
+      "Wudang Patrol Shop",
+      "Shaolin Patrol Shop"
+    ],
+    "DialogCharacterName": "The Heavenly Dignity Villains"
+  },
+  {
+    "BattleName": [
+      "Five Poison Ambassadors"
+    ],
+    "DialogCharacterName": "Disciples of the Heavenly Dignity Church"
+  },
+  {
+    "BattleName": [
+      "Jingbei Chivalry"
+    ],
+    "DialogCharacterName": "Disciples of the Heavenly Dignity Church"
+  },
+  {
+    "BattleName": [
+      "Fanjing Escort"
+    ],
+    "DialogCharacterName": "Tianzun injured robber"
+  },
+  {
+    "BattleName": [
+      "Beiyue Jianni",
+      "The Damsel in Distress"
+    ],
+    "DialogCharacterName": "Tianzun injured robber"
+  },
+  {
+    "BattleName": [
+      "Disciples of Shangguan Zheng"
+    ],
+    "DialogCharacterName": "Tianzun's injured disciples"
+  },
+  {
+    "BattleName": [
+      "Daiyue Jianhao",
+      "Shaolin Hermit Monk"
+    ],
+    "DialogCharacterName": "Secret Ambassador of the Heavenly Father"
+  },
+  {
+    "BattleName": [
+      "Heavenly Father's favorite disciple"
+    ],
+    "DialogCharacterName": "Tianzun's defeated disciples"
+  },
+  {
+    "BattleName": [
+      "Swordsman of Mount Hua"
+    ],
+    "DialogCharacterName": "Blazing Sun Fanatic"
+  },
+  {
+    "BattleName": [
+      "Meet the Righteous Chivalrous"
+    ],
+    "DialogCharacterName": "Debt Collector"
+  },
+  {
+    "BattleName": [
+      "Disciples of Quanzhen Sect"
+    ],
+    "DialogCharacterName": "Killer of the scorching sun"
+  },
+  {
+    "BattleName": [
+      "Yan Feng Tang provokes the swordsman"
+    ],
+    "DialogCharacterName": "Disciples of the Blazing Sun"
+  },
+  {
+    "BattleName": [
+      "Traitor of the Blazing Sun",
+      "Mount Everest outcast"
+    ],
+    "DialogCharacterName": "Injured Killer"
+  },
+  {
+    "BattleName": [
+      "rivers and lakes chivalrous man"
+    ],
+    "DialogCharacterName": "Disciples of the Blood Hand Sect"
+  },
+  {
+    "BattleName": [
+      "The Swordsman of Mount Everest"
+    ],
+    "DialogCharacterName": "Bloody Hand Killer"
+  },
+  {
+    "BattleName": [
+      "Swordsman of Mount Hua"
+    ],
+    "DialogCharacterName": "Blood Hand Disciples"
+  },
+  {
+    "BattleName": [
+      "Song Shan Patrol Shop"
+    ],
+    "DialogCharacterName": "Flying Scorpion Murderer"
+  },
+  {
+    "BattleName": [
+      "Five Poison Ambassadors"
+    ],
+    "DialogCharacterName": "Flying Scorpion Poisoning Disciple"
+  },
+  {
+    "BattleName": [
+      "Disciples of Youming School",
+      "Sea Gate gang of thieves and bandits"
+    ],
+    "DialogCharacterName": "Flying Scorpion Murderer"
+  },
+  {
+    "BattleName": [
+      "Beggar's Disciples"
+    ],
+    "DialogCharacterName": "Flying Scorpion Injured Disciple"
+  },
+  {
+    "BattleName": [
+      "rivers and lakes chivalrous man"
+    ],
+    "DialogCharacterName": "Reckless beggars"
+  },
+  {
+    "BattleName": [
+      "Five Poison Ambassadors"
+    ],
+    "DialogCharacterName": "Poisoned beggars"
+  },
+  {
+    "BattleName": [
+      "Flying Scorpion Devils",
+      "Lost Heart Whip"
+    ],
+    "DialogCharacterName": "Comatose beggar"
+  },
+  {
+    "BattleName": [
+      "Tarzan Guards"
+    ],
+    "DialogCharacterName": "Beggar Thief"
+  },
+  {
+    "BattleName": [
+      "Hyakujo renegade"
+    ],
+    "DialogCharacterName": "Injured beggar"
+  },
+  {
+    "BattleName": [
+      "Gangster"
+    ],
+    "DialogCharacterName": "Injured beggar"
+  },
+  {
+    "BattleName": [
+      "Iron Palm"
+    ],
+    "DialogCharacterName": "Beggar's righteousness"
+  },
+  {
+    "BattleName": [
+      "Yanfeng spy"
+    ],
+    "DialogCharacterName": "Beggars in distress"
+  },
+  {
+    "BattleName": [
+      "Beggars' Rebels"
+    ],
+    "DialogCharacterName": "Injured beggar disciples"
+  },
+  {
+    "BattleName": [
+      "Beggar's Gang Outlaws"
+    ],
+    "DialogCharacterName": "Injured beggar disciples"
+  },
+  {
+    "BattleName": [
+      "Door-to-door provocation of chivalry"
+    ],
+    "DialogCharacterName": "Beggars stay beggars"
+  },
+  {
+    "BattleName": [
+      "Five Poison Ambassadors"
+    ],
+    "DialogCharacterName": "Qingcheng Poisoned Disciple"
+  },
+  {
+    "BattleName": [
+      "Uxianke"
+    ],
+    "DialogCharacterName": "The fallen disciples of Qingcheng"
+  },
+  {
+    "BattleName": [
+      "Xuantian Thief"
+    ],
+    "DialogCharacterName": "Disciples of Qingcheng"
+  },
+  {
+    "BattleName": [
+      "Door-to-door provocation of chivalry"
+    ],
+    "DialogCharacterName": "Disciples of Qingcheng"
+  },
+  {
+    "BattleName": [
+      "beggars and thieves"
+    ],
+    "DialogCharacterName": "Disciples of Mt. Hyakujo"
+  },
+  {
+    "BattleName": [
+      "Disciples of the Heavenly Dignity Church"
+    ],
+    "DialogCharacterName": "Disciples of Mt. Hyakujo"
+  },
+  {
+    "BattleName": [
+      "Paektu's favorite disciple"
+    ],
+    "DialogCharacterName": "Defeated disciple of Hyakujo"
+  },
+  {
+    "BattleName": [
+      "Six false thieves"
+    ],
+    "DialogCharacterName": "Westside Escort"
+  },
+  {
+    "BattleName": [
+      "Five Poison Cave Disciples"
+    ],
+    "DialogCharacterName": "Yanfeng patrol store"
+  },
+  {
+    "BattleName": [
+      "Lingnan Villains"
+    ],
+    "DialogCharacterName": "Spiritual rhinoceros merchant escort"
+  },
+  {
+    "BattleName": [
+      "Blazing Sun Knife"
+    ],
+    "DialogCharacterName": "Disciples of Yanfeng Hall"
+  },
+  {
+    "BattleName": [
+      "Flying Scorpion Succubus"
+    ],
+    "DialogCharacterName": "Fallen Shiraki escort"
+  },
+  {
+    "BattleName": [
+      "Songshan Succubus"
+    ],
+    "DialogCharacterName": "Wounded King Goat Guards"
+  },
+  {
+    "BattleName": [
+      "Beggar's Disciples"
+    ],
+    "DialogCharacterName": "Disciples of Youhong Palace"
+  },
+  {
+    "BattleName": [
+      "The Clothes Thief"
+    ],
+    "DialogCharacterName": "Disciples of Youhong Palace"
+  },
+  {
+    "BattleName": [
+      "Vengeance Seeker"
+    ],
+    "DialogCharacterName": "Disciples of Youhong Palace"
+  },
+  {
+    "BattleName": [
+      "Beggar lecher"
+    ],
+    "DialogCharacterName": "Stunning Youhong disciples"
+  },
+  {
+    "BattleName": [
+      "Five Poison Disciples"
+    ],
+    "DialogCharacterName": "Injured disciples of Youhong Palace"
+  },
+  {
+    "BattleName": [
+      "Iron Palm Traitor"
+    ],
+    "DialogCharacterName": "Gibe Escort"
+  },
+  {
+    "BattleName": [
+      "Tarzan Patrol Shop"
+    ],
+    "DialogCharacterName": "Iron Palm Murderer"
+  },
+  {
+    "BattleName": [
+      "disciples of the Everest School"
+    ],
+    "DialogCharacterName": "Tongliao secret envoy"
+  },
+  {
+    "BattleName": [
+      "Iron Palm Traitor"
+    ],
+    "DialogCharacterName": "Injured Iron Palm Disciple"
+  },
+  {
+    "BattleName": [
+      "Door-to-door provocation of chivalry"
+    ],
+    "DialogCharacterName": "Iron Palm disciples"
+  },
+  {
+    "BattleName": [
+      "Nanyang Traitor"
+    ],
+    "DialogCharacterName": "Nanyang Injured Disciple"
+  },
+  {
+    "BattleName": [
+      "Heavenly Dignity Fanatic"
+    ],
+    "DialogCharacterName": "Nanyang Injured Disciple"
+  },
+  {
+    "BattleName": [
+      "Nanyang Traitor"
+    ],
+    "DialogCharacterName": "Nanyang Injured Disciple"
+  },
+  {
+    "BattleName": [
+      "Xuantian Thief"
+    ],
+    "DialogCharacterName": "Stolen disciples in Nanyang"
+  },
+  {
+    "BattleName": [
+      "Nanyang winning disciple"
+    ],
+    "DialogCharacterName": "Nanyang Failed Disciple"
+  },
+  {
+    "BattleName": [
+      "Stolen Chivalry"
+    ],
+    "DialogCharacterName": "Disciples of Xuantian Pavilion"
+  },
+  {
+    "BattleName": [
+      "Stolen Chivalry"
+    ],
+    "DialogCharacterName": "Disciples of Xuantian Pavilion"
+  },
+  {
+    "BattleName": [
+      "Stolen Chivalry"
+    ],
+    "DialogCharacterName": "Disciples of Xuantian Pavilion"
+  },
+  {
+    "BattleName": [
+      "Stolen Chivalry"
+    ],
+    "DialogCharacterName": "Xuantian disciples"
+  },
+  {
+    "BattleName": [
+      "Stolen Man"
+    ],
+    "DialogCharacterName": "Xuantian disciples"
+  },
+  {
+    "BattleName": [
+      "Stolen Chef"
+    ],
+    "DialogCharacterName": "Xuantian disciples"
+  },
+  {
+    "BattleName": [
+      "Stolen Taotie celebrity chef"
+    ],
+    "DialogCharacterName": "Xuantian disciples"
+  },
+  {
+    "BattleName": [
+      "Stolen Man"
+    ],
+    "DialogCharacterName": "Xuantian disciples"
+  },
+  {
+    "BattleName": [
+      "Xuantian Pavilion Thieves"
+    ],
+    "DialogCharacterName": "Stolen Taotie Chef"
+  },
+  {
+    "BattleName": [
+      "Disciples of the Iron Palm"
+    ],
+    "DialogCharacterName": "Gourmets Cook"
+  },
+  {
+    "BattleName": [
+      "Hundred zhang boxer"
+    ],
+    "DialogCharacterName": "Injured Psi-Ming disciple"
+  },
+  {
+    "BattleName": [
+      "Flying Scorpion Killer"
+    ],
+    "DialogCharacterName": "Trapped Disciples of Psi Ming"
+  },
+  {
+    "BattleName": [
+      "Hundred zhang boxer"
+    ],
+    "DialogCharacterName": "Defeated White Crane Disciple"
+  },
+  {
+    "BattleName": [
+      "Hengshan Drunkard"
+    ],
+    "DialogCharacterName": "Injured White Crane Disciple"
+  },
+  {
+    "BattleName": [
+      "Inferno Swordsman"
+    ],
+    "DialogCharacterName": "Injured White Crane Disciple"
+  },
+  {
+    "BattleName": [
+      "Disciples of Flying Scorpionwood"
+    ],
+    "DialogCharacterName": "White Crane Injured Disciple"
+  },
+  {
+    "BattleName": [
+      "Omei Tour Shop"
+    ],
+    "DialogCharacterName": "Five drug dealers"
+  },
+  {
+    "BattleName": [
+      "Yanfeng patrol store"
+    ],
+    "DialogCharacterName": "Five drug dealers"
+  },
+  {
+    "BattleName": [
+      "Heavenly Respect Patrol Shop"
+    ],
+    "DialogCharacterName": "Five drug dealers"
+  },
+  {
+    "BattleName": [
+      "Tarzan Patrol Shop",
+      "Shaolin Patrol Shop"
+    ],
+    "DialogCharacterName": "Five drug dealers"
+  },
+  {
+    "BattleName": [
+      "Five Poison Traitor"
+    ],
+    "DialogCharacterName": "Five Poisons Injured Disciples"
+  },
+  {
+    "BattleName": [
+      "Medical Joker"
+    ],
+    "DialogCharacterName": "Injured Pill King disciple"
+  },
+  {
+    "BattleName": [
+      "Iron Palm Maniacs"
+    ],
+    "DialogCharacterName": "Injured Pill King disciple"
+  },
+  {
+    "BattleName": [
+      "Drug thieves"
+    ],
+    "DialogCharacterName": "Medicine King Healer"
+  }
+]
