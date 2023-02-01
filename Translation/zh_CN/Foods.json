@@ -1,0 +1,8933 @@
+[
+  {
+    "ItemType": {
+      "ValueInfo": "普通菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "普通菜肴"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>普通菜肴</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "十分普通的一份菜肴。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+15"
+        }
+      ]
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "面粉、猪肉、高汤各一份，用盐调味，上锅蒸制即可。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>灌汤包</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "选料讲究，制作精细。采用猪后腿瘦肉为馅，精粉为皮，爆火蒸制而成。外形小巧玲珑，皮薄馅多，味道鲜美，汤汁浓郁。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+20 「体魄」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+20"
+        },
+        {
+          "Description": "「体魄」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「面粉」1份 「猪肉」1份 「高汤」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "用一份羔羊肉加上两份普通羊肉，加盐炖煮即可。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>垛子羊肉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "把羊肉配上十余种香料炖煮好后，用布包裹后，用木板和巨石压五个时辰，再切成薄片。色泽如生羊般红润，薄如蝉翼，入口即化。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「集中」+15 「体魄」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「集中」+15"
+        },
+        {
+          "Description": "「体魄」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「肉禽菜肴」\n「羔羊肉」1份 「羊肉」2份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "汤羹菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "汤羹菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "野鸡肉一份、香菜一份、高汤一份，加入盐和辣味调料煮制即可。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>糁汤</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "起源于彭祖所制的雉羹，用野鸡熬制两个时辰、拆骨，拌以麦仁、面筋和胡椒粉熬煮，出锅时撒上香菜，味鲜香辣、风味独特。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+20 「决断」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+20"
+        },
+        {
+          "Description": "「决断」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「汤羹菜肴」\n「野鸡肉」1份 「香菜」1份 「高汤」1份\n调味「咸」「辣」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "面粉和芝麻各一份，用盐调味烤制而成。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>芝麻焦烧饼</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用面粉、盐和胡椒做成面饼，发酵好后再均匀地沾上芝麻，放进炉子里烘烤，入口焦酥，香而不腻。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「面粉」1份 「芝麻」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "面粉、大葱各一份，羊肉两份，放入盐进行调味即可烤制。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>壮馍</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "源于隋末，当时的濮阳战火连天，壮馍是战士们上战场前的食物。用羊肉和大葱制成内陷，小麦粉做成皮，包好后的壮馍形似满月，放入特制的大盘里煎制。色泽金黄，外焦里嫩。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「气法」+15 「决断」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「气法」+15"
+        },
+        {
+          "Description": "「决断」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「面粉」1份 「大葱」1份 「羊肉」2份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "两份面粉加上羊肉和芝麻各一份，用盐调味，大火烤制即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>肉火烧</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "又称“肉烧饼”，用面粉做成饼皮，内陷有羊肉或是花椒肉，撒上芝麻烤制而成。风味各异，酥脆可口。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30 「神来」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「神来」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「面粉」2份 「羊肉」1份 「芝麻」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "猪肉、大葱、鸡蛋各一份，搅拌均匀后加入盐调味，煮熟即可出锅。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>四喜丸子</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "选三肥七瘦的猪腿肉，切成米粒大小，加入葱姜水、盐、鸡蛋，朝一个方向搅打上劲，再搓成四个大小一致的丸子，先炸后蒸。酥香软烂，鲜咸滑嫩。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30 「饮酒」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「饮酒」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「肉禽菜肴」\n「猪肉」1份 「大葱」1份 「鸡蛋」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "两份驴肉一份面粉，加入盐调味烤制。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>驴肉火烧</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "漕河有两个帮会，因想要称霸码头而时常大动干戈。漕帮获胜后俘获了毛驴便宰杀炖煮，用火烧夹着吃，后来慢慢就变成了当地的特色美食。驴肉用文火慢煮，加入二十多种香料烹调，色泽鲜嫩，香而不柴。火烧外酥内软，与驴肉一起食用相得益彰。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「烹饪」+20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「烹饪」+20"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「驴肉」2份 「面粉」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "一份红薯粉外加一份猪肉，用盐调味焖煮即可。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>焖子</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "苏轼来定州任知州，发现此地夏季大旱无雨，秋季又雨涝成灾，便率人运送粮肉来此地。为了让所有人都能吃些肉，苏轼便把肉剁成细馅，放在锅中与红薯粉一同炖煮，最后切块赠予灾民。不料这肉块竟香糯滑嫩，结构紧密，人们便把这种烹饪方式记了下来，也把这种食物称为“焖子”。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+20 「筋骨」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+20"
+        },
+        {
+          "Description": "「筋骨」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「肉禽菜肴」\n「猪肉」1份 「红薯粉」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "面粉、高汤、青菜各一份，加入盐和酸味调料即可出锅。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>刀削面</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "当地百姓的日常主食。用刀把面削成一片一片的面片入滚烫的开水中，煮熟后捞出配上炒制的菜、肉和卤汁，面条筋道爽滑。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「福缘」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「福缘」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「面粉」1份 「高汤」1份 「青菜」1份\n调味「咸」「酸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "一份面粉四分猪肉，加入盐味调料腌制后烤好即可。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>肉夹馍</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "选三肥七瘦的猪肉，用活水冲泡去除血水，再加酱油、糖、小茴香等调料小火熬煮两个时辰。面粉里要掺老面，加碱水，揉光后，揪成剂子，擀成碗状。烤制完成的馍上有金圈银边，外脆里嫩，香脆可口。肉肥而不腻，瘦而不柴。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「神来」+15 「福缘」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「神来」+15"
+        },
+        {
+          "Description": "「福缘」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「面粉」1份 「猪肉」4份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "一份面粉一份都豆角煮制，出锅前撒好盐即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>焖面</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "与汤面不同的是，焖面是靠吸收配菜的汤汁和锅内的蒸汽焖熟制成。一般先将肉、豆角、酱油和其它调料下锅炒熟，后将略宽的面条码在上头，关盖焖煮。面吸收了底菜的汤汁，变得油而不腻、香软可口。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「面粉」1份 「豆角」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "两份面粉外加一份豆芽，焯水后加入盐和辣味调料即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>裤带面</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "盐和面粉加水和成面团，分成大小均匀的剂子后擀开，再拉长扯开成一个圆环。汆水后，加入豆芽、花椒、胡椒、葱花、青菜等蔬菜调料，最后泼上热油，顿时香气四溢，筋道弹滑。由于面条的宽度和裤带的宽度相似，便起名“裤带面”。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「交涉」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「交涉」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「面粉」2份 「豆芽」1份\n调味「咸」「辣」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "汤羹菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "汤羹菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "牛肉、白菜、豆角各一份，加入盐和辣味调料即可出锅。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>肉丸胡辣汤</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "肉丸是用牛肉剁成细馅、加入花椒、胡椒、盐等调料研制而成。汤底要用牛骨熬制，加入丸子、豆角，土豆，莲花白等时令蔬菜制成蔬菜肉汤。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「杀意」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「杀意」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「汤羹菜肴」\n「牛肉」1份 「白菜」1份 「豆角」1份\n调味「咸」「辣」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "果子小吃"
+    },
+    "FoodClass": {
+      "ValueInfo": "果子小吃"
+    },
+    "PeiFangs": [
+      {
+        "Description": "桂花一份、醪糟一份，加入糖拌匀即可。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>桂花醪糟</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "选用粒大饱满的糯米，浸泡在清水中，沥干蒸熟。加入醪糟曲发酵，制成后撒上桂花和冰糖即可食用。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「镇定」+30 「神来」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「镇定」+30"
+        },
+        {
+          "Description": "「神来」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「果子小吃」\n「桂花」1份 「醪糟」1份\n调味「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "一份猪肉、一份螃蟹，外加一份鸡蛋，混合均匀后加入盐蒸制。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>蟹粉狮子头</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "采用六肥四瘦的前腿肉加上葱、姜、鸡蛋斩成肉泥，加上蟹粉搓成丸子蒸制。螃蟹斩肉对火候尤其讲究，需用微火蒸制半个时辰，这样才会肥而不腻、松而不散、入口即化，鲜美无比。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「腰马」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「腰马」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「肉禽菜肴」\n「猪肉」1份 「螃蟹」1份 「鸡蛋」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "腌腊菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "腌腊菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "米酒和螃蟹各一份，放入盐腌制即可。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>醉蟹</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "将活蟹洗刷干净后，放入米酒中，加入盐、糖、姜片等调料腌制。咸鲜适中，酒香浓郁。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「神来」+20 「集中」-15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「神来」+20"
+        },
+        {
+          "Description": "「集中」-15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「腌腊菜肴」\n「米酒」1份 「螃蟹」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "蔬菜菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "蔬菜菜肴"
+    },
+    "PeiFangs": [
+      {}
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>十色咸豉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用碎笋片、蘑菇等共十种食材，下油锅炒至半熟，再加入盐调味，晾凉腌制，是当地人民每日饭食里不可或缺的下饭菜。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「调息」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「调息」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「蔬菜菜肴」\n「笋」1份 「菇」1份 「豆豉」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "蔬菜菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "蔬菜菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "四份豆腐，加入盐调味即可出锅。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>八公山豆腐</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "以细、白、嫩为特点的八公山豆腐，是西汉时期淮南王在八公山下用泉水、黄豆和盐无意中发明出的。八公山的二十四眼千年古泉甘甜冷冽，只有用此泉水，才能做出晶莹剔透、嫩若凝脂，白若玉板的豆腐。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「镇定」+15 「决断」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「镇定」+15"
+        },
+        {
+          "Description": "「决断」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「蔬菜菜肴」\n「豆腐」4份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "两份糯米加上糖，蒸制即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>烘糕</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用糯米磨成粉、放在湿润的地方，待糯米吸入水汽之后拌入白糖放入蒸屉再烤制。烤好的烘糕酥脆香甜，有淡淡的糯米香气。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「气法」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「气法」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「糯米」2份\n调味「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "两份鸭肉，用盐腌制，烤制后即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>酱鸭</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用鸭子、酱油、桂皮、陈皮、等为原料先腌再卤制成。色泽橙黄，油光发亮，食之肉质细嫩，香气浓郁，咸中带鲜。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+20 「身形」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+20"
+        },
+        {
+          "Description": "「身形」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「肉禽菜肴」\n「鸭肉」2份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "水产菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "水产菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "两份鲤鱼，加入醋和糖调味，大火炒制即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>糖醋熘鱼</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "选用黄河的上等鲤鱼，下锅炸透，再配上白糖、香醋、姜等调料调制成特制的芡汁煮制，直至鱼肉吸收。色泽艳丽，软嫩鲜香。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「集中」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「集中」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「水产菜肴」\n「鲤鱼」2份\n调味「酸」「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "果子小吃"
+    },
+    "FoodClass": {
+      "ValueInfo": "果子小吃"
+    },
+    "PeiFangs": [
+      {
+        "Description": "杏仁、花生、玫瑰各一份，磨成粉加入糖即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>杏仁茶</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "选用精制杏仁粉为茶料，配以杏仁、花生、芝麻、玫瑰、桂花、葡萄干、枸杞子、樱桃、白糖等十佐料。色泽艳丽，香味纯正。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「茶道」+15 「收藏」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「茶道」+15"
+        },
+        {
+          "Description": "「收藏」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「果子小吃」\n「杏仁」1份 「花生」1份 「玫瑰」1份\n调味「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "腌腊菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "腌腊菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "两份芥菜加上辣味调料腌制而成。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>孔明菜</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "东汉末年，诸葛亮隐居在襄阳的古隆中，每到寒冬腊月就会挖一种叫”蔓茎“的野菜来凉拌下饭。一次出远门回来，发现几日前做的野菜并没有异味，于是后来就习惯加盐来腌制野菜，不仅能延长保存时间，吃起来也脆嫩爽口。后来襄阳当地的民众，就称这种菜叫孔明菜。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「调息」+15 「决断」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「调息」+15"
+        },
+        {
+          "Description": "「决断」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「腌腊菜肴」\n「野味腊」2份\n调味「辣」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "果子小吃"
+    },
+    "FoodClass": {
+      "ValueInfo": "果子小吃"
+    },
+    "PeiFangs": [
+      {
+        "Description": "糯米和枣各一份，加糖蒸制而成。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>小甑糕</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用糯米、红枣、红豆等食材蒸制而成的糕点，一般会配有特殊的模具。红白相间、软糯黏甜。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+20 「交涉」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+20"
+        },
+        {
+          "Description": "「交涉」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「果子小吃」\n「糯米」1份 「枣」1份\n调味「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "两份面粉一份大葱，加入盐和辣味调料调味，煮制即可出锅。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>浆水面</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "芹菜焯水，倒入面汤发酵三五天，就制成了浆水。辣椒和葱煸炒后倒入浆水和面条，出锅时撒上香菜，酸香爽口，清爽平和。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「意志」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「意志」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「面粉」2份 「大葱」1份\n调味「咸」「辣」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "面粉、猪肉各一份，高汤两份，加入盐煮制，即可出锅。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>抄手</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用小麦粉擀成薄滑的面皮包上细腻的肉茸，用鸡肉、鸭肉和猪骨熬制成的高汤炖煮，最后点缀葱花即可。皮薄馅嫩，汤鲜味美。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「体魄」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「体魄」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「面粉」1份 「猪肉」1份 「高汤」2份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "果子小吃"
+    },
+    "FoodClass": {
+      "ValueInfo": "果子小吃"
+    },
+    "PeiFangs": [
+      {
+        "Description": "两份糯米一份猪肉，加入盐调味蒸制即可。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>叶儿粑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用糯米熬成米浆蒸制成皮，加上上好的五花肉，配上芽菜和葱煸炒制成的馅料，再用箬叶包好蒸制而成。叶香浓郁，咸味鲜美。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「福缘」+15 「烹饪」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「福缘」+15"
+        },
+        {
+          "Description": "「烹饪」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「果子小吃」\n「糯米」2份 「猪肉」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "猪肉、野猪肉各两份，鸡蛋一份，再加入盐和糖调味，小火焖制即可。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>东坡肉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "苏轼被贬黄州后，发现此地猪肉物美价廉，便研制出了用冰糖、黄酒、酱油调味，慢火红烧，制成后色泽红润、酱汁浓厚、风味香醇。后苏轼任杭州知事，便把此方告诉了当地的人民，人们便把这道菜称之为“东坡肉”。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「体魄」+15 「诗词」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「体魄」+15"
+        },
+        {
+          "Description": "「诗词」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「肉禽菜肴」\n「猪肉」2份 「鸡蛋」1份 「野猪肉」2份\n调味「咸」「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "两份野鸭肉再加入食盐腌制即可。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>盐水鸭</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "要选用瘦型板鸭，皮薄肉嫩，活水浸泡去除腥味，再用花椒盐反复按摩，最后放入秘制老卤中腌制。风干之后，放入水中煮制，晾凉后方可食用。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+50 「悟性」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+50"
+        },
+        {
+          "Description": "「悟性」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「肉禽菜肴」\n「野鸭肉」2份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "三分猪肉一份大米，用盐调味蒸制即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>粉蒸肉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用上好的五花肉，加入秘制香料腌制，裹上米粉，上锅蒸透。软糯清香，酥烂爽口，肥而不腻。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+50 「福缘」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+50"
+        },
+        {
+          "Description": "「福缘」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「肉禽菜肴」\n「猪肉」3份 「大米」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "水产菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "水产菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "一份草鱼外加一份鸡蛋，用盐调味，大火蒸制。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>荆州鱼糕</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "采用青鱼，刮鳞剔刺后用刀背刮出肉糜、再加入清水、蛋清和盐摔打起筋，放入模具中蒸制，出锅晾凉后切片。色如羊脂、清香滑嫩。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+20 「筋骨」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+20"
+        },
+        {
+          "Description": "「筋骨」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「水产菜肴」\n「草鱼」1份 「鸡蛋」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "两份面粉、一份芝麻，再用盐、糖和辣味调料调味，拌匀即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>热干面</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "面要选用碱面、下水煮至八分熟捞出。拌入香油掸面、再加入调好浓度的芝麻酱加上葱花、咸菜丁拌匀食用。爽滑筋道、香浓味美。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+40"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+40"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「面粉」2份 「芝麻」1份\n调味「咸」「辣」「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "蔬菜菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "蔬菜菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "两份大米外加一份香菜，加入盐调味蒸制即可出锅。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>米豆腐</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用大米碾碎制成米浆，加上碱水制成。切成豆腐大小的块状后，一般会撒上咸菜、花生等佐料，再加上酱油和香菜，鲜嫩爽口，米香四溢。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+20 「调息」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+20"
+        },
+        {
+          "Description": "「调息」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「蔬菜菜肴」\n「大米」2份 「香菜」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "两份猪肉外加盐和糖调味煮熟，放在坛子中腌制即可。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>坛子肉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "新鲜猪肉切片，抹上盐、花椒、糖和酱油入坛腌制，后加入清水炖煮。制作好的坛子肉色泽深红，肉烂汤浓，肥而不腻，鲜美可口。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「体魄」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「体魄」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「肉禽菜肴」\n「猪肉」2份\n调味「咸」「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "果子小吃"
+    },
+    "FoodClass": {
+      "ValueInfo": "果子小吃"
+    },
+    "PeiFangs": [
+      {
+        "Description": "糯米一份、猪肉一份、菇一份，用盐调味，煮熟即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>烧肉粽</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "糯米要浸泡吸水，再加入调料炒至半生，肉要三肥七瘦，切成豆丁大小，再加入香菇、花生等食材，用箬叶包裹煮制。煮好的粽子，油润不腻，色泽红亮。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「决断」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「决断」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「果子小吃」\n「糯米」1份 「猪肉」1份 「菇」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "野猪肉、鲢鱼、虾米、面粉各一份，加入盐调味，包好煮熟即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>肉燕馄饨</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "燕皮是用上好的后腿瘦肉和番薯粉垂打而成，薄如蝉翼、光滑细腻。馅料则是用鱼肉和猪肉，配上虾干和马蹄制成。馄饨爽口弹滑，香气四溢。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30 「意志」+15 「集中」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「意志」+15"
+        },
+        {
+          "Description": "「集中」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「野猪肉」1份 「鲢鱼」1份 「虾米」1份 「面粉」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "水产菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "水产菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "两份海鱼捶打成泥，加入食盐拌匀蒸熟即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>鱼丸</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "春秋时期，楚平王爱吃鱼却不喜鱼刺，厨师便想出了用刀背刮鱼茸搓成鱼丸的法子。潮州鱼丸选料讲究，鱼肉坚韧雪白，质地柔软，煮制后爽脆弹牙，鲜美无比。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「神来」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「神来」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「水产菜肴」\n「海鱼」2份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "四分鹅肉加上盐和糖腌制调味，烤制即可。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>烧鹅</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "受到烤鸭的影响，广州当地的厨师便用鹅来代替鸭子，烤制出了具有当地特色的烧鹅。取整鹅去内脏，吹起后刷上香料、用热水烫皮后，刷上糖浆，挂炉烤制。出炉后的烧鹅，色泽金红，皮脆肉嫩。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30 「神来」+15 「决断」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「神来」+15"
+        },
+        {
+          "Description": "「决断」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「肉禽菜肴」\n「鹅肉」4份\n调味「咸」「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "果子小吃"
+    },
+    "FoodClass": {
+      "ValueInfo": "果子小吃"
+    },
+    "PeiFangs": [
+      {
+        "Description": "两份马蹄蒸熟后撒上白糖即可。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>马蹄糕</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用糖水与马蹄粉混合蒸制而成，软滑爽润、甜而不腻。是大街小巷平常都会叫卖的小吃，老少皆宜。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「茶道」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「茶道」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「果子小吃」\n「马蹄」2份\n调味「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "两份大米一份猪肉，用酸味调料调味，煮好后即可出锅。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>生榨粉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "大米洗好后制成米浆，沉淀发酵、形成米团，再用特殊的模具榨粉。煮熟后，浇上肉末、紫苏和花生，一碗酸香的生咋榨粉就做好了。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「涵养」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「涵养」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「大米」2份 「猪肉」1份\n调味「酸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "两份腰子，加入盐和辣味调料，炒熟后转小火收汁后即可出锅。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>㸆腰子</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "腰花切片，用盐和辣味调料腌制，炒熟后转小火收汁，即可食用。口感脆嫩，鲜香可口。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「调息」+15 「气法」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「调息」+15"
+        },
+        {
+          "Description": "「气法」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「肉禽菜肴」\n「腰子」2份\n调味「咸」「辣」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "两份肥肠，加入盐和辣味调料，大火煸炒后即可出锅。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>干煸肥肠</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "肥肠洗净后，先用葱姜煮制去腥，再切成小段炸透，最后加上花椒、酱油、盐、豆瓣等调料炒至即可。入口外酥里嫩，香而不腻。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+40"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+40"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「肉禽菜肴」\n「肥肠」2份\n调味「咸」「辣」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "取桃子1颗，用清水煮熟后去核碾碎，拌入大米中，煮熟后加糖可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>蟠桃饭</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "拥有桃子香气的甜饭。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「魅力」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「魅力」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「桃子」1份 「大米」1份\n调味「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "葱姜各1份，切丝制成葱姜水，再加入面粉和食盐，搅拌均匀，烤至两面金黄即可。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>通神饼</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一种寻常的早餐饼。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「神来」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「神来」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「姜」1份 「葱」1份 「面粉」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "面粉加水擀成面皮，取2只螃蟹，拆取蟹肉蟹黄，拌入姜丝，用盐调味，蒸熟即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>蟹黄馒头</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "包裹着满满的鲜肉蟹黄馅的小笼包。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「腰马」+10 「决断」+20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「腰马」+10"
+        },
+        {
+          "Description": "「决断」+20"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「螃蟹」2份 「面粉」1份 「姜」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "面粉加水擀成面皮，取羊羔肉2份，拌入姜丝，用盐调味，蒸熟即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>羊肉馒头</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "羊肉馅的小笼包。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30 「体魄」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「体魄」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「羔羊肉」2份 「面粉」1份 「姜」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "面粉加水擀成面皮，取猪肉2份，拌入姜丝，用盐和糖调味，蒸熟即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>糖肉馒头</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "甜口大肉馅的小笼包。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+40"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+40"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「猪肉」2份 「面粉」1份 「姜」1份\n调味「咸」「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "杏子煮烂去核，拌入大米中，煮熟后加糖食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>真君粥</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "据说是为了纪念三国董奉而做的一种粥。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「决断」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「决断」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「杏」1份 「大米」1份\n调味「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "红豆和大米各1份，放入清水中浸泡一晚，再用新的水熬煮，加糖后可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>豆粥</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "普通的杂粮粥。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+20"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「红豆」1份 「大米」1份\n调味「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "鸡肉煮熟后切丝晾凉，面粉做成面条煮熟，用盐调味，出锅后加入葱即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>鸡丝面</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "鸡丝滑嫩，适合夏日食用的一款凉面。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+20 「决断」+5 「神来」+5"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+20"
+        },
+        {
+          "Description": "「决断」+5"
+        },
+        {
+          "Description": "「神来」+5"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「鸡肉」1份 「葱」1份 「面粉」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "羊肉切块后，置入砂锅内，加入葱和杏仁，煮至软烂，撒盐即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>山煮羊</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "带有水果香气的羊肉料理。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+20 「体魄」+5 「意志」+5"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+20"
+        },
+        {
+          "Description": "「体魄」+5"
+        },
+        {
+          "Description": "「意志」+5"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「肉禽菜肴」\n「羊肉」1份 「葱」1份 「杏仁」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "鸡肉用米酒煮熟后，塞入葱炸至金黄，撒上盐后即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>黄金鸡</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "色泽金黄的脆皮鸡。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30 「体魄」+15 「集中」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「体魄」+15"
+        },
+        {
+          "Description": "「集中」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「肉禽菜肴」\n「米酒」1份 「鸡肉」1份 「葱」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "鸭肉切块裹上面粉，用盐调味，炸好后摆成莲花的形状即可。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>莲花鸭签</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "制成莲花形状的鸭肉小吃。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「肉禽菜肴」\n「鸭肉」1份 「面粉」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "取野猪肉1块，葱姜切碎放入水中，在烤制的过程中反复刷在表皮上，最后用盐调味即可。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>烧臆子</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用特殊蘸料烤制的猪肉。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30 「集中」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「集中」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「肉禽菜肴」\n「鸭肉」1份 「面粉」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "将笋、鸡肉和鸭肉切块，加入葱和盐炒制。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>笋鸡鹅</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一道笋鲜肉香的荤菜。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30 「烹饪」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「烹饪」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「肉禽菜肴」\n「笋」1份 「鸡肉」1份 「鹅肉」1份 「葱」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "鸡肉处理干净后，用米酒蒸制，出锅后撒盐即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>酒蒸鸡</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "酒香四溢的鸡肉料理。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30 「书画」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「书画」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「肉禽菜肴」\n「鸡肉」1份 「米酒」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "野鸭肉、野兔肉各1份，切块后加入萝卜和葱炖煮，最后撒盐出锅即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>野味鸭盘兔糊</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用野生鸭肉和兔肉制成的料理，十分有嚼劲。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30 「体魄」+20「福缘」+20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「体魄」+20"
+        },
+        {
+          "Description": "「福缘」+20"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「肉禽菜肴」\n「野鸭肉」1份 「野兔肉」1份 「萝卜」1份 「葱」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "4份野猪肉加蜂蜜烤制两面金黄，最后撒上白糖即可出锅。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>蜜烧肉炙</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "滋滋冒油的甜口烤肉。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「调息」+20 「意志」+20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「调息」+20"
+        },
+        {
+          "Description": "「意志」+20"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「肉禽菜肴」\n「野猪肉」4份 「蜂蜜」1份\n调味「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "水产菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "水产菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "紫苏切碎，塞入草鱼肚中蒸熟，出锅后撒盐。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>紫苏鱼</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "紫苏香味浓郁的鱼料理。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+20 「诗词」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+20"
+        },
+        {
+          "Description": "「诗词」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「水产菜肴」\n「紫苏」1份 「草鱼」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "水产菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "水产菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "螃蟹2份，加入葱姜爆炒去腥，出锅后撒盐即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>炒蟹</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "咸香家常的炒螃蟹。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30 「镇定」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「镇定」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「水产菜肴」\n「螃蟹」2份 「葱」1份 「姜」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "水产菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "水产菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "蛤蜊2份，加入葱姜爆炒去腥，出锅后撒盐即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>炒蛤蜊</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "咸口的炒蛤蜊。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「饮酒」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「饮酒」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「水产菜肴」\n「蛤蜊」2份 「葱」1份 「姜」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "水产菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "水产菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "选肉质肥美的黄花鱼，裹上面粉，放入油锅中炸至金黄，出锅后均匀撒上食盐后即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>酥骨鱼</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "骨酥刺烂的炸鱼。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「水产菜肴」\n「黄花鱼」1份 「面粉」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "水产菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "水产菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "黄鳝1条，加入葱姜爆炒去腥，出锅后撒盐即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>炒鳝</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "鲜香味美的炒黄鳝。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「督脉」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「督脉」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「水产菜肴」\n「黄鳝」1份 「葱」1份 「姜」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "水产菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "水产菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "将紫苏、葱和姜切碎，均匀撒在青虾上，上锅蒸熟后撒盐即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>紫苏虾</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "紫苏香味浓郁的虾肉料理。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「气法」+30"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「气法」+30"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「水产菜肴」\n「青虾」1份 「紫苏」1份 「葱」1份 「姜」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "水产菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "水产菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "猪肉剁碎，加入葱姜水，塞入处理好的鱼肚中，用米酒蒸熟后撒盐即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>酒酿鱼</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "带有酒香的鱼肉料理。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「任脉」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「任脉」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「水产菜肴」\n「草鱼」1份 「米酒」1份 「葱」1份 「姜」1份 「猪肉」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "水产菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "水产菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "将青虾、葱和姜一同放到锅中爆炒，出锅后撒盐即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>芥辣虾</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "辛辣爽口的虾肉料理。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「杀意」+15 「调息」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「杀意」+15"
+        },
+        {
+          "Description": "「调息」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「水产菜肴」\n「青虾」1份 「葱」1份 「姜」1份\n调味「咸」「辣」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "汤羹菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "汤羹菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "取芹菜2份、芝麻1份，切末碾碎。将二者加入水中煮沸，最后用盐调味即可出锅。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>碧涧羹</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "口味清爽的素羹汤。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「涵养」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「涵养」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「汤羹菜肴」\n「芹菜」2份 「芝麻」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "汤羹菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "汤羹菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "取苋菜、茄子各1份，切成细丁后熬煮，出锅前撒上姜丝和盐即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>太守羹</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "颜色丰富的羹汤。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「体魄」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「体魄」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「汤羹菜肴」\n「苋菜」1份 「茄子」1份 「姜」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "汤羹菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "汤羹菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "将草鱼和虾米清理干净后，加入切好的笋丁一同炖煮，出锅前撒盐即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>山海羹</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "融合山海之精华的鲜美汤羹。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「体魄」+15 「筋骨」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「体魄」+15"
+        },
+        {
+          "Description": "「筋骨」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「汤羹菜肴」\n「笋」1份 「草鱼」1份 「虾米」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "汤羹菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "汤羹菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "笋切成薄片，焯水去除涩味，猪肉切成细末抹在笋片上，蒸好后加盐即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>抹肉笋签</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "将猪肉和笋的香味完美融合的小吃。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+20 「饮酒」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+20"
+        },
+        {
+          "Description": "「饮酒」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「汤羹菜肴」\n「猪肉」1份 「笋」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "汤羹菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "汤羹菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "取山药、栗子和羊肉各1份，切碎熬煮，出锅后撒盐即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>金玉羹</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "金灿灿的肉羹料理。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「调息」+15 「气法」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「调息」+15"
+        },
+        {
+          "Description": "「气法」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「汤羹菜肴」\n「山药」1份 「栗子」1份 「羊肉」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "汤羹菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "汤羹菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "豆腐2份，切成块状后加水炖煮。出锅后撒盐和葱花即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>豆腐羹</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "口味清淡的豆腐羹。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「气法」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「气法」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「汤羹菜肴」\n「豆腐」2份 「葱」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "汤羹菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "汤羹菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "将猪肉切成细末，塞入草鱼肚中。加水炖煮，待鱼肉熟透后，加入茼蒿和米酒和盐即可出锅。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>蒿鱼羹</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "口味清淡，带有淡淡酒香的鱼羹。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30 「身形」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「身形」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「汤羹菜肴」\n「茼蒿」1份 「草鱼」1份 「猪肉」1份 「米酒」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "汤羹菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "汤羹菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "豆腐切丝炖煮，出锅后洒上牡丹花瓣、姜丝，用盐调味即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>雪霞羹</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "此羹红白相间，宛若雪霞。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30 「杀意」-30"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "减值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「杀意」-30"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「汤羹菜肴」\n「牡丹花」1份 「豆腐」1份 「姜」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "蔬菜菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "蔬菜菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "取生菜和牡丹各1份，蘸取面粉炸至金黄酥脆，撒盐后即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>牡丹生菜</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "文人雅士喜爱的牡丹花料理。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+20 「镇定」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+20"
+        },
+        {
+          "Description": "「镇定」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「蔬菜菜肴」\n「牡丹花」1份 「生菜」1份 「面粉」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "蔬菜菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "蔬菜菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "取笋、茭白和马兰切成小丁，焯水后加盐翻炒，即可出锅食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>山家三脆</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "清爽的山间野菜料理。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「蔬菜菜肴」\n「笋」1份 「茭白」1份 「马兰」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "蔬菜菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "蔬菜菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "取豆腐3份，切块后用油煎至两面金黄，加入盐和辣调味，出锅后撒上葱花即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>东坡豆腐</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "苏轼自创的豆腐料理。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「烹饪」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「烹饪」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「蔬菜菜肴」\n「豆腐」3份 「葱」1份\n调味「咸」「辣」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "蔬菜菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "蔬菜菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "菇和青菜各1份，加入盐调味大火炒制后即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>香菇菜心</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "普通的家常料理。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+20"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「蔬菜菜肴」\n「菇」1份 「青菜」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "蔬菜菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "蔬菜菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "莴笋2份，焯水后出锅撒上盐和辣味调料拌匀后即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>凉拌莴笋</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "清爽的凉拌莴笋，很适合春夏食用。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+20"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「蔬菜菜肴」\n「莴笋」2份\n调味「咸」「辣」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "蔬菜菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "蔬菜菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "菇和笋各1份，炒熟后加入盐调味即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>菇炒笋丝</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "非常鲜美的素菜料理。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「集中」+5"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「集中」+5"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「蔬菜菜肴」\n「菇」1份 「笋」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "蔬菜菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "蔬菜菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "韭菜切段，姜切丝，大火快炒后加入盐和醋调味即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>柳叶韭</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "味道浓郁的韭菜料理。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「镇定」+5"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「镇定」+5"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「蔬菜菜肴」\n「韭菜」1份 「姜丝」1份\n调味「咸」「酸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "蔬菜菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "蔬菜菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "取马兰1份、豆芽1份，大火快炒后撒盐即可出锅食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>清供野味</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用两味极其常见的山间野菜制成的料理。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+20 「气法」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+20"
+        },
+        {
+          "Description": "「气法」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「蔬菜菜肴」\n「马兰」1份 「豆芽」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "腌腊菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "腌腊菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "螃蟹洗净，同生姜、梅子、盐一起放入米酒中浸泡，可生食。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>洗手蟹</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用十分新鲜的蟹肉制成的生食料理。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30 「下盘」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「下盘」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「腌腊菜肴」\n「螃蟹」1份 「姜」1份 「梅子」1份 「米酒」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "腌腊菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "腌腊菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "把柑橘的果肉挖出，放入洗净的螃蟹，倒入米酒、醋和盐浸泡后即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>蟹酿橙</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "带有柑橘果香的蟹肉料理。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「茶道」+15 「饮酒」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「茶道」+15"
+        },
+        {
+          "Description": "「饮酒」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「腌腊菜肴」\n「螃蟹」1份 「柑橘」1份 「米酒」1份\n调味「咸」「酸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "腌腊菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "腌腊菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "取羊肉和豆豉各1份，加入盐腌制后即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>肉咸豉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "非常下饭的小菜。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「腌腊菜肴」\n「羊肉」1份 「豆豉」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "腌腊菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "腌腊菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "鲫鱼2份，切片后加入盐醋和辣调味即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>鲫鱼脍</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "鲫鱼鱼生，对食材的新鲜度有很高的要求。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「福缘」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「福缘」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「腌腊菜肴」\n「鲫鱼」2份\n调味「咸」「辣」「酸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "腌腊菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "腌腊菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "鲫鱼、鲤鱼、鲈鱼各1份，加入盐醋和辣调味即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>群鲜脍</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "多种鱼生拼成的群鲜脍，对食材的新鲜毒有很高的要求。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「决断」+15 「集中」+15 「镇定」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「决断」+15"
+        },
+        {
+          "Description": "「集中」+15"
+        },
+        {
+          "Description": "「镇定」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「腌腊菜肴」\n「鲫鱼」1份 「鲤鱼」1份 「鲈鱼」1份 \n调味「咸」「辣」「酸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "腌腊菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "腌腊菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "鲈鱼2份，切片后加入盐醋和辣调味即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>鲈鱼脍</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用新鲜鲈鱼制成的鱼生。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「腌腊菜肴」\n「鲈鱼」2份\n调味「咸」「辣」「酸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "腌腊菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "腌腊菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "鲤鱼2份，切片后加入盐醋和辣调味即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>鲤鱼脍</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用新鲜鲤鱼制成的鱼生。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「魅力」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「魅力」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「腌腊菜肴」\n「鲤鱼」2份\n调味「咸」「辣」「酸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "腌腊菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "腌腊菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "取腰子两份，切成薄片。猪肉剁成肉馅，加米酒搅匀后用腰片包裹住，炸熟后撒盐即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>酿腰子</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "酒香味浓郁的油炸腰片。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「杀意」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「杀意」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「腌腊菜肴」\n「腰子」2份 「米酒」1份 「猪肉」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "果子小吃"
+    },
+    "FoodClass": {
+      "ValueInfo": "果子小吃"
+    },
+    "PeiFangs": [
+      {
+        "Description": "梅子和姜各1份，加入盐和糖腌制即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>梅子姜</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "酸甜开胃的小吃。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+20"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「果子小吃」\n「梅子」1份 「姜」1份\n调味「咸」「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "果子小吃"
+    },
+    "FoodClass": {
+      "ValueInfo": "果子小吃"
+    },
+    "PeiFangs": [
+      {
+        "Description": "糯米和红豆各1份，加入糖拌匀，放入方形模具中定型，蒸熟后即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>重阳糕</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一般常见于重阳节的糕点。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「涵养」+5"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「涵养」+5"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「果子小吃」\n「糯米」1份 「红豆」1份\n调味「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "果子小吃"
+    },
+    "FoodClass": {
+      "ValueInfo": "果子小吃"
+    },
+    "PeiFangs": [
+      {
+        "Description": "取绿豆和糯米各1份，加入糖拌匀后放入模具中定型，蒸熟后即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>豆糕粿</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用绿豆做的甜味糕点。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+20"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「果子小吃」\n「绿豆」1份 「糯米」1份\n调味「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "果子小吃"
+    },
+    "FoodClass": {
+      "ValueInfo": "果子小吃"
+    },
+    "PeiFangs": [
+      {
+        "Description": "用糯米制成饼皮，加入芝麻、红豆和糖做馅料，捏成团后炸至金黄酥脆即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>煎堆</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用糯米制成的甜糯糕点。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「福缘」+10"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「福缘」+10"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「果子小吃」\n「糯米」1份 「芝麻」1份 「红豆」1份\n调味「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "果子小吃"
+    },
+    "FoodClass": {
+      "ValueInfo": "果子小吃"
+    },
+    "PeiFangs": [
+      {
+        "Description": "用面粉、蜂蜜和糖混合蒸制而成的糕点。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>蜂糖膏</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "含有蜂蜜的糕点，十分甜腻。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「魅力」+15 「神来」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「魅力」+15"
+        },
+        {
+          "Description": "「神来」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「果子小吃」\n「面粉」1份 「蜂蜜」1份\n调味「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "果子小吃"
+    },
+    "FoodClass": {
+      "ValueInfo": "果子小吃"
+    },
+    "PeiFangs": [
+      {
+        "Description": "红豆加糖熬煮至软烂，晾凉后放入冰沙中再淋上蜂蜜即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>蜜冰沙</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "冰冰凉凉的甜豆沙。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「气法」+15 「福缘」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「气法」+15"
+        },
+        {
+          "Description": "「福缘」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「果子小吃」\n「红豆」1份 「蜂蜜」1份\n调味「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "果子小吃"
+    },
+    "FoodClass": {
+      "ValueInfo": "果子小吃"
+    },
+    "PeiFangs": [
+      {
+        "Description": "黄豆粉和蜂蜜搓成大小均匀的丸子，放入冰水中加入糖后即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>冰雪冷元子</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "夏天常见的冷饮。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30 「魅力」+15 「悟性」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「魅力」+15"
+        },
+        {
+          "Description": "「悟性」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「果子小吃」\n「黄豆粉」1份 「蜂蜜」1份\n调味「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "果子小吃"
+    },
+    "FoodClass": {
+      "ValueInfo": "果子小吃"
+    },
+    "PeiFangs": [
+      {
+        "Description": "糯米磨成粉后，加入红豆、红枣和糖拌匀，放入模具中定型，蒸熟后撒上牡丹花瓣和黄豆粉即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>百花糕</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "颜色鲜艳的糕点。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「调息」+30"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「调息」+30"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「果子小吃」\n「黄豆粉」1份 「糯米」1份 「红豆」1份 「红枣 」1份 「牡丹花」1份\n调味「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "果子小吃"
+    },
+    "FoodClass": {
+      "ValueInfo": "果子小吃"
+    },
+    "PeiFangs": [
+      {
+        "Description": "柿子捣烂后拌入糖和蜂蜜腌制即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>柿膏儿</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "柿子和蜂蜜制成的糊糊。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30 「涵养」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「涵养」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「果子小吃」\n「柿子」1份 「蜂蜜」1份\n调味「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "果子小吃"
+    },
+    "FoodClass": {
+      "ValueInfo": "果子小吃"
+    },
+    "PeiFangs": [
+      {
+        "Description": "樱桃去核后煮烂，加入蜂蜜和糖拌匀后放入模具中，晾凉即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>樱桃煎</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "酸甜可口的樱桃小吃。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+30 「悟性」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+30"
+        },
+        {
+          "Description": "「悟性」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「果子小吃」\n「樱桃」1份 「蜂蜜」1份\n调味「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "果子小吃"
+    },
+    "FoodClass": {
+      "ValueInfo": "果子小吃"
+    },
+    "PeiFangs": [
+      {
+        "Description": "紫苏、陈皮、甘草各1份，煮烂后拌入蜂蜜和糖后放入模具中，晾凉即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>紫苏膏</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "具有一定止咳功效的小吃，用料讲究。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「魅力」+20 「涵养」+20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「魅力」+20"
+        },
+        {
+          "Description": "「涵养」+20"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「果子小吃」\n「紫苏」1份 「陈皮」1份 「甘草」1份 「蜂蜜」1份\n调味「甜」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "水产菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "水产菜肴"
+    },
+    "PeiFangs": [
+      {}
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>滴酥水晶脍</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "集鱼鳞、鱼骨、鱼肉为一体的透明水晶冻，很适合下酒。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「烹饪」+15 「悟性」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「烹饪」+15"
+        },
+        {
+          "Description": "「悟性」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「水产菜肴」\n「鲤鱼」2份\n调味「咸」「辣」「酸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "肉禽菜肴"
+    },
+    "PeiFangs": [
+      {}
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>太白鸭</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "据传是李白改良的一道汤羹料理，深受前朝皇帝喜爱，因此流传至今。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+40 「福缘」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+40"
+        },
+        {
+          "Description": "「福缘」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「肉禽菜肴」\n「鸭肉」1份 「山药」1份 「高汤」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "水产菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "水产菜肴"
+    },
+    "PeiFangs": [
+      {}
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>貂蝉豆腐</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "具有美容养颜效果的豆腐料理。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「心态」+40 「魅力」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「心态」+40"
+        },
+        {
+          "Description": "「魅力」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「水产菜肴」\n「泥鳅」1份 「豆腐」2份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "汤羹菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "汤羹菜肴"
+    },
+    "PeiFangs": [
+      {}
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>佛跳墙</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "有福州第一菜的美名，用料极其讲究，做法也十分复杂。鲜香可口，浓郁荤香。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「神来」+20 「决断」+20 「体魄」+20"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「神来」+20"
+        },
+        {
+          "Description": "「决断」+20"
+        },
+        {
+          "Description": "「体魄」+20"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「汤羹菜肴」\n「高汤」1份 「菇」1份 「鱼干」1份 「海腊」1份 「虾腊」1份\n调味「咸」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "面食菜肴"
+    },
+    "FoodClass": {
+      "ValueInfo": "面食菜肴"
+    },
+    "PeiFangs": [
+      {
+        "Description": "面粉加水擀成面皮，取羊羔肉2份，拌入姜丝，用盐调味，蒸熟即可食用。"
+      }
+    ],
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>牛肉面</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "羊肉馅的小笼包。"
+    },
+    "ItemTeSes": {
+      "Values": [
+        {
+          "Name": {
+            "Value": "「集中」+15 「体魄」+15"
+          },
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        },
+        {
+          "TeSeLeiXing": {
+            "ValueInfo": "部位恢复"
+          },
+          "ExecuteTime": {
+            "ValueInfo": "每阶段"
+          },
+          "ValueOperator": {
+            "ValueInfo": "加值"
+          },
+          "JieDuan": {
+            "ValueInfo": "阶段"
+          }
+        }
+      ]
+    },
+    "StateDescription": {
+      "Pos": [
+        {
+          "Description": "「集中」+15"
+        },
+        {
+          "Description": "「体魄」+15"
+        }
+      ]
+    },
+    "Inspiration": {
+      "ValueInfo": "「面食菜肴」\n「高汤」1份 「牛肉」1份 「面粉」1份 「萝卜」1份\n调味「咸」「辣」"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>猪肉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "常见的肉类食材，肉质结实，骨细筋少。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>羊肉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "常见的肉类食材，膻味较浓。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>牛肉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "常见的肉类食材，肉质紧实有嚼劲。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>羔羊肉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "出生未满一年的小羊身上的肉，肉质较嫩。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>鸡肉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "常见的肉类食材，肉质细腻。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>鸭肉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "常见的肉类食材，皮厚油脂多。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>鹅肉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "常见的肉类食材，鲜嫩柔软。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>野猪肉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "奔跑在山间树林中的野猪，个头也比普通家猪大一些。肉的味道更香，是上好的肉类食材。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>野鸡肉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "不同于圈养的普通鸡，野鸡因为活动范围广，肉质紧实，营养价值要高于普通鸡肉。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>野鸭肉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "出没在河边的野鸭，数量相对稀少，肉质紧实，油脂含量较普通鸭相比低一些。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>黄牛肉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "跟普通的牛肉相比，颜色较暗。肌肉纤维较粗、具有较高的营养价值。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>驴肉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "营养价值远高于普通的猪肉或牛肉，口感丰富、油脂含量少。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>鹿肉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "肉质细嫩，补脾益气。并不是常见的肉类食材。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>獐肉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "獐肉性温热，具有药用价值。并不是常见的肉类食材。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>马肉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "因肉质较柴，且充满草味，所以一般来说，除了战时无人食用。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>野兔肉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "山间野兔身上的肉，质地细嫩，味道鲜美。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>田鸡肉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "活动在鱼塘水田间的虎纹蛙，因肉质类似鸡肉所以被称为田鸡。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>蛇肉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "肉质干柴，但据说有很高的食疗功效所以价格不菲。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>鸡蛋</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "鸡的卵，营养价值高。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>肥肠</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "猪大肠，食用之前最好多洗几遍。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>腰子</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "猪的肾，能补肾气。因有一定的药用价值，所以价格略贵。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>鸭蛋</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "鸭的卵，一般都会煮熟腌制。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>鲤鱼</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一种较为常见的河鱼，北方食用较多。肉质瓷实有嚼劲。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>草鱼</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一种较为常见的河鱼，鱼刺比较多，虽然味道鲜美，可食用起来有些麻烦。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>鲫鱼</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一种较为常见的河鱼，肉质细嫩，味道鲜美，适合红烧或煲汤。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>鲢鱼</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一种较为常见的河鱼，体型较为庞大，肉质鲜嫩，营养丰富。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>黄花鱼</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一种名贵的海鱼，肉嫩味鲜，是南北民众都喜爱的一种鱼类，价格比一般河鱼要贵一些。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>海鱼</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一种较为常见的鱼，湖泊和海里都能捕捉到。肉质实呈蒜瓣状，洁白肥嫩，刺少无腥味。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>螃蟹</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "长着两个强壮螯的海生生物，肉质鲜美，但性寒，不宜过多食用。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>青虾</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一种纯淡水虾，体色呈青蓝色，带有棕绿色的斑纹。肉质弹芽爽口。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>明虾</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一种海水虾，肉质肥厚，味道鲜美。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>草虾</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一种淡水虾，虾壳呈暗绿色、上面有深棕和浅黄色相间排列的斑纹。口感爽脆鲜甜。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>蛎</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "生活在浅海泥沙中的贝类，肉质鲜美，味道甘甜。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>螺</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "肉质紧实、富有嚼劲。爆炒或煲汤都是不错的选择。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>蛤蜊</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "肉质无比鲜美，号称“天下第一鲜”。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>甲鱼</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "营养价值极高的一种食材，富含胶质、也有药用价值。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>虾米</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "小虾煮熟后晒干制成，营养丰富，味道极其鲜美，是提味的必备品。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>青菜</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "叶片呈椭圆形，叶柄肥厚，形状可人，味甜爽脆。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>白菜</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "因体型庞大，耐储存，因而称为北方过冬的必备食材。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>韭菜</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "韭菜生长速度惊人，其花叶嫩时可被食用。因味道辛辣浓郁，被道教和佛教素食信徒列入不可食用的范畴。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>芹菜</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "含有大量植物纤维的蔬菜，因叶子有苦味，所以一般需要摘除。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>生菜</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "可生食，脆嫩爽口，略带甜味。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>菠菜</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "富含铁元素，营养价值很高，但处理不当食用时会口感生涩，对烹饪手法有一定的要求。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>莴苣</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "嫩叶和茎均可食用，富含维生素，口感爽脆，有股淡淡的清香。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>茄子</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "多为紫色或绿色，形状各异，营养价值丰富，烹饪方法多样。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>茭白</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "南方常见的水生蔬菜，其茎粗大肥嫩，口感脆嫩。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>牛蒡</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "富含膳食纤维，口感爽脆，味道清香。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>百合</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "清脆爽口，有类似梨子的甘甜，具有一定的美容效果。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>冬瓜</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "体型硕大，甘甜清爽，营养丰富，是褒汤的好选择。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>芋头</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "细腻绵软，可做主食。因含有草酸钙，切勿生食，会引起过敏反应。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>萝卜</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "常见的蔬菜之一，品种各异，生食爽脆甜辣，熟食口感绵软，甜味十足。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>葫芦</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "常见于北方的一种食材，瓠瓜幼果味清淡，品质柔嫩，适于煮食。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>山药</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "块茎富含淀粉，具有一定的药用价值。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>芥菜</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "入口嫩脆味美，辛辣爽口。一般用于制作腌菜。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>马兰</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "常见于乡间田野的一种草本植物，一般在清明时节人们会采集食用。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>香菜</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "本身具有极其浓郁的奇特香气，有些人唯恐避之而不及。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>芝麻</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "富含丰富的油脂，一般多见于烧饼的饼皮，以增添香气。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>大葱</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一种常用的调味香料。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>豆角</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "常见的豆类，生食有一定的毒性。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>豆芽</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "富含纤维，一般与肉菜一起烹饪。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>笋</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "竹子长出的嫩芽，味鲜美，口感肥嫩。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>菇</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "极其鲜美的菌类，有些种类具有一定的毒性。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>豆腐</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "以黄豆为主要原料的块状豆制品。是一种口感滑嫩的食物，深受广大民众的喜爱。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>高汤</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用作烹调的清汤，一般是用各种肉类熬制而成。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>野味腊</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用野生动物制成的腊肉。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>海腊</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用海产品制作的腊肉。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>肉腊</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "选用猪后腿肉制作的腊肉。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>鱼干</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "各种鱼类洗净后晒干的鱼干，气味浓郁，一般用于腌菜的制作。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>虾腊</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用各种虾类制作的腊味。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>面粉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "用小麦磨成的粉，是常见的食品原料之一。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>大米</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "又称稻米，是最常见的主食类型之一。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>红薯粉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "红薯洗净切块捣碎后，过滤汁液，晒干后即可获得。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>糯米</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "是酿酒的重要原料，也可用来做甜点。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>梨</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "口感爽脆，汁水丰盈，具有止咳的功效。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>石榴</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "从西域传来的水果，味道酸甜，营养价值丰富。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>山楂</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "具有开胃健脾功效的山楂味道极酸，一般会在裹上一层糖稀食用，是妇孺老少皆宜的小食。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>枇杷</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "因果实酷似乐器琵琶而得名，酸甜可口，枇杷叶也具有一定的药用价值。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>樱桃</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "因黄莺鸟喜食这种果实，因此被称为“樱桃”。酸甜可口，在五月中下旬上市。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>葡萄</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "葡萄种类繁多，味道各不相同。一般在八月下旬陆续上市，也是一种制作果酒的重要材料。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>苹果</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一种常见的水果，富含矿物质和维生素，酸甜脆爽。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>无花果</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "新鲜的无花果酸甜绵软，不过不易保存，一般都会制成果干食用。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>桃子</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "种类繁多，软硬程度也不同。不过桃子皮上的绒毛容易引起过敏，食用前一定要清洗干净。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>柑橘</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "颜色鲜艳，酸甜可口。皮可入药，纤维含量多。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>枣</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "新鲜的枣是脆甜的，不过晒干了之后甜味会加倍，也有一种特殊的香气。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>荔枝</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "前朝贵妃最爱的水果之一，形状小巧，甜度喜人。有些品种会散发桂花的香气。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>杏</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "杏花的果实，口感酸甜，其果仁也可食用，具有一定的药用价值。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>梅子</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "新鲜的梅子往往味道酸涩，一般都会用糖腌渍做成果脯食用。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>乌梅</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "新鲜的乌梅味道酸甜，有健胃消食的功效。也可熬制成乌梅膏食用。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>甘蔗</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "糖的制作原料之一，汁水多，味道甜。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>芭蕉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "味道虽甜，但回味带酸。有一股浓郁的热带水果香气。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>龙眼</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "个头小巧，晶莹洁白。晒干后亦可入药。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>醪糟</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "又称作酒酿。是由糯米或者大米经过发酵而制成的一种风味食品。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>桂花</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "桂花本身就带着一股浓郁的甜香。一般会用蜂蜜腌制，常在小吃甜点里见到桂花的身影。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>米酒</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一般是用糯米发酵而成的酒，刚发好的米酒有一点点甜味，时间越久，甜味越淡，酒香味越明显。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>杏仁</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "杏子的果仁，味苦，生食有毒。具有很高的药用价值。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>花生</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "常见的坚果之一，生食有一股奇特的香气，略带甜味。一般会炒制，当作下酒的小菜。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>玫瑰</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "食用玫瑰常见于云南地区，香气浓郁，也无苦涩味，是制作点心馅料的好材料。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>马蹄</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "南方亦称荸荠。是一种水生植物。口感脆爽，清甜多汁，可生食，亦可煮熟制成马蹄糕。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>姜</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "味辛辣，有刺激性香味，一般用于去腥增香。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>小葱</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一种很普遍的香料调味品。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>紫苏</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "具有强烈的香气，有一定的药用价值。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>黄鳝</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一种淡水生物，肉质细嫩。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>苋菜</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "常见于南方的一种蔬菜。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>栗子</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "味甘甜，营养价值高。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>茼蒿</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "拥有独特香气的蔬菜。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>牡丹花</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "百花之王，雍容华贵。除了有很高的观赏价值外，人们也喜欢用它入菜。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>莴笋</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一种常见的蔬菜，根茎可使用。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>豆豉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一种用黄豆或黑豆泡透蒸熟，发酵制成的食品。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>红枣</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "性味甘平，可補益脾胃。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>红豆</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "具有很高的药用价值。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>蜂蜜</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "蜜蜂采集的花蜜，常用于果子制作。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>柿子</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "成熟后可以直接食用，味道甘甜，但不宜多食。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>陈皮</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "干燥成熟的柑橘果皮，具有一定的药用价值。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>甘草</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一种中药材，因味甘，会用于制作果子小吃。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#23FF00FF>鲈鱼</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#23FF00FF>虎等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一种淡水鱼，肉质洁白肥嫩，细刺少、无腥味，味极鲜美。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>绿豆</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一种常见的豆类。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FFFFFFFF>黄豆粉</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FFFFFFFF>狼等</color>"
+    },
+    "ItemDescription": {
+      "Value": "黄豆制成的粉，常用来制作小吃。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "食材"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF00B6FF>泥鳅</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF00B6FF>凤等</color>"
+    },
+    "ItemDescription": {
+      "Value": "一种难以捕捉的鱼类。"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>碧落剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>净镜剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>青霜剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>奇珍异味</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>三垢剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>泰阿剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>奇珍异味</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>苍龙剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>苍冥剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>地图</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>混元剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>火石</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>琉璃挂坠</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>琉璃手镯</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>木神剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>平安符</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>千里江山图</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>神武剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>石绿</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>石青</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>太昊剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>糖醋鲤鱼</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>天灯</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>天渊秘法</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>舞狮</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>匣子</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>信函</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>应龙剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>子瞻文集包袱</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>天一剑</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  },
+  {
+    "ItemType": {
+      "ValueInfo": "任务道具"
+    },
+    "Name": {
+      "ValueInfo": "<color=#FF9A00FF>写满契丹文的纸</color>"
+    },
+    "ItemPinZhi": {
+      "ValueInfo": "<color=#FF9A00FF>龙等</color>"
+    },
+    "ItemDescription": {
+      "Value": "任务道具"
+    }
+  }
+]
