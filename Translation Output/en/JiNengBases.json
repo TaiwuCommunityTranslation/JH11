@@ -18072,7 +18072,7 @@
     "Conditions": [
       {
         "LeftValueInfo": "\"Use of Sword\" above 80; \"Perception\" above 80",
-        "RightValueInfo": "Sword use\" above 80; \"Perception\" above 80"
+        "RightValueInfo": "\"Sword Skill\" above 80; \"Perception\" above 80"
       },
       {}
     ],
