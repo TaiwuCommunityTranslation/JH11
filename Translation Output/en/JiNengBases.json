@@ -16174,8 +16174,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Use of Sword\" above 70; \"Gnosis\" above 70",
-        "RightValueInfo": "\"Use of Sword\" above 70; \"Gnosis\" above 70"
+        "LeftValueInfo": "\"Use of Sword\" above 70; \"Perception\" above 70",
+        "RightValueInfo": "\"Use of Sword\" above 70; \"Perception\" above 70"
       },
       {}
     ],
@@ -18071,8 +18071,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Use of Sword\" above 80; \"Gnosis\" above 80",
-        "RightValueInfo": "Sword use\" above 80; \"Gnosis\" above 80"
+        "LeftValueInfo": "\"Use of Sword\" above 80; \"Perception\" above 80",
+        "RightValueInfo": "Sword use\" above 80; \"Perception\" above 80"
       },
       {}
     ],
@@ -32773,8 +32773,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Killing intent\" above 90; \"Gnosis\" above 50",
-        "RightValueInfo": "\"Killing intent\" above 90; \"Gnosis\" above 50"
+        "LeftValueInfo": "\"Killing intent\" above 90; \"Perception\" above 50",
+        "RightValueInfo": "\"Killing intent\" above 90; \"Perception\" above 50"
       },
       {}
     ],
@@ -36863,8 +36863,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Hdn Wpn Skl\" above 65; \"Gnosis\" above 65",
-        "RightValueInfo": "\"Hdn Wpn Skl\" above 65; \"Gnosis\" above 65"
+        "LeftValueInfo": "\"Hdn Wpn Skl\" above 65; \"Perception\" above 65",
+        "RightValueInfo": "\"Hdn Wpn Skl\" above 65; \"Perception\" above 65"
       },
       {}
     ],
@@ -37780,8 +37780,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Gnosis\" above 100; \"Ren Chakra\" above 60",
-        "RightValueInfo": "\"Gnosis\" above 100; \"Ren Chakra\" above 60"
+        "LeftValueInfo": "\"Perception\" above 100; \"Ren Chakra\" above 60",
+        "RightValueInfo": "\"Perception\" above 100; \"Ren Chakra\" above 60"
       },
       {}
     ],
@@ -43457,8 +43457,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Vascular\" above 45; \"Gnosis\" above 55",
-        "RightValueInfo": "\"Vascular\" above 45; \"Gnosis\" above 55"
+        "LeftValueInfo": "\"Vascular\" above 45; \"Perception\" above 55",
+        "RightValueInfo": "\"Vascular\" above 45; \"Perception\" above 55"
       },
       {}
     ],
@@ -44885,8 +44885,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Ren Chakra\" above 70; \"Gnosis\" above 70",
-        "RightValueInfo": "\"Ren Chakra\" above 70; \"Gnosis\" above 70"
+        "LeftValueInfo": "\"Ren Chakra\" above 70; \"Perception\" above 70",
+        "RightValueInfo": "\"Ren Chakra\" above 70; \"Perception\" above 70"
       },
       {}
     ],
@@ -46430,8 +46430,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Vascular\" above 80; \"Gnosis\" above 80",
-        "RightValueInfo": "\"Vascular\" above 80; \"Gnosis\" above 80"
+        "LeftValueInfo": "\"Vascular\" above 80; \"Perception\" above 80",
+        "RightValueInfo": "\"Vascular\" above 80; \"Perception\" above 80"
       },
       {}
     ],
@@ -46922,8 +46922,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Hdn Wpn Skl\" above 65; \"Gnosis\" above 65",
-        "RightValueInfo": "\"Hdn Wpn Skl\" above 65; \"Gnosis\" above 65"
+        "LeftValueInfo": "\"Hdn Wpn Skl\" above 65; \"Perception\" above 65",
+        "RightValueInfo": "\"Hdn Wpn Skl\" above 65; \"Perception\" above 65"
       },
       {}
     ],
@@ -47828,8 +47828,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Knife\" over 75; \"Gnosis\" over 75",
-        "RightValueInfo": "\"Knife\" over 75; \"Gnosis\" over 75"
+        "LeftValueInfo": "\"Knife\" over 75; \"Perception\" over 75",
+        "RightValueInfo": "\"Knife\" over 75; \"Perception\" over 75"
       },
       {}
     ],
@@ -51098,8 +51098,8 @@
     },
     "Conditions": [
       {
-        "LeftValueInfo": "\"Fist and Palm\" above 75; \"Finger Power\" above 75; \"Gnosis\" above 80",
-        "RightValueInfo": "\"Fist and Palm\" above 75; \"Finger Power\" above 75; \"Gnosis\" above 80"
+        "LeftValueInfo": "\"Fist and Palm\" above 75; \"Finger Power\" above 75; \"Perception\" above 80",
+        "RightValueInfo": "\"Fist and Palm\" above 75; \"Finger Power\" above 75; \"Perception\" above 80"
       },
       {},
       {}
