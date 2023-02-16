@@ -7847,6 +7847,22 @@
         "幽鸿宫"
       ]
     },
+    "ZhiYuanZheTa": {
+      "Nan": [
+        "他"
+      ],
+      "Nv": [
+        "她"
+      ]
+    },
+    "BeiZhiYuanZheTa": {
+      "Nan": [
+        "他"
+      ],
+      "Nv": [
+        "她"
+      ]
+    },
     "Thesaurus": [
       {
         "Key": "[CiKu_ChengHu1]",
@@ -9805,7 +9821,9 @@
         "GS_LEVEL": "确定要采用该画面设置？",
         "SelectWindowed": "确定要采用窗口化模式吗？",
         "UnSelectWindowed": "确定要采用全屏模式吗？",
-        "Res": "确定采用{0}的分辨率模式吗？"
+        "Res": "确定采用{0}的分辨率模式吗？",
+        "AutoSaveEnable": "确定打开自动存档功能吗？",
+        "AutoSaveDisable": "确定关闭自动存档功能吗？"
       },
       "Res_Windowed": {
         "Resolution": "{0} × {1}"
