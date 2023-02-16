@@ -3562,10 +3562,10 @@
         "Value": "With at least 2 \"fierce moves"
       },
       "FangZhiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack </color> <color=#E24344FF> Defense </color> +20% to \"Attack Power\"; <color=#FF5344FF> +5% to \"Strike Damage\" </color> "
+        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +20% to \"Attack Power\"; <color=#FF5344FF> +5% to \"Strike Damage\" </color> "
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "\" <color=#E24344FF> Attack </color> <color=#E24344FF> Defense </color> +40% to \"Power of Moves\"; <color=#FF5344FF> \"Injury\" </color> +25% chance"
+        "Value": "\" <color=#E24344FF> Attack </color> <color=#5C9BE2FF> Defense </color> +40% to \"Power of Moves\"; <color=#FF5344FF> \"Injury\" </color> +25% chance"
       },
       "FangZhiWeiQiHeIndiWarn": {
         "Value": "Attention:"
@@ -6603,7 +6603,7 @@
         "Value": "Ancient microscopic lotus, spirit snake cave out"
       },
       "FangZhiGuiDingInfo": {
-        "Value": "Matching \"Lightning\" <color=#FFFFFFFF> \"Shadow Moon Kung Fu\" </color> Stance \"Spiritual Flower Searching for Moon\""
+        "Value": "Matching \"Lightning\" <color=#23FF00FF> \"Shadow Moon Kung Fu\" </color> Stance \"Spiritual Flower Searching for Moon\""
       },
       "FangZhiQiHeIndi": {
         "Value": "+15% to \"Combo Power\"; +15 to \"Gods Come\""
