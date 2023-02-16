@@ -7847,6 +7847,22 @@
         "Youhong Palace"
       ]
     },
+    "ZhiYuanZheTa": {
+      "Nan": [
+        "He"
+      ],
+      "Nv": [
+        "She"
+      ]
+    },
+    "BeiZhiYuanZheTa": {
+      "Nan": [
+        "He"
+      ],
+      "Nv": [
+        "She"
+      ]
+    },
     "Thesaurus": [
       {
         "Key": "[CiKu_ChengHu1]",
@@ -9805,7 +9821,9 @@
         "GS_LEVEL": "Sure you want to use this screen setting?",
         "SelectWindowed": "Sure you want to use windowed mode?",
         "UnSelectWindowed": "Sure you want to use full screen mode?",
-        "Res": "Sure to use the resolution mode of {0}?"
+        "Res": "Sure to use the resolution mode of {0}?",
+        "AutoSaveEnable": "Are you sure to turn on the auto-archive feature?",
+        "AutoSaveDisable": "Sure to turn off the auto-archive feature?"
       },
       "Res_Windowed": {
         "Resolution": "{0} × {1}"
