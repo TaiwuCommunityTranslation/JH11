@@ -22,16 +22,6 @@
       "Value": [
         "Chengdu"
       ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            30000,
-            30000
-          ]
-        }
-      ]
     }
   },
   {
@@ -56,16 +46,6 @@
     "DaoDaPlace": {
       "Value": [
         "Wenzhou merchants"
-      ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            20000,
-            20000
-          ]
-        }
       ]
     }
   },
@@ -92,16 +72,6 @@
       "Value": [
         "Bianliang"
       ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            40000,
-            40000
-          ]
-        }
-      ]
     }
   },
   {
@@ -126,16 +96,6 @@
     "DaoDaPlace": {
       "Value": [
         "Fuzhou"
-      ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            50000,
-            50000
-          ]
-        }
       ]
     }
   },
@@ -162,16 +122,6 @@
       "Value": [
         "Tianlong Merchant"
       ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            120000,
-            120000
-          ]
-        }
-      ]
     }
   },
   {
@@ -196,16 +146,6 @@
     "DaoDaPlace": {
       "Value": [
         "Tokyo Merchants"
-      ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            150000,
-            150000
-          ]
-        }
       ]
     }
   },
@@ -232,16 +172,6 @@
       "Value": [
         "Hangzhou"
       ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            120000,
-            120000
-          ]
-        }
-      ]
     }
   },
   {
@@ -266,16 +196,6 @@
     "DaoDaPlace": {
       "Value": [
         "Bianliang"
-      ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            100000,
-            100000
-          ]
-        }
       ]
     }
   },
@@ -302,16 +222,6 @@
       "Value": [
         "Guangzhou"
       ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            600000,
-            600000
-          ]
-        }
-      ]
     }
   },
   {
@@ -336,16 +246,6 @@
     "DaoDaPlace": {
       "Value": [
         "Chengdu"
-      ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            5000,
-            5000
-          ]
-        }
       ]
     }
   },
@@ -372,16 +272,6 @@
       "Value": [
         "Tokyo Merchants"
       ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            15000,
-            15000
-          ]
-        }
-      ]
     }
   },
   {
@@ -406,16 +296,6 @@
     "DaoDaPlace": {
       "Value": [
         "Hangzhou"
-      ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            10000,
-            10000
-          ]
-        }
       ]
     }
   },
@@ -442,16 +322,6 @@
       "Value": [
         "Hangzhou"
       ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            10000,
-            10000
-          ]
-        }
-      ]
     }
   },
   {
@@ -476,16 +346,6 @@
     "DaoDaPlace": {
       "Value": [
         "Bianliang"
-      ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            60000,
-            60000
-          ]
-        }
       ]
     }
   },
@@ -512,16 +372,6 @@
       "Value": [
         "Henan Province"
       ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            80000,
-            80000
-          ]
-        }
-      ]
     }
   },
   {
@@ -546,16 +396,6 @@
     "DaoDaPlace": {
       "Value": [
         "Bianliang"
-      ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            35000,
-            35000
-          ]
-        }
       ]
     }
   },
@@ -582,16 +422,6 @@
       "Value": [
         "Zhendingfu"
       ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            29000,
-            29000
-          ]
-        }
-      ]
     }
   },
   {
@@ -616,16 +446,6 @@
     "DaoDaPlace": {
       "Value": [
         "Guangzhou"
-      ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            280000,
-            280000
-          ]
-        }
       ]
     }
   },
@@ -652,16 +472,6 @@
       "Value": [
         "Bianliang"
       ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            260000,
-            260000
-          ]
-        }
-      ]
     }
   },
   {
@@ -686,16 +496,6 @@
     "DaoDaPlace": {
       "Value": [
         "Longan merchants"
-      ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            150000,
-            150000
-          ]
-        }
       ]
     }
   },
@@ -722,16 +522,6 @@
       "Value": [
         "Bianliang"
       ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            80000,
-            80000
-          ]
-        }
-      ]
     }
   },
   {
@@ -757,16 +547,6 @@
       "Value": [
         "Bianliang"
       ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            120000,
-            120000
-          ]
-        }
-      ]
     }
   },
   {
@@ -783,7 +563,7 @@
       "ValueInfo": "Tokyo Merchants"
     },
     "Type": {
-      "ValueInfo": "Crafts"
+      "ValueInfo": "Craft"
     },
     "ChuFaPlace": {
       "Value": "Bianliang"
@@ -791,16 +571,6 @@
     "DaoDaPlace": {
       "Value": [
         "Guangzhou"
-      ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            150000,
-            150000
-          ]
-        }
       ]
     }
   },
@@ -826,16 +596,6 @@
     "DaoDaPlace": {
       "Value": [
         "Hangzhou"
-      ]
-    },
-    "PriceData": {
-      "Init": [
-        {
-          "PastPrices": [
-            80000,
-            80000
-          ]
-        }
       ]
     }
   }
