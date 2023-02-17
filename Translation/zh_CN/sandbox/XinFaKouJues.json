@@ -3562,10 +3562,10 @@
         "Value": "搭配至少2个「凶招式」"
       },
       "FangZhiQiHeIndi": {
-        "Value": "「<color=#E24344FF>攻</color><color=#E24344FF>防</color>招式威力」+20%；<color=#FF5344FF>「击伤」</color>几率+5%"
+        "Value": "「<color=#E24344FF>攻</color><color=#5C9BE2FF>防</color>招式威力」+20%；<color=#FF5344FF>「击伤」</color>几率+5%"
       },
       "FangZhiWeiQiHeIndi": {
-        "Value": "「<color=#E24344FF>攻</color><color=#E24344FF>防</color>招式威力」+40%；<color=#FF5344FF>「受伤」</color>几率+25%"
+        "Value": "「<color=#E24344FF>攻</color><color=#5C9BE2FF>防</color>招式威力」+40%；<color=#FF5344FF>「受伤」</color>几率+25%"
       },
       "FangZhiWeiQiHeIndiWarn": {
         "Value": "注意:"
@@ -6603,7 +6603,7 @@
         "Value": "古微生莲，灵蛇洞出"
       },
       "FangZhiGuiDingInfo": {
-        "Value": "搭配「轻功」<color=#FFFFFFFF>「影月功」</color>招式「灵花觅月」"
+        "Value": "搭配「轻功」<color=#23FF00FF>「影月功」</color>招式「灵花觅月」"
       },
       "FangZhiQiHeIndi": {
         "Value": "「连招威力」+15%；「神来」+15"
